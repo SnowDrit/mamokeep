@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_preview">Podgląd tekstu</string>
+    <string name="export_preview_title">Tekst do rozmowy</string>
+    <string name="export_back">Wstecz</string>
+    <string name="export_preparing">Przygotowywanie tekstu…</string>
+    <string name="export_prepare_failed">Nie udało się przygotować tekstu. Spróbuj ponownie.</string>
+    <string name="export_copy_failed">Nie udało się skopiować tekstu. Spróbuj ponownie lub zapisz go w pliku.</string>
+    <string name="export_choosing_file">Wybieranie miejsca zapisu pliku…</string>
+    <string name="export_writing_file">Zapisywanie pliku…</string>
+    <string name="export_preview_lost">Tekst nie został zachowany po ponownym uruchomieniu aplikacji. Przed zapisem należy ponownie otworzyć podgląd.</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">화면에서 배우기</string>
+    <string name="help_lessons_hint">주제를 선택하면 관련 조작 방법을 확인할 수 있습니다. 변경 사항을 저장하거나 데이터를 보내지 않습니다.</string>
+    <string name="help_lesson_start">단계별 안내</string>
+    <string name="help_lesson_close">안내 끝내기</string>
+    <string name="help_lesson_reminders_title">유연한 알림</string>
+    <string name="help_lesson_export_title">AI용 내보내기</string>
+    <string name="help_lesson_regional_title">언어, 국가 및 통화</string>
+    <string name="help_lesson_steps">%1$d단계</string>
+    <string name="help_lesson_reminder_time_title">편리한 시간</string>
+    <string name="help_lesson_reminder_time_summary">여기에서 알림을 받을 현지 시간을 선택합니다. Android가 알림을 늦게 전달할 수 있습니다. 안내 중에는 일정이 바뀌지 않습니다.</string>
+    <string name="help_lesson_reminder_days_title">선택한 요일에만 알림</string>
+    <string name="help_lesson_reminder_days_summary">미리 정해진 묶음이나 개별 요일을 선택할 수 있습니다. 이 일정은 반복 알림에도 적용됩니다. 요일을 하나 이상 선택해야 합니다.</string>
+    <string name="help_lesson_reminder_advanced_title">고급 규칙</string>
+    <string name="help_lesson_reminder_advanced_summary">설명을 위해 이 항목을 펼쳤습니다. 스위치 상태는 그대로입니다. 기준값과 반복 설정은 활성화하고 저장한 뒤에만 적용됩니다.</string>
+    <string name="help_lesson_reminder_thresholds_title">미리 알림</string>
+    <string name="help_lesson_reminder_thresholds_summary">노란 단계에 도달하기 얼마 전부터 알릴지 거리와 일수로 설정합니다. 아래에는 빨간 단계용 항목도 있습니다. 0은 해당 단계에 도달했을 때 알림을 뜻합니다. 카드 색상은 바뀌지 않습니다.</string>
+    <string name="help_lesson_reminder_repeats_title">반복 간격과 횟수 제한</string>
+    <string name="help_lesson_reminder_repeats_summary">간격은 일 단위이며, 알림 횟수는 같은 단계의 반복을 제한합니다. 횟수가 0이면 제한이 없습니다. 빨간 단계는 별도로 설정합니다.</string>
+    <string name="help_lesson_reminder_save_title">준비되면 적용</string>
+    <string name="help_lesson_reminder_save_summary">안내는 아무것도 저장하지 않았습니다. 종료 후 항목을 수정하고 저장을 누를 수 있습니다. 개별 정비 항목이나 문서는 해당 편집 화면에서 별도 일정을 설정할 수 있습니다.</string>
+    <string name="help_lesson_export_content_title">포함할 내용 선택</string>
+    <string name="help_lesson_export_content_summary">일반적인 질문에는 요약이 적합합니다. 전체 이력에는 정비 및 주유 기록이 추가됩니다. 안내는 현재 선택을 바꾸지 않습니다.</string>
+    <string name="help_lesson_export_question_title">직접 질문 추가</string>
+    <string name="help_lesson_export_question_summary">질문은 차량 데이터와 함께 글의 맨 앞에 들어갑니다. 비워 두어도 됩니다. 안내 중에는 입력할 필요가 없습니다.</string>
+    <string name="help_lesson_export_privacy_title">개인정보 확인</string>
+    <string name="help_lesson_export_privacy_summary">이 스위치는 VIN과 차량 이름을 숨깁니다. 자유롭게 작성한 메모에는 개인정보가 남을 수 있으므로 공유 전에 내용을 확인해야 합니다.</string>
+    <string name="help_lesson_export_build_title">미리보기 열기</string>
+    <string name="help_lesson_export_build_summary">다음을 누르면 현재 옵션에 따라 이 기기에서만 텍스트를 준비합니다. 차량 기록은 바뀌지 않으며 데이터도 전송되지 않습니다.</string>
+    <string name="help_lesson_export_review_title">공유 전에 읽기</string>
+    <string name="help_lesson_export_review_summary">여기에 표시된 내용이 그대로 복사되거나 저장됩니다. 안내가 끝난 뒤 스크롤하여 확인할 수 있습니다. 뒤로 화살표를 누르면 내용 선택과 질문으로 돌아갑니다.</string>
+    <string name="help_lesson_export_send_title">준비되면 공유</string>
+    <string name="help_lesson_export_send_summary">안내가 끝나면 텍스트 복사, 다른 앱으로 공유, 파일 저장을 할 수 있습니다. 큰 내보내기는 파일을 사용합니다. 안내는 이 버튼들을 누르지 않습니다.</string>
+    <string name="help_lesson_regional_language_title">언어는 별도로 선택</string>
+    <string name="help_lesson_regional_language_summary">Android 13 이상에서는 여기에서 앱 언어를 선택합니다. 이전 버전은 휴대전화 언어를 사용합니다. 국가, 단위, 통화는 바뀌지 않습니다.</string>
+    <string name="help_lesson_regional_country_title">문서에 사용할 국가</string>
+    <string name="help_lesson_regional_country_summary">국가는 사용할 수 있는 문서와 자동 모드의 통화를 결정합니다. 기존 기록은 유지됩니다. 문서는 별도 버튼을 눌러야 추가됩니다.</string>
+    <string name="help_lesson_regional_units_title">편리한 단위</string>
+    <string name="help_lesson_regional_units_summary">단위는 거리, 연료, 연비의 표시와 입력에 영향을 줍니다. 저장된 주행거리와 정비 주기는 초기화되지 않습니다. 국가와 관계없이 선택할 수 있습니다.</string>
+    <string name="help_lesson_regional_currency_title">통화 모드 확인</string>
+    <string name="help_lesson_regional_currency_summary">이 행은 현재 통화와 선택 방식을 보여 줍니다. 다음을 누르면 설정을 바꾸지 않고 자동 및 수동 선택 방식을 확인할 수 있는 목록이 열립니다.</string>
+    <string name="help_lesson_currency_auto_title">국가에 따라 자동 선택</string>
+    <string name="help_lesson_currency_auto_summary">이 항목은 선택한 국가의 통화를 사용하며 국가를 바꾸면 함께 변경됩니다. 국가가 미설정이면 먼저 선택해야 합니다. 안내는 이 항목을 선택하지 않습니다.</string>
+    <string name="help_lesson_currency_manual_title">통화 직접 선택</string>
+    <string name="help_lesson_currency_manual_summary">통화 코드나 이름으로 검색할 수 있습니다. 직접 선택한 통화는 국가를 바꿔도 유지됩니다. 기존 기록의 금액은 환율에 따라 변환되지 않습니다. 안내가 끝난 뒤 행을 누르면 선택이 적용됩니다.</string>
+</resources>

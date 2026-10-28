@@ -1,0 +1,135 @@
+[
+  {
+    "id": "reminders",
+    "title": "help_lesson_reminders_title",
+    "steps": [
+      {
+        "target": "reminder_time",
+        "surface": "REMINDERS",
+        "title": "help_lesson_reminder_time_title",
+        "summary": "help_lesson_reminder_time_summary"
+      },
+      {
+        "target": "reminder_days",
+        "surface": "REMINDERS",
+        "title": "help_lesson_reminder_days_title",
+        "summary": "help_lesson_reminder_days_summary"
+      },
+      {
+        "target": "reminder_advanced",
+        "surface": "REMINDERS",
+        "title": "help_lesson_reminder_advanced_title",
+        "summary": "help_lesson_reminder_advanced_summary",
+        "reveal": "advanced"
+      },
+      {
+        "target": "reminder_thresholds",
+        "surface": "REMINDERS",
+        "title": "help_lesson_reminder_thresholds_title",
+        "summary": "help_lesson_reminder_thresholds_summary",
+        "reveal": "advanced"
+      },
+      {
+        "target": "reminder_repeats",
+        "surface": "REMINDERS",
+        "title": "help_lesson_reminder_repeats_title",
+        "summary": "help_lesson_reminder_repeats_summary",
+        "reveal": "advanced"
+      },
+      {
+        "target": "reminder_save",
+        "surface": "REMINDERS",
+        "title": "help_lesson_reminder_save_title",
+        "summary": "help_lesson_reminder_save_summary"
+      }
+    ]
+  },
+  {
+    "id": "export",
+    "title": "help_lesson_export_title",
+    "steps": [
+      {
+        "target": "export_content",
+        "surface": "EXPORT_SETUP",
+        "title": "help_lesson_export_content_title",
+        "summary": "help_lesson_export_content_summary"
+      },
+      {
+        "target": "export_question",
+        "surface": "EXPORT_SETUP",
+        "title": "help_lesson_export_question_title",
+        "summary": "help_lesson_export_question_summary"
+      },
+      {
+        "target": "export_privacy",
+        "surface": "EXPORT_SETUP",
+        "title": "help_lesson_export_privacy_title",
+        "summary": "help_lesson_export_privacy_summary"
+      },
+      {
+        "target": "export_build",
+        "surface": "EXPORT_SETUP",
+        "title": "help_lesson_export_build_title",
+        "summary": "help_lesson_export_build_summary"
+      },
+      {
+        "target": "export_review",
+        "surface": "EXPORT_PREVIEW",
+        "title": "help_lesson_export_review_title",
+        "summary": "help_lesson_export_review_summary"
+      },
+      {
+        "target": "export_send",
+        "surface": "EXPORT_PREVIEW",
+        "title": "help_lesson_export_send_title",
+        "summary": "help_lesson_export_send_summary"
+      }
+    ]
+  },
+  {
+    "id": "regional",
+    "title": "help_lesson_regional_title",
+    "steps": [
+      {
+        "target": "regional_language",
+        "surface": "REGIONAL",
+        "title": "help_lesson_regional_language_title",
+        "summary": "help_lesson_regional_language_summary",
+        "reveal": "appearance"
+      },
+      {
+        "target": "regional_country",
+        "surface": "REGIONAL",
+        "title": "help_lesson_regional_country_title",
+        "summary": "help_lesson_regional_country_summary",
+        "reveal": "country"
+      },
+      {
+        "target": "regional_units",
+        "surface": "REGIONAL",
+        "title": "help_lesson_regional_units_title",
+        "summary": "help_lesson_regional_units_summary",
+        "reveal": "units"
+      },
+      {
+        "target": "regional_currency",
+        "surface": "REGIONAL",
+        "title": "help_lesson_regional_currency_title",
+        "summary": "help_lesson_regional_currency_summary",
+        "reveal": "currency"
+      },
+      {
+        "target": "currency_auto",
+        "surface": "CURRENCY",
+        "title": "help_lesson_currency_auto_title",
+        "summary": "help_lesson_currency_auto_summary"
+      },
+      {
+        "target": "currency_manual",
+        "surface": "CURRENCY",
+        "title": "help_lesson_currency_manual_title",
+        "summary": "help_lesson_currency_manual_summary"
+      }
+    ]
+  }
+]

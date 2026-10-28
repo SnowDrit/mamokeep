@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Comprobando el estado de la copia…</string>
+    <string name="backup_status_waiting">Todavía no se ha creado ninguna copia programada. A la espera de la próxima ejecución.</string>
+    <string name="backup_status_failed">La última copia ha fallado. Comprueba el acceso a la carpeta o selecciónala de nuevo.</string>
+    <string name="backup_status_last_success">Última copia correcta: %1$s</string>
+</resources>

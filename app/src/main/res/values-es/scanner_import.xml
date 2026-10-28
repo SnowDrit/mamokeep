@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">Elige una imagen, un PDF o un archivo de texto UTF-8.</string>
+    <string name="scanner_import_multiple">Comparte un solo recibo a la vez.</string>
+    <string name="scanner_import_too_large">El archivo es demasiado grande. El límite es de 25 MB y 100 000 caracteres de texto.</string>
+    <string name="scanner_import_busy">Primero termina o cierra el formulario actual y después vuelve a compartir el recibo.</string>
+    <string name="ocr_import_failed">No se pudo leer el archivo. Elige un archivo accesible, sin daños ni contraseña. Los archivos de texto deben estar en UTF-8.</string>
+    <string name="ocr_import_pdf_pages">Este PDF tiene más de 10 páginas. Elige un documento de 10 páginas como máximo.</string>
+    <string name="ocr_import_intro">Elige un recibo en PDF, imagen o texto, o pega el texto a continuación. El procesamiento se realiza en tu dispositivo.</string>
+    <string name="ocr_early_access_notice">El escáner está en acceso anticipado. Estamos mejorando el reconocimiento de texto. Revisa el texto y los campos antes de guardar.</string>
+    <string name="ocr_import_running">Leyendo recibo…</string>
+    <string name="ocr_choose_file">Elegir archivo</string>
+    <string name="ocr_import_no_car">Para guardar un registro, primero añade un vehículo al garaje.</string>
+    <string name="ocr_pdf_retry">Reconocer todo el PDF</string>
+    <string name="ocr_pdf_retry_hint">Si falta información en el texto extraído, reconoce todas las páginas como imágenes. Para ello se necesita el paquete del escáner.</string>
+</resources>

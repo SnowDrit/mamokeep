@@ -1,0 +1,9 @@
+{
+  "connectTimeoutMillis": 15000,
+  "readTimeoutMillis": 15000,
+  "maxRedirects": 5,
+  "allowedRedirectHosts": ["github.com", "release-assets.githubusercontent.com", "objects.githubusercontent.com"],
+  "bufferBytes": 65536,
+  "progressIntervalMillis": 200,
+  "storageReserveBytes": 4194304
+}

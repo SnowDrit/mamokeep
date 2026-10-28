@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_preview">Просмотреть текст</string>
+    <string name="export_preview_title">Текст для чата</string>
+    <string name="export_back">Назад</string>
+    <string name="export_preparing">Подготовка текста…</string>
+    <string name="export_prepare_failed">Не удалось подготовить текст. Можно повторить попытку.</string>
+    <string name="export_copy_failed">Не удалось скопировать текст. Можно повторить попытку или сохранить файл.</string>
+    <string name="export_choosing_file">Выбор места для файла…</string>
+    <string name="export_writing_file">Сохранение файла…</string>
+    <string name="export_preview_lost">После перезапуска приложения текст не сохранился. Для сохранения нужно снова подготовить текст.</string>
+</resources>

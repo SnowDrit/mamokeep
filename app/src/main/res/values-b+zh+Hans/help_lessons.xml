@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">屏幕操作教学</string>
+    <string name="help_lessons_hint">选择一个主题。教学会介绍相关控件，不保存更改，也不发送任何内容。</string>
+    <string name="help_lesson_start">分步教学</string>
+    <string name="help_lesson_close">结束教学</string>
+    <string name="help_lesson_reminders_title">灵活提醒</string>
+    <string name="help_lesson_export_title">AI 导出</string>
+    <string name="help_lesson_regional_title">语言、国家和货币</string>
+    <string name="help_lesson_steps">%1$d 步</string>
+    <string name="help_lesson_reminder_time_title">合适的提醒时间</string>
+    <string name="help_lesson_reminder_time_summary">在此选择提醒的当地时间。Android 可能会延迟送达。教学期间不会更改时间安排。</string>
+    <string name="help_lesson_reminder_days_title">仅在所选日期提醒</string>
+    <string name="help_lesson_reminder_days_summary">可以选择预设组合或单独选择星期几。此安排也适用于重复提醒。至少需要选择一天。</string>
+    <string name="help_lesson_reminder_advanced_title">高级规则</string>
+    <string name="help_lesson_reminder_advanced_summary">本节已展开以便介绍。开关状态未变：阈值和重复规则只有在启用并保存后才会生效。</string>
+    <string name="help_lesson_reminder_thresholds_title">提前提醒</string>
+    <string name="help_lesson_reminder_thresholds_summary">在此设置到达黄色等级前的距离和天数。下方也有红色等级的对应设置。零表示达到该等级时通知。卡片颜色保持不变。</string>
+    <string name="help_lesson_reminder_repeats_title">重复间隔与次数限制</string>
+    <string name="help_lesson_reminder_repeats_summary">间隔以天为单位，通知次数限制同一等级的重复提醒。次数为零表示不限制。红色等级有单独的设置。</string>
+    <string name="help_lesson_reminder_save_title">准备好后再应用</string>
+    <string name="help_lesson_reminder_save_summary">教学没有保存任何内容。结束后可以修改字段并点击“保存”。单个保养项目或证件可在其编辑页面设置独立的提醒安排。</string>
+    <string name="help_lesson_export_content_title">选择导出内容</string>
+    <string name="help_lesson_export_content_summary">摘要适合一般问题。完整历史会加入保养和加油记录。教学不会更改当前选择。</string>
+    <string name="help_lesson_export_question_title">添加自己的问题</string>
+    <string name="help_lesson_export_question_summary">问题会出现在文本开头，与车辆数据放在一起。该字段可以留空。教学期间无需输入内容。</string>
+    <string name="help_lesson_export_privacy_title">检查个人信息</string>
+    <string name="help_lesson_export_privacy_summary">此开关会隐藏 VIN 和车辆名称。自由填写的备注仍可能包含个人信息，因此分享前需要检查文本。</string>
+    <string name="help_lesson_export_build_title">打开预览</string>
+    <string name="help_lesson_export_build_summary">“下一步”会根据当前选项，仅在此设备上生成文本。车辆记录不会改变，也不会发送任何数据。</string>
+    <string name="help_lesson_export_review_title">分享前先阅读</string>
+    <string name="help_lesson_export_review_summary">这里显示的就是将被复制或保存的文本。教学结束后可以滚动查看并检查。返回箭头可回到内容选项和问题输入页面。</string>
+    <string name="help_lesson_export_send_title">准备好后再分享</string>
+    <string name="help_lesson_export_send_summary">教学结束后，可以复制文本、分享到其他应用或保存为文件。较大的导出内容使用文件。教学不会点击这些按钮。</string>
+    <string name="help_lesson_regional_language_title">语言独立设置</string>
+    <string name="help_lesson_regional_language_summary">Android 13 及以上版本可在此选择应用语言。较早版本使用手机语言。这不会改变国家、单位或货币。</string>
+    <string name="help_lesson_regional_country_title">证件所属国家</string>
+    <string name="help_lesson_regional_country_summary">国家决定可用的证件类型和自动模式下的货币。现有记录会保留。只有使用单独的按钮才会添加证件。</string>
+    <string name="help_lesson_regional_units_title">合适的计量单位</string>
+    <string name="help_lesson_regional_units_summary">单位会影响距离、燃料和能耗的显示与输入。已保存的里程和保养间隔不会重置。此选择与国家无关。</string>
+    <string name="help_lesson_regional_currency_title">检查货币模式</string>
+    <string name="help_lesson_regional_currency_summary">此行显示当前货币及其选择方式。“下一步”会打开列表，展示自动和手动选择方式，不更改设置。</string>
+    <string name="help_lesson_currency_auto_title">按国家自动选择</string>
+    <string name="help_lesson_currency_auto_summary">此选项使用所选国家的货币，并随国家变化而更新。如果尚未设置国家，需要先选择国家。教学不会选择此选项。</string>
+    <string name="help_lesson_currency_manual_title">手动选择货币</string>
+    <string name="help_lesson_currency_manual_summary">可以按货币代码或名称搜索。手动选择会在更改国家后保留。现有记录中的金额不会按汇率换算。教学结束后，点击相应行即可应用选择。</string>
+</resources>

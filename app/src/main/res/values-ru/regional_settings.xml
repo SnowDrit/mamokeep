@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_search">Поиск</string>
+    <string name="settings_search_empty">Ничего не найдено. Попробуйте другое название или код.</string>
+    <string name="settings_language_system_hint">На этой версии Android приложение использует язык телефона.</string>
+    <string name="settings_country_unset">Выберите страну</string>
+    <string name="settings_country_hint">Страна определяет автоматическую валюту и доступные шаблоны документов. Язык и единицы выбираются отдельно.</string>
+    <string name="settings_country_no_documents">Для этой страны пока нет шаблонов документов. Документы можно добавить вручную на экране машины.</string>
+    <string name="settings_currency">Валюта</string>
+    <string name="settings_currency_auto">Автоматически · %1$s</string>
+    <string name="settings_currency_manual">Выбрана вручную · %1$s</string>
+    <string name="settings_currency_by_country">По стране</string>
+    <string name="settings_currency_choose_country">Выберите страну для автоматического определения валюты.</string>
+    <string name="settings_currency_hint">Применяется ко всем машинам. Меняется только обозначение валюты: записанные суммы не пересчитываются.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">При смене страны или языка эти единицы сохраняются. Записанные расстояния и объёмы топлива не меняются.</string>
+</resources>

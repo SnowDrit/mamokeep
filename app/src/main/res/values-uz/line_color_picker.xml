@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="line_color_choose">Rangni tanlash</string>
+    <string name="line_color_theme">Mavzu rangidan foydalanish</string>
+    <string name="line_color_standard">Standart ranglar</string>
+    <string name="line_color_advanced">Kengaytirilgan rejim</string>
+    <string name="line_color_apply">Qoʻllash</string>
+    <string name="line_color_wheel">Rang doirasi</string>
+    <string name="line_color_wheel_hint">Rangni tanlash uchun belgini suring. Pastda yorqinlikni sozlang yoki kod kiriting.</string>
+    <string name="line_color_brightness">Yorqinlik</string>
+    <string name="line_color_hex">HEX</string>
+    <string name="line_color_rgb">RGB (0–255)</string>
+    <string name="line_color_hex_hint">#RGB yoki #RRGGBB</string>
+    <string name="line_color_rgb_hint">Qizil, yashil, koʻk: har biri 0–255</string>
+    <string name="line_color_hex_error">3 yoki 6 ta oʻn oltilik raqam kiriting, boshiga # qoʻyish mumkin.</string>
+    <string name="line_color_rgb_error">Vergul yoki boʻshliq bilan ajratilgan 0–255 oraligʻidagi uchta butun son kiriting.</string>
+    <string name="line_color_preview">Tanlangan rang: %1$s</string>
+    <string name="line_color_black">Qora</string>
+    <string name="line_color_white">Oq</string>
+    <string name="line_color_gray">Kulrang</string>
+    <string name="line_color_red">Qizil</string>
+    <string name="line_color_orange">Toʻq sariq</string>
+    <string name="line_color_yellow">Sariq</string>
+    <string name="line_color_green">Yashil</string>
+    <string name="line_color_teal">Moviy-yashil</string>
+    <string name="line_color_cyan">Havorang</string>
+    <string name="line_color_blue">Koʻk</string>
+    <string name="line_color_purple">Binafsha</string>
+    <string name="line_color_pink">Pushti</string>
+    <string-array name="line_color_palette_names">
+        <item>@string/line_color_black</item>
+        <item>@string/line_color_white</item>
+        <item>@string/line_color_gray</item>
+        <item>@string/line_color_red</item>
+        <item>@string/line_color_orange</item>
+        <item>@string/line_color_yellow</item>
+        <item>@string/line_color_green</item>
+        <item>@string/line_color_teal</item>
+        <item>@string/line_color_cyan</item>
+        <item>@string/line_color_blue</item>
+        <item>@string/line_color_purple</item>
+        <item>@string/line_color_pink</item>
+    </string-array>
+</resources>

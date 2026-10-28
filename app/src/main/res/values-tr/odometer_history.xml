@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Kilometre geçmişi</string>
+    <string name="odometer_history_explain">Yakıt alımlarından ayrı girilen değerler. Düzenlemek veya silmek için bir kayda dokunun.</string>
+    <string name="odometer_history_empty">Henüz ayrı bir kayıt yok.</string>
+    <string name="odometer_history_edit">Kaydı düzenle</string>
+    <string name="odometer_history_delete_confirm">%2$s tarihli %1$s kaydı silinsin mi? Tahmini kilometre ve bakım hatırlatmaları kalan değerlere göre yeniden hesaplanacak.</string>
+    <string name="odometer_history_write_failed">Kayıt değiştirilemedi. Geçmişi yeniden açın, kaydı kontrol edin ve tekrar deneyin.</string>
+    <string name="odometer_history_saving">Kayıtlar güncelleniyor…</string>
+</resources>

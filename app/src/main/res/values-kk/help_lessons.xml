@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Экрандағы сабақтар</string>
+    <string name="help_lessons_hint">Тақырыпты таңдауға болады. Сабақ ештеңені сақтамай не жібермей, қажетті элементтерді көрсетеді.</string>
+    <string name="help_lesson_start">Қадамдық нұсқаулық</string>
+    <string name="help_lesson_close">Аяқтау</string>
+    <string name="help_lesson_reminders_title">Икемді еске салулар</string>
+    <string name="help_lesson_export_title">ЖИ үшін экспорт</string>
+    <string name="help_lesson_regional_title">Тіл, ел және валюта</string>
+    <string name="help_lesson_steps">%1$d қадам</string>
+    <string name="help_lesson_reminder_time_title">Ыңғайлы уақыт</string>
+    <string name="help_lesson_reminder_time_summary">Мұнда еске салудың жергілікті уақыты таңдалады. Android оларды кешірек жеткізуі мүмкін. Сабақ кезінде кесте өзгермейді.</string>
+    <string name="help_lesson_reminder_days_title">Тек таңдалған күндері</string>
+    <string name="help_lesson_reminder_days_summary">Дайын жиынтықты немесе аптаның жеке күндерін таңдауға болады. Бұл кесте қайталауларға да қолданылады. Кемінде бір күн қажет.</string>
+    <string name="help_lesson_reminder_advanced_title">Кеңейтілген ережелер</string>
+    <string name="help_lesson_reminder_advanced_summary">Бөлім танысу үшін ашылды. Қосқыш өзгерген жоқ: шектер мен қайталаулар тек қосып, сақтағаннан кейін күшіне енеді.</string>
+    <string name="help_lesson_reminder_thresholds_title">Алдын ала ескерту</string>
+    <string name="help_lesson_reminder_thresholds_summary">Мұнда сары деңгейге дейінгі қашықтық пен күн қоры беріледі. Төменде қызыл деңгейге арналған дәл сондай өрістер бар. Нөл сол деңгейге жеткенде хабарлауды білдіреді. Карталардың түстері өзгермейді.</string>
+    <string name="help_lesson_reminder_repeats_title">Қайталаулар мен шектеу</string>
+    <string name="help_lesson_reminder_repeats_summary">Аралық күнмен беріледі, хабарландыру саны бір деңгейдегі қайталауларды шектейді. Нөл шектеу жоқ екенін білдіреді. Қызыл деңгейдің баптаулары бөлек.</string>
+    <string name="help_lesson_reminder_save_title">Дайын болғанда қолдану</string>
+    <string name="help_lesson_reminder_save_summary">Сабақ ештеңе сақтаған жоқ. Аяқталған соң өрістерді өзгертіп, «Сақтау» түймесін басуға болады. Жеке қызмет тармағына не құжатқа өз кестесі оның редакторында беріледі.</string>
+    <string name="help_lesson_export_content_title">Құрамын таңдау</string>
+    <string name="help_lesson_export_content_summary">Қысқаша мәлімет жалпы сұраққа жарайды. Толық тарих қызмет көрсету және отын құю жазбаларын қосады. Сабақ таңдалған құрамды өзгертпейді.</string>
+    <string name="help_lesson_export_question_title">Өз сұрағын қосу</string>
+    <string name="help_lesson_export_question_summary">Сұрақ көлік деректерімен бірге мәтіннің басында болады. Өрісті бос қалдыруға болады. Сабақ кезінде ештеңе енгізу қажет емес.</string>
+    <string name="help_lesson_export_privacy_title">Жеке деректерді тексеру</string>
+    <string name="help_lesson_export_privacy_summary">Бұл қосқыш VIN мен көлік атауын жасырады. Еркін жазылған ескертпелерде жеке мәліметтер қалуы мүмкін, сондықтан бөлісер алдында мәтінді тексеру қажет.</string>
+    <string name="help_lesson_export_build_title">Алдын ала қарауды ашу</string>
+    <string name="help_lesson_export_build_summary">«Келесі» ағымдағы параметрлермен мәтінді тек осы құрылғыда дайындайды. Көлік жазбалары өзгермейді, деректер ешқайда жіберілмейді.</string>
+    <string name="help_lesson_export_review_title">Бөлісер алдында оқу</string>
+    <string name="help_lesson_export_review_summary">Дәл осы мәтін көшіріледі немесе сақталады. Сабақтан кейін оны айналдырып, тексеруге болады. Артқа көрсеткісі құрам мен сұраққа қайтарады.</string>
+    <string name="help_lesson_export_send_title">Дайын болғанда бөлісу</string>
+    <string name="help_lesson_export_send_summary">Сабақтан кейін мәтінді көшіруге, басқа қолданбаға жіберуге немесе файлға сақтауға болады. Үлкен мәтін файл арқылы беріледі. Сабақ бұл түймелерді баспайды.</string>
+    <string name="help_lesson_regional_language_title">Тіл елге тәуелсіз</string>
+    <string name="help_lesson_regional_language_summary">Android 13 және кейінгі нұсқаларда қолданба тілі осында таңдалады. Бұрынғы нұсқаларда телефон тілі қолданылады. Бұл елді, өлшем бірліктерін не валютаны өзгертпейді.</string>
+    <string name="help_lesson_regional_country_title">Құжаттарға арналған ел</string>
+    <string name="help_lesson_regional_country_summary">Ел қолжетімді құжаттар мен автоматты режимдегі валютаны анықтайды. Бар жазбалар сақталады. Құжаттар тек бөлек түймемен қосылады.</string>
+    <string name="help_lesson_regional_units_title">Ыңғайлы өлшем бірліктері</string>
+    <string name="help_lesson_regional_units_summary">Өлшем бірліктері қашықтықты, отынды және шығынды көрсету мен енгізуді өзгертеді. Сақталған жүріс пен қызмет аралықтары өзгеріссіз қалады. Таңдау елге тәуелсіз.</string>
+    <string name="help_lesson_regional_currency_title">Валюта режимін тексеру</string>
+    <string name="help_lesson_regional_currency_summary">Жол ағымдағы валютаны және таңдау тәсілін көрсетеді. «Келесі» тізімді ашады: баптауды өзгертпей, автоматты және қолмен таңдау режимдерін көруге болады.</string>
+    <string name="help_lesson_currency_auto_title">Елге қарай автоматты</string>
+    <string name="help_lesson_currency_auto_summary">Бұл тармақ таңдалған елдің валютасын қолданады және ел өзгерсе, соған сай өзгереді. Ел таңдалмаса, алдымен оны көрсету қажет. Сабақ бұл тармақты таңдамайды.</string>
+    <string name="help_lesson_currency_manual_title">Валютаны қолмен таңдау</string>
+    <string name="help_lesson_currency_manual_summary">Іздеу валюта кодын не атауын табуға көмектеседі. Қолмен таңдалған валюта ел өзгерсе де сақталады. Бұрынғы жазбалардағы сомалар бағам бойынша қайта есептелмейді. Сабақтан кейін таңдау жолды басқанда қолданылады.</string>
+</resources>

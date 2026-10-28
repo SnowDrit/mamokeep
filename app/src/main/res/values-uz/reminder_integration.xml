@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminder_threshold_edit">Sariq darajani sozlash</string>
+    <string name="reminder_threshold_hide">Sariq daraja sozlamalarini yashirish</string>
+    <string name="reminder_threshold_hint">Xizmatgacha shu masofa yoki vaqt qolganda band sariq boʻladi. Muddat kelganda qizil daraja boshlanadi. Oldindan bildirishnomalar pastda alohida sozlanadi.</string>
+    <string name="reminder_item_heading">Eslatmalar</string>
+    <string name="reminder_use_common">Umumiy sozlamalardan foydalanish</string>
+    <string name="reminder_common_hint">Bu bandga «Yana → Eslatmalar» boʻlimidagi vaqt, kunlar va takrorlash qoidalari qoʻllanadi.</string>
+    <string name="reminder_open_settings">Eslatma sozlamalari</string>
+    <string name="reminder_settings_hint">Vaqt, hafta kunlari va oldindan ogohlantirishlar. Har bir band oʻz sozlamalariga ega boʻlishi mumkin.</string>
+    <string name="reminder_save_failed">Sozlamalarni saqlab boʻlmadi. Oʻzgarishlar shu yerda turibdi; qayta urinib koʻring.</string>
+    <string name="reminder_full_service_title">Toʻliq texnik xizmat</string>
+    <string name="reminder_full_service_use">Toʻliq xizmat eslatmasini yaratish</string>
+    <string name="reminder_full_service_hint">Toʻliq xizmatning oʻz oraligʻi bor. Saqlagach, keyingi muddatni hisoblash uchun oxirgi bajarilgan vaqtini yozing. Uni bajarish alohida qismlarni almashtirildi deb belgilamaydi.</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminders_title">リマインダー</string>
+    <string name="reminders_intro">すべての車両、部品、整備、書類に使う標準スケジュールです。項目ごとに別のスケジュールも選べます。</string>
+    <string name="reminders_enabled">リマインダーを送信</string>
+    <string name="reminders_disabled_hint">このスケジュールの通知はオフです。整備間隔と履歴は引き続き利用できます。</string>
+    <string name="reminders_time">通知時刻</string>
+    <string name="reminders_time_select">時刻を選択</string>
+    <string name="reminders_time_dialog">通知時刻（24 時間制）</string>
+    <string name="reminders_hours">時</string>
+    <string name="reminders_minutes">分</string>
+    <string name="reminders_time_hint">端末の現地時刻を使います。Android の省電力機能により通知が遅れる場合があります。</string>
+    <string name="reminders_weekdays">曜日</string>
+    <string name="reminders_every_day">毎日</string>
+    <string name="reminders_six_days">週 6 日</string>
+    <string name="reminders_workdays">平日</string>
+    <string name="reminders_weekdays_hint">曜日を自由に選べます。「週 6 日」は月曜から土曜を選択します。選択は変更できます。</string>
+    <string name="reminders_weekdays_error">曜日を 1 つ以上選択してください。</string>
+    <string name="reminders_basic_hint">標準では黄色の段階から通知が始まり、実施済みと記録するまで選択した曜日に繰り返します。</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="other">週 %1$d 日</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+        <item>土</item>
+        <item>日</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>月曜日</item>
+        <item>火曜日</item>
+        <item>水曜日</item>
+        <item>木曜日</item>
+        <item>金曜日</item>
+        <item>土曜日</item>
+        <item>日曜日</item>
+    </string-array>
+    <string name="reminders_advanced_show">詳細設定</string>
+    <string name="reminders_advanced_hide">詳細設定を隠す</string>
+    <string name="reminders_advanced_enabled">通知の基準と繰り返しを個別設定</string>
+    <string name="reminders_advanced_hint">黄色の基準は項目の「黄色の基準を設定」で決まります。赤色は実施時期に達した状態です。この設定は通知の開始時期を変えるもので、整備カードの色は変えません。</string>
+    <string name="reminders_advance_hint">0 はその段階に達した時点を意味します。距離と日数の両方を設定した場合、先に達した方で通知します。距離は推定走行距離を使い、新しい実測記録で精度が改善されます。</string>
+    <string name="reminders_yellow">黄色 · まもなく整備時期</string>
+    <string name="reminders_red">赤色 · 整備時期</string>
+    <string name="reminders_advance_distance">この段階より前に通知（%1$s）</string>
+    <string name="reminders_advance_days">この段階より前に通知（日）</string>
+    <string name="reminders_repeat_days">繰り返しの最短間隔（日）</string>
+    <string name="reminders_max_occurrences">各段階の通知回数の上限</string>
+    <string name="reminders_repeat_hint">選択した曜日にのみ繰り返し、各項目で 1 日 1 回まで通知します。黄色または赤色に達すると新しい段階となり、回数を数え直します。</string>
+    <string name="reminders_limit_hint">0 は上限なしを意味します。整備を実施済みと記録すると回数がリセットされます。</string>
+    <string name="reminders_number_error">%1$s から %2$s の整数を入力してください。</string>
+    <string name="reminders_save_error">リマインダーを保存できませんでした。もう一度お試しください。</string>
+    <string name="reminders_permission_hint">Android が通知をブロックしています。スケジュールは保存できますが、通知を許可するまでリマインダーは届きません。</string>
+    <string name="reminders_permission_settings">通知設定を開く</string>
+</resources>

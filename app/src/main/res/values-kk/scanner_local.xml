@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Көзі: қолданба файлдары</string>
+    <string name="scanner_local_not_installed">Фотосуреттерді құрылғыда тану үшін қолданбадағы пакетті қосыңыз.</string>
+    <string name="scanner_local_install">Пакетті қосу</string>
+    <string name="scanner_local_install_title">Сканерге арналған пакет қосылсын ба?</string>
+    <string name="scanner_local_install_message">Файлдар қолданбаға әлдеқашан енгізілген. Жүктеп алу қажет емес. Фотосуреттер құрылғыда қалады.</string>
+    <string name="scanner_local_queued">Пакетті дайындау күтілуде. Бұл экранды жабуға болады.</string>
+    <string name="scanner_local_verifying">Файлдар дайындалып, тексерілуде…</string>
+    <string name="scanner_local_cancelling">Дайындаудан бас тартылуда…</string>
+    <string name="scanner_local_cancel_install">Дайындаудан бас тарту</string>
+    <string name="scanner_local_error_source">Пакет қолданбаның осы нұсқасында қолжетімсіз. Басқа нұсқаны таңдаңыз.</string>
+    <string name="scanner_local_error_integrity">Файлдар тексеруден өтпеді. Сканер карточкасынан пакеттерді жойып, пакетті қайта қосыңыз.</string>
+</resources>

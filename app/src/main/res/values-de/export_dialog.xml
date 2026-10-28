@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_preview">Textvorschau</string>
+    <string name="export_preview_title">Text für einen Chat</string>
+    <string name="export_back">Zurück</string>
+    <string name="export_preparing">Text wird vorbereitet…</string>
+    <string name="export_prepare_failed">Text konnte nicht vorbereitet werden. Bitte erneut versuchen.</string>
+    <string name="export_copy_failed">Text konnte nicht kopiert werden. Erneut versuchen oder als Datei speichern.</string>
+    <string name="export_choosing_file">Speicherort wird gewählt…</string>
+    <string name="export_writing_file">Datei wird gespeichert…</string>
+    <string name="export_preview_lost">Der Text ist nach dem Neustart der App nicht mehr vorhanden. Vor dem Speichern erneut die Vorschau öffnen.</string>
+</resources>

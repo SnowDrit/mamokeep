@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="line_color_choose">Выбрать цвет</string>
+    <string name="line_color_theme">Цвет темы</string>
+    <string name="line_color_standard">Стандартные цвета</string>
+    <string name="line_color_advanced">Расширенный режим</string>
+    <string name="line_color_apply">Применить</string>
+    <string name="line_color_wheel">Цветовой круг</string>
+    <string name="line_color_wheel_hint">Цвет выбирается перемещением кружка. Ниже можно изменить яркость или ввести код.</string>
+    <string name="line_color_brightness">Яркость</string>
+    <string name="line_color_hex">HEX</string>
+    <string name="line_color_rgb">RGB (0–255)</string>
+    <string name="line_color_hex_hint">#RGB или #RRGGBB</string>
+    <string name="line_color_rgb_hint">Красный, зелёный, синий: каждый от 0 до 255</string>
+    <string name="line_color_hex_error">Нужно 3 или 6 шестнадцатеричных цифр, знак # необязателен.</string>
+    <string name="line_color_rgb_error">Нужны три целых числа от 0 до 255 через запятую или пробел.</string>
+    <string name="line_color_preview">Выбранный цвет: %1$s</string>
+    <string name="line_color_black">Чёрный</string>
+    <string name="line_color_white">Белый</string>
+    <string name="line_color_gray">Серый</string>
+    <string name="line_color_red">Красный</string>
+    <string name="line_color_orange">Оранжевый</string>
+    <string name="line_color_yellow">Жёлтый</string>
+    <string name="line_color_green">Зелёный</string>
+    <string name="line_color_teal">Бирюзовый</string>
+    <string name="line_color_cyan">Голубой</string>
+    <string name="line_color_blue">Синий</string>
+    <string name="line_color_purple">Фиолетовый</string>
+    <string name="line_color_pink">Розовый</string>
+</resources>

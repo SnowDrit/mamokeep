@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">画像、PDF、またはUTF-8のテキストファイルを選んでください。</string>
+    <string name="scanner_import_multiple">レシートは1件ずつ共有してください。</string>
+    <string name="scanner_import_too_large">ファイルが大きすぎます。上限は25 MB、テキストは100,000文字です。</string>
+    <string name="scanner_import_busy">現在の入力を完了するか閉じてから、レシートをもう一度共有してください。</string>
+    <string name="ocr_import_failed">ファイルを読み込めませんでした。アクセス可能で破損していない、パスワードのないファイルを選んでください。テキストファイルはUTF-8形式である必要があります。</string>
+    <string name="ocr_import_pdf_pages">このPDFは10ページを超えています。10ページ以内の文書を選んでください。</string>
+    <string name="ocr_import_intro">PDF、画像、テキストのレシートを選ぶか、下にテキストを貼り付けてください。処理は端末内で行われます。</string>
+    <string name="ocr_early_access_notice">スキャナーは早期アクセス版です。文字認識の改善を進めています。保存前にテキストと各項目を確認してください。</string>
+    <string name="ocr_import_running">レシートを読み込み中…</string>
+    <string name="ocr_choose_file">ファイルを選ぶ</string>
+    <string name="ocr_import_no_car">記録を保存するには、先にガレージに車を追加してください。</string>
+    <string name="ocr_pdf_retry">PDF全体を文字認識</string>
+    <string name="ocr_pdf_retry_hint">抽出されたテキストに情報が足りない場合は、すべてのページを画像として文字認識してください。スキャナーパッケージが必要です。</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_screen_title">Für einen KI-Chat</string>
+    <string name="export_scenario_label">Inhalt auswählen</string>
+    <string name="export_question_label">Frage (optional)</string>
+    <string name="export_question_hint">Zum Beispiel: Was ist vor einer langen Fahrt zu prüfen?</string>
+    <string name="export_question_supporting">Die vorgegebene Frage bleibt im Text. Hier lassen sich Angaben zum Problem oder zur Fahrt ergänzen.</string>
+    <string name="export_question_header">## Frage des Fahrzeughalters</string>
+    <string name="export_privacy_label">Vor dem Teilen</string>
+    <string name="export_setup_hint">Eine Frage und Fahrzeugdaten für einen beliebigen KI-Chat vorbereiten. Der Text entsteht auf diesem Telefon; es wird nichts automatisch versendet.</string>
+    <string name="export_preview_size">%1$s Zeichen · %2$s</string>
+    <string name="export_preview_review">Den Text und die Notizen unten prüfen. Beim Kopieren, Teilen und Speichern wird genau diese Fassung verwendet.</string>
+    <string name="export_share">Teilen</string>
+    <string name="export_share_title">An einen KI-Chat senden</string>
+    <string name="export_save_file">Datei speichern</string>
+    <string name="export_share_failed">Teilen-Menü konnte nicht geöffnet werden. Text kopieren oder als Datei speichern.</string>
+    <string name="export_share_too_big">Dieser Text ist zum direkten Teilen zu groß. Datei speichern und einem Chat anhängen.</string>
+    <string name="export_large_preview_hint">Bei dieser Datenmenge die Datei speichern und einem Chat anhängen.</string>
+</resources>

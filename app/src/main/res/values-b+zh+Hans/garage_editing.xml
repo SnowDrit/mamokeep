@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_unsaved_title">保存更改？</string>
+    <string name="garage_unsaved_message">车辆资料中有未保存的更改。</string>
+    <string name="garage_leave_without_saving">不保存并退出</string>
+    <string name="garage_keep_editing">继续编辑</string>
+    <string name="garage_saving">正在保存…</string>
+    <string name="garage_save_failed">无法保存车辆资料。更改仍保留，请重试。</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_screen_title">For an AI chat</string>
+    <string name="export_scenario_label">What to include</string>
+    <string name="export_question_label">Question (optional)</string>
+    <string name="export_question_hint">For example: what to check before a long trip?</string>
+    <string name="export_question_supporting">The ready-made question stays in the text. Add details about the issue or trip here.</string>
+    <string name="export_question_header">## Owner’s question</string>
+    <string name="export_privacy_label">Before sharing</string>
+    <string name="export_setup_hint">Prepare a question and vehicle data for any AI chat. The text is created on this phone; nothing is sent automatically.</string>
+    <string name="export_preview_size">%1$s characters · %2$s</string>
+    <string name="export_preview_review">Check the text and notes below. Copy, share and save all use this exact version.</string>
+    <string name="export_share">Share</string>
+    <string name="export_share_title">Send to an AI chat</string>
+    <string name="export_save_file">Save file</string>
+    <string name="export_share_failed">Couldn’t open the sharing menu. Copy the text or save it as a file.</string>
+    <string name="export_share_too_big">This text is too large to share directly. Save the file and attach it to a chat.</string>
+    <string name="export_large_preview_hint">For this much data, save the file and attach it to a chat.</string>
+    <dimen name="export_screen_padding">20dp</dimen>
+    <dimen name="export_section_gap">24dp</dimen>
+    <dimen name="export_option_padding">12dp</dimen>
+    <dimen name="export_detail_gap">4dp</dimen>
+    <dimen name="export_content_max_width">720dp</dimen>
+</resources>

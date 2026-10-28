@@ -1,0 +1,15 @@
+MamoKeep optional OCR model package
+
+Contains PP-OCRv5 mobile detection and East Slavic recognition models supplied
+by PaddlePaddle / the PaddleOCR team under Apache License 2.0.
+Original model cards and the complete license accompany this package.
+Source repositories, immutable revisions and checksums are in PROVENANCE.json.
+
+Changes: source files are renamed for flat release assets; ONNX weights, YAML
+configurations and model cards are byte-for-byte copies. rec-characters.txt is
+extracted from the recognition YAML character_dict, preserving its order.
+No training, fine-tuning or conversion was performed for this package.
+
+This package does not contain the inference engine, application executable,
+Python code or custom ONNX operators. Its checksums establish byte identity,
+not an antivirus guarantee.

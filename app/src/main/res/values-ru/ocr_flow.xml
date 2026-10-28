@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Сканировать чек</string>
+    <string name="ocr_title">Сканер чеков</string>
+    <string name="ocr_choose_photo">Выбрать фото</string>
+    <string name="ocr_take_photo">Сфотографировать</string>
+    <string name="ocr_rotate">Повернуть фото</string>
+    <string name="ocr_photo">Исходное фото чека</string>
+    <string name="ocr_intro">Текст распознаётся на устройстве. Проверьте результат перед сохранением: фотография сама не добавляет и не меняет записи.</string>
+    <string name="ocr_running">Читаем фото на устройстве…</string>
+    <string name="ocr_source">Исходный документ и текст</string>
+    <string name="ocr_source_text">Текст чека / заметка</string>
+    <string name="ocr_review_text">Исправьте ошибки распознавания и выберите, какую запись создать. На следующем экране можно проверить все поля.</string>
+    <string name="ocr_fuel_action">Проверить заправку</string>
+    <string name="ocr_work_action">Проверить выполненную работу</string>
+    <string name="ocr_fuel_review">Проверьте значения и единицы в полях. Валюта: %1$s; расстояние: %2$s. Сумму топлива введите вручную: итог чека может включать другие покупки.</string>
+    <string name="ocr_confirm_date">Дата на экране верна</string>
+    <string name="ocr_confirm_fields">Я проверил все поля, валюту и единицы</string>
+    <string name="ocr_choose_fuel_type">Выберите вид топлива: его не удалось определить однозначно.</string>
+    <string name="ocr_yes">Да</string>
+    <string name="ocr_no">Нет</string>
+    <string name="ocr_work_explanation">Сохранится одна отметка выполненной работы с заметкой. Покупка деталей не означает, что работа выполнена. Строки сметы и цены останутся только в заметке, а не отдельными записями.</string>
+    <string name="ocr_confirm_work">Подтверждаю, что выбранная работа выполнена</string>
+    <string name="ocr_no_work_items">Позиций обслуживания пока нет. Добавьте позицию на экране машины, затем повторите сканирование.</string>
+    <string name="ocr_empty">Текст не найден. Выберите другой файл или введите текст самостоятельно.</string>
+    <string name="ocr_image_failed">Не удалось прочитать фото. Выберите доступное изображение меньшего размера или разрешения.</string>
+    <string name="ocr_camera_failed">Не удалось открыть камеру. Попробуйте выбрать готовое фото.</string>
+    <string name="ocr_model_failed">Пакет сканера недоступен или несовместим. Вернитесь в настройки сканера и проверьте установленный пакет.</string>
+    <string name="ocr_recognition_failed">Распознавание не удалось. Попробуйте снова или выберите другое фото.</string>
+    <string name="ocr_interrupted">Сеанс сканирования прервался. Проверьте журнал, если сохраняли запись, затем выберите файл снова.</string>
+    <string name="ocr_save_failed">Не удалось сохранить изменения. Черновик остался на экране. Попробуйте снова.</string>
+    <string name="ocr_save_interrupted">Сохранение прервалось. Перед повтором проверьте журнал: запись могла сохраниться.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">Суретті, PDF немесе UTF-8 мәтіндік файлын таңдаңыз.</string>
+    <string name="scanner_import_multiple">Бір жолы бір ғана чек жіберіңіз.</string>
+    <string name="scanner_import_too_large">Файл тым үлкен. Шектеу — 25 МБ және 100 000 мәтін таңбасы.</string>
+    <string name="scanner_import_busy">Алдымен ағымдағы енгізуді аяқтаңыз немесе жабыңыз, содан кейін чекті қайта жіберіңіз.</string>
+    <string name="ocr_import_failed">Файлды оқу мүмкін болмады. Қолжетімді, бүлінбеген және құпиясөзсіз файлды таңдаңыз. Мәтіндік файл UTF-8 пішімінде болуы керек.</string>
+    <string name="ocr_import_pdf_pages">PDF құжатында 10 беттен көп. 10 беттен аспайтын құжатты таңдаңыз.</string>
+    <string name="ocr_import_intro">PDF, сурет немесе мәтіндік чекті таңдаңыз не мәтінді төменге қойыңыз. Өңдеу құрылғыда орындалады.</string>
+    <string name="ocr_early_access_notice">Сканер ерте қолжетімділік кезеңінде. Біз мәтінді тануды жақсартып жатырмыз. Сақтамас бұрын мәтін мен өрістерді тексеріңіз.</string>
+    <string name="ocr_import_running">Чек оқылуда…</string>
+    <string name="ocr_choose_file">Файлды таңдау</string>
+    <string name="ocr_import_no_car">Жазбаны сақтау үшін алдымен гаражға автокөлік қосыңыз.</string>
+    <string name="ocr_pdf_retry">PDF құжатын толық тану</string>
+    <string name="ocr_pdf_retry_hint">Алынған мәтінде деректер жетіспесе, барлық бетті сурет ретінде танытыңыз. Ол үшін сканер пакеті қажет.</string>
+</resources>

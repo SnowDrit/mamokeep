@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Guides à l’écran</string>
+    <string name="help_lessons_hint">Choisir un thème. Les guides présentent les commandes sans enregistrer de changements ni envoyer quoi que ce soit.</string>
+    <string name="help_lesson_start">Guide pas à pas</string>
+    <string name="help_lesson_close">Terminer</string>
+    <string name="help_lesson_reminders_title">Rappels personnalisés</string>
+    <string name="help_lesson_export_title">Export pour l’IA</string>
+    <string name="help_lesson_regional_title">Langue, pays et devise</string>
+    <string name="help_lesson_steps">%1$d étapes</string>
+    <string name="help_lesson_reminder_time_title">Une heure adaptée</string>
+    <string name="help_lesson_reminder_time_summary">L’heure locale des rappels se choisit ici. Android peut les transmettre plus tard. Le guide ne modifie pas le calendrier.</string>
+    <string name="help_lesson_reminder_days_title">Uniquement les jours choisis</string>
+    <string name="help_lesson_reminder_days_summary">Choisir un ensemble prédéfini ou des jours de la semaine séparément. Ce calendrier s’applique aussi aux répétitions. Au moins un jour est nécessaire.</string>
+    <string name="help_lesson_reminder_advanced_title">Règles avancées</string>
+    <string name="help_lesson_reminder_advanced_summary">Cette section est ouverte pour la présentation. L’interrupteur reste inchangé : seuils et répétitions ne s’appliquent qu’après activation et enregistrement.</string>
+    <string name="help_lesson_reminder_thresholds_title">Prévenir à l’avance</string>
+    <string name="help_lesson_reminder_thresholds_summary">Régler ici la distance et le nombre de jours avant le niveau jaune. Les mêmes champs existent plus bas pour le rouge. Zéro signifie prévenir lorsque le niveau est atteint. Les couleurs des cartes restent inchangées.</string>
+    <string name="help_lesson_reminder_repeats_title">Répétitions et limites</string>
+    <string name="help_lesson_reminder_repeats_summary">L’intervalle est exprimé en jours. Le nombre de notifications limite les répétitions à un même niveau. Zéro signifie sans limite. Le niveau rouge possède ses propres réglages.</string>
+    <string name="help_lesson_reminder_save_title">Appliquer une fois prêt</string>
+    <string name="help_lesson_reminder_save_summary">Le guide n’a rien enregistré. Une fois terminé, modifier les champs puis appuyer sur Enregistrer. Une opération d’entretien ou un document peut avoir son propre calendrier dans son écran de modification.</string>
+    <string name="help_lesson_export_content_title">Choisir le contenu</string>
+    <string name="help_lesson_export_content_summary">Le résumé convient à une question générale. L’historique complet ajoute les entrées d’entretien et de ravitaillement. Le guide conserve la sélection actuelle.</string>
+    <string name="help_lesson_export_question_title">Ajouter une question</string>
+    <string name="help_lesson_export_question_summary">La question figure au début du texte, près des données de la voiture. Le champ peut rester vide. Aucune saisie n’est nécessaire pendant le guide.</string>
+    <string name="help_lesson_export_privacy_title">Vérifier les données personnelles</string>
+    <string name="help_lesson_export_privacy_summary">Cet interrupteur masque le VIN et le nom de la voiture. Les notes libres peuvent encore contenir des données personnelles : relire le texte avant de le partager.</string>
+    <string name="help_lesson_export_build_title">Ouvrir l’aperçu</string>
+    <string name="help_lesson_export_build_summary">Suivant prépare le texte sur cet appareil uniquement, avec les options actuelles. Les entrées de la voiture restent inchangées et rien n’est envoyé.</string>
+    <string name="help_lesson_export_review_title">Relire avant de partager</string>
+    <string name="help_lesson_export_review_summary">C’est exactement ce texte qui sera copié ou enregistré. Après le guide, le faire défiler pour le vérifier. La flèche de retour ramène au contenu et à la question.</string>
+    <string name="help_lesson_export_send_title">Partager au moment voulu</string>
+    <string name="help_lesson_export_send_summary">Après le guide, copier le texte, le partager avec une autre application ou enregistrer un fichier. Les exports volumineux passent par un fichier. Le guide n’appuie jamais sur ces boutons.</string>
+    <string name="help_lesson_regional_language_title">Une langue indépendante</string>
+    <string name="help_lesson_regional_language_summary">À partir d’Android 13, la langue de l’application se choisit ici. Les versions antérieures suivent celle du téléphone. Cela ne change ni le pays, ni les unités, ni la devise.</string>
+    <string name="help_lesson_regional_country_title">Le pays pour les documents</string>
+    <string name="help_lesson_regional_country_summary">Le pays détermine les documents disponibles et la devise automatique. Les entrées existantes sont conservées. Les documents s’ajoutent uniquement avec le bouton distinct.</string>
+    <string name="help_lesson_regional_units_title">Des unités adaptées</string>
+    <string name="help_lesson_regional_units_summary">Les unités modifient l’affichage et la saisie des distances, du carburant et de la consommation. Les kilométrages et intervalles d’entretien enregistrés ne sont pas réinitialisés. Le choix est indépendant du pays.</string>
+    <string name="help_lesson_regional_currency_title">Vérifier le mode de devise</string>
+    <string name="help_lesson_regional_currency_summary">Cette ligne indique la devise et son mode de sélection. Suivant ouvre la liste pour présenter les choix automatique et manuel sans modifier le réglage.</string>
+    <string name="help_lesson_currency_auto_title">Automatiquement selon le pays</string>
+    <string name="help_lesson_currency_auto_summary">Cette option utilise la devise du pays sélectionné et suit les changements de pays. Si aucun pays n’est défini, en choisir un d’abord. Le guide ne sélectionne pas cette option.</string>
+    <string name="help_lesson_currency_manual_title">Choisir une devise manuellement</string>
+    <string name="help_lesson_currency_manual_summary">Rechercher une devise par son code ou son nom. Le choix manuel est conservé lors d’un changement de pays. Les montants existants ne sont pas convertis au taux de change. Après le guide, appuyer sur une ligne pour appliquer le choix.</string>
+</resources>

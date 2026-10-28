@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_screen_title">SI chati uchun</string>
+    <string name="export_scenario_label">Nimalarni kiritish</string>
+    <string name="export_question_label">Savol (ixtiyoriy)</string>
+    <string name="export_question_hint">Masalan: uzoq safardan oldin nimani tekshirish kerak?</string>
+    <string name="export_question_supporting">Tayyor savol matnda qoladi. Bu yerga muammo yoki safar haqida tafsilot qoʻshing.</string>
+    <string name="export_question_header">## Egasining savoli</string>
+    <string name="export_privacy_label">Ulashishdan oldin</string>
+    <string name="export_setup_hint">Istalgan SI chati uchun savol va avtomobil maʼlumotlarini tayyorlang. Matn shu telefonda yaratiladi; hech narsa avtomatik yuborilmaydi.</string>
+    <string name="export_preview_size">%1$s belgi · %2$s</string>
+    <string name="export_preview_review">Pastdagi matn va qaydlarni tekshiring. Nusxalash, ulashish va saqlash aynan shu versiyadan foydalanadi.</string>
+    <string name="export_share">Ulashish</string>
+    <string name="export_share_title">SI chatiga yuborish</string>
+    <string name="export_save_file">Faylni saqlash</string>
+    <string name="export_share_failed">Ulashish menyusini ochib boʻlmadi. Matnni nusxalang yoki faylga saqlang.</string>
+    <string name="export_share_too_big">Bu matn bevosita ulashish uchun juda katta. Faylni saqlab, chatga biriktiring.</string>
+    <string name="export_large_preview_hint">Bunday hajmdagi maʼlumot uchun faylni saqlab, chatga biriktiring.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Только в отладочной сборке: в релиз этот файл не попадает. -->
+        <receiver
+            android:name=".notifications.DebugCheckReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="io.github.snowdrit.mamokeep.debug.CHECK_NOW" />
+                <action android:name="io.github.snowdrit.mamokeep.debug.DUMP_EXPORT" />
+                <action android:name="io.github.snowdrit.mamokeep.debug.BACKUP_ROUNDTRIP" />
+                <action android:name="io.github.snowdrit.mamokeep.debug.BACKUP_NOW" />
+                <action android:name="io.github.snowdrit.mamokeep.debug.RUN_LOG" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

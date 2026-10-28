@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Сканаваць чэк</string>
+    <string name="ocr_title">Сканер чэкаў</string>
+    <string name="ocr_choose_photo">Выбраць фота</string>
+    <string name="ocr_take_photo">Сфатаграфаваць</string>
+    <string name="ocr_photo">Зыходнае фота чэка</string>
+    <string name="ocr_intro">Тэкст распазнаецца на прыладзе. Праверце вынік перад захаваннем: фатаграфія сама не дадае і не змяняе запісы.</string>
+    <string name="ocr_running">Чытаем фота на прыладзе…</string>
+    <string name="ocr_source">Зыходны дакумент і тэкст</string>
+    <string name="ocr_source_text">Тэкст чэка / нататка</string>
+    <string name="ocr_review_text">Выпраўце памылкі распазнавання і выберыце, які запіс стварыць. На наступным экране можна праверыць усе палі.</string>
+    <string name="ocr_fuel_action">Праверыць запраўку</string>
+    <string name="ocr_work_action">Праверыць выкананую працу</string>
+    <string name="ocr_fuel_review">Праверце значэнні і адзінкі ў палях. Валюта: %1$s; адлегласць: %2$s. Кошт паліва ўвядзіце ўручную: вынік чэка можа ўключаць іншыя пакупкі.</string>
+    <string name="ocr_confirm_date">Дата на экране правільная</string>
+    <string name="ocr_confirm_fields">Я праверыў усе палі, валюту і адзінкі</string>
+    <string name="ocr_choose_fuel_type">Выберыце від паліва: яго не ўдалося вызначыць адназначна.</string>
+    <string name="ocr_yes">Так</string>
+    <string name="ocr_no">Не</string>
+    <string name="ocr_work_explanation">Захаваецца адна адзнака выкананай працы з нататкай. Купля дэталяў не азначае, што праца выканана. Радкі каштарысу і цэны застануцца толькі ў нататцы, а не асобнымі запісамі.</string>
+    <string name="ocr_confirm_work">Пацвярджаю, што выбраная праца выканана</string>
+    <string name="ocr_no_work_items">Пазіцый абслугоўвання пакуль няма. Дадайце пазіцыю на экране машыны, потым паўтарыце сканаванне.</string>
+    <string name="ocr_empty">Тэкст не знойдзены. Выберыце іншы файл або ўвядзіце тэкст самастойна.</string>
+    <string name="ocr_image_failed">Не ўдалося прачытаць фота. Выберыце даступную выяву меншага памеру або раздзяляльнасці.</string>
+    <string name="ocr_camera_failed">Не ўдалося адкрыць камеру. Паспрабуйце выбраць гатовае фота.</string>
+    <string name="ocr_model_failed">Пакет сканера недаступны або несумяшчальны. Вярніцеся ў налады сканера і праверце ўсталяваны пакет.</string>
+    <string name="ocr_recognition_failed">Распазнаванне не ўдалося. Паспрабуйце зноў або выберыце іншае фота.</string>
+    <string name="ocr_interrupted">Сеанс сканавання перарваўся. Праверце журнал, калі захоўвалі запіс, потым выберыце файл зноў.</string>
+    <string name="ocr_save_failed">Не ўдалося захаваць змены. Чарнавік застаўся на экране. Паспрабуйце зноў.</string>
+    <string name="ocr_save_interrupted">Захаванне перарвалася. Перад паўторам праверце журнал: запіс мог захавацца.</string>
+    <string name="ocr_rotate">Павярнуць фота</string>
+</resources>

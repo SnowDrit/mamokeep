@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">Choisissez une image, un PDF ou un fichier texte UTF-8.</string>
+    <string name="scanner_import_multiple">Partagez un seul reçu à la fois.</string>
+    <string name="scanner_import_too_large">Le fichier est trop volumineux. La limite est de 25 Mo et de 100 000 caractères de texte.</string>
+    <string name="scanner_import_busy">Terminez ou fermez d’abord la saisie en cours, puis partagez à nouveau le reçu.</string>
+    <string name="ocr_import_failed">Impossible de lire le fichier. Choisissez un fichier accessible, intact et sans mot de passe. Les fichiers texte doivent être au format UTF-8.</string>
+    <string name="ocr_import_pdf_pages">Ce PDF contient plus de 10 pages. Choisissez un document de 10 pages maximum.</string>
+    <string name="ocr_import_intro">Choisissez un reçu au format PDF, image ou texte, ou collez le texte ci-dessous. Le traitement s’effectue sur votre appareil.</string>
+    <string name="ocr_early_access_notice">Le scanner est en accès anticipé. Nous améliorons la reconnaissance de texte. Vérifiez le texte et les champs avant d’enregistrer.</string>
+    <string name="ocr_import_running">Lecture du reçu…</string>
+    <string name="ocr_choose_file">Choisir un fichier</string>
+    <string name="ocr_import_no_car">Pour enregistrer une entrée, ajoutez d’abord un véhicule au garage.</string>
+    <string name="ocr_pdf_retry">Reconnaître tout le PDF</string>
+    <string name="ocr_pdf_retry_hint">Si des informations manquent dans le texte extrait, lancez la reconnaissance de toutes les pages comme images. Le pack du scanner est nécessaire.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_screen_title">AI チャット用</string>
+    <string name="export_scenario_label">含める内容</string>
+    <string name="export_question_label">質問（任意）</string>
+    <string name="export_question_hint">例：長距離ドライブの前に何を確認すべき？</string>
+    <string name="export_question_supporting">用意された質問はテキストに残ります。ここに不具合や旅行の詳細を追加できます。</string>
+    <string name="export_question_header">## 所有者からの質問</string>
+    <string name="export_privacy_label">共有する前に</string>
+    <string name="export_setup_hint">どの AI チャットでも使える質問と車両データを準備します。テキストはこの端末で作成され、自動送信されません。</string>
+    <string name="export_preview_size">%1$s 文字 · %2$s</string>
+    <string name="export_preview_review">下のテキストとメモを確認してください。コピー、共有、保存ではこの内容をそのまま使用します。</string>
+    <string name="export_share">共有</string>
+    <string name="export_share_title">AI チャットに送信</string>
+    <string name="export_save_file">ファイルを保存</string>
+    <string name="export_share_failed">共有メニューを開けませんでした。テキストをコピーするか、ファイルとして保存してください。</string>
+    <string name="export_share_too_big">テキストが大きすぎて直接共有できません。ファイルを保存してチャットに添付してください。</string>
+    <string name="export_large_preview_hint">データ量が多いため、ファイルを保存してチャットに添付してください。</string>
+</resources>

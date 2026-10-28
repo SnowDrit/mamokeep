@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminder_threshold_edit">Сары деңгейді баптау</string>
+    <string name="reminder_threshold_hide">Сары деңгей баптауларын жасыру</string>
+    <string name="reminder_threshold_hint">Қызметке дейін осы қашықтық не уақыт қалғанда тармақ сары болады. Мерзім келгенде қызыл деңгей басталады. Алдын ала хабарландырулар төменде бөлек бапталады.</string>
+    <string name="reminder_item_heading">Еске салулар</string>
+    <string name="reminder_use_common">Ортақ баптауларды қолдану</string>
+    <string name="reminder_common_hint">Бұл тармаққа «Тағы → Еске салулар» бөліміндегі уақыт, күндер және қайталау ережелері қолданылады.</string>
+    <string name="reminder_open_settings">Еске салу баптаулары</string>
+    <string name="reminder_settings_hint">Уақыт, апта күндері және алдын ала ескертулер. Әр тармақтың өз баптаулары болуы мүмкін.</string>
+    <string name="reminder_save_failed">Баптауларды сақтау мүмкін болмады. Өзгерістер осында қалды; қайталап көріңіз.</string>
+    <string name="reminder_full_service_title">Толық техникалық қызмет</string>
+    <string name="reminder_full_service_use">Толық қызмет туралы еске салу жасау</string>
+    <string name="reminder_full_service_hint">Толық қызметтің өз аралығы бар. Сақтағаннан кейін келесі мерзімді есептеу үшін соңғы орындалған уақытын жазыңыз. Оны орындау жеке бөлшектерді ауыстырылды деп белгілемейді.</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Guías en pantalla</string>
+    <string name="help_lessons_hint">Elegir un tema. Las guías muestran los controles sin guardar cambios ni enviar nada.</string>
+    <string name="help_lesson_start">Guía paso a paso</string>
+    <string name="help_lesson_close">Terminar</string>
+    <string name="help_lesson_reminders_title">Recordatorios flexibles</string>
+    <string name="help_lesson_export_title">Exportación para IA</string>
+    <string name="help_lesson_regional_title">Idioma, país y moneda</string>
+    <string name="help_lesson_steps">%1$d pasos</string>
+    <string name="help_lesson_reminder_time_title">Una hora adecuada</string>
+    <string name="help_lesson_reminder_time_summary">Aquí se elige la hora local de los recordatorios. Android puede entregarlos más tarde. La guía no cambia el horario.</string>
+    <string name="help_lesson_reminder_days_title">Solo en los días elegidos</string>
+    <string name="help_lesson_reminder_days_summary">Elegir un grupo predefinido o días de la semana por separado. Este calendario también se aplica a las repeticiones. Se requiere al menos un día.</string>
+    <string name="help_lesson_reminder_advanced_title">Reglas avanzadas</string>
+    <string name="help_lesson_reminder_advanced_summary">La sección está abierta para conocerla. El interruptor no ha cambiado: los umbrales y las repeticiones se aplican solo después de activar y guardar.</string>
+    <string name="help_lesson_reminder_thresholds_title">Avisar con antelación</string>
+    <string name="help_lesson_reminder_thresholds_summary">Aquí se define la distancia y los días de antelación al nivel amarillo. Debajo están los mismos campos para el rojo. Cero significa avisar al alcanzar ese nivel. Los colores de las tarjetas no cambian.</string>
+    <string name="help_lesson_reminder_repeats_title">Repeticiones y límites</string>
+    <string name="help_lesson_reminder_repeats_summary">El intervalo se indica en días. El número de notificaciones limita las repeticiones en un mismo nivel. Cero significa sin límite. El nivel rojo tiene ajustes propios.</string>
+    <string name="help_lesson_reminder_save_title">Aplicar cuando esté listo</string>
+    <string name="help_lesson_reminder_save_summary">La guía no ha guardado nada. Al terminar, se pueden editar los campos y pulsar Guardar. Cada tarea de mantenimiento o documento puede tener su propio horario en su editor.</string>
+    <string name="help_lesson_export_content_title">Elegir el contenido</string>
+    <string name="help_lesson_export_content_summary">El resumen sirve para una pregunta general. El historial completo añade registros de mantenimiento y repostajes. La guía no cambia la selección actual.</string>
+    <string name="help_lesson_export_question_title">Añadir una pregunta</string>
+    <string name="help_lesson_export_question_summary">La pregunta aparece al principio del texto junto a los datos del coche. El campo puede quedar vacío. No hace falta escribir nada durante la guía.</string>
+    <string name="help_lesson_export_privacy_title">Revisar los datos personales</string>
+    <string name="help_lesson_export_privacy_summary">Este interruptor oculta el VIN y el nombre del coche. Las notas libres pueden contener datos personales, por lo que conviene revisar el texto antes de compartirlo.</string>
+    <string name="help_lesson_export_build_title">Abrir la vista previa</string>
+    <string name="help_lesson_export_build_summary">Siguiente prepara el texto solo en este dispositivo con las opciones actuales. Los registros del coche no cambian y no se envía nada.</string>
+    <string name="help_lesson_export_review_title">Leer antes de compartir</string>
+    <string name="help_lesson_export_review_summary">Este es el texto exacto que se copiará o guardará. Después de la guía se puede desplazar y revisar. La flecha de atrás vuelve al contenido y a la pregunta.</string>
+    <string name="help_lesson_export_send_title">Compartir cuando esté listo</string>
+    <string name="help_lesson_export_send_summary">Después de la guía se puede copiar el texto, compartirlo con otra aplicación o guardarlo en un archivo. Las exportaciones grandes usan un archivo. La guía nunca pulsa estos botones.</string>
+    <string name="help_lesson_regional_language_title">El idioma es independiente</string>
+    <string name="help_lesson_regional_language_summary">Desde Android 13, el idioma de la aplicación se elige aquí. Las versiones anteriores usan el del teléfono. Esto no cambia el país, las unidades ni la moneda.</string>
+    <string name="help_lesson_regional_country_title">País para los documentos</string>
+    <string name="help_lesson_regional_country_summary">El país determina los documentos disponibles y la moneda automática. Los registros existentes se conservan. Los documentos se añaden solo con el botón específico.</string>
+    <string name="help_lesson_regional_units_title">Unidades adecuadas</string>
+    <string name="help_lesson_regional_units_summary">Las unidades cambian la visualización y la introducción de distancia, combustible y consumo. Los kilometrajes e intervalos de mantenimiento guardados no se restablecen. La elección es independiente del país.</string>
+    <string name="help_lesson_regional_currency_title">Revisar el modo de moneda</string>
+    <string name="help_lesson_regional_currency_summary">Esta fila muestra la moneda actual y cómo se elige. Siguiente abre la lista para mostrar la selección automática y manual sin cambiar el ajuste.</string>
+    <string name="help_lesson_currency_auto_title">Automáticamente según el país</string>
+    <string name="help_lesson_currency_auto_summary">Esta opción usa la moneda del país elegido y sigue los cambios de país. Si no hay ninguno definido, primero hay que elegirlo. La guía no selecciona esta opción.</string>
+    <string name="help_lesson_currency_manual_title">Elegir la moneda manualmente</string>
+    <string name="help_lesson_currency_manual_summary">Buscar por código o nombre de la moneda. La elección manual se conserva al cambiar de país. Los importes existentes no se convierten según el tipo de cambio. Después de la guía, pulsar una fila para aplicar la elección.</string>
+</resources>

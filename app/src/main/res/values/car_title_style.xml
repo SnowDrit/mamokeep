@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_title_spacing">12dp</dimen>
+    <dimen name="car_title_corner_radius">8dp</dimen>
+    <dimen name="car_title_padding_horizontal">8dp</dimen>
+    <dimen name="car_title_padding_vertical">4dp</dimen>
+    <dimen name="car_title_icon_size">24dp</dimen>
+    <dimen name="car_picker_spacing">4dp</dimen>
+    <dimen name="car_picker_row_padding_vertical">10dp</dimen>
+    <dimen name="car_picker_row_spacing">12dp</dimen>
+    <dimen name="car_picker_icon_size">28dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="garage_unsaved_title">Änderungen speichern?</string>
+    <string name="garage_unsaved_message">Das Fahrzeugprofil enthält ungespeicherte Änderungen.</string>
+    <string name="garage_leave_without_saving">Ohne Speichern verlassen</string>
+    <string name="garage_keep_editing">Weiter bearbeiten</string>
+    <string name="garage_saving">Wird gespeichert…</string>
+    <string name="garage_save_failed">Profil konnte nicht gespeichert werden. Die Änderungen sind noch vorhanden. Erneut versuchen.</string>
+</resources>

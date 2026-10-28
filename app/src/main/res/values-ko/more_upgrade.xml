@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_reminders_title">알림</string>
+    <string name="more_reminders_summary">시간, 요일, 사전 알림</string>
+    <string name="more_data_heading">차량 데이터</string>
+    <string name="more_export_summary">복사하거나 저장할 차량 이력과 질문</string>
+    <string name="more_settings_heading">환경 설정</string>
+    <string name="more_project_heading">프로젝트 정보</string>
+    <string name="more_appearance_language">화면 모양 및 언어</string>
+    <string name="more_weekly_disabled_summary">꺼짐</string>
+    <string name="more_weekly_enabled_summary">켜짐 · 주 1회</string>
+    <string name="more_choose_folder">폴더 선택</string>
+    <string name="more_change_folder">폴더 변경</string>
+    <string name="more_folder_permission_failed">이 폴더의 접근 권한을 저장하지 못했습니다. 다른 폴더를 선택하세요.</string>
+    <string name="more_support_open_failed">링크를 열지 못했습니다. 브라우저를 설치하거나 사용 설정하세요.</string>
+    <string name="more_privacy_policy">개인정보 처리방침</string>
+    <string name="more_scanner_summary">기기에서 사진 인식. 선택 패키지.</string>
+    <string name="more_scanner_failed">패키지를 준비하지 못했습니다. 열어서 자세한 내용을 확인하세요.</string>
+    <string name="more_expanded">펼쳐짐</string>
+    <string name="more_collapsed">접힘</string>
+</resources>

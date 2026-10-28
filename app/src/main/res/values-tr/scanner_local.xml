@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Kaynak: uygulama dosyaları</string>
+    <string name="scanner_local_not_installed">Cihazda fotoğraflardaki metni tanımak için uygulamadaki paketi etkinleştirin.</string>
+    <string name="scanner_local_install">Paketi etkinleştir</string>
+    <string name="scanner_local_install_title">Tarayıcı paketi etkinleştirilsin mi?</string>
+    <string name="scanner_local_install_message">Dosyalar zaten uygulamaya dahildir. İndirme gerekmez. Fotoğraflarınız cihazda kalır.</string>
+    <string name="scanner_local_queued">Paketin hazırlanması bekleniyor. Bu ekranı kapatabilirsiniz.</string>
+    <string name="scanner_local_verifying">Dosyalar hazırlanıyor ve doğrulanıyor…</string>
+    <string name="scanner_local_cancelling">Hazırlama iptal ediliyor…</string>
+    <string name="scanner_local_cancel_install">Hazırlamayı iptal et</string>
+    <string name="scanner_local_error_source">Paket, uygulamanın bu sürümünde kullanılamıyor. Başka bir sürüm seçin.</string>
+    <string name="scanner_local_error_integrity">Dosyalar doğrulamadan geçemedi. Tarayıcı kartından paketleri kaldırın, ardından paketi yeniden etkinleştirin.</string>
+</resources>

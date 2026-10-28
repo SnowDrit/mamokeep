@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">バックアップの状態を確認しています…</string>
+    <string name="backup_status_waiting">定期バックアップはまだ作成されていません。次の実行を待っています。</string>
+    <string name="backup_status_failed">前回のバックアップに失敗しました。フォルダへのアクセスを確認するか、フォルダを選び直してください。</string>
+    <string name="backup_status_last_success">最後に成功したバックアップ：%1$s</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminder_threshold_edit">Наладзіць жоўты ўзровень</string>
+    <string name="reminder_threshold_hide">Схаваць налады жоўтага ўзроўню</string>
+    <string name="reminder_threshold_hint">Пункт становіцца жоўтым, калі да абслугоўвання застаецца гэтая адлегласць або час. Чырвоны ўзровень пачынаецца, калі тэрмін настаў. Заўчасныя апавяшчэнні наладжваюцца асобна ніжэй.</string>
+    <string name="reminder_item_heading">Напаміны</string>
+    <string name="reminder_use_common">Выкарыстоўваць агульныя налады</string>
+    <string name="reminder_common_hint">Да гэтага пункта ўжываюцца час, дні і правілы паўтарэння з «Яшчэ → Напаміны».</string>
+    <string name="reminder_open_settings">Налады напамінаў</string>
+    <string name="reminder_settings_hint">Час, дні тыдня і заўчасныя папярэджанні. Кожны пункт можа мець уласныя налады.</string>
+    <string name="reminder_save_failed">Не ўдалося захаваць налады. Змены засталіся тут; паспрабуйце яшчэ раз.</string>
+    <string name="reminder_full_service_title">Поўнае ТО</string>
+    <string name="reminder_full_service_use">Стварыць напамін пра поўнае ТО</string>
+    <string name="reminder_full_service_hint">Поўнае ТО мае ўласны інтэрвал. Пасля захавання запішыце, калі яго выконвалі апошні раз, каб разлічыць наступны тэрмін. Яго выкананне не пазначае асобныя дэталі як замененыя.</string>
+</resources>

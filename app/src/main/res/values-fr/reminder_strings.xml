@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminders_title">Rappels</string>
+    <string name="reminders_intro">Le calendrier par défaut pour toutes les voitures, pièces, opérations d’entretien et documents. Un calendrier différent peut être choisi pour chaque élément.</string>
+    <string name="reminders_enabled">Envoyer des rappels</string>
+    <string name="reminders_disabled_hint">Les rappels sont désactivés pour ce calendrier. Les intervalles d’entretien et l’historique restent disponibles.</string>
+    <string name="reminders_time">Heure de notification</string>
+    <string name="reminders_time_select">Choisir une heure</string>
+    <string name="reminders_time_dialog">Heure de notification (24 heures)</string>
+    <string name="reminders_hours">Heures</string>
+    <string name="reminders_minutes">Minutes</string>
+    <string name="reminders_time_hint">Heure locale du téléphone. Android peut retarder un rappel pour économiser la batterie.</string>
+    <string name="reminders_weekdays">Jours de la semaine</string>
+    <string name="reminders_every_day">Tous les jours</string>
+    <string name="reminders_six_days">6 jours</string>
+    <string name="reminders_workdays">Du lundi au vendredi</string>
+    <string name="reminders_weekdays_hint">Choisir les jours souhaités. « 6 jours » sélectionne du lundi au samedi ; la sélection peut être modifiée.</string>
+    <string name="reminders_weekdays_error">Sélectionner au moins un jour.</string>
+    <string name="reminders_basic_hint">Par défaut, les rappels commencent au niveau jaune et se répètent les jours choisis jusqu’à l’enregistrement du travail comme fait.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">%1$d jour par semaine</item>
+        <item quantity="other">%1$d jours par semaine</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>lun.</item>
+        <item>mar.</item>
+        <item>mer.</item>
+        <item>jeu.</item>
+        <item>ven.</item>
+        <item>sam.</item>
+        <item>dim.</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>lundi</item>
+        <item>mardi</item>
+        <item>mercredi</item>
+        <item>jeudi</item>
+        <item>vendredi</item>
+        <item>samedi</item>
+        <item>dimanche</item>
+    </string-array>
+    <string name="reminders_advanced_show">Réglages avancés</string>
+    <string name="reminders_advanced_hide">Masquer les réglages avancés</string>
+    <string name="reminders_advanced_enabled">Personnaliser les seuils et répétitions</string>
+    <string name="reminders_advanced_hint">Le niveau jaune provient du réglage « Régler le niveau jaune » de l’élément ; le rouge signifie que l’échéance est atteinte. Ces réglages changent le début des rappels, pas les couleurs de la carte d’entretien.</string>
+    <string name="reminders_advance_hint">0 signifie au niveau lui-même. Si une distance et un délai sont définis, le premier atteint déclenche le rappel. La distance utilise le kilométrage estimé ; de nouveaux relevés affinent l’estimation.</string>
+    <string name="reminders_yellow">Niveau jaune · échéance proche</string>
+    <string name="reminders_red">Niveau rouge · entretien à faire</string>
+    <string name="reminders_advance_distance">Notifier avant ce niveau, %1$s</string>
+    <string name="reminders_advance_days">Notifier avant ce niveau, jours</string>
+    <string name="reminders_repeat_days">Répéter au plus tous les … jours</string>
+    <string name="reminders_max_occurrences">Nombre maximal de rappels à chaque étape</string>
+    <string name="reminders_repeat_hint">Les répétitions arrivent uniquement les jours choisis, au plus une fois par jour et par élément. Atteindre le jaune ou le rouge ouvre une nouvelle étape et remet le compteur à zéro.</string>
+    <string name="reminders_limit_hint">0 signifie sans limite. Le compteur repart de zéro lorsque l’entretien est enregistré comme fait.</string>
+    <string name="reminders_number_error">Saisir un nombre entier de %1$s à %2$s.</string>
+    <string name="reminders_save_error">Impossible d’enregistrer les rappels. Réessayer.</string>
+    <string name="reminders_permission_hint">Android bloque les notifications. Le calendrier peut être enregistré, mais les rappels n’arriveront qu’après autorisation des notifications.</string>
+    <string name="reminders_permission_settings">Ouvrir les réglages des notifications</string>
+</resources>

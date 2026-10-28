@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="settings_search">Іздеу</string>
+    <string name="settings_search_empty">Сәйкестік жоқ. Басқа атау немесе кодты көріңіз.</string>
+    <string name="settings_language_system_hint">Бұл Android нұсқасында қолданба телефон тілін қолданады.</string>
+    <string name="settings_country_unset">Елді таңдау</string>
+    <string name="settings_country_hint">Ел автоматты валютаны және қолжетімді құжат үлгілерін анықтайды. Тіл мен өлшем бірліктері бөлек таңдалады.</string>
+    <string name="settings_country_no_documents">Бұл ел үшін құжат үлгілері әлі жоқ. Құжаттарды көлік экранында қолмен қосуға болады.</string>
+    <string name="settings_currency">Валюта</string>
+    <string name="settings_currency_auto">Автоматты · %1$s</string>
+    <string name="settings_currency_manual">Қолмен таңдалған · %1$s</string>
+    <string name="settings_currency_by_country">Ел валютасын қолдану</string>
+    <string name="settings_currency_choose_country">Валютаны автоматты орнату үшін елді таңдаңыз.</string>
+    <string name="settings_currency_hint">Барлық көлікке қолданылады. Валютаны өзгерту тек белгісін өзгертеді: сақталған сомалар қайта есептелмейді.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">Ел немесе тіл өзгерсе де, осы бірліктер сақталады. Сақталған қашықтықтар мен отын көлемдері өзгермейді.</string>
+</resources>

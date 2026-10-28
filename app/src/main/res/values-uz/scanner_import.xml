@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">Rasm, PDF yoki UTF-8 matn faylini tanlang.</string>
+    <string name="scanner_import_multiple">Bir vaqtda bitta chek yuboring.</string>
+    <string name="scanner_import_too_large">Fayl juda katta. Chegara — 25 MB va 100 000 ta matn belgisi.</string>
+    <string name="scanner_import_busy">Avval joriy kiritishni tugating yoki yoping, so‘ng chekni qayta yuboring.</string>
+    <string name="ocr_import_failed">Faylni o‘qib bo‘lmadi. Ochish mumkin bo‘lgan, buzilmagan va parolsiz faylni tanlang. Matn fayli UTF-8 formatida bo‘lishi kerak.</string>
+    <string name="ocr_import_pdf_pages">PDF hujjatida 10 tadan ortiq sahifa bor. Ko‘pi bilan 10 sahifali hujjatni tanlang.</string>
+    <string name="ocr_import_intro">PDF, rasm yoki matnli chekni tanlang yoxud matnni quyiga joylashtiring. Ishlov berish qurilmada bajariladi.</string>
+    <string name="ocr_early_access_notice">Skaner erta kirish bosqichida. Matnni tanishni yaxshilayapmiz. Saqlashdan oldin matn va maydonlarni tekshiring.</string>
+    <string name="ocr_import_running">Chek o‘qilmoqda…</string>
+    <string name="ocr_choose_file">Faylni tanlash</string>
+    <string name="ocr_import_no_car">Yozuvni saqlash uchun avval garajga avtomobil qo‘shing.</string>
+    <string name="ocr_pdf_retry">Butun PDF matnini tanish</string>
+    <string name="ocr_pdf_retry_hint">Ajratib olingan matnda ma’lumot yetishmasa, barcha sahifalarni rasm sifatida taniting. Buning uchun skaner paketi kerak.</string>
+</resources>

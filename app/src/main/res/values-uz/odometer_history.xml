@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Ko‘rsatkichlar tarixi</string>
+    <string name="odometer_history_explain">Yoqilg‘i quyishdan alohida kiritilgan ko‘rsatkichlar. Tahrirlash yoki o‘chirish uchun yozuvni bosing.</string>
+    <string name="odometer_history_empty">Hali alohida ko‘rsatkichlar yo‘q.</string>
+    <string name="odometer_history_edit">Ko‘rsatkichni tahrirlash</string>
+    <string name="odometer_history_delete_confirm">%2$s sanasidagi %1$s ko‘rsatkichi o‘chirilsinmi? Hisoblangan masofa va texnik xizmat eslatmalari qolgan ko‘rsatkichlar asosida qayta hisoblanadi.</string>
+    <string name="odometer_history_write_failed">Ko‘rsatkichni o‘zgartirib bo‘lmadi. Tarixni qayta oching, yozuvni tekshiring va yana urinib ko‘ring.</string>
+    <string name="odometer_history_saving">Ko‘rsatkichlar yangilanmoqda…</string>
+</resources>

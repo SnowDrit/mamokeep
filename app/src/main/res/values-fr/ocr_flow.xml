@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Scanner un reçu</string>
+    <string name="ocr_title">Scanner de reçus</string>
+    <string name="ocr_choose_photo">Choisir une photo</string>
+    <string name="ocr_take_photo">Prendre une photo</string>
+    <string name="ocr_photo">Photo originale du reçu</string>
+    <string name="ocr_intro">Le texte est reconnu sur cet appareil. Vérifiez le résultat avant de l’enregistrer : une photo n’ajoute et ne modifie jamais automatiquement des entrées.</string>
+    <string name="ocr_running">Lecture de la photo sur cet appareil…</string>
+    <string name="ocr_source">Document original et texte</string>
+    <string name="ocr_source_text">Texte du reçu / note</string>
+    <string name="ocr_review_text">Corrigez les erreurs de reconnaissance, puis choisissez ce que vous souhaitez enregistrer. Vous pourrez vérifier tous les champs sur l’écran suivant.</string>
+    <string name="ocr_fuel_action">Vérifier un plein</string>
+    <string name="ocr_work_action">Vérifier l’entretien effectué</string>
+    <string name="ocr_fuel_review">Vérifiez les valeurs et les unités dans chaque champ. Devise : %1$s ; distance : %2$s. Saisissez vous-même le coût du carburant : le total du reçu peut inclure d’autres achats.</string>
+    <string name="ocr_confirm_date">La date affichée est correcte</string>
+    <string name="ocr_confirm_fields">J’ai vérifié tous les champs, la devise et les unités</string>
+    <string name="ocr_choose_fuel_type">Choisissez le type de carburant ; il n’a pas été identifié avec certitude.</string>
+    <string name="ocr_yes">Oui</string>
+    <string name="ocr_no">Non</string>
+    <string name="ocr_work_explanation">Une seule entrée d’entretien effectué sera enregistrée avec une note. Acheter des pièces ne signifie pas que le travail a été effectué. Les lignes du reçu et les prix restent uniquement dans la note, pas dans des entrées distinctes.</string>
+    <string name="ocr_confirm_work">Je confirme que le travail sélectionné a été effectué</string>
+    <string name="ocr_no_work_items">Aucun élément d’entretien n’est disponible. Ajoutez-en un sur l’écran du véhicule, puis relancez la numérisation.</string>
+    <string name="ocr_empty">Aucun texte trouvé. Choisissez un autre fichier ou saisissez le texte vous-même.</string>
+    <string name="ocr_image_failed">Impossible de lire la photo. Choisissez une image accessible avec un fichier plus léger ou une résolution plus faible.</string>
+    <string name="ocr_camera_failed">Impossible d’ouvrir l’appareil photo. Essayez de choisir une photo existante.</string>
+    <string name="ocr_model_failed">Le module du scanner est indisponible ou incompatible. Revenez aux paramètres du scanner et vérifiez le module installé.</string>
+    <string name="ocr_recognition_failed">La reconnaissance a échoué. Réessayez ou choisissez une autre photo.</string>
+    <string name="ocr_interrupted">La session de numérisation a été interrompue. Si vous enregistriez une entrée, vérifiez le journal, puis choisissez à nouveau le fichier.</string>
+    <string name="ocr_save_failed">Impossible d’enregistrer les modifications. Votre brouillon reste à l’écran. Réessayez.</string>
+    <string name="ocr_save_interrupted">L’enregistrement a été interrompu. Vérifiez le journal avant de réessayer : l’entrée a peut-être déjà été enregistrée.</string>
+    <string name="ocr_rotate">Faire pivoter la photo</string>
+</resources>

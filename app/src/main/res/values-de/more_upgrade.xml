@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="more_reminders_title">Erinnerungen</string>
+    <string name="more_reminders_summary">Uhrzeit, Wochentage und Vorwarnungen</string>
+    <string name="more_data_heading">Fahrzeugdaten</string>
+    <string name="more_export_summary">Fahrzeugverlauf und Frage zum Kopieren oder Speichern</string>
+    <string name="more_settings_heading">Einstellungen</string>
+    <string name="more_project_heading">Über das Projekt</string>
+    <string name="more_appearance_language">Darstellung und Sprache</string>
+    <string name="more_weekly_disabled_summary">Aus</string>
+    <string name="more_weekly_enabled_summary">Ein · einmal pro Woche</string>
+    <string name="more_choose_folder">Ordner wählen</string>
+    <string name="more_change_folder">Ordner ändern</string>
+    <string name="more_folder_permission_failed">Zugriff auf diesen Ordner konnte nicht gespeichert werden. Einen anderen Ordner wählen.</string>
+    <string name="more_support_open_failed">Link konnte nicht geöffnet werden. Einen Browser installieren oder aktivieren.</string>
+    <string name="more_privacy_policy">Datenschutzerklärung</string>
+    <string name="more_scanner_summary">Fotoerkennung auf dem Gerät. Optionales Paket.</string>
+    <string name="more_scanner_failed">Paket konnte nicht vorbereitet werden. Für Details öffnen.</string>
+    <string name="more_expanded">Ausgeklappt</string>
+    <string name="more_collapsed">Eingeklappt</string>
+</resources>

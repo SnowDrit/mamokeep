@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_reminders_title">Hatırlatmalar</string>
+    <string name="more_reminders_summary">Saat, haftanın günleri ve erken uyarılar</string>
+    <string name="more_data_heading">Araç verileri</string>
+    <string name="more_export_summary">Kopyalamaya veya kaydetmeye hazır araç geçmişi ve soru</string>
+    <string name="more_settings_heading">Tercihler</string>
+    <string name="more_project_heading">Proje hakkında</string>
+    <string name="more_appearance_language">Görünüm ve dil</string>
+    <string name="more_weekly_disabled_summary">Kapalı</string>
+    <string name="more_weekly_enabled_summary">Açık · haftada bir</string>
+    <string name="more_choose_folder">Klasör seç</string>
+    <string name="more_change_folder">Klasörü değiştir</string>
+    <string name="more_folder_permission_failed">Bu klasöre erişim kaydedilemedi. Başka bir klasör seçin.</string>
+    <string name="more_support_open_failed">Bağlantı açılamadı. Bir tarayıcı yükleyin veya etkinleştirin.</string>
+    <string name="more_privacy_policy">Gizlilik politikası</string>
+    <string name="more_scanner_summary">Cihazda fotoğraf tanıma. İsteğe bağlı paket.</string>
+    <string name="more_scanner_failed">Paket hazırlanamadı. Ayrıntılar için açın.</string>
+    <string name="more_expanded">Genişletildi</string>
+    <string name="more_collapsed">Daraltıldı</string>
+</resources>

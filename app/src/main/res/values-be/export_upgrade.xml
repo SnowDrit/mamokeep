@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_screen_title">Для чата з ШІ</string>
+    <string name="export_scenario_label">Што ўключыць</string>
+    <string name="export_question_label">Пытанне (неабавязкова)</string>
+    <string name="export_question_hint">Напрыклад: што праверыць перад далёкай паездкай?</string>
+    <string name="export_question_supporting">Гатовае пытанне застаецца ў тэксце. Дадайце тут падрабязнасці пра праблему або паездку.</string>
+    <string name="export_question_header">## Пытанне ўладальніка</string>
+    <string name="export_privacy_label">Перад перадачай</string>
+    <string name="export_setup_hint">Падрыхтуйце пытанне і даныя аўто для любога чата з ШІ. Тэкст ствараецца на гэтым тэлефоне; нічога не дасылаецца аўтаматычна.</string>
+    <string name="export_preview_size">%1$s сімвалаў · %2$s</string>
+    <string name="export_preview_review">Праверце тэкст і нататкі ніжэй. Капіраванне, перадача і захаванне выкарыстоўваюць менавіта гэтую версію.</string>
+    <string name="export_share">Падзяліцца</string>
+    <string name="export_share_title">Даслаць у чат з ШІ</string>
+    <string name="export_save_file">Захаваць файл</string>
+    <string name="export_share_failed">Не ўдалося адкрыць меню перадачы. Скапіруйце тэкст або захавайце яго ў файл.</string>
+    <string name="export_share_too_big">Гэты тэкст завялікі для прамой перадачы. Захавайце файл і далучыце яго да чата.</string>
+    <string name="export_large_preview_hint">Для такога аб’ёму даных захавайце файл і далучыце яго да чата.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">출처: 앱에 포함된 파일</string>
+    <string name="scanner_local_not_installed">기기에서 사진의 텍스트를 인식하려면 앱에 포함된 패키지를 활성화하세요.</string>
+    <string name="scanner_local_install">패키지 활성화</string>
+    <string name="scanner_local_install_title">스캐너 패키지를 활성화할까요?</string>
+    <string name="scanner_local_install_message">파일은 이미 앱에 포함되어 있습니다. 다운로드할 필요가 없습니다. 사진은 기기에 유지됩니다.</string>
+    <string name="scanner_local_queued">패키지 준비를 기다리는 중입니다. 이 화면을 닫아도 됩니다.</string>
+    <string name="scanner_local_verifying">파일 준비 및 검증 중…</string>
+    <string name="scanner_local_cancelling">준비 취소 중…</string>
+    <string name="scanner_local_cancel_install">준비 취소</string>
+    <string name="scanner_local_error_source">이 앱 버전에서는 패키지를 사용할 수 없습니다. 다른 버전을 선택하세요.</string>
+    <string name="scanner_local_error_integrity">파일이 검증을 통과하지 못했습니다. 스캐너 카드에서 패키지를 삭제한 후 다시 활성화하세요.</string>
+</resources>

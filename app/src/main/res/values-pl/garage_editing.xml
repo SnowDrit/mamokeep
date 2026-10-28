@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="garage_unsaved_title">Zapisać zmiany?</string>
+    <string name="garage_unsaved_message">Profil samochodu zawiera niezapisane zmiany.</string>
+    <string name="garage_leave_without_saving">Wyjdź bez zapisywania</string>
+    <string name="garage_keep_editing">Edytuj dalej</string>
+    <string name="garage_saving">Zapisywanie…</string>
+    <string name="garage_save_failed">Nie udało się zapisać profilu. Zmiany nadal są dostępne. Spróbuj ponownie.</string>
+</resources>

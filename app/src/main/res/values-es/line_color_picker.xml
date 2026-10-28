@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="line_color_choose">Elegir color</string>
+    <string name="line_color_theme">Usar color del tema</string>
+    <string name="line_color_standard">Colores estándar</string>
+    <string name="line_color_advanced">Modo avanzado</string>
+    <string name="line_color_apply">Aplicar</string>
+    <string name="line_color_wheel">Círculo cromático</string>
+    <string name="line_color_wheel_hint">Mover el marcador para elegir un color. Ajustar el brillo debajo o introducir un código.</string>
+    <string name="line_color_brightness">Brillo</string>
+    <string name="line_color_hex">HEX</string>
+    <string name="line_color_rgb">RGB (0–255)</string>
+    <string name="line_color_hex_hint">#RGB o #RRGGBB</string>
+    <string name="line_color_rgb_hint">Rojo, verde, azul: de 0 a 255 cada uno</string>
+    <string name="line_color_hex_error">Usar 3 o 6 dígitos hexadecimales, con # opcional.</string>
+    <string name="line_color_rgb_error">Introducir tres enteros de 0 a 255, separados por comas o espacios.</string>
+    <string name="line_color_preview">Color seleccionado: %1$s</string>
+    <string name="line_color_black">Negro</string>
+    <string name="line_color_white">Blanco</string>
+    <string name="line_color_gray">Gris</string>
+    <string name="line_color_red">Rojo</string>
+    <string name="line_color_orange">Naranja</string>
+    <string name="line_color_yellow">Amarillo</string>
+    <string name="line_color_green">Verde</string>
+    <string name="line_color_teal">Verde azulado</string>
+    <string name="line_color_cyan">Azul claro</string>
+    <string name="line_color_blue">Azul</string>
+    <string name="line_color_purple">Violeta</string>
+    <string name="line_color_pink">Rosa</string>
+    <string-array name="line_color_palette_names">
+        <item>@string/line_color_black</item>
+        <item>@string/line_color_white</item>
+        <item>@string/line_color_gray</item>
+        <item>@string/line_color_red</item>
+        <item>@string/line_color_orange</item>
+        <item>@string/line_color_yellow</item>
+        <item>@string/line_color_green</item>
+        <item>@string/line_color_teal</item>
+        <item>@string/line_color_cyan</item>
+        <item>@string/line_color_blue</item>
+        <item>@string/line_color_purple</item>
+        <item>@string/line_color_pink</item>
+    </string-array>
+</resources>

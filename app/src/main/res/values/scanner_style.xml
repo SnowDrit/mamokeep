@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scanner_card_padding">16dp</dimen>
+    <dimen name="scanner_section_gap">12dp</dimen>
+    <dimen name="scanner_detail_gap">4dp</dimen>
+    <dimen name="scanner_action_gap">8dp</dimen>
+    <dimen name="scanner_min_touch_height">48dp</dimen>
+    <dimen name="scanner_version_padding">12dp</dimen>
+    <bool name="scanner_wifi_only_default">true</bool>
+</resources>

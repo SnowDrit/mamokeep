@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Scan a receipt</string>
+    <string name="ocr_title">Receipt scanner</string>
+    <string name="ocr_choose_photo">Choose a photo</string>
+    <string name="ocr_take_photo">Take a photo</string>
+    <string name="ocr_rotate">Rotate photo</string>
+    <string name="ocr_photo">Source receipt photo</string>
+    <string name="ocr_intro">Text is recognized on this device. Check the result before saving: a photo never adds or changes records automatically.</string>
+    <string name="ocr_running">Reading the photo on this device…</string>
+    <string name="ocr_source">Original document and text</string>
+    <string name="ocr_source_text">Receipt text / note</string>
+    <string name="ocr_review_text">Correct recognition mistakes, then choose what to record. All fields can be checked on the next screen.</string>
+    <string name="ocr_fuel_action">Review a refueling entry</string>
+    <string name="ocr_work_action">Review completed maintenance</string>
+    <string name="ocr_fuel_review">Check the values and units in every field. Currency: %1$s; distance: %2$s. Enter the fuel cost yourself: the receipt total may include other purchases.</string>
+    <string name="ocr_confirm_date">The date shown is correct</string>
+    <string name="ocr_confirm_fields">I checked all fields, the currency and the units</string>
+    <string name="ocr_choose_fuel_type">Select the fuel type; it was not identified reliably.</string>
+    <string name="ocr_yes">Yes</string>
+    <string name="ocr_no">No</string>
+    <string name="ocr_work_explanation">This saves one completed maintenance entry with a note. Buying parts does not mean the work was done. Receipt line items and prices are kept only in the note, not as separate records.</string>
+    <string name="ocr_confirm_work">I confirm that the selected work was completed</string>
+    <string name="ocr_no_work_items">No maintenance items are available. Add an item on the car screen, then scan again.</string>
+    <string name="ocr_empty">No text found. Choose another file or enter the text yourself.</string>
+    <string name="ocr_image_failed">The photo could not be read. Choose an accessible image with a smaller file size or resolution.</string>
+    <string name="ocr_camera_failed">The camera could not be opened. Try choosing an existing photo.</string>
+    <string name="ocr_model_failed">The scanner package is unavailable or incompatible. Return to scanner settings and check the installed package.</string>
+    <string name="ocr_recognition_failed">Recognition failed. Try again or choose another photo.</string>
+    <string name="ocr_interrupted">The scanning session was interrupted. Check the journal if you were saving a record, then choose the file again.</string>
+    <string name="ocr_save_failed">Changes could not be saved. Your draft is still on screen. Try again.</string>
+    <string name="ocr_save_interrupted">Saving was interrupted. Check the journal before trying again: the record may already have been saved.</string>
+</resources>

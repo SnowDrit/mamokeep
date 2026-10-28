@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Kilometerstandverlauf</string>
+    <string name="odometer_history_explain">Unabhängig von Tankvorgängen eingegebene Werte. Zum Bearbeiten oder Löschen einen Eintrag antippen.</string>
+    <string name="odometer_history_empty">Noch keine separaten Einträge.</string>
+    <string name="odometer_history_edit">Kilometerstand bearbeiten</string>
+    <string name="odometer_history_delete_confirm">Den Wert %1$s vom %2$s löschen? Der geschätzte Kilometerstand und die Wartungserinnerungen werden anhand der verbleibenden Werte neu berechnet.</string>
+    <string name="odometer_history_write_failed">Der Eintrag konnte nicht geändert werden. Öffne den Verlauf erneut, prüfe den Eintrag und versuche es noch einmal.</string>
+    <string name="odometer_history_saving">Einträge werden aktualisiert…</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_empty">ガレージに車がありません。車を追加して記録を管理しましょう。</string>
+</resources>

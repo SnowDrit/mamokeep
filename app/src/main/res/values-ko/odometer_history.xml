@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">주행 거리 기록</string>
+    <string name="odometer_history_explain">주유와 별도로 입력한 주행 거리입니다. 기록을 눌러 수정하거나 삭제하세요.</string>
+    <string name="odometer_history_empty">별도로 입력한 기록이 아직 없습니다.</string>
+    <string name="odometer_history_edit">주행 거리 수정</string>
+    <string name="odometer_history_delete_confirm">%2$s의 %1$s 기록을 삭제할까요? 예상 주행 거리와 정비 알림은 남은 기록을 기준으로 다시 계산됩니다.</string>
+    <string name="odometer_history_write_failed">기록을 변경하지 못했습니다. 기록 목록을 다시 열어 확인한 후 다시 시도하세요.</string>
+    <string name="odometer_history_saving">기록 업데이트 중…</string>
+</resources>

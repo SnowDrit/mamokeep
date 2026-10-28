@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminder_threshold_edit">Настроить жёлтый уровень</string>
+    <string name="reminder_threshold_hide">Скрыть настройку жёлтого уровня</string>
+    <string name="reminder_threshold_hint">Жёлтый уровень начинается, когда до ТО остаётся указанный пробег или время. Красный – при наступлении срока. Уведомления заранее настраиваются отдельно ниже.</string>
+    <string name="reminder_item_heading">Напоминания</string>
+    <string name="reminder_use_common">Общие настройки</string>
+    <string name="reminder_common_hint">Для этой позиции действуют время, дни и повторы из «Ещё → Напоминания».</string>
+    <string name="reminder_open_settings">Настройка напоминаний</string>
+    <string name="reminder_settings_hint">Время, дни недели и предупреждения заранее. Для каждой позиции можно задать свои настройки.</string>
+    <string name="reminder_save_failed">Не удалось сохранить настройки. Изменения остались на экране; можно попробовать ещё раз.</string>
+    <string name="reminder_full_service_title">Полное ТО</string>
+    <string name="reminder_full_service_use">Создать напоминание о полном ТО</string>
+    <string name="reminder_full_service_hint">Полное ТО имеет свой интервал. После сохранения нужно указать, когда оно выполнялось в последний раз, чтобы рассчитать следующий срок. Отдельные детали при этом не отмечаются заменёнными.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="garage_unsaved_title">Enregistrer les modifications ?</string>
+    <string name="garage_unsaved_message">Le profil du véhicule contient des modifications non enregistrées.</string>
+    <string name="garage_leave_without_saving">Quitter sans enregistrer</string>
+    <string name="garage_keep_editing">Continuer la modification</string>
+    <string name="garage_saving">Enregistrement…</string>
+    <string name="garage_save_failed">Impossible d’enregistrer le profil. Les modifications sont toujours présentes. Réessayer.</string>
+</resources>

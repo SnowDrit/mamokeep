@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_unsaved_title">変更を保存しますか？</string>
+    <string name="garage_unsaved_message">車両プロフィールに未保存の変更があります。</string>
+    <string name="garage_leave_without_saving">保存せずに終了</string>
+    <string name="garage_keep_editing">編集を続ける</string>
+    <string name="garage_saving">保存中…</string>
+    <string name="garage_save_failed">プロフィールを保存できませんでした。変更内容は残っています。もう一度お試しください。</string>
+</resources>

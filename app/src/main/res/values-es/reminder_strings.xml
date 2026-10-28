@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminders_title">Recordatorios</string>
+    <string name="reminders_intro">El horario predeterminado para todos los coches, piezas, mantenimientos y documentos. Cada elemento puede usar un horario distinto.</string>
+    <string name="reminders_enabled">Enviar recordatorios</string>
+    <string name="reminders_disabled_hint">Los recordatorios están desactivados para este horario. Los intervalos de mantenimiento y el historial siguen disponibles.</string>
+    <string name="reminders_time">Hora de notificación</string>
+    <string name="reminders_time_select">Elegir hora</string>
+    <string name="reminders_time_dialog">Hora de notificación (24 horas)</string>
+    <string name="reminders_hours">Horas</string>
+    <string name="reminders_minutes">Minutos</string>
+    <string name="reminders_time_hint">Hora local del teléfono. Android puede retrasar un recordatorio para ahorrar batería.</string>
+    <string name="reminders_weekdays">Días de la semana</string>
+    <string name="reminders_every_day">Todos los días</string>
+    <string name="reminders_six_days">6 días</string>
+    <string name="reminders_workdays">De lunes a viernes</string>
+    <string name="reminders_weekdays_hint">Elegir los días deseados. «6 días» selecciona de lunes a sábado; la selección puede cambiarse.</string>
+    <string name="reminders_weekdays_error">Seleccionar al menos un día.</string>
+    <string name="reminders_basic_hint">Por defecto, los recordatorios empiezan en el nivel amarillo y se repiten los días elegidos hasta registrar el trabajo como hecho.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">%1$d día por semana</item>
+        <item quantity="other">%1$d días por semana</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>lun.</item>
+        <item>mar.</item>
+        <item>mié.</item>
+        <item>jue.</item>
+        <item>vie.</item>
+        <item>sáb.</item>
+        <item>dom.</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>lunes</item>
+        <item>martes</item>
+        <item>miércoles</item>
+        <item>jueves</item>
+        <item>viernes</item>
+        <item>sábado</item>
+        <item>domingo</item>
+    </string-array>
+    <string name="reminders_advanced_show">Ajustes avanzados</string>
+    <string name="reminders_advanced_hide">Ocultar ajustes avanzados</string>
+    <string name="reminders_advanced_enabled">Usar umbrales y repeticiones personalizados</string>
+    <string name="reminders_advanced_hint">El nivel amarillo procede de «Configurar el nivel amarillo» de cada elemento; el rojo significa que ha vencido. Estos ajustes cambian cuándo empiezan los recordatorios, no los colores de la tarjeta de mantenimiento.</string>
+    <string name="reminders_advance_hint">0 significa en el propio nivel. Si se definen distancia y días, el valor que se alcance primero activa el recordatorio. La distancia usa el kilometraje estimado; las nuevas lecturas afinan la estimación.</string>
+    <string name="reminders_yellow">Nivel amarillo · vence pronto</string>
+    <string name="reminders_red">Nivel rojo · toca mantenimiento</string>
+    <string name="reminders_advance_distance">Avisar antes de este nivel, %1$s</string>
+    <string name="reminders_advance_days">Avisar antes de este nivel, días</string>
+    <string name="reminders_repeat_days">Repetir como máximo cada … días</string>
+    <string name="reminders_max_occurrences">Máximo de recordatorios en cada etapa</string>
+    <string name="reminders_repeat_hint">Las repeticiones llegan solo los días elegidos, como máximo una vez al día por elemento. Al llegar al amarillo o al rojo empieza otra etapa con un contador nuevo.</string>
+    <string name="reminders_limit_hint">0 significa sin límite. El contador se reinicia al registrar el mantenimiento como hecho.</string>
+    <string name="reminders_number_error">Introducir un número entero de %1$s a %2$s.</string>
+    <string name="reminders_save_error">No se pudieron guardar los recordatorios. Volver a intentarlo.</string>
+    <string name="reminders_permission_hint">Android ha bloqueado las notificaciones. El horario puede guardarse, pero los recordatorios solo llegarán después de permitir las notificaciones.</string>
+    <string name="reminders_permission_settings">Abrir ajustes de notificaciones</string>
+</resources>

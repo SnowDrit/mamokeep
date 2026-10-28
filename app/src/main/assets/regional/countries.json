@@ -1,0 +1,362 @@
+[
+  {
+    "code": "ae",
+    "currencyCode": "AED"
+  },
+  {
+    "code": "al",
+    "currencyCode": "ALL"
+  },
+  {
+    "code": "am",
+    "currencyCode": "AMD"
+  },
+  {
+    "code": "ar",
+    "currencyCode": "ARS"
+  },
+  {
+    "code": "at",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "au",
+    "currencyCode": "AUD"
+  },
+  {
+    "code": "az",
+    "currencyCode": "AZN"
+  },
+  {
+    "code": "ba",
+    "currencyCode": "BAM"
+  },
+  {
+    "code": "bd",
+    "currencyCode": "BDT"
+  },
+  {
+    "code": "be",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "bg",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "bh",
+    "currencyCode": "BHD"
+  },
+  {
+    "code": "br",
+    "currencyCode": "BRL"
+  },
+  {
+    "code": "by",
+    "currencyCode": "BYN"
+  },
+  {
+    "code": "ca",
+    "currencyCode": "CAD"
+  },
+  {
+    "code": "ch",
+    "currencyCode": "CHF"
+  },
+  {
+    "code": "cl",
+    "currencyCode": "CLP"
+  },
+  {
+    "code": "cn",
+    "currencyCode": "CNY"
+  },
+  {
+    "code": "co",
+    "currencyCode": "COP"
+  },
+  {
+    "code": "cy",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "cz",
+    "currencyCode": "CZK"
+  },
+  {
+    "code": "de",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "dk",
+    "currencyCode": "DKK"
+  },
+  {
+    "code": "dz",
+    "currencyCode": "DZD"
+  },
+  {
+    "code": "ee",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "eg",
+    "currencyCode": "EGP"
+  },
+  {
+    "code": "es",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "fi",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "fr",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "gb",
+    "currencyCode": "GBP"
+  },
+  {
+    "code": "ge",
+    "currencyCode": "GEL"
+  },
+  {
+    "code": "gr",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "hk",
+    "currencyCode": "HKD"
+  },
+  {
+    "code": "hr",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "hu",
+    "currencyCode": "HUF"
+  },
+  {
+    "code": "id",
+    "currencyCode": "IDR"
+  },
+  {
+    "code": "ie",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "il",
+    "currencyCode": "ILS"
+  },
+  {
+    "code": "in",
+    "currencyCode": "INR"
+  },
+  {
+    "code": "is",
+    "currencyCode": "ISK"
+  },
+  {
+    "code": "it",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "jp",
+    "currencyCode": "JPY"
+  },
+  {
+    "code": "kg",
+    "currencyCode": "KGS"
+  },
+  {
+    "code": "kr",
+    "currencyCode": "KRW"
+  },
+  {
+    "code": "kw",
+    "currencyCode": "KWD"
+  },
+  {
+    "code": "kz",
+    "currencyCode": "KZT"
+  },
+  {
+    "code": "li",
+    "currencyCode": "CHF"
+  },
+  {
+    "code": "lk",
+    "currencyCode": "LKR"
+  },
+  {
+    "code": "lt",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "lu",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "lv",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "ma",
+    "currencyCode": "MAD"
+  },
+  {
+    "code": "md",
+    "currencyCode": "MDL"
+  },
+  {
+    "code": "me",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "mk",
+    "currencyCode": "MKD"
+  },
+  {
+    "code": "mn",
+    "currencyCode": "MNT"
+  },
+  {
+    "code": "mo",
+    "currencyCode": "MOP"
+  },
+  {
+    "code": "mt",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "mx",
+    "currencyCode": "MXN"
+  },
+  {
+    "code": "my",
+    "currencyCode": "MYR"
+  },
+  {
+    "code": "nl",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "no",
+    "currencyCode": "NOK"
+  },
+  {
+    "code": "np",
+    "currencyCode": "NPR"
+  },
+  {
+    "code": "nz",
+    "currencyCode": "NZD"
+  },
+  {
+    "code": "om",
+    "currencyCode": "OMR"
+  },
+  {
+    "code": "pe",
+    "currencyCode": "PEN"
+  },
+  {
+    "code": "ph",
+    "currencyCode": "PHP"
+  },
+  {
+    "code": "pk",
+    "currencyCode": "PKR"
+  },
+  {
+    "code": "pl",
+    "currencyCode": "PLN"
+  },
+  {
+    "code": "pt",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "qa",
+    "currencyCode": "QAR"
+  },
+  {
+    "code": "ro",
+    "currencyCode": "RON"
+  },
+  {
+    "code": "rs",
+    "currencyCode": "RSD"
+  },
+  {
+    "code": "ru",
+    "currencyCode": "RUB"
+  },
+  {
+    "code": "sa",
+    "currencyCode": "SAR"
+  },
+  {
+    "code": "se",
+    "currencyCode": "SEK"
+  },
+  {
+    "code": "sg",
+    "currencyCode": "SGD"
+  },
+  {
+    "code": "si",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "sk",
+    "currencyCode": "EUR"
+  },
+  {
+    "code": "th",
+    "currencyCode": "THB"
+  },
+  {
+    "code": "tj",
+    "currencyCode": "TJS"
+  },
+  {
+    "code": "tm",
+    "currencyCode": "TMT"
+  },
+  {
+    "code": "tn",
+    "currencyCode": "TND"
+  },
+  {
+    "code": "tr",
+    "currencyCode": "TRY"
+  },
+  {
+    "code": "tw",
+    "currencyCode": "TWD"
+  },
+  {
+    "code": "ua",
+    "currencyCode": "UAH"
+  },
+  {
+    "code": "us",
+    "currencyCode": "USD"
+  },
+  {
+    "code": "uz",
+    "currencyCode": "UZS"
+  },
+  {
+    "code": "vn",
+    "currencyCode": "VND"
+  },
+  {
+    "code": "za",
+    "currencyCode": "ZAR"
+  }
+]

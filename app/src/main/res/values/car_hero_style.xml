@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_hero_max_width">320dp</dimen>
+    <dimen name="car_hero_inset_horizontal">16dp</dimen>
+    <dimen name="car_hero_inset_vertical">8dp</dimen>
+    <dimen name="car_hero_section_gap">8dp</dimen>
+    <dimen name="car_hero_caption_gap">4dp</dimen>
+    <!-- Only used when a painter has no valid intrinsic dimensions; vectors normally provide them. -->
+    <fraction name="car_hero_fallback_ratio">100%</fraction>
+</resources>

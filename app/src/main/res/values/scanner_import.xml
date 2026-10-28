@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">Choose an image, PDF or UTF-8 text file.</string>
+    <string name="scanner_import_multiple">Share one receipt at a time.</string>
+    <string name="scanner_import_too_large">The file is too large. The limit is 25 MB and 100,000 text characters.</string>
+    <string name="scanner_import_busy">Finish or close the current form, then share the receipt again.</string>
+    <string name="ocr_import_failed">The file could not be read. Choose an accessible, undamaged file without a password. Text files must use UTF-8.</string>
+    <string name="ocr_import_pdf_pages">This PDF has more than 10 pages. Choose a document with no more than 10 pages.</string>
+    <string name="ocr_import_intro">Choose a PDF, image or text receipt, or paste the text below. Processing takes place on your device.</string>
+    <string name="ocr_early_access_notice">The scanner is in early access. We are improving text recognition. Check the text and fields before saving.</string>
+    <string name="ocr_import_running">Reading receipt…</string>
+    <string name="ocr_choose_file">Choose file</string>
+    <string name="ocr_import_no_car">To save a record, first add a vehicle to your garage.</string>
+    <string name="ocr_pdf_retry">Recognize the entire PDF</string>
+    <string name="ocr_pdf_retry_hint">If the extracted text is missing information, recognize all pages as images. This requires the scanner package.</string>
+</resources>

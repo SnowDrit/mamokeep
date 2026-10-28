@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminder_threshold_edit">Configurar el nivel amarillo</string>
+    <string name="reminder_threshold_hide">Ocultar ajustes del nivel amarillo</string>
+    <string name="reminder_threshold_hint">El elemento se vuelve amarillo cuando queda esta distancia o tiempo para el mantenimiento. El rojo empieza al vencer. Las notificaciones anticipadas se configuran por separado debajo.</string>
+    <string name="reminder_item_heading">Recordatorios</string>
+    <string name="reminder_use_common">Usar ajustes comunes</string>
+    <string name="reminder_common_hint">Se aplican a este elemento la hora, los días y las reglas de repetición de Más → Recordatorios.</string>
+    <string name="reminder_open_settings">Ajustes de recordatorios</string>
+    <string name="reminder_settings_hint">Hora, días de la semana y avisos anticipados. Cada elemento puede tener ajustes propios.</string>
+    <string name="reminder_save_failed">No se pudieron guardar los ajustes. Los cambios siguen aquí; volver a intentarlo.</string>
+    <string name="reminder_full_service_title">Revisión completa</string>
+    <string name="reminder_full_service_use">Crear un recordatorio de revisión completa</string>
+    <string name="reminder_full_service_hint">La revisión completa tiene su propio intervalo. Tras guardar, registrar cuándo se realizó por última vez para calcular el próximo vencimiento. Completarla no marca las piezas individuales como sustituidas.</string>
+</resources>

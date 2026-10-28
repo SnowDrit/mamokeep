@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminders_title">Нагадування</string>
+    <string name="reminders_intro">Типовий розклад для всіх авто, деталей, обслуговування й документів. Для окремого пункту можна обрати інший розклад.</string>
+    <string name="reminders_enabled">Надсилати нагадування</string>
+    <string name="reminders_disabled_hint">Нагадування за цим розкладом вимкнено. Інтервали й історія обслуговування залишаються доступними.</string>
+    <string name="reminders_time">Час сповіщення</string>
+    <string name="reminders_time_select">Обрати час</string>
+    <string name="reminders_time_dialog">Час сповіщення (24 години)</string>
+    <string name="reminders_hours">Години</string>
+    <string name="reminders_minutes">Хвилини</string>
+    <string name="reminders_time_hint">Місцевий час телефона. Android може доставити нагадування пізніше, щоб заощадити заряд.</string>
+    <string name="reminders_weekdays">Дні тижня</string>
+    <string name="reminders_every_day">Щодня</string>
+    <string name="reminders_six_days">6 днів</string>
+    <string name="reminders_workdays">Будні</string>
+    <string name="reminders_weekdays_hint">Оберіть будь-які дні. «6 днів» обирає понеділок–суботу; вибір можна змінити.</string>
+    <string name="reminders_weekdays_error">Оберіть принаймні один день.</string>
+    <string name="reminders_basic_hint">Типово нагадування починаються на жовтому рівні й повторюються в обрані дні, поки роботу не позначено як виконану.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">%1$d день на тиждень</item>
+        <item quantity="few">%1$d дні на тиждень</item>
+        <item quantity="many">%1$d днів на тиждень</item>
+        <item quantity="other">%1$d дня на тиждень</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П’ятниця</item>
+        <item>Субота</item>
+        <item>Неділя</item>
+    </string-array>
+    <string name="reminders_advanced_show">Розширені налаштування</string>
+    <string name="reminders_advanced_hide">Приховати розширені налаштування</string>
+    <string name="reminders_advanced_enabled">Власні пороги й повторення</string>
+    <string name="reminders_advanced_hint">Жовтий рівень задається в налаштуванні пункту «Налаштувати жовтий рівень»; червоний означає, що строк настав. Ці налаштування змінюють початок нагадувань, а не кольори картки обслуговування.</string>
+    <string name="reminders_advance_hint">0 означає на самому рівні. Якщо задано відстань і дні, нагадування викликає те, що настане раніше. Відстань використовує оцінений пробіг; нові показники одометра уточнюють оцінку.</string>
+    <string name="reminders_yellow">Жовтий рівень · скоро строк</string>
+    <string name="reminders_red">Червоний рівень · час обслуговування</string>
+    <string name="reminders_advance_distance">Попереджати до рівня за, %1$s</string>
+    <string name="reminders_advance_days">Попереджати до рівня за, днів</string>
+    <string name="reminders_repeat_days">Повторювати не частіше ніж кожні … днів</string>
+    <string name="reminders_max_occurrences">Максимум нагадувань на кожному етапі</string>
+    <string name="reminders_repeat_hint">Повтори надходять лише в обрані дні тижня, не більше одного разу на день для пункту. Досягнення жовтого або червоного рівня починає новий етап із новим відліком.</string>
+    <string name="reminders_limit_hint">0 означає без обмежень. Відлік починається знову, коли обслуговування позначено як виконане.</string>
+    <string name="reminders_number_error">Введіть ціле число від %1$s до %2$s.</string>
+    <string name="reminders_save_error">Не вдалося зберегти нагадування. Спробуйте ще раз.</string>
+    <string name="reminders_permission_hint">Android заблокував сповіщення. Розклад можна зберегти, але нагадування надходитимуть лише після дозволу на сповіщення.</string>
+    <string name="reminders_permission_settings">Відкрити налаштування сповіщень</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_preview">テキストを確認</string>
+    <string name="export_preview_title">チャット用テキスト</string>
+    <string name="export_back">戻る</string>
+    <string name="export_preparing">テキストを準備中…</string>
+    <string name="export_prepare_failed">テキストを準備できませんでした。もう一度お試しください。</string>
+    <string name="export_copy_failed">コピーできませんでした。再試行するか、ファイルとして保存してください。</string>
+    <string name="export_choosing_file">ファイルの保存先を選択中…</string>
+    <string name="export_writing_file">ファイルを保存中…</string>
+    <string name="export_preview_lost">アプリ再起動後にテキストが保持されていません。保存する前にもう一度プレビューしてください。</string>
+</resources>

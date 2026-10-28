@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">画面で学ぶガイド</string>
+    <string name="help_lessons_hint">テーマを選ぶと、画面上の操作を順番に確認できます。変更の保存やデータの送信は行いません。</string>
+    <string name="help_lesson_start">ステップ別ガイド</string>
+    <string name="help_lesson_close">終了</string>
+    <string name="help_lesson_reminders_title">柔軟なリマインダー</string>
+    <string name="help_lesson_export_title">AI向けエクスポート</string>
+    <string name="help_lesson_regional_title">言語・国・通貨</string>
+    <string name="help_lesson_steps">%1$dステップ</string>
+    <string name="help_lesson_reminder_time_title">都合のよい時刻</string>
+    <string name="help_lesson_reminder_time_summary">ここでリマインダーの現地時刻を選びます。Androidの通知は遅れる場合があります。ガイド中はスケジュールを変更しません。</string>
+    <string name="help_lesson_reminder_days_title">選んだ曜日だけ通知</string>
+    <string name="help_lesson_reminder_days_summary">プリセットや個別の曜日を選べます。このスケジュールは繰り返しにも適用されます。少なくとも1日が必要です。</string>
+    <string name="help_lesson_reminder_advanced_title">詳細なルール</string>
+    <string name="help_lesson_reminder_advanced_summary">説明のためにこの項目を展開しています。スイッチの状態は変わっていません。しきい値と繰り返しは、有効にして保存した後に適用されます。</string>
+    <string name="help_lesson_reminder_thresholds_title">余裕を持って通知</string>
+    <string name="help_lesson_reminder_thresholds_summary">黄色の段階になる何日前・どれだけ手前の距離で通知するかを設定します。下には赤色用の同じ項目があります。ゼロはその段階に達した時点での通知を意味します。カードの色は変わりません。</string>
+    <string name="help_lesson_reminder_repeats_title">繰り返しと回数制限</string>
+    <string name="help_lesson_reminder_repeats_summary">間隔は日数で指定します。通知回数は同じ段階での繰り返しを制限します。回数がゼロなら無制限です。赤色の段階には別の設定があります。</string>
+    <string name="help_lesson_reminder_save_title">準備ができたら適用</string>
+    <string name="help_lesson_reminder_save_summary">ガイドでは何も保存していません。終了後に項目を編集し、「保存」で適用できます。個別の整備項目や書類には、それぞれの編集画面で専用のスケジュールを設定できます。</string>
+    <string name="help_lesson_export_content_title">含める内容を選択</string>
+    <string name="help_lesson_export_content_summary">一般的な質問には概要が適しています。全履歴には整備と給油の記録も含まれます。ガイドは現在の選択を変更しません。</string>
+    <string name="help_lesson_export_question_title">質問を追加</string>
+    <string name="help_lesson_export_question_summary">質問は車両データとともにテキストの先頭に入ります。空欄のままでも構いません。ガイド中の入力は不要です。</string>
+    <string name="help_lesson_export_privacy_title">個人情報を確認</string>
+    <string name="help_lesson_export_privacy_summary">このスイッチでVINと車両名を非表示にできます。自由記入のメモには個人情報が残る場合があるため、共有前にテキストの確認が必要です。</string>
+    <string name="help_lesson_export_build_title">プレビューを開く</string>
+    <string name="help_lesson_export_build_summary">「次へ」で、現在の設定に基づくテキストをこの端末内だけで作成します。車両の記録は変わらず、データも送信されません。</string>
+    <string name="help_lesson_export_review_title">共有前に読む</string>
+    <string name="help_lesson_export_review_summary">ここに表示される内容が、そのままコピーや保存の対象になります。ガイド終了後にスクロールして確認できます。戻る矢印で内容の選択と質問に戻れます。</string>
+    <string name="help_lesson_export_send_title">準備ができたら共有</string>
+    <string name="help_lesson_export_send_summary">ガイド終了後は、コピー、他のアプリへの共有、ファイル保存ができます。大きなデータはファイルで扱います。ガイドはこれらのボタンを押しません。</string>
+    <string name="help_lesson_regional_language_title">言語は国と別に選択</string>
+    <string name="help_lesson_regional_language_summary">Android 13以降では、ここでアプリの言語を選べます。それ以前はスマートフォンの言語を使います。国、単位、通貨は変わりません。</string>
+    <string name="help_lesson_regional_country_title">書類のための国設定</string>
+    <string name="help_lesson_regional_country_summary">国によって利用できる書類と自動設定の通貨が決まります。既存の記録は保持されます。書類は専用のボタンで操作した場合のみ追加されます。</string>
+    <string name="help_lesson_regional_units_title">使いやすい単位</string>
+    <string name="help_lesson_regional_units_summary">単位は距離、燃料、燃費の表示と入力に影響します。保存済みの走行距離や整備間隔はリセットされません。国とは別に選べます。</string>
+    <string name="help_lesson_regional_currency_title">通貨の設定方法を確認</string>
+    <string name="help_lesson_regional_currency_summary">この行には現在の通貨と選択方法が表示されます。「次へ」で一覧を開き、設定を変えずに自動選択と手動選択を確認できます。</string>
+    <string name="help_lesson_currency_auto_title">国に合わせて自動選択</string>
+    <string name="help_lesson_currency_auto_summary">この項目は選択した国の通貨を使い、国の変更に合わせて更新します。国が未設定なら、先に国の選択が必要です。ガイドはこの項目を選択しません。</string>
+    <string name="help_lesson_currency_manual_title">通貨を手動で選択</string>
+    <string name="help_lesson_currency_manual_summary">通貨コードや名前で検索できます。手動で選んだ通貨は国を変更しても維持されます。既存の記録の金額は為替レートで換算されません。ガイド終了後に行をタップすると選択が適用されます。</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminder_threshold_edit">Régler le niveau jaune</string>
+    <string name="reminder_threshold_hide">Masquer les réglages du niveau jaune</string>
+    <string name="reminder_threshold_hint">L’élément devient jaune lorsqu’il reste cette distance ou ce délai avant l’entretien. Le rouge commence à l’échéance. Les notifications anticipées se règlent séparément ci-dessous.</string>
+    <string name="reminder_item_heading">Rappels</string>
+    <string name="reminder_use_common">Utiliser les réglages communs</string>
+    <string name="reminder_common_hint">L’heure, les jours et les règles de répétition de Plus → Rappels s’appliquent à cet élément.</string>
+    <string name="reminder_open_settings">Réglages des rappels</string>
+    <string name="reminder_settings_hint">Heure, jours de la semaine et alertes anticipées. Chaque élément peut avoir ses propres réglages.</string>
+    <string name="reminder_save_failed">Impossible d’enregistrer les réglages. Les modifications sont toujours présentes ; réessayer.</string>
+    <string name="reminder_full_service_title">Révision complète</string>
+    <string name="reminder_full_service_use">Créer un rappel de révision complète</string>
+    <string name="reminder_full_service_hint">La révision complète a son propre intervalle. Après l’enregistrement, noter sa dernière réalisation pour calculer la prochaine échéance. La valider ne marque pas les pièces individuelles comme remplacées.</string>
+</resources>

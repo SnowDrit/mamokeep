@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_unsaved_title">Сохранить изменения?</string>
+    <string name="garage_unsaved_message">В профиле машины есть несохранённые изменения.</string>
+    <string name="garage_leave_without_saving">Выйти без сохранения</string>
+    <string name="garage_keep_editing">Продолжить редактирование</string>
+    <string name="garage_saving">Сохранение…</string>
+    <string name="garage_save_failed">Не удалось сохранить профиль. Изменения остались на экране. Попробуйте ещё раз.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">Виберіть зображення, PDF або текстовий файл UTF-8.</string>
+    <string name="scanner_import_multiple">Надсилайте по одному чеку за раз.</string>
+    <string name="scanner_import_too_large">Файл завеликий. Максимум 25 МБ і 100 000 символів тексту.</string>
+    <string name="scanner_import_busy">Спочатку завершіть або закрийте поточне введення, а потім надішліть чек ще раз.</string>
+    <string name="ocr_import_failed">Не вдалося прочитати файл. Виберіть доступний непошкоджений файл без пароля; текстовий файл має бути в UTF-8.</string>
+    <string name="ocr_import_pdf_pages">У PDF понад 10 сторінок. Виберіть документ не довший за 10 сторінок.</string>
+    <string name="ocr_import_intro">Виберіть PDF, зображення чи текстовий чек або вставте текст нижче. Обробка відбувається на пристрої.</string>
+    <string name="ocr_early_access_notice">Сканер у ранньому доступі. Ми вдосконалюємо розпізнавання. Перевірте текст і поля перед збереженням.</string>
+    <string name="ocr_import_running">Читаємо чек…</string>
+    <string name="ocr_choose_file">Вибрати файл</string>
+    <string name="ocr_import_no_car">Щоб зберегти запис, спочатку додайте автомобіль до гаража.</string>
+    <string name="ocr_pdf_retry">Розпізнати весь PDF</string>
+    <string name="ocr_pdf_retry_hint">Якщо у видобутому тексті бракує даних, розпізнайте всі сторінки як зображення. Для цього потрібен пакет сканера.</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Уроки на екрані</string>
+    <string name="help_lessons_hint">Вибрати тему. Навчання покаже потрібні елементи, нічого не зберігаючи й не надсилаючи.</string>
+    <string name="help_lesson_start">Покрокове навчання</string>
+    <string name="help_lesson_close">Завершити</string>
+    <string name="help_lesson_reminders_title">Гнучкі нагадування</string>
+    <string name="help_lesson_export_title">Вивантаження для ШІ</string>
+    <string name="help_lesson_regional_title">Мова, країна й валюта</string>
+    <string name="help_lesson_steps">Кроків: %1$d</string>
+    <string name="help_lesson_reminder_time_title">Зручний час</string>
+    <string name="help_lesson_reminder_time_summary">Тут вибирається місцевий час нагадувань. Android може доставити їх пізніше. Під час навчання розклад не змінюється.</string>
+    <string name="help_lesson_reminder_days_title">Лише в потрібні дні</string>
+    <string name="help_lesson_reminder_days_summary">Можна вибрати готовий набір або окремі дні тижня. Цей розклад діє й для повторів. Потрібен хоча б один день.</string>
+    <string name="help_lesson_reminder_advanced_title">Розширені правила</string>
+    <string name="help_lesson_reminder_advanced_summary">Розділ розгорнуто для ознайомлення. Перемикач не змінено: пороги й повтори почнуть діяти лише після ввімкнення та збереження.</string>
+    <string name="help_lesson_reminder_thresholds_title">Попереджати заздалегідь</string>
+    <string name="help_lesson_reminder_thresholds_summary">Тут задається запас відстані й днів до жовтого рівня. Нижче є такі самі поля для червоного. Нуль означає сповіщення при досягненні рівня. Кольори карток не змінюються.</string>
+    <string name="help_lesson_reminder_repeats_title">Повтори й обмеження</string>
+    <string name="help_lesson_reminder_repeats_summary">Інтервал задається в днях, кількість сповіщень обмежує повтори на одному рівні. Нуль означає без обмеження. Для червоного рівня налаштування окремі.</string>
+    <string name="help_lesson_reminder_save_title">Застосувати, коли все готово</string>
+    <string name="help_lesson_reminder_save_summary">Навчання нічого не зберегло. Після завершення можна змінити поля й натиснути «Зберегти». Власний розклад для окремого ТО чи документа задається в його редакторі.</string>
+    <string name="help_lesson_export_content_title">Вибрати склад</string>
+    <string name="help_lesson_export_content_summary">Коротке зведення підходить для загального запитання. Повна історія додає записи обслуговування й заправок. Урок не змінює вибраний склад.</string>
+    <string name="help_lesson_export_question_title">Додати своє запитання</string>
+    <string name="help_lesson_export_question_summary">Запитання потрапить на початок тексту поруч із даними авто. Поле можна залишити порожнім. Під час уроку нічого вводити не потрібно.</string>
+    <string name="help_lesson_export_privacy_title">Перевірити особисті дані</string>
+    <string name="help_lesson_export_privacy_summary">Перемикач приховує VIN і назву авто. Довільні нотатки можуть містити особисті відомості, тому перед передаванням потрібен перегляд.</string>
+    <string name="help_lesson_export_build_title">Відкрити перегляд</string>
+    <string name="help_lesson_export_build_summary">«Далі» підготує текст із поточними параметрами лише на цьому пристрої. Записи авто не зміняться, дані нікуди не надсилатимуться.</string>
+    <string name="help_lesson_export_review_title">Прочитати перед передаванням</string>
+    <string name="help_lesson_export_review_summary">Це саме той текст, який буде скопійовано або збережено. Після уроку його можна прокрутити й перевірити. Стрілка назад поверне до складу та запитання.</string>
+    <string name="help_lesson_export_send_title">Передати за власним вибором</string>
+    <string name="help_lesson_export_send_summary">Після уроку доступні копіювання, передавання в інший застосунок і збереження файлу. Для великого тексту використовується файл. Урок не натискає ці кнопки.</string>
+    <string name="help_lesson_regional_language_title">Мова окремо від країни</string>
+    <string name="help_lesson_regional_language_summary">На Android 13 і новіших мова застосунку вибирається тут, на попередніх версіях використовується мова телефона. Країна, одиниці й валюта від цього не змінюються.</string>
+    <string name="help_lesson_regional_country_title">Країна для документів</string>
+    <string name="help_lesson_regional_country_summary">Країна визначає доступні документи й валюту в автоматичному режимі. Наявні записи зберігаються. Документи додаються лише окремою кнопкою.</string>
+    <string name="help_lesson_regional_units_title">Зручні одиниці</string>
+    <string name="help_lesson_regional_units_summary">Одиниці змінюють відображення та введення відстані, пального й витрати. Збережені пробіги та інтервали ТО не скидаються. Вибір не залежить від країни.</string>
+    <string name="help_lesson_regional_currency_title">Перевірити режим валюти</string>
+    <string name="help_lesson_regional_currency_summary">Рядок показує поточну валюту та спосіб вибору. «Далі» відкриє список, де можна побачити автоматичний і ручний режими без зміни налаштування.</string>
+    <string name="help_lesson_currency_auto_title">Автоматично за країною</string>
+    <string name="help_lesson_currency_auto_summary">Цей пункт використовує валюту вибраної країни й реагує на зміну країни. Якщо країну не вибрано, спочатку потрібно вказати її. Урок не вибирає цей пункт.</string>
+    <string name="help_lesson_currency_manual_title">Указати валюту вручну</string>
+    <string name="help_lesson_currency_manual_summary">Пошук допомагає знайти код або назву валюти. Ручний вибір збережеться при зміні країни. Суми в попередніх записах не перераховуються за курсом. Після уроку вибір застосовується натисканням на рядок.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_reminders_title">Напоминания</string>
+    <string name="more_reminders_summary">Время, дни недели и предупреждения заранее</string>
+    <string name="more_data_heading">Данные машины</string>
+    <string name="more_export_summary">История машины и вопрос для копирования или сохранения</string>
+    <string name="more_settings_heading">Настройки</string>
+    <string name="more_project_heading">О проекте</string>
+    <string name="more_appearance_language">Оформление и язык</string>
+    <string name="more_weekly_disabled_summary">Выключено</string>
+    <string name="more_weekly_enabled_summary">Включено · раз в неделю</string>
+    <string name="more_choose_folder">Выбрать папку</string>
+    <string name="more_change_folder">Сменить папку</string>
+    <string name="more_folder_permission_failed">Не удалось сохранить доступ к папке. Нужно выбрать другую папку.</string>
+    <string name="more_support_open_failed">Не удалось открыть ссылку. Нужно установить или включить браузер.</string>
+    <string name="more_privacy_policy">Политика конфиденциальности</string>
+    <string name="more_scanner_summary">Распознавание фото на устройстве. Необязательный пакет.</string>
+    <string name="more_scanner_failed">Не удалось подготовить пакет. Подробности внутри.</string>
+    <string name="more_expanded">Развёрнуто</string>
+    <string name="more_collapsed">Свёрнуто</string>
+</resources>

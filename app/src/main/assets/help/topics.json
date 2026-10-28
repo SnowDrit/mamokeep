@@ -1,0 +1,158 @@
+[
+  {
+    "id": "car",
+    "page": "CAR",
+    "title": "help_car_title",
+    "summary": "help_car_summary",
+    "detail": "help_car_detail",
+    "showInTour": true
+  },
+  {
+    "id": "mileage",
+    "page": "CAR",
+    "title": "help_mileage_title",
+    "summary": "help_mileage_summary",
+    "detail": "help_mileage_detail",
+    "showInTour": true
+  },
+  {
+    "id": "fuel",
+    "page": "CAR",
+    "title": "help_fuel_title",
+    "summary": "help_fuel_summary",
+    "detail": "help_fuel_detail",
+    "showInTour": false
+  },
+  {
+    "id": "maintenance",
+    "page": "CAR",
+    "title": "help_maintenance_title",
+    "summary": "help_maintenance_summary",
+    "detail": "help_maintenance_detail",
+    "showInTour": true
+  },
+  {
+    "id": "add_maintenance",
+    "page": "CAR",
+    "title": "help_add_maintenance_title",
+    "summary": "help_add_maintenance_summary",
+    "detail": "help_add_maintenance_detail",
+    "showInTour": false
+  },
+  {
+    "id": "documents",
+    "page": "CAR",
+    "title": "help_documents_title",
+    "summary": "help_documents_summary",
+    "detail": "help_documents_detail",
+    "showInTour": false
+  },
+  {
+    "id": "refuel",
+    "page": "CAR",
+    "title": "help_refuel_title",
+    "summary": "help_refuel_summary",
+    "detail": "help_refuel_detail",
+    "showInTour": true
+  },
+  {
+    "id": "journal_car",
+    "page": "JOURNAL",
+    "title": "help_journal_car_title",
+    "summary": "help_journal_car_summary",
+    "detail": "help_journal_car_detail",
+    "showInTour": false
+  },
+  {
+    "id": "journal_entries",
+    "page": "JOURNAL",
+    "title": "help_journal_entries_title",
+    "summary": "help_journal_entries_summary",
+    "detail": "help_journal_entries_detail",
+    "showInTour": true
+  },
+  {
+    "id": "reminders",
+    "page": "MORE",
+    "title": "help_reminders_title",
+    "summary": "help_reminders_summary",
+    "detail": "help_reminders_detail",
+    "showInTour": true,
+    "lesson": "reminders"
+  },
+  {
+    "id": "export",
+    "page": "MORE",
+    "title": "help_export_title",
+    "summary": "help_export_summary",
+    "detail": "help_export_detail",
+    "showInTour": false,
+    "lesson": "export"
+  },
+  {
+    "id": "data",
+    "page": "MORE",
+    "title": "help_data_title",
+    "summary": "help_data_summary",
+    "detail": "help_data_detail",
+    "showInTour": false
+  },
+  {
+    "id": "appearance",
+    "page": "MORE",
+    "title": "help_appearance_title",
+    "summary": "help_appearance_summary",
+    "detail": "help_appearance_detail",
+    "showInTour": false,
+    "lesson": "regional"
+  },
+  {
+    "id": "units",
+    "page": "MORE",
+    "title": "help_units_title",
+    "summary": "help_units_summary",
+    "detail": "help_units_detail",
+    "showInTour": false,
+    "lesson": "regional"
+  },
+  {
+    "id": "country",
+    "page": "MORE",
+    "title": "help_country_title",
+    "summary": "help_country_summary",
+    "detail": "help_country_detail",
+    "showInTour": false,
+    "lesson": "regional"
+  },
+  {
+    "id": "currency",
+    "page": "MORE",
+    "title": "help_currency_title",
+    "summary": "help_currency_summary",
+    "detail": "help_currency_detail",
+    "showInTour": false,
+    "lesson": "regional"
+  },
+  {
+    "id": "scanner",
+    "page": "MORE",
+    "title": "help_scanner_title",
+    "summary": "help_scanner_summary",
+    "detail": "help_scanner_detail",
+    "showInTour": false
+  },
+  {
+    "id": "help",
+    "page": "CAR",
+    "title": "help_help_title",
+    "summary": "help_help_summary",
+    "detail": "help_help_detail",
+    "showInHelp": false,
+    "recommended": [
+      "fuel",
+      "maintenance",
+      "export"
+    ],
+    "showInTour": true
+  }
+]

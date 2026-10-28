@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Lekcje na ekranie</string>
+    <string name="help_lessons_hint">Wybrać temat. Lekcje pokazują elementy interfejsu bez zapisywania zmian i wysyłania danych.</string>
+    <string name="help_lesson_start">Przewodnik krok po kroku</string>
+    <string name="help_lesson_close">Zakończ</string>
+    <string name="help_lesson_reminders_title">Elastyczne przypomnienia</string>
+    <string name="help_lesson_export_title">Eksport dla AI</string>
+    <string name="help_lesson_regional_title">Język, kraj i waluta</string>
+    <string name="help_lesson_steps">Liczba kroków: %1$d</string>
+    <string name="help_lesson_reminder_time_title">Dogodna godzina</string>
+    <string name="help_lesson_reminder_time_summary">Tutaj wybiera się lokalną godzinę przypomnień. Android może dostarczyć je później. Podczas lekcji harmonogram się nie zmienia.</string>
+    <string name="help_lesson_reminder_days_title">Tylko w wybrane dni</string>
+    <string name="help_lesson_reminder_days_summary">Można wybrać gotowy zestaw lub pojedyncze dni tygodnia. Harmonogram dotyczy też powtórzeń. Wymagany jest co najmniej jeden dzień.</string>
+    <string name="help_lesson_reminder_advanced_title">Reguły zaawansowane</string>
+    <string name="help_lesson_reminder_advanced_summary">Sekcja jest rozwinięta na potrzeby lekcji. Przełącznik pozostaje bez zmian: progi i powtórzenia działają dopiero po włączeniu i zapisaniu.</string>
+    <string name="help_lesson_reminder_thresholds_title">Ostrzeganie z wyprzedzeniem</string>
+    <string name="help_lesson_reminder_thresholds_summary">Tutaj ustawia się zapas odległości i dni przed poziomem żółtym. Niżej są takie same pola dla czerwonego. Zero oznacza powiadomienie po osiągnięciu danego poziomu. Kolory kart się nie zmieniają.</string>
+    <string name="help_lesson_reminder_repeats_title">Powtórzenia i ograniczenia</string>
+    <string name="help_lesson_reminder_repeats_summary">Odstęp podaje się w dniach, a liczba powiadomień ogranicza powtórzenia na jednym poziomie. Zero oznacza brak limitu. Poziom czerwony ma osobne ustawienia.</string>
+    <string name="help_lesson_reminder_save_title">Zastosowanie po zakończeniu</string>
+    <string name="help_lesson_reminder_save_summary">Lekcja niczego nie zapisała. Po jej zakończeniu można zmienić pola i nacisnąć Zapisz. Osobny harmonogram dla czynności serwisowej lub dokumentu ustawia się w jego edytorze.</string>
+    <string name="help_lesson_export_content_title">Wybór zawartości</string>
+    <string name="help_lesson_export_content_summary">Podsumowanie nadaje się do ogólnego pytania. Pełna historia dodaje wpisy serwisowe i tankowania. Lekcja nie zmienia obecnego wyboru.</string>
+    <string name="help_lesson_export_question_title">Dodanie własnego pytania</string>
+    <string name="help_lesson_export_question_summary">Pytanie pojawi się na początku tekstu obok danych samochodu. Pole może pozostać puste. Podczas lekcji nie trzeba nic wpisywać.</string>
+    <string name="help_lesson_export_privacy_title">Sprawdzenie danych osobowych</string>
+    <string name="help_lesson_export_privacy_summary">Ten przełącznik ukrywa VIN i nazwę samochodu. Swobodne notatki mogą nadal zawierać dane osobowe, dlatego przed udostępnieniem warto przejrzeć tekst.</string>
+    <string name="help_lesson_export_build_title">Otwarcie podglądu</string>
+    <string name="help_lesson_export_build_summary">Dalej przygotuje tekst z obecnymi opcjami wyłącznie na tym urządzeniu. Wpisy samochodu się nie zmienią i żadne dane nie zostaną wysłane.</string>
+    <string name="help_lesson_export_review_title">Przegląd przed udostępnieniem</string>
+    <string name="help_lesson_export_review_summary">Dokładnie ten tekst zostanie skopiowany lub zapisany. Po lekcji można go przewinąć i sprawdzić. Strzałka wstecz prowadzi do zawartości i pytania.</string>
+    <string name="help_lesson_export_send_title">Udostępnianie po sprawdzeniu</string>
+    <string name="help_lesson_export_send_summary">Po lekcji można skopiować tekst, udostępnić go innej aplikacji lub zapisać plik. Duże eksporty korzystają z pliku. Lekcja nie naciska tych przycisków.</string>
+    <string name="help_lesson_regional_language_title">Język niezależny od kraju</string>
+    <string name="help_lesson_regional_language_summary">Na Androidzie 13 i nowszym język aplikacji wybiera się tutaj. Starsze wersje korzystają z języka telefonu. Nie zmienia to kraju, jednostek ani waluty.</string>
+    <string name="help_lesson_regional_country_title">Kraj dla dokumentów</string>
+    <string name="help_lesson_regional_country_summary">Kraj określa dostępne dokumenty i walutę w trybie automatycznym. Istniejące wpisy pozostają zachowane. Dokumenty dodaje się tylko osobnym przyciskiem.</string>
+    <string name="help_lesson_regional_units_title">Wygodne jednostki</string>
+    <string name="help_lesson_regional_units_summary">Jednostki zmieniają wyświetlanie i wprowadzanie odległości, paliwa oraz zużycia. Zapisane przebiegi i interwały serwisowe nie są resetowane. Wybór jest niezależny od kraju.</string>
+    <string name="help_lesson_regional_currency_title">Sprawdzenie trybu waluty</string>
+    <string name="help_lesson_regional_currency_summary">Ten wiersz pokazuje obecną walutę i sposób jej wyboru. Dalej otwiera listę z wyborem automatycznym i ręcznym bez zmiany ustawienia.</string>
+    <string name="help_lesson_currency_auto_title">Automatycznie według kraju</string>
+    <string name="help_lesson_currency_auto_summary">Ta opcja używa waluty wybranego kraju i dostosowuje się do zmiany kraju. Jeśli kraj nie został ustawiony, najpierw trzeba go wybrać. Lekcja nie wybiera tej opcji.</string>
+    <string name="help_lesson_currency_manual_title">Ręczny wybór waluty</string>
+    <string name="help_lesson_currency_manual_summary">Wyszukiwanie działa według kodu lub nazwy waluty. Ręczny wybór pozostaje przy zmianie kraju. Kwoty we wcześniejszych wpisach nie są przeliczane według kursu. Po lekcji naciśnięcie wiersza zatwierdza wybór.</string>
+</resources>

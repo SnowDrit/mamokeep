@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_preview">Vista previa del texto</string>
+    <string name="export_preview_title">Texto para un chat</string>
+    <string name="export_back">Atrás</string>
+    <string name="export_preparing">Preparando el texto…</string>
+    <string name="export_prepare_failed">No se pudo preparar el texto. Volver a intentarlo.</string>
+    <string name="export_copy_failed">No se pudo copiar el texto. Volver a intentarlo o guardarlo como archivo.</string>
+    <string name="export_choosing_file">Eligiendo dónde guardar el archivo…</string>
+    <string name="export_writing_file">Guardando el archivo…</string>
+    <string name="export_preview_lost">El texto no se conservó tras reiniciar la aplicación. Abrir de nuevo la vista previa antes de guardarlo.</string>
+</resources>

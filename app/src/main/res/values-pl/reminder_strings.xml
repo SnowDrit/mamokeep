@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminders_title">Przypomnienia</string>
+    <string name="reminders_intro">Domyślny harmonogram dla wszystkich samochodów, części, czynności serwisowych i dokumentów. Poszczególne pozycje mogą mieć inny harmonogram.</string>
+    <string name="reminders_enabled">Wysyłaj przypomnienia</string>
+    <string name="reminders_disabled_hint">Przypomnienia dla tego harmonogramu są wyłączone. Interwały obsługi i historia pozostają dostępne.</string>
+    <string name="reminders_time">Godzina powiadomienia</string>
+    <string name="reminders_time_select">Wybierz godzinę</string>
+    <string name="reminders_time_dialog">Godzina powiadomienia (24-godzinna)</string>
+    <string name="reminders_hours">Godziny</string>
+    <string name="reminders_minutes">Minuty</string>
+    <string name="reminders_time_hint">Czas lokalny telefonu. Android może opóźnić przypomnienie, aby oszczędzać baterię.</string>
+    <string name="reminders_weekdays">Dni tygodnia</string>
+    <string name="reminders_every_day">Codziennie</string>
+    <string name="reminders_six_days">6 dni</string>
+    <string name="reminders_workdays">Od poniedziałku do piątku</string>
+    <string name="reminders_weekdays_hint">Można wybrać dowolne dni. „6 dni” wybiera od poniedziałku do soboty; wybór można zmienić.</string>
+    <string name="reminders_weekdays_error">Należy wybrać co najmniej jeden dzień.</string>
+    <string name="reminders_basic_hint">Domyślnie przypomnienia zaczynają się na poziomie żółtym i powtarzają w wybrane dni do zapisania pracy jako wykonanej.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">%1$d dzień w tygodniu</item>
+        <item quantity="few">%1$d dni w tygodniu</item>
+        <item quantity="many">%1$d dni w tygodniu</item>
+        <item quantity="other">%1$d dnia w tygodniu</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>pon.</item>
+        <item>wt.</item>
+        <item>śr.</item>
+        <item>czw.</item>
+        <item>pt.</item>
+        <item>sob.</item>
+        <item>niedz.</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>poniedziałek</item>
+        <item>wtorek</item>
+        <item>środa</item>
+        <item>czwartek</item>
+        <item>piątek</item>
+        <item>sobota</item>
+        <item>niedziela</item>
+    </string-array>
+    <string name="reminders_advanced_show">Ustawienia zaawansowane</string>
+    <string name="reminders_advanced_hide">Ukryj ustawienia zaawansowane</string>
+    <string name="reminders_advanced_enabled">Używaj własnych progów i powtórzeń</string>
+    <string name="reminders_advanced_hint">Poziom żółty wynika z opcji „Ustaw poziom żółty” danej pozycji; czerwony oznacza osiągnięcie terminu. Te ustawienia zmieniają początek przypomnień, a nie kolory karty obsługi.</string>
+    <string name="reminders_advance_hint">0 oznacza moment osiągnięcia poziomu. Przy ustawieniu dystansu i dni przypomnienie wywoła wcześniejszy z nich. Dystans korzysta z szacowanego przebiegu; nowe odczyty licznika uściślają szacunek.</string>
+    <string name="reminders_yellow">Poziom żółty · termin wkrótce</string>
+    <string name="reminders_red">Poziom czerwony · czas na obsługę</string>
+    <string name="reminders_advance_distance">Powiadom przed tym poziomem, %1$s</string>
+    <string name="reminders_advance_days">Powiadom przed tym poziomem, dni</string>
+    <string name="reminders_repeat_days">Powtarzaj nie częściej niż co … dni</string>
+    <string name="reminders_max_occurrences">Maksymalna liczba przypomnień na każdym etapie</string>
+    <string name="reminders_repeat_hint">Powtórzenia przychodzą tylko w wybrane dni tygodnia, najwyżej raz dziennie na pozycję. Osiągnięcie poziomu żółtego lub czerwonego zaczyna nowy etap i zeruje licznik.</string>
+    <string name="reminders_limit_hint">0 oznacza brak limitu. Licznik zaczyna od nowa po zapisaniu wykonanej obsługi.</string>
+    <string name="reminders_number_error">Należy wpisać liczbę całkowitą od %1$s do %2$s.</string>
+    <string name="reminders_save_error">Nie udało się zapisać przypomnień. Spróbuj ponownie.</string>
+    <string name="reminders_permission_hint">Android zablokował powiadomienia. Harmonogram można zapisać, ale przypomnienia będą przychodzić dopiero po zezwoleniu na powiadomienia.</string>
+    <string name="reminders_permission_settings">Otwórz ustawienia powiadomień</string>
+</resources>

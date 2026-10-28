@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminders_title">Eslatmalar</string>
+    <string name="reminders_intro">Barcha avtomobil, qism, xizmat va hujjatlar uchun standart jadval. Alohida band uchun boshqa jadval tanlash mumkin.</string>
+    <string name="reminders_enabled">Eslatmalar yuborish</string>
+    <string name="reminders_disabled_hint">Bu jadval boʻyicha eslatmalar oʻchiq. Xizmat oraliqlari va tarixi mavjud boʻlib qoladi.</string>
+    <string name="reminders_time">Bildirishnoma vaqti</string>
+    <string name="reminders_time_select">Vaqtni tanlash</string>
+    <string name="reminders_time_dialog">Bildirishnoma vaqti (24 soat)</string>
+    <string name="reminders_hours">Soat</string>
+    <string name="reminders_minutes">Daqiqa</string>
+    <string name="reminders_time_hint">Telefondagi mahalliy vaqt. Android quvvatni tejash uchun eslatmani kechroq yetkazishi mumkin.</string>
+    <string name="reminders_weekdays">Hafta kunlari</string>
+    <string name="reminders_every_day">Har kuni</string>
+    <string name="reminders_six_days">6 kun</string>
+    <string name="reminders_workdays">Ish kunlari</string>
+    <string name="reminders_weekdays_hint">Istalgan kunlarni tanlang. «6 kun» dushanbadan shanbagacha tanlaydi; tanlovni oʻzgartirish mumkin.</string>
+    <string name="reminders_weekdays_error">Kamida bitta kunni tanlang.</string>
+    <string name="reminders_basic_hint">Odatda eslatmalar sariq darajadan boshlanib, ish bajarildi deb yozilguncha tanlangan kunlarda takrorlanadi.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">Haftasiga %1$d kun</item>
+        <item quantity="other">Haftasiga %1$d kun</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>Du</item>
+        <item>Se</item>
+        <item>Ch</item>
+        <item>Pa</item>
+        <item>Ju</item>
+        <item>Sh</item>
+        <item>Ya</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>Dushanba</item>
+        <item>Seshanba</item>
+        <item>Chorshanba</item>
+        <item>Payshanba</item>
+        <item>Juma</item>
+        <item>Shanba</item>
+        <item>Yakshanba</item>
+    </string-array>
+    <string name="reminders_advanced_show">Kengaytirilgan sozlamalar</string>
+    <string name="reminders_advanced_hide">Kengaytirilgan sozlamalarni yashirish</string>
+    <string name="reminders_advanced_enabled">Shaxsiy chegaralar va takrorlashlar</string>
+    <string name="reminders_advanced_hint">Sariq daraja bandning «Sariq darajani sozlash» sozlamasida belgilanadi; qizil muddat kelganini bildiradi. Bu sozlamalar xizmat kartasi ranglarini emas, eslatmalar boshlanishini oʻzgartiradi.</string>
+    <string name="reminders_advance_hint">0 — darajaning oʻzida. Masofa va kunlar berilsa, eslatma oldin yetganida ishga tushadi. Masofa taxminiy yurishga asoslanadi; yangi odometr koʻrsatkichlari taxminni aniqlashtiradi.</string>
+    <string name="reminders_yellow">Sariq daraja · muddat yaqin</string>
+    <string name="reminders_red">Qizil daraja · xizmat vaqti</string>
+    <string name="reminders_advance_distance">Darajadan oldin ogohlantirish, %1$s</string>
+    <string name="reminders_advance_days">Darajadan oldin ogohlantirish, kun</string>
+    <string name="reminders_repeat_days">… kunda bir martadan tez takrorlamaslik</string>
+    <string name="reminders_max_occurrences">Har bosqichdagi eslatmalar chegarasi</string>
+    <string name="reminders_repeat_hint">Takrorlar faqat tanlangan hafta kunlarida, har band uchun kuniga koʻpi bilan bir marta keladi. Sariq yoki qizil darajaga yetish yangi hisobli yangi bosqichni boshlaydi.</string>
+    <string name="reminders_limit_hint">0 — cheklovsiz. Xizmat bajarildi deb yozilganda hisob qayta boshlanadi.</string>
+    <string name="reminders_number_error">%1$s dan %2$s gacha butun son kiriting.</string>
+    <string name="reminders_save_error">Eslatmalarni saqlab boʻlmadi. Qayta urinib koʻring.</string>
+    <string name="reminders_permission_hint">Android bildirishnomalarni bloklagan. Jadvalni saqlash mumkin, lekin eslatmalar bildirishnomalarga ruxsat berilgandan keyingina keladi.</string>
+    <string name="reminders_permission_settings">Bildirishnoma sozlamalarini ochish</string>
+</resources>

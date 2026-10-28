@@ -1,0 +1,66 @@
+{
+  "files": [
+    {
+      "bytes": 1886,
+      "name": "AUDIT.json",
+      "sha256": "c072c88adb31c7403afa7ff0d76f80f357057e5a8f88ae57a4c3e40174d41404"
+    },
+    {
+      "bytes": 11357,
+      "name": "LICENSE-2.0.txt",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "bytes": 813,
+      "name": "NOTICE.txt",
+      "sha256": "ea7c5930de0acfb335d0c28076505d23c96a29b43ce2ba9eb064efd2b629d8c0"
+    },
+    {
+      "bytes": 4914,
+      "name": "PROVENANCE.json",
+      "sha256": "f90d14d2d1dbe19a84b3600bd9ab1501e0bb72c0bd7ebf893559a166579a7a08"
+    },
+    {
+      "bytes": 1828,
+      "name": "det-README.md",
+      "sha256": "951c155673ac6c15feb85857c9024a62266e5956d15319ce578a8f508f399d66"
+    },
+    {
+      "bytes": 4826518,
+      "name": "det.onnx",
+      "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d"
+    },
+    {
+      "bytes": 903,
+      "name": "det.yml",
+      "sha256": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699"
+    },
+    {
+      "bytes": 28,
+      "name": "rec-README.md",
+      "sha256": "98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74"
+    },
+    {
+      "bytes": 1663,
+      "name": "rec-characters.txt",
+      "sha256": "3e95f1581557162870cacdba5af91a4c6be2890710d395b0c3c7578e7ee5e6eb"
+    },
+    {
+      "bytes": 7887627,
+      "name": "rec.onnx",
+      "sha256": "b3018ef2b09a0250b6e0c8e871c927098363e5fd4df890cc68e8358eb0aaf1bd"
+    },
+    {
+      "bytes": 4538,
+      "name": "rec.yml",
+      "sha256": "025039bac23eb4a308efcefa4d58eab3af440767815c6ba6938468bf6353ee5a"
+    }
+  ],
+  "id": "paddle-v5-eslav-onnx",
+  "schemaVersion": 1,
+  "source": {
+    "releaseTag": "ocr-v1",
+    "repository": "SnowDrit/MamoKeep-OCR-"
+  },
+  "version": "1"
+}

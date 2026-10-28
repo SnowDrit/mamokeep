@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_empty">Aún no hay coches en el garaje. Añade uno para guardar sus registros.</string>
+</resources>

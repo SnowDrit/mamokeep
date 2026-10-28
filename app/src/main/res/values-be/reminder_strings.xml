@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminders_title">Напаміны</string>
+    <string name="reminders_intro">Звычайны расклад для ўсіх аўто, дэталяў, абслугоўвання і дакументаў. Для асобнага пункта можна выбраць іншы расклад.</string>
+    <string name="reminders_enabled">Дасылаць напаміны</string>
+    <string name="reminders_disabled_hint">Напаміны паводле гэтага раскладу выключаны. Інтэрвалы і гісторыя абслугоўвання застаюцца даступнымі.</string>
+    <string name="reminders_time">Час апавяшчэння</string>
+    <string name="reminders_time_select">Выбраць час</string>
+    <string name="reminders_time_dialog">Час апавяшчэння (24 гадзіны)</string>
+    <string name="reminders_hours">Гадзіны</string>
+    <string name="reminders_minutes">Хвіліны</string>
+    <string name="reminders_time_hint">Мясцовы час тэлефона. Android можа даставіць напамін пазней, каб ашчадзіць зарад.</string>
+    <string name="reminders_weekdays">Дні тыдня</string>
+    <string name="reminders_every_day">Штодня</string>
+    <string name="reminders_six_days">6 дзён</string>
+    <string name="reminders_workdays">Будні</string>
+    <string name="reminders_weekdays_hint">Выберыце любыя дні. «6 дзён» выбірае панядзелак–суботу; выбар можна змяніць.</string>
+    <string name="reminders_weekdays_error">Выберыце хаця б адзін дзень.</string>
+    <string name="reminders_basic_hint">Звычайна напаміны пачынаюцца на жоўтым узроўні і паўтараюцца ў выбраныя дні, пакуль праца не пазначана як выкананая.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">%1$d дзень на тыдзень</item>
+        <item quantity="few">%1$d дні на тыдзень</item>
+        <item quantity="many">%1$d дзён на тыдзень</item>
+        <item quantity="other">%1$d дня на тыдзень</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>Пн</item>
+        <item>Аў</item>
+        <item>Ср</item>
+        <item>Чц</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>Панядзелак</item>
+        <item>Аўторак</item>
+        <item>Серада</item>
+        <item>Чацвер</item>
+        <item>Пятніца</item>
+        <item>Субота</item>
+        <item>Нядзеля</item>
+    </string-array>
+    <string name="reminders_advanced_show">Пашыраныя налады</string>
+    <string name="reminders_advanced_hide">Схаваць пашыраныя налады</string>
+    <string name="reminders_advanced_enabled">Уласныя парогі і паўтарэнні</string>
+    <string name="reminders_advanced_hint">Жоўты ўзровень задаецца ў наладзе пункта «Наладзіць жоўты ўзровень»; чырвоны азначае, што тэрмін настаў. Гэтыя налады змяняюць пачатак напамінаў, а не колеры карткі абслугоўвання.</string>
+    <string name="reminders_advance_hint">0 азначае на самім узроўні. Калі зададзены адлегласць і дні, напамін выклікае тое, што настане раней. Адлегласць выкарыстоўвае ацэнены прабег; новыя паказанні одометра ўдакладняюць ацэнку.</string>
+    <string name="reminders_yellow">Жоўты ўзровень · хутка тэрмін</string>
+    <string name="reminders_red">Чырвоны ўзровень · час абслугоўвання</string>
+    <string name="reminders_advance_distance">Папярэджваць да ўзроўню за, %1$s</string>
+    <string name="reminders_advance_days">Папярэджваць да ўзроўню за, дзён</string>
+    <string name="reminders_repeat_days">Паўтараць не часцей чым кожныя … дзён</string>
+    <string name="reminders_max_occurrences">Максімум напамінаў на кожным этапе</string>
+    <string name="reminders_repeat_hint">Паўторы прыходзяць толькі ў выбраныя дні тыдня, не больш за адзін раз на дзень для пункта. Дасягненне жоўтага або чырвонага ўзроўню пачынае новы этап з новым адлікам.</string>
+    <string name="reminders_limit_hint">0 азначае без абмежаванняў. Адлік пачынаецца зноў, калі абслугоўванне пазначана як выкананае.</string>
+    <string name="reminders_number_error">Увядзіце цэлы лік ад %1$s да %2$s.</string>
+    <string name="reminders_save_error">Не ўдалося захаваць напаміны. Паспрабуйце яшчэ раз.</string>
+    <string name="reminders_permission_hint">Android заблакаваў апавяшчэнні. Расклад можна захаваць, але напаміны будуць прыходзіць толькі пасля дазволу на апавяшчэнні.</string>
+    <string name="reminders_permission_settings">Адкрыць налады апавяшчэнняў</string>
+</resources>

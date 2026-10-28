@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Sicherungsstatus wird geprüft…</string>
+    <string name="backup_status_waiting">Es wurde noch keine geplante Sicherung erstellt. Der nächste Lauf steht aus.</string>
+    <string name="backup_status_failed">Die letzte Sicherung ist fehlgeschlagen. Prüfe den Ordnerzugriff oder wähle den Ordner erneut aus.</string>
+    <string name="backup_status_last_success">Letzte erfolgreiche Sicherung: %1$s</string>
+</resources>

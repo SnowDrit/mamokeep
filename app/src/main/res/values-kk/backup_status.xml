@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Сақтық көшірменің күйі тексерілуде…</string>
+    <string name="backup_status_waiting">Кесте бойынша сақтық көшірме әлі жасалмады. Іске қосылуы күтілуде.</string>
+    <string name="backup_status_failed">Соңғы сақтық көшірмені жасау мүмкін болмады. Қалтаға кіру рұқсатын тексеріңіз немесе оны қайта таңдаңыз.</string>
+    <string name="backup_status_last_success">Соңғы сәтті көшірме: %1$s</string>
+</resources>

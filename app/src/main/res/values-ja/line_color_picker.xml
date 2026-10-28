@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="line_color_choose">色を選択</string>
+    <string name="line_color_theme">テーマの色を使う</string>
+    <string name="line_color_standard">標準の色</string>
+    <string name="line_color_advanced">詳細モード</string>
+    <string name="line_color_apply">適用</string>
+    <string name="line_color_wheel">カラーホイール</string>
+    <string name="line_color_wheel_hint">マーカーを動かして色を選択します。下で明るさを調整するか、コードを入力できます。</string>
+    <string name="line_color_brightness">明るさ</string>
+    <string name="line_color_hex">HEX</string>
+    <string name="line_color_rgb">RGB（0–255）</string>
+    <string name="line_color_hex_hint">#RGB または #RRGGBB</string>
+    <string name="line_color_rgb_hint">赤・緑・青：各 0–255</string>
+    <string name="line_color_hex_error">3 桁または 6 桁の 16 進数を入力してください。先頭の # は任意です。</string>
+    <string name="line_color_rgb_error">0 から 255 の整数を 3 つ、カンマまたは空白で区切って入力してください。</string>
+    <string name="line_color_preview">選択した色：%1$s</string>
+    <string name="line_color_black">黒</string>
+    <string name="line_color_white">白</string>
+    <string name="line_color_gray">グレー</string>
+    <string name="line_color_red">赤</string>
+    <string name="line_color_orange">オレンジ</string>
+    <string name="line_color_yellow">黄</string>
+    <string name="line_color_green">緑</string>
+    <string name="line_color_teal">青緑</string>
+    <string name="line_color_cyan">水色</string>
+    <string name="line_color_blue">青</string>
+    <string name="line_color_purple">紫</string>
+    <string name="line_color_pink">ピンク</string>
+    <string-array name="line_color_palette_names">
+        <item>@string/line_color_black</item>
+        <item>@string/line_color_white</item>
+        <item>@string/line_color_gray</item>
+        <item>@string/line_color_red</item>
+        <item>@string/line_color_orange</item>
+        <item>@string/line_color_yellow</item>
+        <item>@string/line_color_green</item>
+        <item>@string/line_color_teal</item>
+        <item>@string/line_color_cyan</item>
+        <item>@string/line_color_blue</item>
+        <item>@string/line_color_purple</item>
+        <item>@string/line_color_pink</item>
+    </string-array>
+</resources>

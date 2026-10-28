@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Sprawdzanie stanu kopii…</string>
+    <string name="backup_status_waiting">Nie utworzono jeszcze zaplanowanej kopii. Oczekiwanie na uruchomienie.</string>
+    <string name="backup_status_failed">Ostatnia kopia nie powiodła się. Sprawdź dostęp do folderu lub wybierz go ponownie.</string>
+    <string name="backup_status_last_success">Ostatnia udana kopia: %1$s</string>
+</resources>

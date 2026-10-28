@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Ekrandagi darslar</string>
+    <string name="help_lessons_hint">Mavzuni tanlash mumkin. Dars hech narsani saqlamasdan yoki yubormasdan kerakli elementlarni koʻrsatadi.</string>
+    <string name="help_lesson_start">Bosqichma-bosqich qoʻllanma</string>
+    <string name="help_lesson_close">Yakunlash</string>
+    <string name="help_lesson_reminders_title">Moslashuvchan eslatmalar</string>
+    <string name="help_lesson_export_title">SI uchun eksport</string>
+    <string name="help_lesson_regional_title">Til, mamlakat va valyuta</string>
+    <string name="help_lesson_steps">%1$d qadam</string>
+    <string name="help_lesson_reminder_time_title">Qulay vaqt</string>
+    <string name="help_lesson_reminder_time_summary">Bu yerda eslatmalarning mahalliy vaqti tanlanadi. Android ularni kechroq yetkazishi mumkin. Dars davomida jadval oʻzgarmaydi.</string>
+    <string name="help_lesson_reminder_days_title">Faqat tanlangan kunlarda</string>
+    <string name="help_lesson_reminder_days_summary">Tayyor toʻplam yoki haftaning alohida kunlarini tanlash mumkin. Bu jadval takrorlarga ham amal qiladi. Kamida bitta kun kerak.</string>
+    <string name="help_lesson_reminder_advanced_title">Kengaytirilgan qoidalar</string>
+    <string name="help_lesson_reminder_advanced_summary">Boʻlim tanishish uchun ochilgan. Tugma holati oʻzgarmagan: chegaralar va takrorlar faqat yoqib, saqlangandan keyin ishlaydi.</string>
+    <string name="help_lesson_reminder_thresholds_title">Oldindan ogohlantirish</string>
+    <string name="help_lesson_reminder_thresholds_summary">Bu yerda sariq darajagacha qolgan masofa va kunlar belgilanadi. Pastda qizil daraja uchun ham shunday maydonlar bor. Nol shu darajaga yetganda xabar berishni anglatadi. Kartalar ranglari oʻzgarmaydi.</string>
+    <string name="help_lesson_reminder_repeats_title">Takrorlar va cheklov</string>
+    <string name="help_lesson_reminder_repeats_summary">Oraliq kunlarda belgilanadi, bildirishnomalar soni bir darajadagi takrorlarni cheklaydi. Nol cheklov yoʻqligini anglatadi. Qizil darajaning sozlamalari alohida.</string>
+    <string name="help_lesson_reminder_save_title">Tayyor boʻlganda qoʻllash</string>
+    <string name="help_lesson_reminder_save_summary">Dars hech narsani saqlamadi. Tugagach, maydonlarni oʻzgartirib, «Saqlash» tugmasini bosish mumkin. Alohida xizmat bandi yoki hujjat uchun oʻz jadvali uning tahrirlash oynasida belgilanadi.</string>
+    <string name="help_lesson_export_content_title">Tarkibni tanlash</string>
+    <string name="help_lesson_export_content_summary">Qisqa xulosa umumiy savolga mos keladi. Toʻliq tarix xizmat va yonilgʻi quyish yozuvlarini qoʻshadi. Dars tanlangan tarkibni oʻzgartirmaydi.</string>
+    <string name="help_lesson_export_question_title">Oʻz savolini qoʻshish</string>
+    <string name="help_lesson_export_question_summary">Savol matn boshida avtomobil maʼlumotlari yonida joylashadi. Maydonni boʻsh qoldirish mumkin. Dars davomida hech narsa kiritish shart emas.</string>
+    <string name="help_lesson_export_privacy_title">Shaxsiy maʼlumotlarni tekshirish</string>
+    <string name="help_lesson_export_privacy_summary">Bu tugma VIN va avtomobil nomini yashiradi. Erkin yozilgan izohlarda shaxsiy maʼlumotlar qolishi mumkin, shuning uchun ulashishdan oldin matnni tekshirish kerak.</string>
+    <string name="help_lesson_export_build_title">Koʻrib chiqishni ochish</string>
+    <string name="help_lesson_export_build_summary">«Keyingi» joriy parametrlar asosida matnni faqat shu qurilmada tayyorlaydi. Avtomobil yozuvlari oʻzgarmaydi, maʼlumotlar hech qayerga yuborilmaydi.</string>
+    <string name="help_lesson_export_review_title">Ulashishdan oldin oʻqish</string>
+    <string name="help_lesson_export_review_summary">Aynan shu matn nusxalanadi yoki saqlanadi. Darsdan keyin uni aylantirib, tekshirish mumkin. Orqaga strelkasi tarkib va savolga qaytaradi.</string>
+    <string name="help_lesson_export_send_title">Tayyor boʻlganda ulashish</string>
+    <string name="help_lesson_export_send_summary">Darsdan keyin matnni nusxalash, boshqa ilovaga yuborish yoki faylga saqlash mumkin. Katta matn fayl orqali uzatiladi. Dars bu tugmalarni bosmaydi.</string>
+    <string name="help_lesson_regional_language_title">Til mamlakatga bogʻliq emas</string>
+    <string name="help_lesson_regional_language_summary">Android 13 va yangiroq versiyalarda ilova tili shu yerda tanlanadi. Oldingi versiyalarda telefon tili ishlatiladi. Bu mamlakat, birliklar yoki valyutani oʻzgartirmaydi.</string>
+    <string name="help_lesson_regional_country_title">Hujjatlar uchun mamlakat</string>
+    <string name="help_lesson_regional_country_summary">Mamlakat mavjud hujjatlar va avtomatik rejimdagi valyutani belgilaydi. Mavjud yozuvlar saqlanadi. Hujjatlar faqat alohida tugma orqali qoʻshiladi.</string>
+    <string name="help_lesson_regional_units_title">Qulay birliklar</string>
+    <string name="help_lesson_regional_units_summary">Birliklar masofa, yonilgʻi va sarfni koʻrsatish hamda kiritishga taʼsir qiladi. Saqlangan masofa koʻrsatkichlari va xizmat oraliqlari oʻz holicha qoladi. Tanlov mamlakatga bogʻliq emas.</string>
+    <string name="help_lesson_regional_currency_title">Valyuta rejimini tekshirish</string>
+    <string name="help_lesson_regional_currency_summary">Qator joriy valyuta va tanlash usulini koʻrsatadi. «Keyingi» roʻyxatni ochadi: sozlamani oʻzgartirmasdan avtomatik va qoʻlda tanlash rejimlarini koʻrish mumkin.</string>
+    <string name="help_lesson_currency_auto_title">Mamlakat boʻyicha avtomatik</string>
+    <string name="help_lesson_currency_auto_summary">Bu band tanlangan mamlakat valyutasini ishlatadi va mamlakat oʻzgarsa, unga moslashadi. Mamlakat tanlanmagan boʻlsa, avval uni belgilash kerak. Dars bu bandni tanlamaydi.</string>
+    <string name="help_lesson_currency_manual_title">Valyutani qoʻlda tanlash</string>
+    <string name="help_lesson_currency_manual_summary">Qidiruv valyuta kodi yoki nomini topishga yordam beradi. Qoʻlda tanlangan valyuta mamlakat oʻzgarsa ham saqlanadi. Eski yozuvlardagi summalar kurs boʻyicha qayta hisoblanmaydi. Darsdan keyin tanlov qatorni bosish orqali qoʻllanadi.</string>
+</resources>

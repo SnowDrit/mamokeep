@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shared tour/help tokens. The white callout is intentional in both themes. -->
+    <color name="help_surface">#FFFFFF</color>
+    <color name="help_on_surface">#1A1B21</color>
+    <color name="help_secondary">#525461</color>
+    <color name="help_accent">#4F5B92</color>
+    <color name="help_scrim">#A61A1B21</color>
+    <dimen name="help_margin">16dp</dimen>
+    <dimen name="help_gap">12dp</dimen>
+    <dimen name="help_card_padding">20dp</dimen>
+    <dimen name="help_card_radius">24dp</dimen>
+    <dimen name="help_focus_radius">16dp</dimen>
+    <dimen name="help_focus_padding">4dp</dimen>
+    <dimen name="help_focus_stroke">2dp</dimen>
+    <dimen name="help_max_width">480dp</dimen>
+    <dimen name="help_elevation">8dp</dimen>
+    <dimen name="help_icon_size">24dp</dimen>
+    <integer name="help_transition_ms">260</integer>
+    <fraction name="help_max_height">50%</fraction>
+    <fraction name="help_landscape_content">50%</fraction>
+</resources>

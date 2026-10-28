@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "repository": "SnowDrit/MamoKeep-OCR-",
+    "releaseTag": "ocr-catalog"
+  },
+  "assetName": "catalog.json",
+  "trustedKeys": [
+    {
+      "id": "5485ee06817b627853f6bac91520b178fc970749a8909d2badcfb1e4ea8a3e8c",
+      "publicKey": "MIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAt2ZFU0xsrGeZj7xR+KQusnrMQEHGsbrefhZNbKhCcvzSYfFyYSC80j7ywl9ATcibcTt9hc6g70mCqY7qcg945fuE2aTpn1PK1E3tGvZ4Pl8RAv3DwhtcHX7K95k1zgv2PhnNpXdaGeiU05tL7FoYKUfSmbAdxNK0tNwkMFN1vMEXCbqLlXTr3gLgew9NvqYDi4oqDsvV7+o12tlnhWQUSMmj8FRqa+L2SPvhw2bmzrE0zWMrCPcRQSJ3bEfxODtZOmTCxgUmMIg3oOXPhVKp0M+Y9yJp4SSBS4UYsFEUWp8RDyanwhUPEgep77Bks6wn7eYC8HYiHPcqrwMSnc210XdGfGfemn/jxFxDBvgD+WjNBkzeNHrmfJrwCTz9YdDyl9scj/bW4lw2X9NzQbnqLY01BErd3iis9SS5PuBLdRJVUeNm2ZA33o86ScNbAhaH070R//mD6WO9YxE4VR/Ey68PbmUKXErj5ed20xbjMcHdsJbmt+C51fFSr+iLv/vJAgMBAAE="
+    }
+  ],
+  "supportedFormats": [
+    "paddle-ocr-onnx-v1"
+  ],
+  "requiredFilesByFormat": {
+    "paddle-ocr-onnx-v1": [
+      "det.onnx",
+      "rec.onnx",
+      "rec-characters.txt"
+    ]
+  },
+  "checkIntervalMillis": 21600000,
+  "maxCatalogBytes": 262144,
+  "maxPackageBytes": 1073741824,
+  "maxVersions": 50,
+  "maxFiles": 32,
+  "minimumSequence": 1,
+  "clockSkewSeconds": 300
+}

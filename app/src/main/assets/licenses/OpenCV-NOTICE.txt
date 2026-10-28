@@ -1,0 +1,32 @@
+MamoKeep offline text recognition
+
+OpenCV 4.14.0
+Source: https://github.com/opencv/opencv/tree/4.14.0
+License: Apache License 2.0; the full text accompanies this file as Apache-2.0.txt.
+The application uses the official org.opencv:opencv Android library for image
+resizing, colour conversion, contour geometry and perspective correction.
+No changes are made to the OpenCV library.
+OpenCV-ThirdPartyNotices.txt includes all 33 notice files supplied under the
+official Android SDK's sdk/etc/licenses directory, plus notices for bundled WebP,
+Carotene, KleidiCV and libc++. The upstream SDK includes several ABI variants;
+not every listed component is used on every ABI.
+
+OCR preprocessing and CTC postprocessing are adapted from RapidOCR 3.9.2 and
+PaddleOCR. Copyright (c) 2020 PaddlePaddle Authors. All Rights Reserved.
+Copyright (c) 2021 RapidOCR Authors. All rights reserved.
+Source: https://github.com/RapidAI/RapidOCR/tree/v3.9.2
+License: Apache License 2.0.
+Changes: Kotlin/Android implementation, explicit lifecycle and bounds,
+cooperative cancellation, and an analytic enclosing rectangle for DB unclip.
+The implementation and synthetic parity checks are part of MamoKeep's source.
+
+ONNX Runtime 1.31.0
+Source: https://github.com/microsoft/onnxruntime/tree/v1.31.0
+Copyright (c) Microsoft Corporation.
+License: MIT; the full text accompanies this file as ONNXRuntime-MIT.txt.
+The upstream complete third-party notice accompanies it as
+ONNXRuntime-ThirdPartyNotices.txt.
+The application uses CPU inference and explicitly disables runtime telemetry.
+
+Downloaded and APK-included PaddleOCR model files retain their Apache-2.0 license,
+NOTICE and PROVENANCE files in the verified model package.

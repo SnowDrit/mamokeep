@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="more_page_padding">16dp</dimen>
+    <dimen name="more_section_gap">12dp</dimen>
+    <dimen name="more_heading_padding">12dp</dimen>
+    <dimen name="more_row_padding">12dp</dimen>
+    <dimen name="more_row_gap">16dp</dimen>
+    <dimen name="more_control_gap">8dp</dimen>
+    <dimen name="more_detail_gap">4dp</dimen>
+    <dimen name="more_icon_size">24dp</dimen>
+    <dimen name="more_disclosure_size">20dp</dimen>
+    <dimen name="more_min_touch_height">56dp</dimen>
+    <dimen name="settings_content_max_width">640dp</dimen>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Skanuj paragon</string>
+    <string name="ocr_title">Skaner paragonów</string>
+    <string name="ocr_choose_photo">Wybierz zdjęcie</string>
+    <string name="ocr_take_photo">Zrób zdjęcie</string>
+    <string name="ocr_photo">Oryginalne zdjęcie paragonu</string>
+    <string name="ocr_intro">Tekst jest rozpoznawany na tym urządzeniu. Sprawdź wynik przed zapisaniem: zdjęcie nigdy nie dodaje ani nie zmienia wpisów automatycznie.</string>
+    <string name="ocr_running">Odczytywanie zdjęcia na tym urządzeniu…</string>
+    <string name="ocr_source">Oryginalny dokument i tekst</string>
+    <string name="ocr_source_text">Tekst paragonu / notatka</string>
+    <string name="ocr_review_text">Popraw błędy rozpoznawania i wybierz, co zapisać. Na następnym ekranie możesz sprawdzić wszystkie pola.</string>
+    <string name="ocr_fuel_action">Sprawdź tankowanie</string>
+    <string name="ocr_work_action">Sprawdź wykonany serwis</string>
+    <string name="ocr_fuel_review">Sprawdź wartości i jednostki we wszystkich polach. Waluta: %1$s; odległość: %2$s. Wpisz koszt paliwa samodzielnie: suma na paragonie może obejmować inne zakupy.</string>
+    <string name="ocr_confirm_date">Wyświetlona data jest prawidłowa</string>
+    <string name="ocr_confirm_fields">Sprawdziłem wszystkie pola, walutę i jednostki</string>
+    <string name="ocr_choose_fuel_type">Wybierz rodzaj paliwa; nie udało się go jednoznacznie rozpoznać.</string>
+    <string name="ocr_yes">Tak</string>
+    <string name="ocr_no">Nie</string>
+    <string name="ocr_work_explanation">Zostanie zapisany jeden wpis wykonanego serwisu z notatką. Zakup części nie oznacza wykonania pracy. Pozycje paragonu i ceny pozostaną tylko w notatce, a nie jako osobne wpisy.</string>
+    <string name="ocr_confirm_work">Potwierdzam, że wybrana praca została wykonana</string>
+    <string name="ocr_no_work_items">Brak pozycji serwisowych. Dodaj pozycję na ekranie samochodu, a następnie zeskanuj ponownie.</string>
+    <string name="ocr_empty">Nie znaleziono tekstu. Wybierz inny plik lub wpisz tekst samodzielnie.</string>
+    <string name="ocr_image_failed">Nie udało się odczytać zdjęcia. Wybierz dostępny obraz o mniejszym rozmiarze pliku lub niższej rozdzielczości.</string>
+    <string name="ocr_camera_failed">Nie udało się otworzyć aparatu. Spróbuj wybrać istniejące zdjęcie.</string>
+    <string name="ocr_model_failed">Pakiet skanera jest niedostępny lub niezgodny. Wróć do ustawień skanera i sprawdź zainstalowany pakiet.</string>
+    <string name="ocr_recognition_failed">Rozpoznawanie nie powiodło się. Spróbuj ponownie lub wybierz inne zdjęcie.</string>
+    <string name="ocr_interrupted">Skanowanie zostało przerwane. Jeśli zapisywano wpis, sprawdź dziennik, a następnie ponownie wybierz plik.</string>
+    <string name="ocr_save_failed">Nie udało się zapisać zmian. Wersja robocza pozostała na ekranie. Spróbuj ponownie.</string>
+    <string name="ocr_save_interrupted">Zapisywanie zostało przerwane. Sprawdź dziennik przed ponowną próbą: wpis mógł już zostać zapisany.</string>
+    <string name="ocr_rotate">Obróć zdjęcie</string>
+</resources>

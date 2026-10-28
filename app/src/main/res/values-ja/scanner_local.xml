@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">提供元：アプリ内のファイル</string>
+    <string name="scanner_local_not_installed">端末上で写真の文字を認識するには、アプリに含まれるパッケージを有効にしてください。</string>
+    <string name="scanner_local_install">パッケージを有効にする</string>
+    <string name="scanner_local_install_title">スキャナー用パッケージを有効にしますか？</string>
+    <string name="scanner_local_install_message">ファイルはすでにアプリに含まれています。ダウンロードは不要です。写真は端末上に残ります。</string>
+    <string name="scanner_local_queued">パッケージの準備待ちです。この画面を閉じてもかまいません。</string>
+    <string name="scanner_local_verifying">ファイルを準備して検証中…</string>
+    <string name="scanner_local_cancelling">準備をキャンセル中…</string>
+    <string name="scanner_local_cancel_install">準備をキャンセル</string>
+    <string name="scanner_local_error_source">このアプリのバージョンではパッケージを利用できません。別のバージョンを選択してください。</string>
+    <string name="scanner_local_error_integrity">ファイルの検証に失敗しました。スキャナーのカードからパッケージを削除し、再度有効にしてください。</string>
+</resources>

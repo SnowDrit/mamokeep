@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android
+local.properties
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+*.pfx
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+*.iml
+.kotlin/
+
+# OS
+.DS_Store
+
+# Local agent sessions, graphs and machine-specific caches
+.codex/
+.agents/
+graphify-out/
+.graphify_python
+:memory:.ses
+
+# Private research and local model experiments
+.local/
+.models/
+.venv/
+__pycache__/
+*.pyc
+for_study/
+.venv-torch/

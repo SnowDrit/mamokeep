@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="garage_unsaved_title">Захаваць змены?</string>
+    <string name="garage_unsaved_message">У профілі аўто ёсць незахаваныя змены.</string>
+    <string name="garage_leave_without_saving">Выйсці без захавання</string>
+    <string name="garage_keep_editing">Працягнуць рэдагаванне</string>
+    <string name="garage_saving">Захаванне…</string>
+    <string name="garage_save_failed">Не ўдалося захаваць профіль. Змены засталіся тут. Паспрабуйце яшчэ раз.</string>
+</resources>

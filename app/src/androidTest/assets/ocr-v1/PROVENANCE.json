@@ -1,0 +1,119 @@
+{
+  "dictionaryGenerator": {
+    "PyYAML": "6.0.3",
+    "format": "UTF-8, LF, original order, final LF"
+  },
+  "modifications": "Only filenames and an extracted UTF-8 character dictionary; model weights unchanged.",
+  "releaseRecipe": {
+    "auditName": "AUDIT.json",
+    "copies": [
+      {
+        "name": "det.onnx",
+        "path": "det/inference.onnx"
+      },
+      {
+        "name": "det.yml",
+        "path": "det/inference.yml"
+      },
+      {
+        "name": "det-README.md",
+        "path": "det/README.md"
+      },
+      {
+        "name": "rec.onnx",
+        "path": "rec/inference.onnx"
+      },
+      {
+        "name": "rec.yml",
+        "path": "rec/inference.yml"
+      },
+      {
+        "name": "rec-README.md",
+        "path": "rec/README.md"
+      }
+    ],
+    "dictionary": {
+      "keys": [
+        "PostProcess",
+        "character_dict"
+      ],
+      "name": "rec-characters.txt",
+      "path": "rec/inference.yml"
+    },
+    "id": "paddle-v5-eslav-onnx",
+    "license": {
+      "name": "LICENSE-2.0.txt",
+      "path": "licenses/LICENSE-2.0.txt",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "source": "https://www.apache.org/licenses/LICENSE-2.0.txt"
+    },
+    "manifestName": "model-package.json",
+    "notice": {
+      "name": "NOTICE.txt",
+      "text": "MamoKeep optional OCR model package\n\nContains PP-OCRv5 mobile detection and East Slavic recognition models supplied\nby PaddlePaddle / the PaddleOCR team under Apache License 2.0.\nOriginal model cards and the complete license accompany this package.\nSource repositories, immutable revisions and checksums are in PROVENANCE.json.\n\nChanges: source files are renamed for flat release assets; ONNX weights, YAML\nconfigurations and model cards are byte-for-byte copies. rec-characters.txt is\nextracted from the recognition YAML character_dict, preserving its order.\nNo training, fine-tuning or conversion was performed for this package.\n\nThis package does not contain the inference engine, application executable,\nPython code or custom ONNX operators. Its checksums establish byte identity,\nnot an antivirus guarantee.\n"
+    },
+    "provenanceName": "PROVENANCE.json",
+    "schemaVersion": 1,
+    "version": "1"
+  },
+  "schemaVersion": 1,
+  "upstreamManifest": {
+    "models": [
+      {
+        "files": [
+          {
+            "bytes": 1828,
+            "path": "det/README.md",
+            "sha256": "951c155673ac6c15feb85857c9024a62266e5956d15319ce578a8f508f399d66",
+            "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_onnx/resolve/e6f4fa85f00e168c862bc462aebca69eef9b3d3d/README.md"
+          },
+          {
+            "bytes": 4826518,
+            "path": "det/inference.onnx",
+            "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d",
+            "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_onnx/resolve/e6f4fa85f00e168c862bc462aebca69eef9b3d3d/inference.onnx"
+          },
+          {
+            "bytes": 903,
+            "path": "det/inference.yml",
+            "sha256": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699",
+            "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_onnx/resolve/e6f4fa85f00e168c862bc462aebca69eef9b3d3d/inference.yml"
+          }
+        ],
+        "id": "det",
+        "license": "Apache-2.0",
+        "repo": "PaddlePaddle/PP-OCRv5_mobile_det_onnx",
+        "revision": "e6f4fa85f00e168c862bc462aebca69eef9b3d3d"
+      },
+      {
+        "files": [
+          {
+            "bytes": 28,
+            "path": "rec/README.md",
+            "sha256": "98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74",
+            "url": "https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec_onnx/resolve/9a32171fc5718746875e1a261818884517975013/README.md"
+          },
+          {
+            "bytes": 7887627,
+            "path": "rec/inference.onnx",
+            "sha256": "b3018ef2b09a0250b6e0c8e871c927098363e5fd4df890cc68e8358eb0aaf1bd",
+            "url": "https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec_onnx/resolve/9a32171fc5718746875e1a261818884517975013/inference.onnx"
+          },
+          {
+            "bytes": 4538,
+            "path": "rec/inference.yml",
+            "sha256": "025039bac23eb4a308efcefa4d58eab3af440767815c6ba6938468bf6353ee5a",
+            "url": "https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec_onnx/resolve/9a32171fc5718746875e1a261818884517975013/inference.yml"
+          }
+        ],
+        "id": "rec",
+        "license": "Apache-2.0",
+        "repo": "PaddlePaddle/eslav_PP-OCRv5_mobile_rec_onnx",
+        "revision": "9a32171fc5718746875e1a261818884517975013"
+      }
+    ],
+    "package": "paddle-v5-eslav-onnx",
+    "schema_version": 1
+  },
+  "upstreamManifestSha256": "c8823cc3593cf4e7abf40983126c5675ec5e6d8c91399c96323a2685cd91a6fb"
+}

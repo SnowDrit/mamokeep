@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_search">Ara</string>
+    <string name="settings_search_empty">Eşleşme yok. Başka bir ad veya kod deneyin.</string>
+    <string name="settings_language_system_hint">Bu Android sürümünde uygulama telefonun dilini kullanır.</string>
+    <string name="settings_country_unset">Ülke seç</string>
+    <string name="settings_country_hint">Ülke, otomatik para birimini ve kullanılabilir belge şablonlarını belirler. Dil ve birimler ayrı seçilir.</string>
+    <string name="settings_country_no_documents">Bu ülke için henüz belge şablonu yok. Araç ekranından elle belge eklenebilir.</string>
+    <string name="settings_currency">Para birimi</string>
+    <string name="settings_currency_auto">Otomatik · %1$s</string>
+    <string name="settings_currency_manual">Elle seçildi · %1$s</string>
+    <string name="settings_currency_by_country">Ülkenin para birimini kullan</string>
+    <string name="settings_currency_choose_country">Para birimini otomatik ayarlamak için bir ülke seçin.</string>
+    <string name="settings_currency_hint">Tüm araçlara uygulanır. Para birimini değiştirmek yalnızca etiketi değiştirir; kayıtlı tutarlar dönüştürülmez.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">Ülke veya dil değişse de bu birimler korunur. Kayıtlı mesafeler ve yakıt miktarları değişmez.</string>
+</resources>

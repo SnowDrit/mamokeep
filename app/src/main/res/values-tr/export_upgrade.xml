@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_screen_title">Yapay zekâ sohbeti için</string>
+    <string name="export_scenario_label">Dahil edilecekler</string>
+    <string name="export_question_label">Soru (isteğe bağlı)</string>
+    <string name="export_question_hint">Örneğin: uzun bir yolculuktan önce neler kontrol edilmeli?</string>
+    <string name="export_question_supporting">Hazır soru metinde kalır. Sorun veya yolculukla ilgili ayrıntılar buraya eklenebilir.</string>
+    <string name="export_question_header">## Araç sahibinin sorusu</string>
+    <string name="export_privacy_label">Paylaşmadan önce</string>
+    <string name="export_setup_hint">Herhangi bir yapay zekâ sohbeti için soru ve araç verileri hazırlayın. Metin bu telefonda oluşturulur; hiçbir şey otomatik gönderilmez.</string>
+    <string name="export_preview_size">%1$s karakter · %2$s</string>
+    <string name="export_preview_review">Aşağıdaki metin ve notları kontrol edin. Kopyalama, paylaşma ve kaydetme işlemlerinde bu sürüm aynen kullanılır.</string>
+    <string name="export_share">Paylaş</string>
+    <string name="export_share_title">Yapay zekâ sohbetine gönder</string>
+    <string name="export_save_file">Dosyayı kaydet</string>
+    <string name="export_share_failed">Paylaşım menüsü açılamadı. Metni kopyalayın veya dosya olarak kaydedin.</string>
+    <string name="export_share_too_big">Metin doğrudan paylaşmak için çok büyük. Dosyayı kaydedip sohbete ekleyin.</string>
+    <string name="export_large_preview_hint">Bu kadar veri için dosyayı kaydedip sohbete ekleyin.</string>
+</resources>

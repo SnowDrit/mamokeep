@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="line_color_choose">Choose colour</string>
+    <string name="line_color_theme">Use theme colour</string>
+    <string name="line_color_standard">Standard colours</string>
+    <string name="line_color_advanced">Advanced mode</string>
+    <string name="line_color_apply">Apply</string>
+    <string name="line_color_wheel">Colour wheel</string>
+    <string name="line_color_wheel_hint">Move the marker to choose a colour. Adjust brightness below, or enter a code.</string>
+    <string name="line_color_brightness">Brightness</string>
+    <string name="line_color_hex">HEX</string>
+    <string name="line_color_rgb">RGB (0–255)</string>
+    <string name="line_color_hex_hint">#RGB or #RRGGBB</string>
+    <string name="line_color_rgb_hint">Red, green, blue: 0–255 each</string>
+    <string name="line_color_hex_error">Use 3 or 6 hexadecimal digits, with an optional #.</string>
+    <string name="line_color_rgb_error">Enter three integers from 0 to 255, separated by commas or spaces.</string>
+    <string name="line_color_preview">Selected colour: %1$s</string>
+    <string name="line_color_black">Black</string>
+    <string name="line_color_white">White</string>
+    <string name="line_color_gray">Grey</string>
+    <string name="line_color_red">Red</string>
+    <string name="line_color_orange">Orange</string>
+    <string name="line_color_yellow">Yellow</string>
+    <string name="line_color_green">Green</string>
+    <string name="line_color_teal">Teal</string>
+    <string name="line_color_cyan">Light blue</string>
+    <string name="line_color_blue">Blue</string>
+    <string name="line_color_purple">Purple</string>
+    <string name="line_color_pink">Pink</string>
+    <color name="line_color_black">#000000</color>
+    <color name="line_color_white">#FFFFFF</color>
+    <color name="line_color_gray">#8A8A8A</color>
+    <color name="line_color_red">#B0272D</color>
+    <color name="line_color_orange">#E86C24</color>
+    <color name="line_color_yellow">#E3B824</color>
+    <color name="line_color_green">#2E7D46</color>
+    <color name="line_color_teal">#007D7A</color>
+    <color name="line_color_cyan">#258CBF</color>
+    <color name="line_color_blue">#1F5FA8</color>
+    <color name="line_color_purple">#6A4C93</color>
+    <color name="line_color_pink">#BE4686</color>
+    <array name="line_color_palette">
+        <item>@color/line_color_black</item><item>@color/line_color_white</item>
+        <item>@color/line_color_gray</item><item>@color/line_color_red</item>
+        <item>@color/line_color_orange</item><item>@color/line_color_yellow</item>
+        <item>@color/line_color_green</item><item>@color/line_color_teal</item>
+        <item>@color/line_color_cyan</item><item>@color/line_color_blue</item>
+        <item>@color/line_color_purple</item><item>@color/line_color_pink</item>
+    </array>
+    <string-array name="line_color_palette_names">
+        <item>@string/line_color_black</item><item>@string/line_color_white</item>
+        <item>@string/line_color_gray</item><item>@string/line_color_red</item>
+        <item>@string/line_color_orange</item><item>@string/line_color_yellow</item>
+        <item>@string/line_color_green</item><item>@string/line_color_teal</item>
+        <item>@string/line_color_cyan</item><item>@string/line_color_blue</item>
+        <item>@string/line_color_purple</item><item>@string/line_color_pink</item>
+    </string-array>
+    <dimen name="line_color_gap">12dp</dimen>
+    <dimen name="line_color_small_gap">8dp</dimen>
+    <dimen name="line_color_touch_size">48dp</dimen>
+    <dimen name="line_color_swatch_size">32dp</dimen>
+    <dimen name="line_color_border">1dp</dimen>
+    <dimen name="line_color_selected_border">3dp</dimen>
+    <dimen name="line_color_preview_width">88dp</dimen>
+    <dimen name="line_color_preview_height">52dp</dimen>
+    <dimen name="line_color_wheel_size">240dp</dimen>
+    <dimen name="line_color_marker_radius">8dp</dimen>
+    <dimen name="line_color_marker_stroke">2dp</dimen>
+    <integer name="line_color_transition_ms">180</integer>
+    <integer name="line_color_hue_segments">6</integer>
+</resources>

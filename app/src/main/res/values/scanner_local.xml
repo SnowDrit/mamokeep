@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Source: app files</string>
+    <string name="scanner_local_not_installed">To recognize photos on this device, enable the package included in the app.</string>
+    <string name="scanner_local_install">Enable package</string>
+    <string name="scanner_local_install_title">Enable the scanner package?</string>
+    <string name="scanner_local_install_message">The files are already included in the app. No download is needed. Your photos will stay on this device.</string>
+    <string name="scanner_local_queued">Waiting to prepare the package. You can close this screen.</string>
+    <string name="scanner_local_verifying">Preparing and verifying the files…</string>
+    <string name="scanner_local_cancelling">Cancelling preparation…</string>
+    <string name="scanner_local_cancel_install">Cancel preparation</string>
+    <string name="scanner_local_error_source">The package is unavailable in this app version. Select another version.</string>
+    <string name="scanner_local_error_integrity">The files failed verification. Remove the packages from the scanner card, then enable the package again.</string>
+</resources>

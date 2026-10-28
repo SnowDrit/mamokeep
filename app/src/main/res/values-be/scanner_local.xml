@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Крыніца: файлы праграмы</string>
+    <string name="scanner_local_not_installed">Каб распазнаваць фота на прыладзе, уключыце пакет з праграмы.</string>
+    <string name="scanner_local_install">Уключыць пакет</string>
+    <string name="scanner_local_install_title">Уключыць пакет для сканера?</string>
+    <string name="scanner_local_install_message">Файлы ўжо ўваходзяць у праграму. Спампоўваць нічога не трэба. Фатаграфіі застануцца на прыладзе.</string>
+    <string name="scanner_local_queued">Чакаем падрыхтоўкі пакета. Можна закрыць гэты экран.</string>
+    <string name="scanner_local_verifying">Рыхтуем і правяраем файлы…</string>
+    <string name="scanner_local_cancelling">Скасоўваем падрыхтоўку…</string>
+    <string name="scanner_local_cancel_install">Скасаваць падрыхтоўку</string>
+    <string name="scanner_local_error_source">Пакет недаступны ў гэтай версіі праграмы. Выберыце іншую версію.</string>
+    <string name="scanner_local_error_integrity">Файлы не прайшлі праверку. Выдаліце пакеты з карткі сканера, потым уключыце пакет зноў.</string>
+</resources>

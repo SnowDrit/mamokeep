@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminder_threshold_edit">Налаштувати жовтий рівень</string>
+    <string name="reminder_threshold_hide">Приховати налаштування жовтого рівня</string>
+    <string name="reminder_threshold_hint">Пункт стає жовтим, коли до обслуговування залишається ця відстань або час. Червоний рівень починається, коли строк настав. Завчасні сповіщення налаштовуються окремо нижче.</string>
+    <string name="reminder_item_heading">Нагадування</string>
+    <string name="reminder_use_common">Використовувати спільні налаштування</string>
+    <string name="reminder_common_hint">До цього пункту застосовуються час, дні та правила повторення з «Ще → Нагадування».</string>
+    <string name="reminder_open_settings">Налаштування нагадувань</string>
+    <string name="reminder_settings_hint">Час, дні тижня та завчасні попередження. Кожен пункт може мати власні налаштування.</string>
+    <string name="reminder_save_failed">Не вдалося зберегти налаштування. Зміни залишилися тут; спробуйте ще раз.</string>
+    <string name="reminder_full_service_title">Повне ТО</string>
+    <string name="reminder_full_service_use">Створити нагадування про повне ТО</string>
+    <string name="reminder_full_service_hint">Повне ТО має власний інтервал. Після збереження запишіть, коли його виконували востаннє, щоб розрахувати наступний строк. Його виконання не позначає окремі деталі як замінені.</string>
+</resources>

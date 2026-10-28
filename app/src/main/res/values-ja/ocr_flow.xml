@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">レシートをスキャン</string>
+    <string name="ocr_title">レシートスキャナー</string>
+    <string name="ocr_choose_photo">写真を選択</string>
+    <string name="ocr_take_photo">写真を撮影</string>
+    <string name="ocr_photo">レシートの元の写真</string>
+    <string name="ocr_intro">文字はこの端末上で認識されます。保存前に結果を確認してください。写真から記録が自動で追加・変更されることはありません。</string>
+    <string name="ocr_running">この端末で写真を読み取り中…</string>
+    <string name="ocr_source">元の文書とテキスト</string>
+    <string name="ocr_source_text">レシートの文字 / メモ</string>
+    <string name="ocr_review_text">認識の誤りを修正し、記録する内容を選んでください。次の画面ですべての項目を確認できます。</string>
+    <string name="ocr_fuel_action">給油記録を確認</string>
+    <string name="ocr_work_action">実施済みの整備を確認</string>
+    <string name="ocr_fuel_review">各項目の値と単位を確認してください。通貨：%1$s、距離：%2$s。レシートの合計には他の購入品が含まれる場合があるため、燃料代は自分で入力してください。</string>
+    <string name="ocr_confirm_date">表示されている日付は正しい</string>
+    <string name="ocr_confirm_fields">すべての項目、通貨、単位を確認した</string>
+    <string name="ocr_choose_fuel_type">燃料の種類を選んでください。確実に識別できませんでした。</string>
+    <string name="ocr_yes">はい</string>
+    <string name="ocr_no">いいえ</string>
+    <string name="ocr_work_explanation">メモ付きの実施済み整備記録を1件保存します。部品の購入は作業の完了を意味しません。レシートの明細と価格はメモにのみ残り、個別の記録にはなりません。</string>
+    <string name="ocr_confirm_work">選択した作業が完了したことを確認する</string>
+    <string name="ocr_no_work_items">整備項目がありません。車の画面で項目を追加してから、もう一度スキャンしてください。</string>
+    <string name="ocr_empty">文字が見つかりませんでした。別のファイルを選ぶか、自分で文字を入力してください。</string>
+    <string name="ocr_image_failed">写真を読み取れませんでした。アクセス可能で、ファイルサイズが小さいか、解像度が低い画像を選んでください。</string>
+    <string name="ocr_camera_failed">カメラを開けませんでした。既存の写真を選んでみてください。</string>
+    <string name="ocr_model_failed">スキャナーパッケージが利用できないか、互換性がありません。スキャナー設定に戻り、インストール済みのパッケージを確認してください。</string>
+    <string name="ocr_recognition_failed">認識に失敗しました。再試行するか、別の写真を選んでください。</string>
+    <string name="ocr_interrupted">スキャンが中断されました。記録の保存中だった場合は履歴を確認してから、もう一度ファイルを選んでください。</string>
+    <string name="ocr_save_failed">変更を保存できませんでした。下書きは画面に残っています。再試行してください。</string>
+    <string name="ocr_save_interrupted">保存が中断されました。記録が保存済みの可能性があるため、再試行する前に履歴を確認してください。</string>
+    <string name="ocr_rotate">写真を回転</string>
+</resources>

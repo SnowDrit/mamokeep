@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_screen_title">AI 채팅용</string>
+    <string name="export_scenario_label">포함할 내용</string>
+    <string name="export_question_label">질문(선택 사항)</string>
+    <string name="export_question_hint">예: 장거리 운전 전에 무엇을 확인해야 하나요?</string>
+    <string name="export_question_supporting">기본 질문은 텍스트에 남습니다. 문제나 여행에 대한 자세한 내용을 여기에 추가하세요.</string>
+    <string name="export_question_header">## 차주의 질문</string>
+    <string name="export_privacy_label">공유 전 확인</string>
+    <string name="export_setup_hint">AI 채팅에 사용할 질문과 차량 데이터를 준비합니다. 텍스트는 이 휴대전화에서 작성되며 자동으로 전송되지 않습니다.</string>
+    <string name="export_preview_size">%1$s자 · %2$s</string>
+    <string name="export_preview_review">아래 텍스트와 메모를 확인하세요. 복사, 공유, 저장에는 지금 표시된 내용이 그대로 사용됩니다.</string>
+    <string name="export_share">공유</string>
+    <string name="export_share_title">AI 채팅으로 보내기</string>
+    <string name="export_save_file">파일 저장</string>
+    <string name="export_share_failed">공유 메뉴를 열지 못했습니다. 텍스트를 복사하거나 파일로 저장하세요.</string>
+    <string name="export_share_too_big">텍스트가 너무 커 바로 공유할 수 없습니다. 파일로 저장한 뒤 채팅에 첨부하세요.</string>
+    <string name="export_large_preview_hint">데이터가 많으므로 파일로 저장한 뒤 채팅에 첨부하세요.</string>
+</resources>

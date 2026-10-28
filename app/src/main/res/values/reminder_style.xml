@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="reminder_section_gap">16dp</dimen>
+    <dimen name="reminder_field_gap">12dp</dimen>
+    <dimen name="reminder_action_gap">8dp</dimen>
+    <dimen name="reminder_detail_gap">4dp</dimen>
+    <dimen name="reminder_card_padding">16dp</dimen>
+    <dimen name="reminder_min_touch_size">48dp</dimen>
+    <dimen name="reminder_time_field_min_width">96dp</dimen>
+</resources>

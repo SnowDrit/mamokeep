@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="settings_search">Qidirish</string>
+    <string name="settings_search_empty">Mos natija yoʻq. Boshqa nom yoki kodni sinab koʻring.</string>
+    <string name="settings_language_system_hint">Bu Android versiyasida ilova telefon tilidan foydalanadi.</string>
+    <string name="settings_country_unset">Mamlakatni tanlash</string>
+    <string name="settings_country_hint">Mamlakat avtomatik valyuta va mavjud hujjat andozalarini belgilaydi. Til va oʻlchov birliklari alohida tanlanadi.</string>
+    <string name="settings_country_no_documents">Bu mamlakat uchun hujjat andozalari hali yoʻq. Hujjatlarni avtomobil ekranida qoʻlda qoʻshish mumkin.</string>
+    <string name="settings_currency">Valyuta</string>
+    <string name="settings_currency_auto">Avtomatik · %1$s</string>
+    <string name="settings_currency_manual">Qoʻlda tanlangan · %1$s</string>
+    <string name="settings_currency_by_country">Mamlakat valyutasidan foydalanish</string>
+    <string name="settings_currency_choose_country">Valyutani avtomatik belgilash uchun mamlakatni tanlang.</string>
+    <string name="settings_currency_hint">Barcha avtomobillarga qoʻllanadi. Valyutani oʻzgartirish faqat belgini oʻzgartiradi: saqlangan summalar aylantirilmaydi.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">Mamlakat yoki til oʻzgarsa ham, bu birliklar saqlanadi. Saqlangan masofalar va yoqilgʻi miqdorlari oʻzgarmaydi.</string>
+</resources>

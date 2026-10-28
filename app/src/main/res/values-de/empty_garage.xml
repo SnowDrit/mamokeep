@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_empty">Noch keine Fahrzeuge in der Garage. Füge ein Fahrzeug hinzu, um seine Einträge zu verwalten.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Fuente: archivos de la aplicación</string>
+    <string name="scanner_local_not_installed">Para reconocer texto de fotos en el dispositivo, activa el paquete incluido en la aplicación.</string>
+    <string name="scanner_local_install">Activar paquete</string>
+    <string name="scanner_local_install_title">¿Activar el paquete del escáner?</string>
+    <string name="scanner_local_install_message">Los archivos ya están incluidos en la aplicación. No es necesario descargar nada. Tus fotos permanecerán en el dispositivo.</string>
+    <string name="scanner_local_queued">Esperando a preparar el paquete. Puedes cerrar esta pantalla.</string>
+    <string name="scanner_local_verifying">Preparando y verificando los archivos…</string>
+    <string name="scanner_local_cancelling">Cancelando la preparación…</string>
+    <string name="scanner_local_cancel_install">Cancelar preparación</string>
+    <string name="scanner_local_error_source">El paquete no está disponible en esta versión de la aplicación. Selecciona otra versión.</string>
+    <string name="scanner_local_error_integrity">Los archivos no superaron la verificación. Elimina los paquetes desde la tarjeta del escáner y vuelve a activar el paquete.</string>
+</resources>

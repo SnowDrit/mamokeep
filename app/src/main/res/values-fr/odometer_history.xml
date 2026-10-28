@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Historique du compteur</string>
+    <string name="odometer_history_explain">Relevés saisis séparément des pleins. Touchez un relevé pour le modifier ou le supprimer.</string>
+    <string name="odometer_history_empty">Aucun relevé séparé pour le moment.</string>
+    <string name="odometer_history_edit">Modifier le relevé</string>
+    <string name="odometer_history_delete_confirm">Supprimer le relevé de %1$s du %2$s ? Le kilométrage estimé et les rappels d’entretien seront recalculés à partir des relevés restants.</string>
+    <string name="odometer_history_write_failed">Impossible de modifier le relevé. Rouvrez l’historique, vérifiez le relevé et réessayez.</string>
+    <string name="odometer_history_saving">Mise à jour des relevés…</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Odometer history</string>
+    <string name="odometer_history_explain">Readings entered separately from fill-ups. Tap a reading to edit or delete it.</string>
+    <string name="odometer_history_empty">No separate readings yet.</string>
+    <string name="odometer_history_edit">Edit reading</string>
+    <string name="odometer_history_delete_confirm">Delete the reading %1$s on %2$s? Estimated mileage and maintenance reminders will be recalculated from the remaining readings.</string>
+    <string name="odometer_history_write_failed">Could not change the reading. Reopen the history to check it and try again.</string>
+    <string name="odometer_history_saving">Updating readings…</string>
+    <dimen name="odometer_history_max_height">360dp</dimen>
+    <dimen name="odometer_history_spacing">8dp</dimen>
+    <dimen name="odometer_history_row_padding">12dp</dimen>
+</resources>

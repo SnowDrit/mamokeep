@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Чекті сканерлеу</string>
+    <string name="ocr_title">Чек сканері</string>
+    <string name="ocr_choose_photo">Фото таңдау</string>
+    <string name="ocr_take_photo">Суретке түсіру</string>
+    <string name="ocr_photo">Чектің бастапқы фотосы</string>
+    <string name="ocr_intro">Мәтін құрылғыда танылады. Сақтау алдында нәтижені тексеріңіз: фотосурет жазбаларды өздігінен қоспайды және өзгертпейді.</string>
+    <string name="ocr_running">Фотосурет құрылғыда оқылуда…</string>
+    <string name="ocr_source">Бастапқы құжат және мәтін</string>
+    <string name="ocr_source_text">Чек мәтіні / ескертпе</string>
+    <string name="ocr_review_text">Тану қателерін түзетіп, қандай жазба жасау керегін таңдаңыз. Келесі экранда барлық өрісті тексеруге болады.</string>
+    <string name="ocr_fuel_action">Жанармай құю жазбасын тексеру</string>
+    <string name="ocr_work_action">Орындалған жұмысты тексеру</string>
+    <string name="ocr_fuel_review">Өрістердегі мәндер мен өлшем бірліктерін тексеріңіз. Валюта: %1$s; қашықтық: %2$s. Жанармай құнын қолмен енгізіңіз: чек сомасына басқа сатып алулар кіруі мүмкін.</string>
+    <string name="ocr_confirm_date">Экрандағы күн дұрыс</string>
+    <string name="ocr_confirm_fields">Барлық өрісті, валютаны және өлшем бірліктерін тексердім</string>
+    <string name="ocr_choose_fuel_type">Жанармай түрін таңдаңыз: оны бірмәнді анықтау мүмкін болмады.</string>
+    <string name="ocr_yes">Иә</string>
+    <string name="ocr_no">Жоқ</string>
+    <string name="ocr_work_explanation">Ескертпесі бар бір орындалған жұмыс жазбасы сақталады. Бөлшектерді сатып алу жұмыстың орындалғанын білдірмейді. Смета жолдары мен бағалар жеке жазбалар ретінде емес, тек ескертпеде қалады.</string>
+    <string name="ocr_confirm_work">Таңдалған жұмыстың орындалғанын растаймын</string>
+    <string name="ocr_no_work_items">Техникалық қызмет тармақтары әзірге жоқ. Көлік экранында тармақ қосып, қайта сканерлеңіз.</string>
+    <string name="ocr_empty">Мәтін табылмады. Басқа файлды таңдаңыз немесе мәтінді өзіңіз енгізіңіз.</string>
+    <string name="ocr_image_failed">Фотосуретті оқу мүмкін болмады. Файл көлемі немесе ажыратымдылығы төменірек қолжетімді суретті таңдаңыз.</string>
+    <string name="ocr_camera_failed">Камераны ашу мүмкін болмады. Дайын фотосуретті таңдап көріңіз.</string>
+    <string name="ocr_model_failed">Сканер пакеті қолжетімсіз немесе үйлесімсіз. Сканер баптауларына оралып, орнатылған пакетті тексеріңіз.</string>
+    <string name="ocr_recognition_failed">Тану сәтсіз аяқталды. Қайталап көріңіз немесе басқа фото таңдаңыз.</string>
+    <string name="ocr_interrupted">Сканерлеу сеансы үзілді. Жазбаны сақтап жатқан болсаңыз, журналды тексеріп, файлды қайта таңдаңыз.</string>
+    <string name="ocr_save_failed">Өзгерістерді сақтау мүмкін болмады. Нобай экранда қалды. Қайталап көріңіз.</string>
+    <string name="ocr_save_interrupted">Сақтау үзілді. Қайталап көрмес бұрын журналды тексеріңіз: жазба сақталып қойған болуы мүмкін.</string>
+    <string name="ocr_rotate">Фотоны бұру</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_screen_title">Do rozmowy z AI</string>
+    <string name="export_scenario_label">Co uwzględnić</string>
+    <string name="export_question_label">Pytanie (opcjonalne)</string>
+    <string name="export_question_hint">Na przykład: co sprawdzić przed długą podróżą?</string>
+    <string name="export_question_supporting">Gotowe pytanie pozostaje w tekście. Tutaj można dodać szczegóły problemu lub podróży.</string>
+    <string name="export_question_header">## Pytanie właściciela</string>
+    <string name="export_privacy_label">Przed udostępnieniem</string>
+    <string name="export_setup_hint">Przygotowanie pytania i danych pojazdu do dowolnej rozmowy z AI. Tekst powstaje na tym telefonie; nic nie jest wysyłane automatycznie.</string>
+    <string name="export_preview_size">%1$s znaków · %2$s</string>
+    <string name="export_preview_review">Należy sprawdzić tekst i notatki poniżej. Kopiowanie, udostępnianie i zapis używają dokładnie tej wersji.</string>
+    <string name="export_share">Udostępnij</string>
+    <string name="export_share_title">Wyślij do rozmowy z AI</string>
+    <string name="export_save_file">Zapisz plik</string>
+    <string name="export_share_failed">Nie udało się otworzyć menu udostępniania. Można skopiować tekst lub zapisać go w pliku.</string>
+    <string name="export_share_too_big">Ten tekst jest za duży do bezpośredniego udostępnienia. Należy zapisać plik i dołączyć go do rozmowy.</string>
+    <string name="export_large_preview_hint">Przy takiej ilości danych najlepiej zapisać plik i dołączyć go do rozmowy.</string>
+</resources>

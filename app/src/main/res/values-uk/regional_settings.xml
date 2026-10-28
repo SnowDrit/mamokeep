@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="settings_search">Пошук</string>
+    <string name="settings_search_empty">Збігів немає. Спробуйте іншу назву або код.</string>
+    <string name="settings_language_system_hint">У цій версії Android застосунок використовує мову телефона.</string>
+    <string name="settings_country_unset">Обрати країну</string>
+    <string name="settings_country_hint">Країна визначає автоматичну валюту й доступні шаблони документів. Мова та одиниці вимірювання обираються окремо.</string>
+    <string name="settings_country_no_documents">Для цієї країни ще немає шаблонів документів. Документи можна додати вручну на екрані авто.</string>
+    <string name="settings_currency">Валюта</string>
+    <string name="settings_currency_auto">Автоматично · %1$s</string>
+    <string name="settings_currency_manual">Обрано вручну · %1$s</string>
+    <string name="settings_currency_by_country">Використовувати валюту країни</string>
+    <string name="settings_currency_choose_country">Оберіть країну, щоб визначити валюту автоматично.</string>
+    <string name="settings_currency_hint">Застосовується до всіх авто. Зміна валюти змінює лише позначення: збережені суми не перераховуються.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">Зміна країни або мови зберігає ці одиниці. Збережені відстані та обсяги пального не змінюються.</string>
+</resources>

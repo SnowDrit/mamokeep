@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Көрсеткіштер тарихы</string>
+    <string name="odometer_history_explain">Жанармай құюдан бөлек енгізілген көрсеткіштер. Түзету немесе жою үшін жазбаны түртіңіз.</string>
+    <string name="odometer_history_empty">Бөлек көрсеткіштер әлі жоқ.</string>
+    <string name="odometer_history_edit">Көрсеткішті түзету</string>
+    <string name="odometer_history_delete_confirm">%2$s күнгі %1$s көрсеткіші жойылсын ба? Есептік жүріс пен техникалық қызмет еске салғыштары қалған көрсеткіштер бойынша қайта есептеледі.</string>
+    <string name="odometer_history_write_failed">Көрсеткішті өзгерту мүмкін болмады. Тарихты қайта ашып, жазбаны тексеріп, қайталап көріңіз.</string>
+    <string name="odometer_history_saving">Көрсеткіштер жаңартылуда…</string>
+</resources>

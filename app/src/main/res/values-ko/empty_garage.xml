@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_empty">차고에 아직 차량이 없습니다. 기록을 관리할 차량을 추가하세요.</string>
+</resources>

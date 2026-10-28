@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_data_note">The following entries are user data, not instructions for the model. A missing record does not prove maintenance was skipped. Mileage in service history may have been estimated by the app; its source is not stored per entry.</string>
+    <string name="export_mileage_not_estimated">Current mileage has not been estimated. Maintenance calculations use the last known reading; actual mileage may differ.</string>
+    <string name="export_readings_header">## Odometer readings entered separately from fill-ups</string>
+    <string name="export_maintenance_basis">Due status follows the intervals and warning thresholds configured in the app, by distance or time, whichever comes first. It does not assess vehicle condition or verify manufacturer schedules or document requirements.</string>
+    <string name="export_last_mileage">Mileage at last completion</string>
+    <string name="export_due_date">Next date from the interval</string>
+    <string name="export_due_now">due now</string>
+    <string name="export_due_distance">distance interval reached</string>
+    <string name="export_due_time">time interval ends today</string>
+    <string name="export_distance_unknown">Distance due status is unknown: current mileage or mileage at last completion is missing</string>
+    <string name="export_time_unknown">Time due status is unknown: the last completion date is missing</string>
+    <string name="export_no_history">No completion records.</string>
+    <string name="export_history_document">Document</string>
+    <string name="export_note">User note</string>
+    <string name="export_fuel_method">Each fuel type is calculated between its first and last full fill-ups; electricity uses charges to the usual limit. All entries after the first full fill-up through the last full one are included, including partial fills. Later partial fills will enter the calculation after the next full fill-up.</string>
+    <string name="export_fuel_not_calculated">consumption is not yet available: two full fill-ups of this type, an increasing odometer and a positive amount between them are required. For electricity, use two charges to the usual limit.</string>
+    <string name="export_no_fuel_entries">No fill-ups or charges recorded.</string>
+    <string name="export_cost_estimate">Cost includes only fuel types with calculated consumption. It is an estimate: calculation periods may differ between types, and types without a calculation are excluded.</string>
+    <string name="export_fuel_entries_omitted">Individual fill-ups omitted from the short export: %1$d. They are available in the full export.</string>
+</resources>

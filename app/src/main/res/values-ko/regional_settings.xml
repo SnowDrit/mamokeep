@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_search">검색</string>
+    <string name="settings_search_empty">일치하는 항목이 없습니다. 다른 이름이나 코드를 입력하세요.</string>
+    <string name="settings_language_system_hint">이 Android 버전에서는 앱이 휴대전화 언어를 따릅니다.</string>
+    <string name="settings_country_unset">국가 선택</string>
+    <string name="settings_country_hint">국가에 따라 자동 통화와 사용할 수 있는 서류 양식이 정해집니다. 언어와 단위는 별도로 선택합니다.</string>
+    <string name="settings_country_no_documents">이 국가의 서류 양식은 아직 없습니다. 차량 화면에서 직접 서류를 추가할 수 있습니다.</string>
+    <string name="settings_currency">통화</string>
+    <string name="settings_currency_auto">자동 · %1$s</string>
+    <string name="settings_currency_manual">직접 선택 · %1$s</string>
+    <string name="settings_currency_by_country">국가 통화 사용</string>
+    <string name="settings_currency_choose_country">통화를 자동 설정하려면 국가를 선택하세요.</string>
+    <string name="settings_currency_hint">모든 차량에 적용됩니다. 통화를 바꾸면 표시만 바뀌며 저장된 금액은 환산되지 않습니다.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">국가나 언어를 바꿔도 이 단위는 유지됩니다. 저장된 거리와 연료량은 그대로 유지됩니다.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_screen_title">Para un chat con IA</string>
+    <string name="export_scenario_label">Qué incluir</string>
+    <string name="export_question_label">Pregunta (opcional)</string>
+    <string name="export_question_hint">Por ejemplo: ¿qué revisar antes de un viaje largo?</string>
+    <string name="export_question_supporting">La pregunta predefinida permanece en el texto. Añadir aquí detalles sobre el problema o el viaje.</string>
+    <string name="export_question_header">## Pregunta del propietario</string>
+    <string name="export_privacy_label">Antes de compartir</string>
+    <string name="export_setup_hint">Preparar una pregunta y los datos del vehículo para cualquier chat con IA. El texto se crea en este teléfono; no se envía nada automáticamente.</string>
+    <string name="export_preview_size">%1$s caracteres · %2$s</string>
+    <string name="export_preview_review">Revisar el texto y las notas siguientes. Copiar, compartir y guardar usan exactamente esta versión.</string>
+    <string name="export_share">Compartir</string>
+    <string name="export_share_title">Enviar a un chat con IA</string>
+    <string name="export_save_file">Guardar archivo</string>
+    <string name="export_share_failed">No se pudo abrir el menú para compartir. Copiar el texto o guardarlo como archivo.</string>
+    <string name="export_share_too_big">Este texto es demasiado grande para compartirlo directamente. Guardar el archivo y adjuntarlo a un chat.</string>
+    <string name="export_large_preview_hint">Para este volumen de datos, guardar el archivo y adjuntarlo a un chat.</string>
+</resources>

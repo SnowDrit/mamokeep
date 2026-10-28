@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_reminders_title">提醒</string>
+    <string name="more_reminders_summary">时间、星期和提前提醒</string>
+    <string name="more_data_heading">车辆数据</string>
+    <string name="more_export_summary">车辆历史和问题，可复制或保存</string>
+    <string name="more_settings_heading">偏好设置</string>
+    <string name="more_project_heading">关于项目</string>
+    <string name="more_appearance_language">外观与语言</string>
+    <string name="more_weekly_disabled_summary">关闭</string>
+    <string name="more_weekly_enabled_summary">开启 · 每周一次</string>
+    <string name="more_choose_folder">选择文件夹</string>
+    <string name="more_change_folder">更改文件夹</string>
+    <string name="more_folder_permission_failed">无法保存对此文件夹的访问权限，请选择其他文件夹。</string>
+    <string name="more_support_open_failed">无法打开链接，请安装或启用浏览器。</string>
+    <string name="more_privacy_policy">隐私政策</string>
+    <string name="more_scanner_summary">在设备上识别照片。资源包为可选项。</string>
+    <string name="more_scanner_failed">无法准备资源包，打开可查看详情。</string>
+    <string name="more_expanded">已展开</string>
+    <string name="more_collapsed">已折叠</string>
+</resources>

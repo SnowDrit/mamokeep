@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="line_color_choose">Выбраць колер</string>
+    <string name="line_color_theme">Колер тэмы</string>
+    <string name="line_color_standard">Стандартныя колеры</string>
+    <string name="line_color_advanced">Пашыраны рэжым</string>
+    <string name="line_color_apply">Ужыць</string>
+    <string name="line_color_wheel">Каляровы круг</string>
+    <string name="line_color_wheel_hint">Перасуньце маркер, каб выбраць колер. Наладзьце яркасць ніжэй або ўвядзіце код.</string>
+    <string name="line_color_brightness">Яркасць</string>
+    <string name="line_color_hex">HEX</string>
+    <string name="line_color_rgb">RGB (0–255)</string>
+    <string name="line_color_hex_hint">#RGB або #RRGGBB</string>
+    <string name="line_color_rgb_hint">Чырвоны, зялёны, сіні: кожны 0–255</string>
+    <string name="line_color_hex_error">Увядзіце 3 або 6 шаснаццатковых лічбаў, пры жаданні з # у пачатку.</string>
+    <string name="line_color_rgb_error">Увядзіце тры цэлыя лікі ад 0 да 255, падзеленыя коскамі або прабеламі.</string>
+    <string name="line_color_preview">Выбраны колер: %1$s</string>
+    <string name="line_color_black">Чорны</string>
+    <string name="line_color_white">Белы</string>
+    <string name="line_color_gray">Шэры</string>
+    <string name="line_color_red">Чырвоны</string>
+    <string name="line_color_orange">Аранжавы</string>
+    <string name="line_color_yellow">Жоўты</string>
+    <string name="line_color_green">Зялёны</string>
+    <string name="line_color_teal">Бірузовы</string>
+    <string name="line_color_cyan">Блакітны</string>
+    <string name="line_color_blue">Сіні</string>
+    <string name="line_color_purple">Фіялетавы</string>
+    <string name="line_color_pink">Ружовы</string>
+    <string-array name="line_color_palette_names">
+        <item>@string/line_color_black</item>
+        <item>@string/line_color_white</item>
+        <item>@string/line_color_gray</item>
+        <item>@string/line_color_red</item>
+        <item>@string/line_color_orange</item>
+        <item>@string/line_color_yellow</item>
+        <item>@string/line_color_green</item>
+        <item>@string/line_color_teal</item>
+        <item>@string/line_color_cyan</item>
+        <item>@string/line_color_blue</item>
+        <item>@string/line_color_purple</item>
+        <item>@string/line_color_pink</item>
+    </string-array>
+</resources>

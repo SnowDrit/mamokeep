@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Правяраем стан копіі…</string>
+    <string name="backup_status_waiting">Копія паводле раскладу яшчэ не створана. Чакаем запуску.</string>
+    <string name="backup_status_failed">Не ўдалося стварыць апошнюю копію. Праверце доступ да папкі або выберыце яе нанова.</string>
+    <string name="backup_status_last_success">Апошняя паспяховая копія: %1$s</string>
+</resources>

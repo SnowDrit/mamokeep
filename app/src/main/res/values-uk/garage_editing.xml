@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="garage_unsaved_title">Зберегти зміни?</string>
+    <string name="garage_unsaved_message">У профілі авто є незбережені зміни.</string>
+    <string name="garage_leave_without_saving">Вийти без збереження</string>
+    <string name="garage_keep_editing">Продовжити редагування</string>
+    <string name="garage_saving">Збереження…</string>
+    <string name="garage_save_failed">Не вдалося зберегти профіль. Зміни залишилися тут. Спробуйте ще раз.</string>
+</resources>

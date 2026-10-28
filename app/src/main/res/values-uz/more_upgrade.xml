@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="more_reminders_title">Eslatmalar</string>
+    <string name="more_reminders_summary">Vaqt, hafta kunlari va oldindan ogohlantirishlar</string>
+    <string name="more_data_heading">Avtomobil maʼlumotlari</string>
+    <string name="more_export_summary">Nusxalash yoki saqlashga tayyor avtomobil tarixi va savol</string>
+    <string name="more_settings_heading">Sozlamalar</string>
+    <string name="more_project_heading">Loyiha haqida</string>
+    <string name="more_appearance_language">Koʻrinish va til</string>
+    <string name="more_weekly_disabled_summary">Oʻchiq</string>
+    <string name="more_weekly_enabled_summary">Yoqilgan · haftada bir marta</string>
+    <string name="more_choose_folder">Jildni tanlash</string>
+    <string name="more_change_folder">Jildni oʻzgartirish</string>
+    <string name="more_folder_permission_failed">Bu jildga kirish huquqini saqlab boʻlmadi. Boshqa jild tanlang.</string>
+    <string name="more_support_open_failed">Havolani ochib boʻlmadi. Brauzer oʻrnating yoki yoqing.</string>
+    <string name="more_privacy_policy">Maxfiylik siyosati</string>
+    <string name="more_scanner_summary">Suratni qurilmada tanish. Ixtiyoriy paket.</string>
+    <string name="more_scanner_failed">Paketni tayyorlab boʻlmadi. Tafsilotlarni oching.</string>
+    <string name="more_expanded">Yoyilgan</string>
+    <string name="more_collapsed">Yigʻilgan</string>
+</resources>

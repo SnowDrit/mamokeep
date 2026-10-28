@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="more_reminders_title">Еске салулар</string>
+    <string name="more_reminders_summary">Уақыт, апта күндері және алдын ала ескертулер</string>
+    <string name="more_data_heading">Көлік деректері</string>
+    <string name="more_export_summary">Көшіруге не сақтауға дайын көлік тарихы мен сұрақ</string>
+    <string name="more_settings_heading">Баптаулар</string>
+    <string name="more_project_heading">Жоба туралы</string>
+    <string name="more_appearance_language">Көрініс пен тіл</string>
+    <string name="more_weekly_disabled_summary">Өшірулі</string>
+    <string name="more_weekly_enabled_summary">Қосулы · аптасына бір рет</string>
+    <string name="more_choose_folder">Қалтаны таңдау</string>
+    <string name="more_change_folder">Қалтаны ауыстыру</string>
+    <string name="more_folder_permission_failed">Бұл қалтаға қолжетімділікті сақтау мүмкін болмады. Басқа қалта таңдаңыз.</string>
+    <string name="more_support_open_failed">Сілтемені ашу мүмкін болмады. Браузерді орнатыңыз немесе қосыңыз.</string>
+    <string name="more_privacy_policy">Құпиялық саясаты</string>
+    <string name="more_scanner_summary">Фотосуретті құрылғыда тану. Қосымша пакет.</string>
+    <string name="more_scanner_failed">Пакетті дайындау мүмкін болмады. Толық мәліметті ашыңыз.</string>
+    <string name="more_expanded">Жайылған</string>
+    <string name="more_collapsed">Жиналған</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="garage_unsaved_title">¿Guardar los cambios?</string>
+    <string name="garage_unsaved_message">El perfil del vehículo tiene cambios sin guardar.</string>
+    <string name="garage_leave_without_saving">Salir sin guardar</string>
+    <string name="garage_keep_editing">Seguir editando</string>
+    <string name="garage_saving">Guardando…</string>
+    <string name="garage_save_failed">No se pudo guardar el perfil. Los cambios siguen aquí. Volver a intentarlo.</string>
+</resources>

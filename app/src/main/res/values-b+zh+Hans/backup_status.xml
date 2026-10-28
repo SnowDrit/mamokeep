@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">正在检查备份状态…</string>
+    <string name="backup_status_waiting">尚未创建定时备份，正在等待下次运行。</string>
+    <string name="backup_status_failed">上次备份失败。请检查文件夹访问权限或重新选择文件夹。</string>
+    <string name="backup_status_last_success">上次成功备份：%1$s</string>
+</resources>

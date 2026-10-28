@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_search">Search</string>
+    <string name="settings_search_empty">No matches. Try another name or code.</string>
+    <string name="settings_language_system_hint">On this Android version, the app follows the phone language.</string>
+    <string name="settings_country_unset">Choose a country</string>
+    <string name="settings_country_hint">Country sets the automatic currency and available document templates. Language and units are selected separately.</string>
+    <string name="settings_country_no_documents">No document templates for this country yet. Documents can be added manually in the car screen.</string>
+    <string name="settings_currency">Currency</string>
+    <string name="settings_currency_auto">Automatic · %1$s</string>
+    <string name="settings_currency_manual">Selected manually · %1$s</string>
+    <string name="settings_currency_by_country">Use country currency</string>
+    <string name="settings_currency_choose_country">Choose a country to set the currency automatically.</string>
+    <string name="settings_currency_hint">Applies to all cars. Changing currency only changes the label: saved amounts are not converted.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">Changing country or language keeps these units. Stored distances and fuel amounts stay the same.</string>
+</resources>

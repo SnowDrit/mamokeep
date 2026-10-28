@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_screen_title">ЖИ чатына</string>
+    <string name="export_scenario_label">Нені қосу керек</string>
+    <string name="export_question_label">Сұрақ (міндетті емес)</string>
+    <string name="export_question_hint">Мысалы: ұзақ сапар алдында нені тексеру керек?</string>
+    <string name="export_question_supporting">Дайын сұрақ мәтінде қалады. Мұнда мәселе немесе сапар туралы мәлімет қосыңыз.</string>
+    <string name="export_question_header">## Иесінің сұрағы</string>
+    <string name="export_privacy_label">Бөліспес бұрын</string>
+    <string name="export_setup_hint">Кез келген ЖИ чатына сұрақ пен көлік деректерін дайындаңыз. Мәтін осы телефонда жасалады; ештеңе автоматты жіберілмейді.</string>
+    <string name="export_preview_size">%1$s таңба · %2$s</string>
+    <string name="export_preview_review">Төмендегі мәтін мен ескертпелерді тексеріңіз. Көшіру, бөлісу және сақтау дәл осы нұсқаны қолданады.</string>
+    <string name="export_share">Бөлісу</string>
+    <string name="export_share_title">ЖИ чатына жіберу</string>
+    <string name="export_save_file">Файлды сақтау</string>
+    <string name="export_share_failed">Бөлісу мәзірін ашу мүмкін болмады. Мәтінді көшіріңіз немесе файлға сақтаңыз.</string>
+    <string name="export_share_too_big">Бұл мәтін тікелей бөлісуге тым үлкен. Файлды сақтап, чатқа тіркеңіз.</string>
+    <string name="export_large_preview_hint">Осындай дерек көлемі үшін файлды сақтап, чатқа тіркеңіз.</string>
+</resources>

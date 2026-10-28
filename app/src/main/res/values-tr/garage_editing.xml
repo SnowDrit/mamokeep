@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_unsaved_title">Değişiklikler kaydedilsin mi?</string>
+    <string name="garage_unsaved_message">Araç profilinde kaydedilmemiş değişiklikler var.</string>
+    <string name="garage_leave_without_saving">Kaydetmeden çık</string>
+    <string name="garage_keep_editing">Düzenlemeye devam et</string>
+    <string name="garage_saving">Kaydediliyor…</string>
+    <string name="garage_save_failed">Profil kaydedilemedi. Değişiklikler duruyor. Tekrar deneyin.</string>
+</resources>

@@ -1,0 +1,919 @@
+{
+  "files_newly_generated_for_v5": [
+    "AUDIT.json",
+    "NOTICE.txt",
+    "PROVENANCE.json"
+  ],
+  "files_unchanged_from_original_v1": [
+    "LICENSE-2.0.txt",
+    "det-README.md",
+    "det.onnx",
+    "det.yml",
+    "rec-README.md",
+    "rec-characters.txt",
+    "rec.yml"
+  ],
+  "identity": {
+    "approvalStatus": "LOCAL_PREVIEW_FOR_RELEASE_QA_NOT_INDEPENDENTLY_ACCEPTED",
+    "distribution": "APK-trusted local offline preview; no network release source",
+    "id": "paddle-v5-eslav-onnx",
+    "published": false,
+    "version": "2-apk-v5"
+  },
+  "license": {
+    "file": "LICENSE-2.0.txt",
+    "notice": "NOTICE.txt",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "spdx": "Apache-2.0",
+    "upstream_attribution_retained": true
+  },
+  "metadata_revision": {
+    "all_other_eight_payload_files_byte_identical_to_payload_v1": true,
+    "changed_from_payload_v1": [
+      "AUDIT.json",
+      "NOTICE.txt",
+      "PROVENANCE.json"
+    ],
+    "payload_identity_unchanged": true,
+    "revision": 2,
+    "source_model_weights_changed": false
+  },
+  "original_v1": {
+    "all_eleven_original_files_hash_verified": true,
+    "asset_descriptor": {
+      "bytes": 1794,
+      "path": "app/src/main/assets/scanner/model-package.json",
+      "sha256": "54ed3363c5623098eb17dd9cfe2a3532c8792c7f0fff1872f77e9bed99018d34"
+    },
+    "dictionary_generation": {
+      "PyYAML": "6.0.3",
+      "format": "UTF-8, LF, original order, final LF"
+    },
+    "files": [
+      {
+        "bytes": 1886,
+        "name": "AUDIT.json",
+        "sha256": "c072c88adb31c7403afa7ff0d76f80f357057e5a8f88ae57a4c3e40174d41404",
+        "source": "tools/document_scanner/.local/release/AUDIT.json"
+      },
+      {
+        "bytes": 11357,
+        "name": "LICENSE-2.0.txt",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "source": "tools/document_scanner/.local/release/LICENSE-2.0.txt"
+      },
+      {
+        "bytes": 813,
+        "name": "NOTICE.txt",
+        "sha256": "ea7c5930de0acfb335d0c28076505d23c96a29b43ce2ba9eb064efd2b629d8c0",
+        "source": "tools/document_scanner/.local/release/NOTICE.txt"
+      },
+      {
+        "bytes": 4914,
+        "name": "PROVENANCE.json",
+        "sha256": "f90d14d2d1dbe19a84b3600bd9ab1501e0bb72c0bd7ebf893559a166579a7a08",
+        "source": "tools/document_scanner/.local/release/PROVENANCE.json"
+      },
+      {
+        "bytes": 1828,
+        "name": "det-README.md",
+        "sha256": "951c155673ac6c15feb85857c9024a62266e5956d15319ce578a8f508f399d66",
+        "source": "tools/document_scanner/.local/release/det-README.md"
+      },
+      {
+        "bytes": 4826518,
+        "name": "det.onnx",
+        "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d",
+        "source": "tools/document_scanner/.local/release/det.onnx"
+      },
+      {
+        "bytes": 903,
+        "name": "det.yml",
+        "sha256": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699",
+        "source": "tools/document_scanner/.local/release/det.yml"
+      },
+      {
+        "bytes": 28,
+        "name": "rec-README.md",
+        "sha256": "98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74",
+        "source": "tools/document_scanner/.local/release/rec-README.md"
+      },
+      {
+        "bytes": 1663,
+        "name": "rec-characters.txt",
+        "sha256": "3e95f1581557162870cacdba5af91a4c6be2890710d395b0c3c7578e7ee5e6eb",
+        "source": "tools/document_scanner/.local/release/rec-characters.txt"
+      },
+      {
+        "bytes": 7887627,
+        "name": "rec.onnx",
+        "sha256": "b3018ef2b09a0250b6e0c8e871c927098363e5fd4df890cc68e8358eb0aaf1bd",
+        "source": "tools/document_scanner/.local/release/rec.onnx"
+      },
+      {
+        "bytes": 4538,
+        "name": "rec.yml",
+        "sha256": "025039bac23eb4a308efcefa4d58eab3af440767815c6ba6938468bf6353ee5a",
+        "source": "tools/document_scanner/.local/release/rec.yml"
+      }
+    ],
+    "original_audit_reference": {
+      "bytes": 1886,
+      "path": "tools/document_scanner/.local/release/AUDIT.json",
+      "sha256": "c072c88adb31c7403afa7ff0d76f80f357057e5a8f88ae57a4c3e40174d41404"
+    },
+    "original_provenance_reference": {
+      "bytes": 4914,
+      "path": "tools/document_scanner/.local/release/PROVENANCE.json",
+      "sha256": "f90d14d2d1dbe19a84b3600bd9ab1501e0bb72c0bd7ebf893559a166579a7a08"
+    },
+    "release_cache": "tools/document_scanner/.local/release",
+    "upstream_manifest": {
+      "models": [
+        {
+          "files": [
+            {
+              "bytes": 1828,
+              "path": "det/README.md",
+              "sha256": "951c155673ac6c15feb85857c9024a62266e5956d15319ce578a8f508f399d66",
+              "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_onnx/resolve/e6f4fa85f00e168c862bc462aebca69eef9b3d3d/README.md"
+            },
+            {
+              "bytes": 4826518,
+              "path": "det/inference.onnx",
+              "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d",
+              "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_onnx/resolve/e6f4fa85f00e168c862bc462aebca69eef9b3d3d/inference.onnx"
+            },
+            {
+              "bytes": 903,
+              "path": "det/inference.yml",
+              "sha256": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699",
+              "url": "https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_det_onnx/resolve/e6f4fa85f00e168c862bc462aebca69eef9b3d3d/inference.yml"
+            }
+          ],
+          "id": "det",
+          "license": "Apache-2.0",
+          "repo": "PaddlePaddle/PP-OCRv5_mobile_det_onnx",
+          "revision": "e6f4fa85f00e168c862bc462aebca69eef9b3d3d"
+        },
+        {
+          "files": [
+            {
+              "bytes": 28,
+              "path": "rec/README.md",
+              "sha256": "98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74",
+              "url": "https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec_onnx/resolve/9a32171fc5718746875e1a261818884517975013/README.md"
+            },
+            {
+              "bytes": 7887627,
+              "path": "rec/inference.onnx",
+              "sha256": "b3018ef2b09a0250b6e0c8e871c927098363e5fd4df890cc68e8358eb0aaf1bd",
+              "url": "https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec_onnx/resolve/9a32171fc5718746875e1a261818884517975013/inference.onnx"
+            },
+            {
+              "bytes": 4538,
+              "path": "rec/inference.yml",
+              "sha256": "025039bac23eb4a308efcefa4d58eab3af440767815c6ba6938468bf6353ee5a",
+              "url": "https://huggingface.co/PaddlePaddle/eslav_PP-OCRv5_mobile_rec_onnx/resolve/9a32171fc5718746875e1a261818884517975013/inference.yml"
+            }
+          ],
+          "id": "rec",
+          "license": "Apache-2.0",
+          "repo": "PaddlePaddle/eslav_PP-OCRv5_mobile_rec_onnx",
+          "revision": "9a32171fc5718746875e1a261818884517975013"
+        }
+      ],
+      "package": "paddle-v5-eslav-onnx",
+      "schema_version": 1
+    },
+    "upstream_manifest_sha256": "c8823cc3593cf4e7abf40983126c5675ec5e6d8c91399c96323a2685cd91a6fb"
+  },
+  "preparation_script": {
+    "bytes": 17188,
+    "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/v5-local-payload-v2/prepare_payload.py",
+    "sha256": "34e89bea302e3be2d0f68944bb51ab71221623ec986ea19337fb98140c40626d"
+  },
+  "previous_payload_v1": {
+    "descriptor": {
+      "bytes": 1776,
+      "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/v5-local-payload-v1/model-package.json",
+      "sha256": "7a977cd8e586c245ff198360629a72a939e796d48e5972aada14ccb36b17bd8b"
+    },
+    "unchanged": true,
+    "verification": {
+      "bytes": 3728,
+      "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/v5-local-payload-v1/verification.json",
+      "sha256": "d159d393a8ced26ab19f8d8b80d9fa2bd6cbd3f159d1fb5f13cf80ab524c1472"
+    }
+  },
+  "qualification": {
+    "automatic_activation": false,
+    "automatic_installation": false,
+    "component_gate_passed_both_modes": true,
+    "exact_optimized_release_native_qualification": "PENDING",
+    "global_strict_export_gate_passed": false,
+    "global_strict_export_gate_waived": false,
+    "historical_global_export_gate_superseded": false,
+    "human_verified": false,
+    "independent_acceptance": false,
+    "limited_local_preview_for_release_qa": true,
+    "manual_selection_and_confirmation_required": true,
+    "numeric_threshold_changed": false,
+    "offline_restart_and_explicit_rollback_to_v1_required": true,
+    "phone_update_qualification": "PENDING",
+    "preserve_existing_active_v1": true,
+    "root_explicitly_authorized_after_full_component_pass": true,
+    "stable_promotion": false,
+    "static_frozen_prefix_exact": true,
+    "status": "LOCAL_PREVIEW_FOR_RELEASE_QA_NOT_INDEPENDENTLY_ACCEPTED",
+    "whole_apk_accuracy_claim": null
+  },
+  "qualification_evidence": {
+    "actual_native_train13_v3": {
+      "reference": {
+        "bytes": 341155,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/train13-native-v3-comparison-v1/comparison.json",
+        "sha256": "fbefe3604745aee9afb822894c92ab2c3e497882bf180ff822964846050e92dc"
+      },
+      "summary": {
+        "additional_nine_fields": {
+          "remaining_positive_misses": "Printed liters on next physical row; no inference of row association.",
+          "two_digit_years_remain_unknown": true,
+          "v1": {
+            "date_abstentions_are_not_recognition_success": true,
+            "per_image_counts": {
+              "correct_positive": 1,
+              "missing": 14,
+              "unknown_abstention": 21
+            },
+            "unique_group_all_views_correct": 1,
+            "unique_group_positive_targets": 13
+          },
+          "v5_diagnostic": {
+            "date_abstentions_are_not_recognition_success": true,
+            "per_image_counts": {
+              "correct_positive": 8,
+              "missing": 7,
+              "unknown_abstention": 21
+            },
+            "unique_group_all_views_correct": 7,
+            "unique_group_positive_targets": 13
+          }
+        },
+        "additional_relationships": {
+          "after": 11,
+          "denominator": 11
+        },
+        "all_relationships_after": 18,
+        "changed_predictions_are_not_correctness_labels": true,
+        "first_seven_relationships": {
+          "after": 7,
+          "before": 1,
+          "denominator": 7
+        },
+        "invalid_rejected": 4,
+        "metrics_v1": {
+          "crop_io_ms": {
+            "max": 308,
+            "median": 175,
+            "min": 24,
+            "total": 2243
+          },
+          "elapsed_ms": {
+            "max": 6946,
+            "median": 2575,
+            "min": 1310,
+            "total": 39504
+          },
+          "native_heap_bytes_after": {
+            "max": 31044112,
+            "median": 29958832,
+            "min": 29843776
+          },
+          "total_ms": {
+            "max": 7181,
+            "median": 2735,
+            "min": 1334,
+            "total": 41747
+          }
+        },
+        "metrics_v5_diagnostic": {
+          "crop_io_ms": {
+            "max": 304,
+            "median": 177,
+            "min": 24,
+            "total": 2233
+          },
+          "elapsed_ms": {
+            "max": 7386,
+            "median": 2534,
+            "min": 1122,
+            "total": 39277
+          },
+          "native_heap_bytes_after": {
+            "max": 31044224,
+            "median": 29978320,
+            "min": 29847728
+          },
+          "total_ms": {
+            "max": 7619,
+            "median": 2706,
+            "min": 1146,
+            "total": 41510
+          }
+        },
+        "native_keep_decisions_match_frozen_guard_all_models": true,
+        "native_literal_controls": {
+          "characters": 141,
+          "crops": 11,
+          "v1_errors": 5,
+          "v1_exact": 7,
+          "v5_errors": 2,
+          "v5_exact": 10
+        },
+        "new_rescue_candidates_after_guard": 6,
+        "new_rescue_candidates_before_guard": 10,
+        "original_line_count": 957,
+        "original_v1_to_v5_changed_predictions": 458,
+        "performance_limits": "Single saved native run per case, no repeated benchmark or peak-memory measurement. native_heap_bytes_after is the observation after OCR, NOT peak. elapsed excludes separate crop_io_ms. Different code stages/thermal/cache states prevent a controlled speedup claim.",
+        "relationship_recall_scope": "Frozen selective relationships only; not exhaustive document/table item recall.",
+        "retained_crop_pngs_equal_all_models": true,
+        "stable_original_membership_sequences_all": true,
+        "stable_retained_membership_sequences_all": true,
+        "v1_original_text_confidence_box_and_png_exact": 957,
+        "v1_retained_confidence_changes": 2,
+        "v1_retained_quantity_literals_unchanged": 2,
+        "v1_v2_to_v3": {
+          "note": "Rescue index renumbering is compared by source quad in retained-row-membership evidence; raw index equality alone is not a preservation test.",
+          "original_box_exact": 957,
+          "original_confidence_exact": 957,
+          "original_lines_exact": 957,
+          "original_text_exact": 957,
+          "raw_index_row_memberships_equal_cases": 12
+        },
+        "v5_retained_whole_lines_exact": 6,
+        "v5_v2_to_v3": {
+          "note": "Rescue index renumbering is compared by source quad in retained-row-membership evidence; raw index equality alone is not a preservation test.",
+          "original_box_exact": 957,
+          "original_confidence_exact": 957,
+          "original_lines_exact": 957,
+          "original_text_exact": 957,
+          "raw_index_row_memberships_equal_cases": 12
+        },
+        "valid_retained": 6
+      }
+    },
+    "conditional_sequence_exception_review": {
+      "record_scope": "Review frozen before full component result; root explicitly authorized final payload freeze after the required result passed.",
+      "reference": {
+        "bytes": 6421,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/local-v5-preview-decision-review-v1.json",
+        "sha256": "3cb5045432d7ca65936f98f7dfbf20c18f00a08045384188cc97d7b2f464d9df"
+      }
+    },
+    "expanded_recognition": {
+      "numeric170_reference": {
+        "bytes": 260,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/expanded-recognition-native-v1/numeric170-corrected.json",
+        "sha256": "adc3f69186d8966ad30f9e3bae285013c074ec76e0ea8043055af6f8f636fc11"
+      },
+      "reference": {
+        "bytes": 52958,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/expanded-recognition-native-v1/completion.json",
+        "sha256": "1d47886cb374ec5554d31025b5bb883875003876c75bcf065b936dedd06f5fb6"
+      },
+      "summary": {
+        "comparisons": {
+          "synthetic48": {
+            "after": {
+              "cer": 0.007122507122507123,
+              "characters": 702,
+              "crops": 48,
+              "errors": 5,
+              "exact": 43
+            },
+            "before": {
+              "cer": 0.01282051282051282,
+              "characters": 702,
+              "crops": 48,
+              "errors": 9,
+              "exact": 43
+            },
+            "changed_prediction_lines": 7,
+            "family_after": {
+              "arial": {
+                "cer": 0.0,
+                "characters": 234,
+                "crops": 16,
+                "errors": 0,
+                "exact": 16
+              },
+              "courier-new": {
+                "cer": 0.01282051282051282,
+                "characters": 234,
+                "crops": 16,
+                "errors": 3,
+                "exact": 13
+              },
+              "times-new-roman": {
+                "cer": 0.008547008547008548,
+                "characters": 234,
+                "crops": 16,
+                "errors": 2,
+                "exact": 14
+              }
+            },
+            "family_before": {
+              "arial": {
+                "cer": 0.004273504273504274,
+                "characters": 234,
+                "crops": 16,
+                "errors": 1,
+                "exact": 15
+              },
+              "courier-new": {
+                "cer": 0.017094017094017096,
+                "characters": 234,
+                "crops": 16,
+                "errors": 4,
+                "exact": 14
+              },
+              "times-new-roman": {
+                "cer": 0.017094017094017096,
+                "characters": 234,
+                "crops": 16,
+                "errors": 4,
+                "exact": 14
+              }
+            },
+            "gates": {
+              "full_line_exact_non_regression": true,
+              "numeric_character_errors_non_regression": true
+            },
+            "numeric": {
+              "numeric_after": {
+                "cer": 0.0,
+                "characters": 90,
+                "crops": 12,
+                "errors": 0,
+                "exact": 12
+              },
+              "numeric_before": {
+                "cer": 0.0,
+                "characters": 90,
+                "crops": 12,
+                "errors": 0,
+                "exact": 12
+              }
+            }
+          },
+          "train376": {
+            "after": {
+              "cer": 0.0007603117278084015,
+              "characters": 5261,
+              "crops": 376,
+              "errors": 4,
+              "exact": 372
+            },
+            "before": {
+              "cer": 0.055502756130013306,
+              "characters": 5261,
+              "crops": 376,
+              "errors": 292,
+              "exact": 272
+            },
+            "changed_prediction_lines": 103,
+            "family_after": {
+              "fuel_context": {
+                "cer": 0.0025477707006369425,
+                "characters": 785,
+                "crops": 49,
+                "errors": 2,
+                "exact": 47
+              },
+              "fuel_numeric": {
+                "cer": 0.0,
+                "characters": 260,
+                "crops": 32,
+                "errors": 0,
+                "exact": 32
+              },
+              "grid_numeric": {
+                "cer": 0.0,
+                "characters": 626,
+                "crops": 138,
+                "errors": 0,
+                "exact": 138
+              },
+              "grid_text": {
+                "cer": 0.0010005002501250625,
+                "characters": 1999,
+                "crops": 94,
+                "errors": 2,
+                "exact": 92
+              },
+              "service_text": {
+                "cer": 0.0,
+                "characters": 1591,
+                "crops": 63,
+                "errors": 0,
+                "exact": 63
+              }
+            },
+            "family_before": {
+              "fuel_context": {
+                "cer": 0.11082802547770701,
+                "characters": 785,
+                "crops": 49,
+                "errors": 87,
+                "exact": 23
+              },
+              "fuel_numeric": {
+                "cer": 0.23461538461538461,
+                "characters": 260,
+                "crops": 32,
+                "errors": 61,
+                "exact": 17
+              },
+              "grid_numeric": {
+                "cer": 0.020766773162939296,
+                "characters": 626,
+                "crops": 138,
+                "errors": 13,
+                "exact": 125
+              },
+              "grid_text": {
+                "cer": 0.03501750875437719,
+                "characters": 1999,
+                "crops": 94,
+                "errors": 70,
+                "exact": 66
+              },
+              "service_text": {
+                "cer": 0.03834066624764299,
+                "characters": 1591,
+                "crops": 63,
+                "errors": 61,
+                "exact": 41
+              }
+            },
+            "gates": {
+              "full_line_exact_non_regression": true,
+              "numeric_character_errors_non_regression": true
+            },
+            "numeric_corrected": {
+              "after": {
+                "chars": 886,
+                "crops": 170,
+                "errors": 0,
+                "exact": 170
+              },
+              "before": {
+                "chars": 886,
+                "crops": 170,
+                "errors": 74,
+                "exact": 142
+              },
+              "gate": "non-regression",
+              "no_new_inference": true,
+              "replay_only": true
+            }
+          }
+        },
+        "font_specific_limit": "Synthetic Courier New exact lines regressed14→13 although global48 exact stayed43 and character errors decreased. No post-hoc font gate is invented.",
+        "not_an_apk_accuracy_claim": true,
+        "numeric_stratum_correction": {
+          "declared_before_predictions_read": true,
+          "expected_numeric_train_crops": 170,
+          "families": [
+            "grid_numeric",
+            "fuel_numeric"
+          ],
+          "reason": "Source family name for32 numeric crops is fuel_numeric, not numeric. Initial frozen script selects138grid_numeric only. Full numeric gate must cover138grid_numeric+32fuel_numeric, no inference/tensor/model change."
+        },
+        "preprocessing": "Unchanged Android H48 BGR normalization[-1,1], aspect-sorted batch6, minwidth320 max3200, right normalized-zero padding. No added enhancement, crop changes or text normalization.",
+        "runtime": "CPU intra2/inter1, arena off; environment library threads limited.",
+        "same_tensors_per_model": true
+      }
+    },
+    "full_424_component": {
+      "reference": {
+        "bytes": 2482,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/v5-neck-component-run-v1/completion.json",
+        "sha256": "71321ad76e62d805c9ef8aa6f05df7288f418ed6cab716545cecc52366e24b8a"
+      },
+      "summary": {
+        "all_component_modes_passed": true,
+        "complete": true,
+        "component_only": true,
+        "global_end_to_end_gate_passed": false,
+        "historical_gate_superseded": false,
+        "model_promoted": false,
+        "modes": [
+          {
+            "android_default_runtime_qualified": false,
+            "argmax_mismatch_cases": 0,
+            "argmax_mismatch_steps": 0,
+            "atol": 0.0001,
+            "comparison": "Same candidate ORT frozen CUT into Torch suffix versus unmodified candidate ORT whole probabilities",
+            "crops": 424,
+            "decoded_mismatch_cases": 0,
+            "expected_crops": 424,
+            "global_end_to_end_gate_passed": false,
+            "global_gate_waived": false,
+            "historical_gate_superseded": false,
+            "independent_acceptance": false,
+            "max_absolute_error": 6.151199340820312e-05,
+            "mean_absolute_error": 2.999970419380532e-10,
+            "mode": "unfused",
+            "model_promoted": false,
+            "neck_component_gate_passed": true,
+            "nonclose_elements": 0,
+            "numeric_failure_cases": 0,
+            "original_vs_instrumented_whole_bitwise_equal_all_batches": true,
+            "ort_optimization": "ORT_DISABLE_ALL",
+            "rms_error": 5.4998669349230386e-08,
+            "rtol": 0.0001,
+            "static_prefix_identity_passed": true
+          },
+          {
+            "android_default_runtime_qualified": false,
+            "argmax_mismatch_cases": 0,
+            "argmax_mismatch_steps": 0,
+            "atol": 0.0001,
+            "comparison": "Same candidate ORT frozen CUT into Torch suffix versus unmodified candidate ORT whole probabilities",
+            "crops": 424,
+            "decoded_mismatch_cases": 0,
+            "expected_crops": 424,
+            "global_end_to_end_gate_passed": false,
+            "global_gate_waived": false,
+            "historical_gate_superseded": false,
+            "independent_acceptance": false,
+            "max_absolute_error": 5.072355270385742e-05,
+            "mean_absolute_error": 2.968166419383324e-10,
+            "mode": "optimized",
+            "model_promoted": false,
+            "neck_component_gate_passed": true,
+            "nonclose_elements": 0,
+            "numeric_failure_cases": 0,
+            "original_vs_instrumented_whole_bitwise_equal_all_batches": true,
+            "ort_optimization": "ORT_ENABLE_ALL",
+            "rms_error": 4.8769718369649025e-08,
+            "rtol": 0.0001,
+            "static_prefix_identity_passed": true
+          }
+        ],
+        "no_android_default_runtime_qualification": true,
+        "no_ground_truth_scoring": true,
+        "no_test_or_val_access": true,
+        "no_training": true,
+        "no_weights_or_gate_changes": true,
+        "old_gate_waived": false,
+        "seconds": 33.07296812511049
+      }
+    },
+    "full_424_strict_export": {
+      "ordinary_reference": {
+        "bytes": 1600,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/v5-export-parity-full-v1/completion.json",
+        "sha256": "3d8995b5e16148a15501c02d9a32b6bbc10c20d572b3e0c1fb091d8d37e9346e"
+      },
+      "summary": {
+        "ordinary": {
+          "argmax_mismatch_cases": 0,
+          "atol": 0.0001,
+          "complete": true,
+          "crops": 424,
+          "decoded_mismatch_cases": 0,
+          "independent_acceptance": false,
+          "max_absolute_error": 0.0005621612071990967,
+          "mean_absolute_error": 6.561840862980545e-10,
+          "model_promoted": false,
+          "nonclose_elements": 3,
+          "numeric_failure_cases": 2,
+          "old_gate_waived": false,
+          "rms_error": 2.7025894220865843e-07,
+          "rtol": 0.0001,
+          "test_or_val_accessed": false,
+          "train_only_parity_gate_passed": false,
+          "training": false,
+          "weights_changed": false
+        },
+        "ort_unfused": {
+          "argmax_mismatch_cases": 0,
+          "atol": 0.0001,
+          "complete": true,
+          "crops": 424,
+          "decoded_mismatch_cases": 0,
+          "independent_acceptance": false,
+          "max_absolute_error": 0.00027680397033691406,
+          "mean_absolute_error": 5.295795309749133e-10,
+          "model_promoted": false,
+          "nonclose_elements": 4,
+          "numeric_failure_cases": 2,
+          "old_gate_waived": false,
+          "rms_error": 1.6802729273364038e-07,
+          "rtol": 0.0001,
+          "test_or_val_accessed": false,
+          "train_only_parity_gate_passed": false,
+          "training": false,
+          "weights_changed": false
+        }
+      },
+      "unfused_reference": {
+        "bytes": 1602,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/v5-export-parity-ort-unfused-v1/completion.json",
+        "sha256": "4c6ff554ae9748001fc473cd0f7c9b26c8e15993a5caa1a891f3f4d0e421e756"
+      }
+    },
+    "stage_localization_12": {
+      "reference": {
+        "bytes": 12684,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/v5-export-stage-localization-run-v1/completion.json",
+        "sha256": "eaddc4a4b75285f2b30db7f68ebfa4810fb354b259ea646cecb6e59f479f95e6"
+      },
+      "summary": {
+        "batches": 2,
+        "checks": {
+          "identical_logits_ort_softmax_vs_torch3D": {
+            "all_batches_allclose_unchanged_1e4": true,
+            "all_batches_bitwise_equal": false,
+            "max_absolute_error": 2.384185791015625e-07,
+            "nonclose_elements": 0
+          },
+          "identical_torch_cut_ort_neck_vs_torch_probability": {
+            "all_batches_allclose_unchanged_1e4": true,
+            "all_batches_bitwise_equal": false,
+            "max_absolute_error": 3.8564205169677734e-05,
+            "nonclose_elements": 0
+          },
+          "ort_full_vs_torch_cut": {
+            "all_batches_allclose_unchanged_1e4": false,
+            "all_batches_bitwise_equal": false,
+            "max_absolute_error": 0.001033782958984375,
+            "nonclose_elements": 12
+          },
+          "torch_full_probability_vs_manual2D": {
+            "all_batches_allclose_unchanged_1e4": true,
+            "all_batches_bitwise_equal": true,
+            "max_absolute_error": 0.0,
+            "nonclose_elements": 0
+          },
+          "torch_full_probability_vs_manual3D": {
+            "all_batches_allclose_unchanged_1e4": true,
+            "all_batches_bitwise_equal": true,
+            "max_absolute_error": 0.0,
+            "nonclose_elements": 0
+          },
+          "torch_full_vs_cut_logits": {
+            "all_batches_allclose_unchanged_1e4": true,
+            "all_batches_bitwise_equal": true,
+            "max_absolute_error": 0.0,
+            "nonclose_elements": 0
+          },
+          "torch_softmax3D_vs_flatten2D": {
+            "all_batches_allclose_unchanged_1e4": true,
+            "all_batches_bitwise_equal": true,
+            "max_absolute_error": 0.0,
+            "nonclose_elements": 0
+          }
+        },
+        "complete": true,
+        "conclusion": "Observed drift already exists at frozen prefix CUT; identical-logit softmax agrees, same Torch CUT→ORT neck probabilities pass. Concrete operator is not established.",
+        "crops": 12,
+        "diagnostic_only": true,
+        "full424_component_parity_status": "complete_both_component_modes_passed_global_strict_still_failed",
+        "global_gate_passed": false,
+        "instrumented_probability_bitwise_equal_all_batches": true,
+        "training_or_gate_changes": false,
+        "weights_integrated": false
+      }
+    },
+    "static_frozen_prefix": {
+      "reference": {
+        "bytes": 682,
+        "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/v5-neck-component-run-v1/static-prefix-identity.json",
+        "sha256": "5ebe8826007f54ed7623411d66f5bf7650656a0cf1539c4c1243b8ee48f45765"
+      },
+      "summary": {
+        "candidate": {
+          "constant_tensors": 214,
+          "nodes": 670,
+          "selected_tensors_in_prefix": []
+        },
+        "candidate_prefix_sha256": "109fce08c8de3274b03e6a477a174ade6dc06140b5fbd427e002ccf7c6a9e8b5",
+        "comparison": "Exact original nodes, operator attributes, constants, initializers, input metadata and model/opset metadata in dependency closure. Fixed common output metadata; no numerical execution.",
+        "cut_tensor": "p2o.pd_op.assign.0.0",
+        "prefix_byte_identical": true,
+        "teacher": {
+          "constant_tensors": 214,
+          "nodes": 670,
+          "selected_tensors_in_prefix": []
+        },
+        "teacher_prefix_sha256": "109fce08c8de3274b03e6a477a174ade6dc06140b5fbd427e002ccf7c6a9e8b5"
+      }
+    }
+  },
+  "recognition_modification": {
+    "candidate": {
+      "bytes": 7887627,
+      "path": "tools/document_scanner/.local/android-ocr-stage2-2026-10-23/train13-android-inputs/candidate-v5-rec.onnx",
+      "sha256": "e12a3ed88873c9c75e7d12209a72ab9d031845450d8dea4e2593609909b6edbe"
+    },
+    "change_comparison_basis": "The existing V5 research report compares the exported candidate with its immediate V4-repair1 teacher; this preparation did not recompute tensor diffs against upstream v1.",
+    "changed_tensor_count": 43,
+    "changed_tensors": [
+      "batch_norm2d_146.b_0",
+      "batch_norm2d_146.w_0",
+      "batch_norm2d_147.b_0",
+      "batch_norm2d_147.w_0",
+      "batch_norm2d_148.b_0",
+      "batch_norm2d_148.w_0",
+      "batch_norm2d_149.b_0",
+      "batch_norm2d_149.w_0",
+      "batch_norm2d_150.b_0",
+      "batch_norm2d_150.w_0",
+      "conv2d_131.w_0",
+      "conv2d_132.w_0",
+      "conv2d_133.w_0",
+      "conv2d_134.w_0",
+      "conv2d_135.w_0",
+      "layer_norm_0.b_0",
+      "layer_norm_0.w_0",
+      "layer_norm_1.b_0",
+      "layer_norm_1.w_0",
+      "layer_norm_2.b_0",
+      "layer_norm_2.w_0",
+      "layer_norm_3.b_0",
+      "layer_norm_3.w_0",
+      "layer_norm_4.b_0",
+      "layer_norm_4.w_0",
+      "linear_0.b_0",
+      "linear_0.w_0",
+      "linear_1.b_0",
+      "linear_1.w_0",
+      "linear_2.b_0",
+      "linear_2.w_0",
+      "linear_3.b_0",
+      "linear_3.w_0",
+      "linear_4.b_0",
+      "linear_4.w_0",
+      "linear_5.b_0",
+      "linear_5.w_0",
+      "linear_6.b_0",
+      "linear_6.w_0",
+      "linear_7.b_0",
+      "linear_7.w_0",
+      "linear_8.b_0",
+      "linear_8.w_0"
+    ],
+    "cut_tensor": "p2o.pd_op.assign.0.0",
+    "frozen_state_unchanged_reported": true,
+    "historical_status": "experimental_runtime_text_equivalent_numeric_gate_failed_not_promoted",
+    "immediate_initialization_model": {
+      "path": "/Users/snow/s1/carhelp/tools/document_scanner/.local/study-2026-10-08-quality/neck-replay-v4-repair1/inference.candidate.onnx",
+      "sha256": "a62bf6d1eda652a1aeb64d1b0f255334dc0423f29cf3e367d1a5e2a398dfef61"
+    },
+    "immediate_teacher_model": {
+      "path": "/Users/snow/s1/carhelp/tools/document_scanner/.local/study-2026-10-08-quality/neck-replay-v4-repair1/inference.candidate.onnx",
+      "sha256": "a62bf6d1eda652a1aeb64d1b0f255334dc0423f29cf3e367d1a5e2a398dfef61"
+    },
+    "logits_tensor": "p2o.pd_op.add.100.0",
+    "name": "rec.onnx",
+    "pretraining_lock_metadata": {
+      "bytes": 5059,
+      "path": "tools/document_scanner/.local/study-2026-10-08-quality/neck-replay-v5/pretraining-lock.json",
+      "sha256": "13c1ce5ffd2de6bdfa7f6929397600d02f27e059c21c4ba3fafde6f2792728d1"
+    },
+    "research_candidate": {
+      "bytes": 7887627,
+      "path": "tools/document_scanner/.local/study-2026-10-08-quality/neck-replay-v5/inference.candidate.onnx",
+      "sha256": "e12a3ed88873c9c75e7d12209a72ab9d031845450d8dea4e2593609909b6edbe"
+    },
+    "research_report_metadata": {
+      "bytes": 230429,
+      "path": "tools/document_scanner/.local/study-2026-10-08-quality/neck-replay-v5/report.json",
+      "sha256": "00133ea405ca95f38cdb2ed5b5c2b52befdfae08830defb87f92ff06bf42d74f"
+    },
+    "trainable_parameters_metadata": {
+      "bytes": 5283,
+      "path": "tools/document_scanner/.local/study-2026-10-08-quality/neck-replay-v5/trainable-parameters.json",
+      "sha256": "ffe2d09d2bbf935cee9e3c5f9b9b1ee08aefed238dbfeb70272f988f056ad143"
+    },
+    "upstream_v1_rec_sha256": "b3018ef2b09a0250b6e0c8e871c927098363e5fd4df890cc68e8358eb0aaf1bd"
+  },
+  "restrictions": [
+    "Local preview for exact release QA only; not stable promotion, independent quality acceptance or default-runtime qualification.",
+    "The full-model strict probability gate remains FAILED in ordinary and unfused ORT modes at unchanged atol=rtol=1e-4. It is neither waived nor retroactively passed by decoded agreement or the separate component proof.",
+    "Explicitly reviewed sequencing exception: full424 component PASS and exact frozen-prefix provenance permit this bounded manually enabled local preview while full-model strict qualification remains failed.",
+    "No automatic installation or activation. Preserve existing active v1; explicit selection/confirmation, offline restart and rollback must be checked on the exact optimized signed release before local release acceptance.",
+    "Familiar TRAIN/AI labels and synthetic controls do not establish new-document accuracy. Human verification and independent owner-confirmed whole-document acceptance are absent.",
+    "Synthetic Courier New exact lines regressed 14 to 13 despite global synthetic exact staying 43 and character errors decreasing. No post-hoc font-specific gate was invented.",
+    "No published source or network download is supplied. This preparation writes a private payload only; app assets and original v1 release/cache/metadata/weights remain untouched.",
+    "The full Apache-2.0 license, upstream attribution, cards and YAML are retained. This metadata update does not perform a new legal review of research training sources.",
+    "No training images, labels, fonts, research scripts, optimizer checkpoints or corpus files are included among the eleven payload files.",
+    "Original upstream cards and YAML are references, not documentation of modified V5 recognition weights.",
+    "No inference, training, ONNX structural checker, Gradle, emulator or photograph/closed-test/validation access was performed during this preparation."
+  ],
+  "schemaVersion": 1
+}

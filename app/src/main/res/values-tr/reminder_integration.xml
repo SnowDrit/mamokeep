@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminder_threshold_edit">Sarı seviyeyi ayarla</string>
+    <string name="reminder_threshold_hide">Sarı seviye ayarlarını gizle</string>
+    <string name="reminder_threshold_hint">Bakıma bu kadar mesafe veya süre kaldığında kalem sarıya döner. Bakım zamanı gelince kırmızı olur. Önceden bildirimler aşağıda ayrıca ayarlanır.</string>
+    <string name="reminder_item_heading">Hatırlatmalar</string>
+    <string name="reminder_use_common">Ortak ayarları kullan</string>
+    <string name="reminder_common_hint">Diğer → Hatırlatmalar bölümündeki saat, günler ve tekrar kuralları bu kaleme uygulanır.</string>
+    <string name="reminder_open_settings">Hatırlatma ayarları</string>
+    <string name="reminder_settings_hint">Saat, haftanın günleri ve erken uyarılar. Her kalemin kendi ayarları olabilir.</string>
+    <string name="reminder_save_failed">Ayarlar kaydedilemedi. Değişiklikler duruyor; tekrar deneyin.</string>
+    <string name="reminder_full_service_title">Kapsamlı bakım</string>
+    <string name="reminder_full_service_use">Kapsamlı bakım hatırlatması oluştur</string>
+    <string name="reminder_full_service_hint">Kapsamlı bakımın kendi aralığı vardır. Kaydettikten sonra son yapıldığı tarihi girin; böylece bir sonraki zaman hesaplanabilir. Tamamlanması, tek tek parçaların değiştirildiği anlamına gelmez.</string>
+</resources>

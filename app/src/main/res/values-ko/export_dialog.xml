@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_preview">텍스트 미리보기</string>
+    <string name="export_preview_title">채팅용 텍스트</string>
+    <string name="export_back">뒤로</string>
+    <string name="export_preparing">텍스트 준비 중…</string>
+    <string name="export_prepare_failed">텍스트를 준비하지 못했습니다. 다시 시도하세요.</string>
+    <string name="export_copy_failed">텍스트를 복사하지 못했습니다. 다시 시도하거나 파일로 저장하세요.</string>
+    <string name="export_choosing_file">파일 저장 위치 선택 중…</string>
+    <string name="export_writing_file">파일 저장 중…</string>
+    <string name="export_preview_lost">앱이 다시 시작된 후 텍스트가 유지되지 않았습니다. 저장하기 전에 다시 미리보기를 여세요.</string>
+</resources>

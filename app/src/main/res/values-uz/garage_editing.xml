@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="garage_unsaved_title">Oʻzgarishlar saqlansinmi?</string>
+    <string name="garage_unsaved_message">Avtomobil profilida saqlanmagan oʻzgarishlar bor.</string>
+    <string name="garage_leave_without_saving">Saqlamasdan chiqish</string>
+    <string name="garage_keep_editing">Tahrirlashni davom ettirish</string>
+    <string name="garage_saving">Saqlanmoqda…</string>
+    <string name="garage_save_failed">Profilni saqlab boʻlmadi. Oʻzgarishlar shu yerda turibdi. Qayta urinib koʻring.</string>
+</resources>

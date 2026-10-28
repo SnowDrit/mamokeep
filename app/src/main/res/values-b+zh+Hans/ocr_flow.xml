@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">扫描收据</string>
+    <string name="ocr_title">收据扫描器</string>
+    <string name="ocr_choose_photo">选择照片</string>
+    <string name="ocr_take_photo">拍照</string>
+    <string name="ocr_photo">收据原始照片</string>
+    <string name="ocr_intro">文字在此设备上识别。保存前请检查结果：照片不会自动添加或修改记录。</string>
+    <string name="ocr_running">正在此设备上读取照片…</string>
+    <string name="ocr_source">原始文档和文本</string>
+    <string name="ocr_source_text">收据文字 / 备注</string>
+    <string name="ocr_review_text">请修正识别错误，再选择要创建的记录。下一屏可检查所有字段。</string>
+    <string name="ocr_fuel_action">核对加油记录</string>
+    <string name="ocr_work_action">核对已完成的保养</string>
+    <string name="ocr_fuel_review">请检查各字段的数值和单位。货币：%1$s；距离：%2$s。请手动填写燃油费用：收据总额可能包含其他商品。</string>
+    <string name="ocr_confirm_date">显示的日期正确</string>
+    <string name="ocr_confirm_fields">我已检查所有字段、货币和单位</string>
+    <string name="ocr_choose_fuel_type">请选择燃油类型；未能可靠识别。</string>
+    <string name="ocr_yes">是</string>
+    <string name="ocr_no">否</string>
+    <string name="ocr_work_explanation">将保存一条带备注的已完成保养记录。购买零件不代表工作已经完成。收据明细和价格仅保留在备注中，不会保存为独立记录。</string>
+    <string name="ocr_confirm_work">我确认所选工作已完成</string>
+    <string name="ocr_no_work_items">暂无保养项目。请在车辆页面添加项目，然后重新扫描。</string>
+    <string name="ocr_empty">未找到文字。请选择其他文件，或自行输入文字。</string>
+    <string name="ocr_image_failed">无法读取照片。请选择可访问且文件较小或分辨率较低的图片。</string>
+    <string name="ocr_camera_failed">无法打开相机。请尝试选择已有照片。</string>
+    <string name="ocr_model_failed">扫描器资源包不可用或不兼容。请返回扫描器设置，检查已安装的资源包。</string>
+    <string name="ocr_recognition_failed">识别失败。请重试或选择其他照片。</string>
+    <string name="ocr_interrupted">扫描会话已中断。如果正在保存记录，请先检查日志，再重新选择文件。</string>
+    <string name="ocr_save_failed">无法保存更改。草稿仍保留在屏幕上。请重试。</string>
+    <string name="ocr_save_interrupted">保存已中断。重试前请检查日志：记录可能已保存。</string>
+    <string name="ocr_rotate">旋转照片</string>
+</resources>

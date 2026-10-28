@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_empty">В гараже пока нет машин. Добавьте машину, чтобы вести её записи.</string>
+</resources>

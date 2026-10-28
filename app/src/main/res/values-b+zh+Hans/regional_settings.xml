@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_search">搜索</string>
+    <string name="settings_search_empty">没有匹配项，请尝试其他名称或代码。</string>
+    <string name="settings_language_system_hint">在此 Android 版本上，应用跟随手机语言。</string>
+    <string name="settings_country_unset">选择国家</string>
+    <string name="settings_country_hint">国家决定自动货币和可用证件模板。语言和单位单独选择。</string>
+    <string name="settings_country_no_documents">该国家暂无证件模板，可在车辆页面手动添加证件。</string>
+    <string name="settings_currency">货币</string>
+    <string name="settings_currency_auto">自动 · %1$s</string>
+    <string name="settings_currency_manual">手动选择 · %1$s</string>
+    <string name="settings_currency_by_country">使用国家货币</string>
+    <string name="settings_currency_choose_country">选择国家以自动设置货币。</string>
+    <string name="settings_currency_hint">适用于所有车辆。更改货币只改变标签，不会换算已保存的金额。</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">更改国家或语言不会改变这些单位，已保存的里程和燃料数量保持不变。</string>
+</resources>

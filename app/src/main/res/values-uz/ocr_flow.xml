@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Chekni skanerlash</string>
+    <string name="ocr_title">Chek skaneri</string>
+    <string name="ocr_choose_photo">Surat tanlash</string>
+    <string name="ocr_take_photo">Suratga olish</string>
+    <string name="ocr_photo">Chekning asl surati</string>
+    <string name="ocr_intro">Matn qurilmada taniladi. Saqlashdan oldin natijani tekshiring: surat o‘z-o‘zidan yozuv qo‘shmaydi yoki o‘zgartirmaydi.</string>
+    <string name="ocr_running">Surat qurilmada o‘qilmoqda…</string>
+    <string name="ocr_source">Asl hujjat va matn</string>
+    <string name="ocr_source_text">Chek matni / eslatma</string>
+    <string name="ocr_review_text">Tanish xatolarini tuzating va qanday yozuv yaratishni tanlang. Keyingi ekranda barcha maydonlarni tekshirish mumkin.</string>
+    <string name="ocr_fuel_action">Yoqilg‘i quyish yozuvini tekshirish</string>
+    <string name="ocr_work_action">Bajarilgan ishni tekshirish</string>
+    <string name="ocr_fuel_review">Maydonlardagi qiymatlar va birliklarni tekshiring. Valyuta: %1$s; masofa: %2$s. Yoqilg‘i narxini qo‘lda kiriting: chek jami boshqa xaridlarni ham o‘z ichiga olishi mumkin.</string>
+    <string name="ocr_confirm_date">Ekrandagi sana to‘g‘ri</string>
+    <string name="ocr_confirm_fields">Barcha maydonlar, valyuta va birliklarni tekshirdim</string>
+    <string name="ocr_choose_fuel_type">Yoqilg‘i turini tanlang: uni aniq aniqlab bo‘lmadi.</string>
+    <string name="ocr_yes">Ha</string>
+    <string name="ocr_no">Yo‘q</string>
+    <string name="ocr_work_explanation">Eslatmali bitta bajarilgan ish yozuvi saqlanadi. Ehtiyot qismlar sotib olish ish bajarilganini anglatmaydi. Smeta satrlari va narxlar alohida yozuvlar sifatida emas, faqat eslatmada qoladi.</string>
+    <string name="ocr_confirm_work">Tanlangan ish bajarilganini tasdiqlayman</string>
+    <string name="ocr_no_work_items">Hozircha texnik xizmat bandlari yo‘q. Mashina ekranida band qo‘shing, so‘ng qayta skanerlang.</string>
+    <string name="ocr_empty">Matn topilmadi. Boshqa faylni tanlang yoki matnni o‘zingiz kiriting.</string>
+    <string name="ocr_image_failed">Suratni o‘qib bo‘lmadi. Fayl hajmi kichikroq yoki aniqligi pastroq, foydalanish mumkin bo‘lgan rasmni tanlang.</string>
+    <string name="ocr_camera_failed">Kamerani ochib bo‘lmadi. Tayyor surat tanlab ko‘ring.</string>
+    <string name="ocr_model_failed">Skaner paketi mavjud emas yoki mos kelmaydi. Skaner sozlamalariga qaytib, o‘rnatilgan paketni tekshiring.</string>
+    <string name="ocr_recognition_failed">Tanish amalga oshmadi. Yana urinib ko‘ring yoki boshqa surat tanlang.</string>
+    <string name="ocr_interrupted">Skanerlash seansi uzildi. Yozuv saqlayotgan bo‘lsangiz, jurnalni tekshiring, so‘ng faylni qayta tanlang.</string>
+    <string name="ocr_save_failed">O‘zgarishlarni saqlab bo‘lmadi. Qoralama ekranda qoldi. Yana urinib ko‘ring.</string>
+    <string name="ocr_save_interrupted">Saqlash uzildi. Qayta urinishdan oldin jurnalni tekshiring: yozuv saqlangan bo‘lishi mumkin.</string>
+    <string name="ocr_rotate">Suratni aylantirish</string>
+</resources>

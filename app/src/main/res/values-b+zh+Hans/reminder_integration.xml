@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminder_threshold_edit">设置黄色预警</string>
+    <string name="reminder_threshold_hide">隐藏黄色预警设置</string>
+    <string name="reminder_threshold_hint">距离保养剩余里程或时间达到此值时，项目变为黄色；到期时变为红色。提前通知在下方单独设置。</string>
+    <string name="reminder_item_heading">提醒</string>
+    <string name="reminder_use_common">使用通用设置</string>
+    <string name="reminder_common_hint">此项目使用“更多 → 提醒”中的时间、星期和重复规则。</string>
+    <string name="reminder_open_settings">提醒设置</string>
+    <string name="reminder_settings_hint">时间、星期和提前提醒。每个项目都可独立设置。</string>
+    <string name="reminder_save_failed">无法保存设置。更改仍保留，请重试。</string>
+    <string name="reminder_full_service_title">整车保养</string>
+    <string name="reminder_full_service_use">创建整车保养提醒</string>
+    <string name="reminder_full_service_hint">整车保养有独立间隔。保存后请记录上次完成时间，以便计算下次到期日期。完成整车保养不会将各个零件标记为已更换。</string>
+</resources>

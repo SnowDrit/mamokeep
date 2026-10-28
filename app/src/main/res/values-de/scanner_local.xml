@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Quelle: App-Dateien</string>
+    <string name="scanner_local_not_installed">Aktiviere das Paket aus der App, um Text in Fotos auf dem Gerät zu erkennen.</string>
+    <string name="scanner_local_install">Paket aktivieren</string>
+    <string name="scanner_local_install_title">Paket für den Scanner aktivieren?</string>
+    <string name="scanner_local_install_message">Die Dateien sind bereits in der App enthalten. Ein Download ist nicht erforderlich. Deine Fotos bleiben auf dem Gerät.</string>
+    <string name="scanner_local_queued">Warten auf die Vorbereitung des Pakets. Diese Seite kann geschlossen werden.</string>
+    <string name="scanner_local_verifying">Dateien werden vorbereitet und geprüft…</string>
+    <string name="scanner_local_cancelling">Vorbereitung wird abgebrochen…</string>
+    <string name="scanner_local_cancel_install">Vorbereitung abbrechen</string>
+    <string name="scanner_local_error_source">Das Paket ist in dieser App-Version nicht verfügbar. Wähle eine andere Version.</string>
+    <string name="scanner_local_error_integrity">Die Dateien haben die Prüfung nicht bestanden. Entferne die Pakete über die Scannerkarte und aktiviere das Paket dann erneut.</string>
+</resources>

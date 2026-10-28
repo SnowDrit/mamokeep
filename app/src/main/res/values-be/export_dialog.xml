@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_preview">Праглядзець тэкст</string>
+    <string name="export_preview_title">Тэкст для чата</string>
+    <string name="export_back">Назад</string>
+    <string name="export_preparing">Падрыхтоўка тэксту…</string>
+    <string name="export_prepare_failed">Не ўдалося падрыхтаваць тэкст. Паспрабуйце яшчэ раз.</string>
+    <string name="export_copy_failed">Не ўдалося скапіраваць тэкст. Паспрабуйце яшчэ раз або захавайце яго ў файл.</string>
+    <string name="export_choosing_file">Выбар месца для файла…</string>
+    <string name="export_writing_file">Захаванне файла…</string>
+    <string name="export_preview_lost">Тэкст не захаваўся пасля перазапуску праграмы. Праглядзіце яго зноў перад захаваннем.</string>
+</resources>

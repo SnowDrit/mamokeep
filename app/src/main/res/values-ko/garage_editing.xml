@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_unsaved_title">변경 사항을 저장할까요?</string>
+    <string name="garage_unsaved_message">차량 정보에 저장하지 않은 변경 사항이 있습니다.</string>
+    <string name="garage_leave_without_saving">저장하지 않고 나가기</string>
+    <string name="garage_keep_editing">계속 편집</string>
+    <string name="garage_saving">저장 중…</string>
+    <string name="garage_save_failed">차량 정보를 저장하지 못했습니다. 변경 내용은 남아 있습니다. 다시 시도하세요.</string>
+</resources>

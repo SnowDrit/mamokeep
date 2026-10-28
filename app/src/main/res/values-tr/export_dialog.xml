@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_preview">Metni önizle</string>
+    <string name="export_preview_title">Sohbet için metin</string>
+    <string name="export_back">Geri</string>
+    <string name="export_preparing">Metin hazırlanıyor…</string>
+    <string name="export_prepare_failed">Metin hazırlanamadı. Tekrar deneyin.</string>
+    <string name="export_copy_failed">Metin kopyalanamadı. Tekrar deneyin veya dosya olarak kaydedin.</string>
+    <string name="export_choosing_file">Dosyanın kaydedileceği yer seçiliyor…</string>
+    <string name="export_writing_file">Dosya kaydediliyor…</string>
+    <string name="export_preview_lost">Uygulama yeniden başlatıldıktan sonra metin korunamadı. Kaydetmeden önce yeniden önizleyin.</string>
+</resources>

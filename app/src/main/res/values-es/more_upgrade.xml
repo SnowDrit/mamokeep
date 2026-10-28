@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="more_reminders_title">Recordatorios</string>
+    <string name="more_reminders_summary">Hora, días de la semana y avisos anticipados</string>
+    <string name="more_data_heading">Datos del coche</string>
+    <string name="more_export_summary">Historial del coche y pregunta listos para copiar o guardar</string>
+    <string name="more_settings_heading">Preferencias</string>
+    <string name="more_project_heading">Sobre el proyecto</string>
+    <string name="more_appearance_language">Apariencia e idioma</string>
+    <string name="more_weekly_disabled_summary">Desactivada</string>
+    <string name="more_weekly_enabled_summary">Activada · una vez por semana</string>
+    <string name="more_choose_folder">Elegir carpeta</string>
+    <string name="more_change_folder">Cambiar carpeta</string>
+    <string name="more_folder_permission_failed">No se pudo conservar el acceso a esta carpeta. Elegir otra carpeta.</string>
+    <string name="more_support_open_failed">No se pudo abrir el enlace. Instalar o activar un navegador.</string>
+    <string name="more_privacy_policy">Política de privacidad</string>
+    <string name="more_scanner_summary">Reconocimiento de fotos en el dispositivo. Paquete opcional.</string>
+    <string name="more_scanner_failed">No se pudo preparar el paquete. Abrir para ver los detalles.</string>
+    <string name="more_expanded">Expandido</string>
+    <string name="more_collapsed">Contraído</string>
+</resources>

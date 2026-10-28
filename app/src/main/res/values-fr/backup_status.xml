@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Vérification de la sauvegarde…</string>
+    <string name="backup_status_waiting">Aucune sauvegarde planifiée n’a encore été créée. En attente du prochain lancement.</string>
+    <string name="backup_status_failed">La dernière sauvegarde a échoué. Vérifiez l’accès au dossier ou sélectionnez-le à nouveau.</string>
+    <string name="backup_status_last_success">Dernière sauvegarde réussie : %1$s</string>
+</resources>

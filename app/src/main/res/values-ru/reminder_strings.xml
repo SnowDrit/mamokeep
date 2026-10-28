@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminders_title">Напоминания</string>
+    <string name="reminders_intro">Общее расписание для всех машин, деталей, ТО и документов. Для отдельной позиции можно задать своё.</string>
+    <string name="reminders_enabled">Присылать напоминания</string>
+    <string name="reminders_disabled_hint">Напоминания по этому расписанию выключены. Интервалы обслуживания и история остаются доступны.</string>
+    <string name="reminders_time">Время уведомлений</string>
+    <string name="reminders_time_select">Выбрать время</string>
+    <string name="reminders_time_dialog">Время уведомлений (24 часа)</string>
+    <string name="reminders_hours">Часы</string>
+    <string name="reminders_minutes">Минуты</string>
+    <string name="reminders_time_hint">По местному времени телефона. Из-за экономии заряда Android может доставить напоминание позже.</string>
+    <string name="reminders_weekdays">Дни недели</string>
+    <string name="reminders_every_day">Каждый день</string>
+    <string name="reminders_six_days">6 дней</string>
+    <string name="reminders_workdays">По будням</string>
+    <string name="reminders_weekdays_hint">Можно выбрать любые дни. «6 дней» – с понедельника по субботу; выбор можно изменить.</string>
+    <string name="reminders_weekdays_error">Выберите хотя бы один день.</string>
+    <string name="reminders_basic_hint">По умолчанию напоминания начинаются на жёлтом уровне и повторяются в выбранные дни до отметки о выполнении.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">%1$d день в неделю</item>
+        <item quantity="few">%1$d дня в неделю</item>
+        <item quantity="many">%1$d дней в неделю</item>
+        <item quantity="other">%1$d дня в неделю</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>Пн</item><item>Вт</item><item>Ср</item><item>Чт</item><item>Пт</item><item>Сб</item><item>Вс</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>Понедельник</item><item>Вторник</item><item>Среда</item><item>Четверг</item><item>Пятница</item><item>Суббота</item><item>Воскресенье</item>
+    </string-array>
+    <string name="reminders_advanced_show">Расширенные настройки</string>
+    <string name="reminders_advanced_hide">Скрыть расширенные настройки</string>
+    <string name="reminders_advanced_enabled">Свои пороги и повторы</string>
+    <string name="reminders_advanced_hint">Жёлтый уровень задаётся в разделе «Настроить жёлтый уровень» у позиции, красный – это срок обслуживания. Здесь меняется начало напоминаний, а не цвет карточки.</string>
+    <string name="reminders_advance_hint">0 – уведомлять при достижении уровня. Если указаны и расстояние, и дни, сработает то, что наступит раньше. Расстояние считается по расчётному пробегу; новые показания одометра уточняют оценку.</string>
+    <string name="reminders_yellow">Жёлтый уровень · скоро</string>
+    <string name="reminders_red">Красный уровень · пора</string>
+    <string name="reminders_advance_distance">За сколько %1$s до уровня уведомить</string>
+    <string name="reminders_advance_days">За сколько дней до уровня уведомить</string>
+    <string name="reminders_repeat_days">Повторять не чаще чем раз в … дней</string>
+    <string name="reminders_max_occurrences">Максимум напоминаний на каждом этапе</string>
+    <string name="reminders_repeat_hint">Повторы приходят только в выбранные дни недели, не чаще раза в день для каждой позиции. При достижении жёлтого или красного уровня начинается новый этап с новым счётчиком.</string>
+    <string name="reminders_limit_hint">0 – без ограничения. После отметки о выполненном обслуживании отсчёт начинается заново.</string>
+    <string name="reminders_number_error">Введите целое число от %1$s до %2$s.</string>
+    <string name="reminders_save_error">Не удалось сохранить напоминания. Попробуйте ещё раз.</string>
+    <string name="reminders_permission_hint">Android запретил уведомления. Расписание сохранится, но напоминания начнут приходить только после разрешения уведомлений.</string>
+    <string name="reminders_permission_settings">Настройки уведомлений Android</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminder_threshold_edit">黄色の基準を設定</string>
+    <string name="reminder_threshold_hide">黄色の設定を隠す</string>
+    <string name="reminder_threshold_hint">整備までの残り距離または期間がこの値になると黄色になります。整備時期に達すると赤色になります。事前通知は下で別途設定します。</string>
+    <string name="reminder_item_heading">リマインダー</string>
+    <string name="reminder_use_common">共通設定を使う</string>
+    <string name="reminder_common_hint">「その他 → リマインダー」の時刻、曜日、繰り返しルールがこの項目に適用されます。</string>
+    <string name="reminder_open_settings">リマインダーの設定</string>
+    <string name="reminder_settings_hint">時刻、曜日、事前通知を設定します。項目ごとに個別の設定も可能です。</string>
+    <string name="reminder_save_failed">設定を保存できませんでした。変更内容は残っています。もう一度お試しください。</string>
+    <string name="reminder_full_service_title">総合整備</string>
+    <string name="reminder_full_service_use">総合整備のリマインダーを作成</string>
+    <string name="reminder_full_service_hint">総合整備には独自の間隔があります。保存後に前回の実施日を記録すると、次回期限を計算できます。完了を記録しても、個々の部品を交換済みにはしません。</string>
+</resources>

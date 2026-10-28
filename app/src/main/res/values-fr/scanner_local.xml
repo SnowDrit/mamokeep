@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Source : fichiers de l’application</string>
+    <string name="scanner_local_not_installed">Pour lire le texte des photos sur l’appareil, activez le module fourni avec l’application.</string>
+    <string name="scanner_local_install">Activer le module</string>
+    <string name="scanner_local_install_title">Activer le module de numérisation ?</string>
+    <string name="scanner_local_install_message">Les fichiers sont déjà inclus dans l’application. Aucun téléchargement n’est nécessaire. Vos photos resteront sur l’appareil.</string>
+    <string name="scanner_local_queued">En attente de la préparation du module. Vous pouvez fermer cet écran.</string>
+    <string name="scanner_local_verifying">Préparation et vérification des fichiers…</string>
+    <string name="scanner_local_cancelling">Annulation de la préparation…</string>
+    <string name="scanner_local_cancel_install">Annuler la préparation</string>
+    <string name="scanner_local_error_source">Le module est indisponible dans cette version de l’application. Sélectionnez une autre version.</string>
+    <string name="scanner_local_error_integrity">Les fichiers n’ont pas passé la vérification. Supprimez les modules depuis la carte de numérisation, puis activez à nouveau le module.</string>
+</resources>

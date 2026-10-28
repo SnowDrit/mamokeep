@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_preview">Matnni oldindan koʻrish</string>
+    <string name="export_preview_title">Chat uchun matn</string>
+    <string name="export_back">Orqaga</string>
+    <string name="export_preparing">Matn tayyorlanmoqda…</string>
+    <string name="export_prepare_failed">Matnni tayyorlab boʻlmadi. Qayta urinib koʻring.</string>
+    <string name="export_copy_failed">Matnni nusxalab boʻlmadi. Qayta urining yoki faylga saqlang.</string>
+    <string name="export_choosing_file">Faylni saqlash joyi tanlanmoqda…</string>
+    <string name="export_writing_file">Fayl saqlanmoqda…</string>
+    <string name="export_preview_lost">Ilova qayta ishga tushgach, matn saqlanmadi. Saqlashdan oldin qayta koʻring.</string>
+</resources>

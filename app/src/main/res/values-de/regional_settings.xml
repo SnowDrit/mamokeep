@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="settings_search">Suchen</string>
+    <string name="settings_search_empty">Keine Treffer. Einen anderen Namen oder Code versuchen.</string>
+    <string name="settings_language_system_hint">Unter dieser Android-Version folgt die App der Sprache des Telefons.</string>
+    <string name="settings_country_unset">Land wählen</string>
+    <string name="settings_country_hint">Das Land legt die automatische Währung und verfügbare Dokumentvorlagen fest. Sprache und Einheiten werden separat gewählt.</string>
+    <string name="settings_country_no_documents">Für dieses Land gibt es noch keine Dokumentvorlagen. Dokumente lassen sich auf der Fahrzeugseite manuell hinzufügen.</string>
+    <string name="settings_currency">Währung</string>
+    <string name="settings_currency_auto">Automatisch · %1$s</string>
+    <string name="settings_currency_manual">Manuell gewählt · %1$s</string>
+    <string name="settings_currency_by_country">Landeswährung verwenden</string>
+    <string name="settings_currency_choose_country">Ein Land wählen, um die Währung automatisch festzulegen.</string>
+    <string name="settings_currency_hint">Gilt für alle Autos. Ein Währungswechsel ändert nur die Bezeichnung: Gespeicherte Beträge werden nicht umgerechnet.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">Beim Ändern von Land oder Sprache bleiben diese Einheiten erhalten. Gespeicherte Strecken und Kraftstoffmengen bleiben gleich.</string>
+</resources>

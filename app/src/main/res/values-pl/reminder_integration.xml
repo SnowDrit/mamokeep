@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminder_threshold_edit">Ustaw poziom żółty</string>
+    <string name="reminder_threshold_hide">Ukryj ustawienia poziomu żółtego</string>
+    <string name="reminder_threshold_hint">Pozycja zmienia kolor na żółty, gdy do obsługi pozostaje ten dystans lub czas. Czerwony zaczyna się po osiągnięciu terminu. Wcześniejsze powiadomienia ustawia się osobno poniżej.</string>
+    <string name="reminder_item_heading">Przypomnienia</string>
+    <string name="reminder_use_common">Używaj wspólnych ustawień</string>
+    <string name="reminder_common_hint">Ta pozycja korzysta z godziny, dni i zasad powtarzania z Więcej → Przypomnienia.</string>
+    <string name="reminder_open_settings">Ustawienia przypomnień</string>
+    <string name="reminder_settings_hint">Godzina, dni tygodnia i wcześniejsze ostrzeżenia. Każda pozycja może mieć własne ustawienia.</string>
+    <string name="reminder_save_failed">Nie udało się zapisać ustawień. Zmiany nadal są dostępne; spróbuj ponownie.</string>
+    <string name="reminder_full_service_title">Pełny przegląd</string>
+    <string name="reminder_full_service_use">Utwórz przypomnienie o pełnym przeglądzie</string>
+    <string name="reminder_full_service_hint">Pełny przegląd ma własny interwał. Po zapisaniu należy podać datę ostatniego wykonania, aby obliczyć kolejny termin. Jego wykonanie nie oznacza wymiany poszczególnych części.</string>
+</resources>

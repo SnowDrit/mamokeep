@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">里程记录</string>
+    <string name="odometer_history_explain">在加油记录之外单独输入的里程。点按记录即可修改或删除。</string>
+    <string name="odometer_history_empty">暂无单独的里程记录。</string>
+    <string name="odometer_history_edit">修改里程记录</string>
+    <string name="odometer_history_delete_confirm">删除 %2$s 的 %1$s 里程记录？预计里程和保养提醒将根据剩余记录重新计算。</string>
+    <string name="odometer_history_write_failed">无法修改记录。请重新打开记录列表，检查记录后再试。</string>
+    <string name="odometer_history_saving">正在更新记录…</string>
+</resources>

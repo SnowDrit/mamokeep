@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_body_preview_width">82dp</dimen>
+    <dimen name="car_body_preview_height">58dp</dimen>
+    <dimen name="car_body_preview_gap">10dp</dimen>
+</resources>

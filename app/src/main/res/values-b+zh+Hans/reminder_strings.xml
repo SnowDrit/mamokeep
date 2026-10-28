@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminders_title">提醒</string>
+    <string name="reminders_intro">适用于所有车辆、零件、保养和证件的默认计划。可为单个项目选择不同计划。</string>
+    <string name="reminders_enabled">发送提醒</string>
+    <string name="reminders_disabled_hint">此计划的提醒已关闭，保养间隔和历史仍可查看。</string>
+    <string name="reminders_time">通知时间</string>
+    <string name="reminders_time_select">选择时间</string>
+    <string name="reminders_time_dialog">通知时间（24 小时制）</string>
+    <string name="reminders_hours">小时</string>
+    <string name="reminders_minutes">分钟</string>
+    <string name="reminders_time_hint">使用手机本地时间。Android 可能为省电而延迟发送提醒。</string>
+    <string name="reminders_weekdays">每周日期</string>
+    <string name="reminders_every_day">每天</string>
+    <string name="reminders_six_days">6 天</string>
+    <string name="reminders_workdays">工作日</string>
+    <string name="reminders_weekdays_hint">可任意选择日期。“6 天”会选中周一至周六，可继续调整。</string>
+    <string name="reminders_weekdays_error">请至少选择一天。</string>
+    <string name="reminders_basic_hint">默认从黄色预警阶段开始提醒，并在所选日期重复，直到记录为已完成。</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="other">每周 %1$d 天</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>日</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+        <item>星期日</item>
+    </string-array>
+    <string name="reminders_advanced_show">高级设置</string>
+    <string name="reminders_advanced_hide">隐藏高级设置</string>
+    <string name="reminders_advanced_enabled">使用自定义阈值和重复规则</string>
+    <string name="reminders_advanced_hint">黄色阶段取决于项目的“设置黄色预警”；红色表示已到期。这些设置调整提醒开始时间，不改变保养卡片颜色。</string>
+    <string name="reminders_advance_hint">0 表示达到该阶段时提醒。同时设置里程和天数时，以先到者为准。里程采用估算值，新的里程表记录可提高估算准确度。</string>
+    <string name="reminders_yellow">黄色阶段 · 即将到期</string>
+    <string name="reminders_red">红色阶段 · 需要保养</string>
+    <string name="reminders_advance_distance">距此阶段提前通知，%1$s</string>
+    <string name="reminders_advance_days">距此阶段提前通知，天</string>
+    <string name="reminders_repeat_days">重复间隔至少为…天</string>
+    <string name="reminders_max_occurrences">每阶段最多提醒次数</string>
+    <string name="reminders_repeat_hint">仅在所选星期重复，每个项目每天最多一次。达到黄色或红色会开始新阶段，次数重新计算。</string>
+    <string name="reminders_limit_hint">0 表示不限制。记录保养已完成后，次数重新计算。</string>
+    <string name="reminders_number_error">请输入 %1$s 到 %2$s 之间的整数。</string>
+    <string name="reminders_save_error">无法保存提醒，请重试。</string>
+    <string name="reminders_permission_hint">Android 已禁用通知。计划可以保存，但只有允许通知后才会收到提醒。</string>
+    <string name="reminders_permission_settings">打开通知设置</string>
+</resources>

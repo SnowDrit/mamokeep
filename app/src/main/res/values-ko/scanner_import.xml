@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">이미지, PDF 또는 UTF-8 텍스트 파일을 선택하세요.</string>
+    <string name="scanner_import_multiple">영수증은 한 번에 하나씩 공유하세요.</string>
+    <string name="scanner_import_too_large">파일이 너무 큽니다. 최대 25 MB이며 텍스트는 100,000자까지 가능합니다.</string>
+    <string name="scanner_import_busy">현재 입력을 완료하거나 닫은 다음 영수증을 다시 공유하세요.</string>
+    <string name="ocr_import_failed">파일을 읽을 수 없습니다. 접근할 수 있고 손상되지 않은 암호 없는 파일을 선택하세요. 텍스트 파일은 UTF-8 형식이어야 합니다.</string>
+    <string name="ocr_import_pdf_pages">이 PDF는 10페이지를 초과합니다. 10페이지 이하의 문서를 선택하세요.</string>
+    <string name="ocr_import_intro">PDF, 이미지 또는 텍스트 영수증을 선택하거나 아래에 텍스트를 붙여 넣으세요. 처리는 기기에서 이루어집니다.</string>
+    <string name="ocr_early_access_notice">스캐너는 얼리 액세스 단계입니다. 텍스트 인식 기능을 개선하고 있습니다. 저장하기 전에 텍스트와 각 항목을 확인하세요.</string>
+    <string name="ocr_import_running">영수증 읽는 중…</string>
+    <string name="ocr_choose_file">파일 선택</string>
+    <string name="ocr_import_no_car">기록을 저장하려면 먼저 차고에 차량을 추가하세요.</string>
+    <string name="ocr_pdf_retry">PDF 전체 문자 인식</string>
+    <string name="ocr_pdf_retry_hint">추출된 텍스트에 정보가 빠져 있다면 모든 페이지를 이미지로 인식하세요. 스캐너 패키지가 필요합니다.</string>
+</resources>

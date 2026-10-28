@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_screen_title">Для нейросети</string>
+    <string name="export_scenario_label">Какие данные включить</string>
+    <string name="export_question_label">Свой вопрос (необязательно)</string>
+    <string name="export_question_hint">Например: что проверить перед дальней поездкой?</string>
+    <string name="export_question_supporting">Готовый вопрос останется в тексте. Здесь можно уточнить проблему или рассказать о поездке.</string>
+    <string name="export_question_header">## Вопрос владельца</string>
+    <string name="export_privacy_label">Перед передачей</string>
+    <string name="export_setup_hint">Вопрос и данные машины для любого чата с нейросетью. Текст готовится на телефоне, автоматически ничего не отправляется.</string>
+    <string name="export_preview_size">%1$s знаков · %2$s</string>
+    <string name="export_preview_review">Перед передачей стоит проверить текст и заметки ниже. Скопируется, передастся или сохранится именно эта версия.</string>
+    <string name="export_share">Поделиться</string>
+    <string name="export_share_title">Передать в чат с нейросетью</string>
+    <string name="export_save_file">Сохранить файл</string>
+    <string name="export_share_failed">Не удалось открыть меню передачи. Можно скопировать текст или сохранить файл.</string>
+    <string name="export_share_too_big">Текст слишком большой для прямой передачи. Можно сохранить файл и прикрепить его в чате.</string>
+    <string name="export_large_preview_hint">Для такого объёма данных удобнее сохранить файл и прикрепить его в чате.</string>
+</resources>

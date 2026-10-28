@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_preview">Мәтінді алдын ала қарау</string>
+    <string name="export_preview_title">Чатқа арналған мәтін</string>
+    <string name="export_back">Артқа</string>
+    <string name="export_preparing">Мәтін дайындалуда…</string>
+    <string name="export_prepare_failed">Мәтінді дайындау мүмкін болмады. Қайталап көріңіз.</string>
+    <string name="export_copy_failed">Мәтінді көшіру мүмкін болмады. Қайталап көріңіз немесе файлға сақтаңыз.</string>
+    <string name="export_choosing_file">Файлды сақтау орны таңдалуда…</string>
+    <string name="export_writing_file">Файл сақталуда…</string>
+    <string name="export_preview_lost">Қолданба қайта іске қосылғаннан кейін мәтін сақталмады. Сақтамас бұрын қайта қараңыз.</string>
+</resources>

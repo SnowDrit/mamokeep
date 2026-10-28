@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_preview">预览文本</string>
+    <string name="export_preview_title">用于聊天的文本</string>
+    <string name="export_back">返回</string>
+    <string name="export_preparing">正在准备文本…</string>
+    <string name="export_prepare_failed">无法准备文本，请重试。</string>
+    <string name="export_copy_failed">无法复制文本，请重试或保存为文件。</string>
+    <string name="export_choosing_file">正在选择文件保存位置…</string>
+    <string name="export_writing_file">正在保存文件…</string>
+    <string name="export_preview_lost">应用重启后未保留文本，请重新预览后再保存。</string>
+</resources>

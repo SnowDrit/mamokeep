@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Сканувати чек</string>
+    <string name="ocr_title">Сканер чеків</string>
+    <string name="ocr_choose_photo">Вибрати фото</string>
+    <string name="ocr_take_photo">Сфотографувати</string>
+    <string name="ocr_photo">Початкове фото чека</string>
+    <string name="ocr_intro">Текст розпізнається на пристрої. Перевірте результат перед збереженням: фотографія сама не додає й не змінює записи.</string>
+    <string name="ocr_running">Читаємо фото на пристрої…</string>
+    <string name="ocr_source">Початковий документ і текст</string>
+    <string name="ocr_source_text">Текст чека / нотатка</string>
+    <string name="ocr_review_text">Виправте помилки розпізнавання й виберіть, який запис створити. На наступному екрані можна перевірити всі поля.</string>
+    <string name="ocr_fuel_action">Перевірити заправку</string>
+    <string name="ocr_work_action">Перевірити виконану роботу</string>
+    <string name="ocr_fuel_review">Перевірте значення й одиниці в полях. Валюта: %1$s; відстань: %2$s. Вартість пального введіть вручну: підсумок чека може включати інші покупки.</string>
+    <string name="ocr_confirm_date">Дата на екрані правильна</string>
+    <string name="ocr_confirm_fields">Я перевірив усі поля, валюту й одиниці</string>
+    <string name="ocr_choose_fuel_type">Виберіть вид пального: його не вдалося визначити однозначно.</string>
+    <string name="ocr_yes">Так</string>
+    <string name="ocr_no">Ні</string>
+    <string name="ocr_work_explanation">Буде збережено одну відмітку виконаної роботи з нотаткою. Купівля деталей не означає, що роботу виконано. Рядки кошторису й ціни залишаться лише в нотатці, а не окремими записами.</string>
+    <string name="ocr_confirm_work">Підтверджую, що вибрану роботу виконано</string>
+    <string name="ocr_no_work_items">Позицій обслуговування поки немає. Додайте позицію на екрані авто, потім повторіть сканування.</string>
+    <string name="ocr_empty">Текст не знайдено. Виберіть інший файл або введіть текст самостійно.</string>
+    <string name="ocr_image_failed">Не вдалося прочитати фото. Виберіть доступне зображення меншого розміру або роздільності.</string>
+    <string name="ocr_camera_failed">Не вдалося відкрити камеру. Спробуйте вибрати готове фото.</string>
+    <string name="ocr_model_failed">Пакет сканера недоступний або несумісний. Поверніться до налаштувань сканера й перевірте встановлений пакет.</string>
+    <string name="ocr_recognition_failed">Розпізнавання не вдалося. Спробуйте знову або виберіть інше фото.</string>
+    <string name="ocr_interrupted">Сеанс сканування перервався. Перевірте журнал, якщо зберігали запис, потім виберіть файл знову.</string>
+    <string name="ocr_save_failed">Не вдалося зберегти зміни. Чернетка залишилася на екрані. Спробуйте знову.</string>
+    <string name="ocr_save_interrupted">Збереження перервалося. Перед повторною спробою перевірте журнал: запис міг зберегтися.</string>
+    <string name="ocr_rotate">Повернути фото</string>
+</resources>

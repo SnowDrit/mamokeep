@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Anleitungen auf dem Bildschirm</string>
+    <string name="help_lessons_hint">Ein Thema wählen. Die Anleitung zeigt die Bedienelemente, ohne Änderungen zu speichern oder etwas zu senden.</string>
+    <string name="help_lesson_start">Schrittweise Anleitung</string>
+    <string name="help_lesson_close">Beenden</string>
+    <string name="help_lesson_reminders_title">Flexible Erinnerungen</string>
+    <string name="help_lesson_export_title">KI-Export</string>
+    <string name="help_lesson_regional_title">Sprache, Land und Währung</string>
+    <string name="help_lesson_steps">%1$d Schritte</string>
+    <string name="help_lesson_reminder_time_title">Eine passende Uhrzeit</string>
+    <string name="help_lesson_reminder_time_summary">Hier wird die Ortszeit für Erinnerungen gewählt. Android kann sie später zustellen. Während der Anleitung bleibt der Zeitplan unverändert.</string>
+    <string name="help_lesson_reminder_days_title">Nur an gewählten Tagen</string>
+    <string name="help_lesson_reminder_days_summary">Eine Vorgabe oder einzelne Wochentage wählen. Dieser Zeitplan gilt auch für Wiederholungen. Mindestens ein Tag ist erforderlich.</string>
+    <string name="help_lesson_reminder_advanced_title">Erweiterte Regeln</string>
+    <string name="help_lesson_reminder_advanced_summary">Der Bereich ist zur Erklärung aufgeklappt. Der Schalter bleibt unverändert: Schwellen und Wiederholungen gelten erst nach dem Einschalten und Speichern.</string>
+    <string name="help_lesson_reminder_thresholds_title">Frühzeitig warnen</string>
+    <string name="help_lesson_reminder_thresholds_summary">Hier lässt sich der Vorlauf in Strecke und Tagen vor der gelben Stufe einstellen. Darunter gibt es dieselben Felder für Rot. Null bedeutet eine Meldung beim Erreichen der Stufe. Die Kartenfarben bleiben unverändert.</string>
+    <string name="help_lesson_reminder_repeats_title">Wiederholungen begrenzen</string>
+    <string name="help_lesson_reminder_repeats_summary">Das Intervall wird in Tagen angegeben. Die Anzahl der Meldungen begrenzt Wiederholungen auf einer Stufe. Null bedeutet unbegrenzt. Für die rote Stufe gelten eigene Einstellungen.</string>
+    <string name="help_lesson_reminder_save_title">Anwenden, sobald alles passt</string>
+    <string name="help_lesson_reminder_save_summary">Die Anleitung hat nichts gespeichert. Danach lassen sich die Felder ändern und mit „Speichern“ übernehmen. Für einen einzelnen Wartungspunkt oder ein Dokument ist ein eigener Zeitplan im jeweiligen Editor möglich.</string>
+    <string name="help_lesson_export_content_title">Inhalt auswählen</string>
+    <string name="help_lesson_export_content_summary">Die Zusammenfassung eignet sich für eine allgemeine Frage. Der vollständige Verlauf ergänzt Wartungs- und Tankbucheinträge. Die Anleitung ändert die aktuelle Auswahl nicht.</string>
+    <string name="help_lesson_export_question_title">Eigene Frage hinzufügen</string>
+    <string name="help_lesson_export_question_summary">Die Frage steht am Textanfang neben den Fahrzeugdaten. Das Feld kann leer bleiben. Während der Anleitung ist keine Eingabe nötig.</string>
+    <string name="help_lesson_export_privacy_title">Persönliche Daten prüfen</string>
+    <string name="help_lesson_export_privacy_summary">Dieser Schalter verbirgt VIN und Fahrzeugnamen. Freie Notizen können weiterhin persönliche Angaben enthalten. Deshalb den Text vor dem Teilen prüfen.</string>
+    <string name="help_lesson_export_build_title">Vorschau öffnen</string>
+    <string name="help_lesson_export_build_summary">„Weiter“ bereitet den Text mit den aktuellen Optionen nur auf diesem Gerät vor. Fahrzeugeinträge bleiben unverändert, und es wird nichts gesendet.</string>
+    <string name="help_lesson_export_review_title">Vor dem Teilen lesen</string>
+    <string name="help_lesson_export_review_summary">Genau dieser Text wird kopiert oder gespeichert. Nach der Anleitung lässt er sich durchscrollen und prüfen. Der Zurückpfeil führt zu Inhalt und Frage zurück.</string>
+    <string name="help_lesson_export_send_title">Bei Bedarf teilen</string>
+    <string name="help_lesson_export_send_summary">Nach der Anleitung lässt sich der Text kopieren, mit einer anderen App teilen oder als Datei speichern. Große Exporte werden als Datei geteilt. Die Anleitung betätigt diese Schaltflächen nicht.</string>
+    <string name="help_lesson_regional_language_title">Sprache unabhängig wählen</string>
+    <string name="help_lesson_regional_language_summary">Ab Android 13 wird die App-Sprache hier gewählt. Ältere Versionen nutzen die Sprache des Telefons. Land, Einheiten und Währung ändern sich dadurch nicht.</string>
+    <string name="help_lesson_regional_country_title">Land für Dokumente</string>
+    <string name="help_lesson_regional_country_summary">Das Land bestimmt die verfügbaren Dokumente und die automatische Währung. Vorhandene Einträge bleiben erhalten. Dokumente werden nur über die separate Schaltfläche hinzugefügt.</string>
+    <string name="help_lesson_regional_units_title">Passende Einheiten</string>
+    <string name="help_lesson_regional_units_summary">Die Einheiten ändern Anzeige und Eingabe von Strecke, Kraftstoff und Verbrauch. Gespeicherte Kilometerstände und Wartungsintervalle werden nicht zurückgesetzt. Die Wahl ist unabhängig vom Land.</string>
+    <string name="help_lesson_regional_currency_title">Währungsmodus prüfen</string>
+    <string name="help_lesson_regional_currency_summary">Die Zeile zeigt die aktuelle Währung und ihre Auswahlart. „Weiter“ öffnet die Liste mit automatischer und manueller Auswahl, ohne die Einstellung zu ändern.</string>
+    <string name="help_lesson_currency_auto_title">Automatisch nach Land</string>
+    <string name="help_lesson_currency_auto_summary">Diese Option nutzt die Währung des gewählten Landes und folgt einem Länderwechsel. Falls noch kein Land festgelegt ist, muss zuerst eines gewählt werden. Die Anleitung wählt diese Option nicht aus.</string>
+    <string name="help_lesson_currency_manual_title">Währung manuell wählen</string>
+    <string name="help_lesson_currency_manual_summary">Die Suche findet Währungen nach Code oder Name. Eine manuelle Auswahl bleibt bei einem Länderwechsel bestehen. Vorhandene Beträge werden nicht nach Wechselkurs umgerechnet. Nach der Anleitung übernimmt ein Tippen auf die Zeile die Auswahl.</string>
+</resources>

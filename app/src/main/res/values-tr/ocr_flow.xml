@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Fiş tara</string>
+    <string name="ocr_title">Fiş tarayıcı</string>
+    <string name="ocr_choose_photo">Fotoğraf seç</string>
+    <string name="ocr_take_photo">Fotoğraf çek</string>
+    <string name="ocr_photo">Fişin orijinal fotoğrafı</string>
+    <string name="ocr_intro">Metin bu cihazda tanınır. Kaydetmeden önce sonucu kontrol edin: fotoğraf hiçbir kaydı otomatik olarak eklemez veya değiştirmez.</string>
+    <string name="ocr_running">Fotoğraf bu cihazda okunuyor…</string>
+    <string name="ocr_source">Orijinal belge ve metin</string>
+    <string name="ocr_source_text">Fiş metni / not</string>
+    <string name="ocr_review_text">Tanıma hatalarını düzeltin, ardından ne kaydedeceğinizi seçin. Sonraki ekranda tüm alanları kontrol edebilirsiniz.</string>
+    <string name="ocr_fuel_action">Yakıt alımını kontrol et</string>
+    <string name="ocr_work_action">Tamamlanan bakımı kontrol et</string>
+    <string name="ocr_fuel_review">Tüm alanlardaki değerleri ve birimleri kontrol edin. Para birimi: %1$s; mesafe: %2$s. Yakıt tutarını kendiniz girin: fiş toplamı başka alışverişleri de içerebilir.</string>
+    <string name="ocr_confirm_date">Gösterilen tarih doğru</string>
+    <string name="ocr_confirm_fields">Tüm alanları, para birimini ve birimleri kontrol ettim</string>
+    <string name="ocr_choose_fuel_type">Yakıt türünü seçin; güvenilir biçimde belirlenemedi.</string>
+    <string name="ocr_yes">Evet</string>
+    <string name="ocr_no">Hayır</string>
+    <string name="ocr_work_explanation">Not içeren tek bir tamamlanmış bakım kaydı kaydedilir. Parça satın almak işin yapıldığı anlamına gelmez. Fiş satırları ve fiyatlar ayrı kayıtlar olarak değil, yalnızca notta tutulur.</string>
+    <string name="ocr_confirm_work">Seçilen işin tamamlandığını onaylıyorum</string>
+    <string name="ocr_no_work_items">Henüz bakım kalemi yok. Araç ekranında bir kalem ekleyin, ardından yeniden tarayın.</string>
+    <string name="ocr_empty">Metin bulunamadı. Başka bir dosya seçin veya metni kendiniz girin.</string>
+    <string name="ocr_image_failed">Fotoğraf okunamadı. Daha küçük dosya boyutuna veya daha düşük çözünürlüğe sahip erişilebilir bir görüntü seçin.</string>
+    <string name="ocr_camera_failed">Kamera açılamadı. Mevcut bir fotoğraf seçmeyi deneyin.</string>
+    <string name="ocr_model_failed">Tarayıcı paketi kullanılamıyor veya uyumsuz. Tarayıcı ayarlarına dönün ve yüklü paketi kontrol edin.</string>
+    <string name="ocr_recognition_failed">Tanıma başarısız oldu. Yeniden deneyin veya başka bir fotoğraf seçin.</string>
+    <string name="ocr_interrupted">Tarama oturumu kesildi. Bir kayıt kaydediyorsanız günlüğü kontrol edin, ardından dosyayı yeniden seçin.</string>
+    <string name="ocr_save_failed">Değişiklikler kaydedilemedi. Taslağınız ekranda duruyor. Yeniden deneyin.</string>
+    <string name="ocr_save_interrupted">Kaydetme işlemi kesildi. Yeniden denemeden önce günlüğü kontrol edin: kayıt zaten kaydedilmiş olabilir.</string>
+    <string name="ocr_rotate">Fotoğrafı döndür</string>
+</resources>

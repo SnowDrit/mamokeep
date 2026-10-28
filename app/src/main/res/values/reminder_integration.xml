@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminder_threshold_edit">Configure the yellow level</string>
+    <string name="reminder_threshold_hide">Hide yellow level settings</string>
+    <string name="reminder_threshold_hint">The item turns yellow when this distance or time remains until service. Red starts when the service is due. Advance notifications are configured separately below.</string>
+    <string name="reminder_item_heading">Reminders</string>
+    <string name="reminder_use_common">Use common settings</string>
+    <string name="reminder_common_hint">The time, days and repeat rules from More → Reminders apply to this item.</string>
+    <string name="reminder_open_settings">Reminder settings</string>
+    <string name="reminder_settings_hint">Time, days of the week and advance warnings. Each item can have its own settings.</string>
+    <string name="reminder_save_failed">Could not save the settings. Changes are still here; try again.</string>
+    <string name="reminder_full_service_title">Full service</string>
+    <string name="reminder_full_service_use">Create a full service reminder</string>
+    <string name="reminder_full_service_hint">Full service has its own interval. After saving, record when it was last completed so the next due date can be calculated. Completing it does not mark individual parts as replaced.</string>
+</resources>

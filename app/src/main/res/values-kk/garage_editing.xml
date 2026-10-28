@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="garage_unsaved_title">Өзгерістер сақталсын ба?</string>
+    <string name="garage_unsaved_message">Көлік профилінде сақталмаған өзгерістер бар.</string>
+    <string name="garage_leave_without_saving">Сақтамай шығу</string>
+    <string name="garage_keep_editing">Өңдеуді жалғастыру</string>
+    <string name="garage_saving">Сақталуда…</string>
+    <string name="garage_save_failed">Профильді сақтау мүмкін болмады. Өзгерістер осында қалды. Қайталап көріңіз.</string>
+</resources>

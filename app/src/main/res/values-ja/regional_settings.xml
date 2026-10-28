@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_search">検索</string>
+    <string name="settings_search_empty">一致するものがありません。別の名前やコードをお試しください。</string>
+    <string name="settings_language_system_hint">この Android バージョンでは、アプリは端末の言語に従います。</string>
+    <string name="settings_country_unset">国を選択</string>
+    <string name="settings_country_hint">国によって自動設定の通貨と利用できる書類テンプレートが決まります。言語と単位は別々に選択します。</string>
+    <string name="settings_country_no_documents">この国の書類テンプレートはまだありません。車両画面で手動追加できます。</string>
+    <string name="settings_currency">通貨</string>
+    <string name="settings_currency_auto">自動 · %1$s</string>
+    <string name="settings_currency_manual">手動選択 · %1$s</string>
+    <string name="settings_currency_by_country">国の通貨を使う</string>
+    <string name="settings_currency_choose_country">通貨を自動設定するには国を選択してください。</string>
+    <string name="settings_currency_hint">すべての車両に適用されます。通貨を変更しても表示名が変わるだけで、保存済みの金額は換算されません。</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">国や言語を変更しても、この単位設定は維持されます。保存済みの距離と燃料量は変わりません。</string>
+</resources>

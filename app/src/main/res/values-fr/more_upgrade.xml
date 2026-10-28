@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="more_reminders_title">Rappels</string>
+    <string name="more_reminders_summary">Heure, jours de la semaine et alertes anticipées</string>
+    <string name="more_data_heading">Données du véhicule</string>
+    <string name="more_export_summary">Historique du véhicule et question prêts à copier ou enregistrer</string>
+    <string name="more_settings_heading">Préférences</string>
+    <string name="more_project_heading">À propos du projet</string>
+    <string name="more_appearance_language">Apparence et langue</string>
+    <string name="more_weekly_disabled_summary">Désactivée</string>
+    <string name="more_weekly_enabled_summary">Activée · une fois par semaine</string>
+    <string name="more_choose_folder">Choisir un dossier</string>
+    <string name="more_change_folder">Changer de dossier</string>
+    <string name="more_folder_permission_failed">Impossible de conserver l’accès à ce dossier. Choisir un autre dossier.</string>
+    <string name="more_support_open_failed">Impossible d’ouvrir le lien. Installer ou activer un navigateur.</string>
+    <string name="more_privacy_policy">Politique de confidentialité</string>
+    <string name="more_scanner_summary">Reconnaissance de photos sur l’appareil. Module facultatif.</string>
+    <string name="more_scanner_failed">Impossible de préparer le module. Ouvrir pour plus de détails.</string>
+    <string name="more_expanded">Développé</string>
+    <string name="more_collapsed">Réduit</string>
+</resources>

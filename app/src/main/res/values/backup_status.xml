@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Checking backup status…</string>
+    <string name="backup_status_waiting">No scheduled backup has been created yet. Waiting for the next run.</string>
+    <string name="backup_status_failed">The latest backup failed. Check access to the folder or select it again.</string>
+    <string name="backup_status_last_success">Last successful backup: %1$s</string>
+</resources>

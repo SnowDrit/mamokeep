@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">走行距離の履歴</string>
+    <string name="odometer_history_explain">給油とは別に入力した走行距離です。記録をタップすると編集または削除できます。</string>
+    <string name="odometer_history_empty">個別の走行距離の記録はまだありません。</string>
+    <string name="odometer_history_edit">走行距離を編集</string>
+    <string name="odometer_history_delete_confirm">%2$s の %1$s の記録を削除しますか？推定走行距離と整備リマインダーは残りの記録から再計算されます。</string>
+    <string name="odometer_history_write_failed">記録を変更できませんでした。履歴を開き直し、記録を確認してから再試行してください。</string>
+    <string name="odometer_history_saving">記録を更新中…</string>
+</resources>

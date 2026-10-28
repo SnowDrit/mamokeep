@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Источник: файлы приложения</string>
+    <string name="scanner_local_not_installed">Чтобы распознавать фото на устройстве, включите пакет из приложения.</string>
+    <string name="scanner_local_install">Включить пакет</string>
+    <string name="scanner_local_install_title">Включить пакет для сканера?</string>
+    <string name="scanner_local_install_message">Файлы уже включены в приложение. Скачивание не потребуется. Фотографии останутся на устройстве.</string>
+    <string name="scanner_local_queued">Ожидаем подготовки пакета. Можно закрыть этот экран.</string>
+    <string name="scanner_local_verifying">Подготавливаем и проверяем файлы…</string>
+    <string name="scanner_local_cancelling">Отменяем подготовку…</string>
+    <string name="scanner_local_cancel_install">Отменить подготовку</string>
+    <string name="scanner_local_error_source">Пакет недоступен в этой версии приложения. Выберите другую версию.</string>
+    <string name="scanner_local_error_integrity">Файлы не прошли проверку. Удалите пакеты из карточки сканера, затем включите пакет снова.</string>
+</resources>

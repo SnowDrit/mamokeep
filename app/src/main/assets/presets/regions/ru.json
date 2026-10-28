@@ -1,0 +1,49 @@
+{
+  "code": "ru",
+  "lang": "ru",
+  "name": "Россия",
+  "documents": [
+    {
+      "key": "ru_osago",
+      "titles": {
+        "ru": "ОСАГО",
+        "en": "OSAGO — compulsory liability insurance"
+      },
+      "months": 12,
+      "warnDays": 30,
+      "notes": {
+        "ru": "По ФЗ-40 договор заключается ровно на год. Меняться может период использования внутри года, но не срок договора.",
+        "en": "Under Federal Law 40 the contract runs for exactly one year. The period of use inside that year can vary, the term of the contract cannot."
+      },
+      "icon": "shield_car"
+    },
+    {
+      "key": "ru_kasko",
+      "titles": {
+        "ru": "КАСКО",
+        "en": "KASKO — comprehensive insurance"
+      },
+      "months": 12,
+      "warnDays": 30,
+      "notes": {
+        "ru": "Обычно год, но бывают многолетние полисы — поставь свой срок.",
+        "en": "Usually a year, but multi-year policies exist — set your own term."
+      },
+      "icon": "shield_car"
+    },
+    {
+      "key": "ru_inspection_card",
+      "titles": {
+        "ru": "Диагностическая карта",
+        "en": "Vehicle inspection card"
+      },
+      "months": 24,
+      "warnDays": 30,
+      "notes": {
+        "ru": "Для легковых личных автомобилей старше четырёх лет. Для такси и коммерческого транспорта срок короче.",
+        "en": "Required for private cars older than four years. Taxis and commercial vehicles are on a shorter cycle."
+      },
+      "icon": "clipboard_check_outline"
+    }
+  ]
+}

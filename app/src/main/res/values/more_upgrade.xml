@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_reminders_title">Reminders</string>
+    <string name="more_reminders_summary">Time, days of the week and early warnings</string>
+    <string name="more_data_heading">Car data</string>
+    <string name="more_export_summary">Car history and a question, ready to copy or save</string>
+    <string name="more_settings_heading">Preferences</string>
+    <string name="more_project_heading">About the project</string>
+    <string name="more_appearance_language">Appearance and language</string>
+    <string name="more_weekly_disabled_summary">Off</string>
+    <string name="more_weekly_enabled_summary">On · once a week</string>
+    <string name="more_choose_folder">Choose a folder</string>
+    <string name="more_change_folder">Change folder</string>
+    <string name="more_folder_permission_failed">Access to this folder could not be saved. Choose another folder.</string>
+    <string name="more_support_open_failed">The link could not be opened. Install or enable a browser.</string>
+    <string name="more_privacy_policy">Privacy policy</string>
+    <string name="more_scanner_summary">On-device photo recognition. Optional package.</string>
+    <string name="more_scanner_failed">The package could not be prepared. Open for details.</string>
+    <string name="more_expanded">Expanded</string>
+    <string name="more_collapsed">Collapsed</string>
+</resources>

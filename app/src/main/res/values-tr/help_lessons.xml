@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Ekran üzerindeki rehberler</string>
+    <string name="help_lessons_hint">Bir konu seçilebilir. Rehberler değişiklikleri kaydetmeden veya veri göndermeden ilgili kontrolleri gösterir.</string>
+    <string name="help_lesson_start">Adım adım rehber</string>
+    <string name="help_lesson_close">Bitir</string>
+    <string name="help_lesson_reminders_title">Esnek hatırlatmalar</string>
+    <string name="help_lesson_export_title">Yapay zekâ için dışa aktarma</string>
+    <string name="help_lesson_regional_title">Dil, ülke ve para birimi</string>
+    <string name="help_lesson_steps">%1$d adım</string>
+    <string name="help_lesson_reminder_time_title">Uygun bir saat</string>
+    <string name="help_lesson_reminder_time_summary">Hatırlatmaların yerel saati burada seçilir. Android bunları daha geç iletebilir. Rehber sırasında zamanlama değişmez.</string>
+    <string name="help_lesson_reminder_days_title">Yalnızca seçilen günlerde</string>
+    <string name="help_lesson_reminder_days_summary">Hazır bir grup veya haftanın günleri tek tek seçilebilir. Bu zamanlama tekrarlar için de geçerlidir. En az bir gün gereklidir.</string>
+    <string name="help_lesson_reminder_advanced_title">Gelişmiş kurallar</string>
+    <string name="help_lesson_reminder_advanced_summary">Bu bölüm tanıtım için açılmıştır. Anahtarın durumu değişmemiştir: eşikler ve tekrarlar yalnızca etkinleştirip kaydettikten sonra uygulanır.</string>
+    <string name="help_lesson_reminder_thresholds_title">Önceden uyarma</string>
+    <string name="help_lesson_reminder_thresholds_summary">Sarı seviyeden ne kadar mesafe ve kaç gün önce uyarılacağı burada ayarlanır. Kırmızı seviye için aynı alanlar aşağıdadır. Sıfır, seviyeye ulaşıldığında bildirim demektir. Kart renkleri değişmez.</string>
+    <string name="help_lesson_reminder_repeats_title">Tekrarlar ve sınırlar</string>
+    <string name="help_lesson_reminder_repeats_summary">Aralık gün olarak belirtilir. Bildirim sayısı, aynı seviyedeki tekrarları sınırlar. Sıfır sınırsız demektir. Kırmızı seviyenin ayarları ayrıdır.</string>
+    <string name="help_lesson_reminder_save_title">Hazır olduğunda uygulama</string>
+    <string name="help_lesson_reminder_save_summary">Rehber hiçbir şeyi kaydetmedi. Bittikten sonra alanlar düzenlenip Kaydet düğmesine basılabilir. Bir bakım kalemi veya belge için kendi düzenleme ekranında ayrı bir zamanlama ayarlanabilir.</string>
+    <string name="help_lesson_export_content_title">İçerik seçimi</string>
+    <string name="help_lesson_export_content_summary">Özet, genel bir soru için uygundur. Tam geçmiş, bakım ve yakıt alım kayıtlarını ekler. Rehber mevcut seçimi değiştirmez.</string>
+    <string name="help_lesson_export_question_title">Özel bir soru ekleme</string>
+    <string name="help_lesson_export_question_summary">Soru, araç verileriyle birlikte metnin başında yer alır. Alan boş bırakılabilir. Rehber sırasında yazı yazmak gerekmez.</string>
+    <string name="help_lesson_export_privacy_title">Kişisel bilgileri kontrol etme</string>
+    <string name="help_lesson_export_privacy_summary">Bu anahtar VIN ve araç adını gizler. Serbest notlar yine de kişisel bilgi içerebilir; bu yüzden paylaşmadan önce metni kontrol etmek gerekir.</string>
+    <string name="help_lesson_export_build_title">Önizlemeyi açma</string>
+    <string name="help_lesson_export_build_summary">İleri, mevcut seçeneklerle metni yalnızca bu cihazda hazırlar. Araç kayıtları değişmez ve hiçbir veri gönderilmez.</string>
+    <string name="help_lesson_export_review_title">Paylaşmadan önce okuma</string>
+    <string name="help_lesson_export_review_summary">Kopyalanacak veya kaydedilecek metin tam olarak budur. Rehberden sonra kaydırılarak kontrol edilebilir. Geri oku, içerik seçimine ve soruya döndürür.</string>
+    <string name="help_lesson_export_send_title">Hazır olduğunda paylaşma</string>
+    <string name="help_lesson_export_send_summary">Rehberden sonra metin kopyalanabilir, başka bir uygulamayla paylaşılabilir veya dosyaya kaydedilebilir. Büyük aktarımlar dosya kullanır. Rehber bu düğmelere basmaz.</string>
+    <string name="help_lesson_regional_language_title">Dil ülkeden bağımsızdır</string>
+    <string name="help_lesson_regional_language_summary">Android 13 ve sonraki sürümlerde uygulama dili buradan seçilir. Önceki sürümler telefonun dilini kullanır. Bu seçim ülkeyi, ölçü birimlerini veya para birimini değiştirmez.</string>
+    <string name="help_lesson_regional_country_title">Belgeler için ülke</string>
+    <string name="help_lesson_regional_country_summary">Ülke, kullanılabilir belgeleri ve otomatik para birimini belirler. Mevcut kayıtlar korunur. Belgeler yalnızca ayrı düğmeyle eklenir.</string>
+    <string name="help_lesson_regional_units_title">Uygun ölçü birimleri</string>
+    <string name="help_lesson_regional_units_summary">Birimler, mesafe, yakıt ve tüketimin gösterimini ve girişini değiştirir. Kaydedilmiş kilometre değerleri ve bakım aralıkları sıfırlanmaz. Seçim ülkeden bağımsızdır.</string>
+    <string name="help_lesson_regional_currency_title">Para birimi modunu kontrol etme</string>
+    <string name="help_lesson_regional_currency_summary">Bu satır para birimini ve nasıl seçildiğini gösterir. İleri, ayarı değiştirmeden otomatik ve elle seçim seçeneklerini göstermek için listeyi açar.</string>
+    <string name="help_lesson_currency_auto_title">Ülkeye göre otomatik</string>
+    <string name="help_lesson_currency_auto_summary">Bu seçenek, seçilen ülkenin para birimini kullanır ve ülke değiştiğinde güncellenir. Ülke belirlenmemişse önce bir ülke seçmek gerekir. Rehber bu seçeneği seçmez.</string>
+    <string name="help_lesson_currency_manual_title">Para birimini elle seçme</string>
+    <string name="help_lesson_currency_manual_summary">Para birimi koduna veya adına göre arama yapılabilir. Elle yapılan seçim, ülke değiştiğinde korunur. Eski kayıtlardaki tutarlar döviz kuruyla dönüştürülmez. Rehberden sonra bir satıra dokunmak seçimi uygular.</string>
+</resources>

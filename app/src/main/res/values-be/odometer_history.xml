@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Гісторыя паказанняў</string>
+    <string name="odometer_history_explain">Паказанні, уведзеныя асобна ад заправак. Націсніце запіс, каб выправіць або выдаліць яго.</string>
+    <string name="odometer_history_empty">Асобных паказанняў пакуль няма.</string>
+    <string name="odometer_history_edit">Выправіць паказанне</string>
+    <string name="odometer_history_delete_confirm">Выдаліць паказанне %1$s за %2$s? Разліковы прабег і напаміны пра абслугоўванне будуць пералічаны па астатніх паказаннях.</string>
+    <string name="odometer_history_write_failed">Не ўдалося змяніць паказанне. Адкрыйце гісторыю зноў, праверце запіс і паўтарыце спробу.</string>
+    <string name="odometer_history_saving">Абнаўляем паказанні…</string>
+</resources>

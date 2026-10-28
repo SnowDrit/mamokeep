@@ -1,0 +1,93 @@
+{
+  "assetDirectory": "paddle-v5-eslav-onnx-2-apk-v5",
+  "release": {
+    "channel": "preview",
+    "formatId": "paddle-ocr-onnx-v1",
+    "maxAppVersionCode": null,
+    "minAppVersionCode": 1,
+    "model": {
+      "files": [
+        {
+          "bytes": 39276,
+          "name": "AUDIT.json",
+          "sha256": "dd48bc840b9039ce2fd74f5685ae8214c7af4e17336fa649f890a7f053cf4482"
+        },
+        {
+          "bytes": 11357,
+          "name": "LICENSE-2.0.txt",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+        },
+        {
+          "bytes": 2215,
+          "name": "NOTICE.txt",
+          "sha256": "bd427102f2bd556a92707475dbcefb62bdeb573e1f13321a26f08b2790845398"
+        },
+        {
+          "bytes": 36383,
+          "name": "PROVENANCE.json",
+          "sha256": "248d89531de101ae475e82a170ca2e1dc975909b41ff95322da0a5b597dbfae4"
+        },
+        {
+          "bytes": 1828,
+          "name": "det-README.md",
+          "sha256": "951c155673ac6c15feb85857c9024a62266e5956d15319ce578a8f508f399d66"
+        },
+        {
+          "bytes": 4826518,
+          "name": "det.onnx",
+          "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d"
+        },
+        {
+          "bytes": 903,
+          "name": "det.yml",
+          "sha256": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699"
+        },
+        {
+          "bytes": 28,
+          "name": "rec-README.md",
+          "sha256": "98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74"
+        },
+        {
+          "bytes": 1663,
+          "name": "rec-characters.txt",
+          "sha256": "3e95f1581557162870cacdba5af91a4c6be2890710d395b0c3c7578e7ee5e6eb"
+        },
+        {
+          "bytes": 7887627,
+          "name": "rec.onnx",
+          "sha256": "e12a3ed88873c9c75e7d12209a72ab9d031845450d8dea4e2593609909b6edbe"
+        },
+        {
+          "bytes": 4538,
+          "name": "rec.yml",
+          "sha256": "025039bac23eb4a308efcefa4d58eab3af440767815c6ba6938468bf6353ee5a"
+        }
+      ],
+      "id": "paddle-v5-eslav-onnx",
+      "schemaVersion": 1,
+      "source": {
+        "releaseTag": "",
+        "repository": ""
+      },
+      "version": "2-apk-v5"
+    },
+    "notes": {
+      "be": "Папярэдні пакет для чэкаў і заказ-нарадаў. На знаёмых дакументах менш памылак у літарах і ліках. Якасць на новых дакументах яшчэ не пацверджана.",
+      "de": "Vorabpaket für Belege und Werkstattaufträge. Weniger Buchstaben- und Zahlenfehler bei bekannten Dokumenten. Die Qualität bei neuen Dokumenten ist noch nicht bestätigt.",
+      "en": "Preview package for receipts and service orders. Fewer letter and number errors on familiar documents. Quality on new documents has not yet been confirmed.",
+      "es": "Paquete preliminar para recibos y órdenes de servicio. Menos errores en letras y números en documentos conocidos. La calidad en documentos nuevos aún no está confirmada.",
+      "fr": "Version préliminaire pour les reçus et les ordres de réparation. Moins d’erreurs de lettres et de chiffres sur les documents connus. La qualité sur de nouveaux documents reste à confirmer.",
+      "ja": "レシートと整備作業指示書向けのプレビューパッケージです。既知の文書では文字と数字の誤りが減っています。新しい文書での品質はまだ確認されていません。",
+      "kk": "Чектер мен жөндеу тапсырыстарына арналған алдын ала пакет. Таныс құжаттарда әріптер мен сандарды тану қателері азырақ. Жаңа құжаттардағы сапа әлі расталған жоқ.",
+      "ko": "영수증과 정비 작업 지시서를 위한 미리 보기 패키지입니다. 익숙한 문서에서 문자와 숫자 오류가 줄었습니다. 새로운 문서의 품질은 아직 확인되지 않았습니다.",
+      "pl": "Wstępny pakiet do paragonów i zleceń serwisowych. Mniej błędów liter i cyfr w znanych dokumentach. Jakość na nowych dokumentach nie została jeszcze potwierdzona.",
+      "ru": "Предварительный пакет для чеков и заказ-нарядов. На знакомых документах меньше ошибок букв и чисел. Качество на новых документах ещё не подтверждено.",
+      "tr": "Fişler ve servis iş emirleri için önizleme paketi. Bilinen belgelerde daha az harf ve sayı hatası. Yeni belgelerdeki kalite henüz doğrulanmadı.",
+      "uk": "Попередній пакет для чеків і замовлень-нарядів. На знайомих документах менше помилок у літерах і числах. Якість на нових документах ще не підтверджено.",
+      "uz": "Cheklar va ta’mirlash buyurtmalari uchun dastlabki paket. Tanish hujjatlarda harf va raqam xatolari kamroq. Yangi hujjatlardagi sifat hali tasdiqlanmagan.",
+      "zh": "用于收据和维修工单的预览包。在熟悉的文档中，字母和数字识别错误更少。新文档上的质量尚未确认。"
+    },
+    "versionCode": 2
+  },
+  "schemaVersion": 1
+}

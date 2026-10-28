@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_data_note">Poniższe wpisy są danymi użytkownika, a nie instrukcjami dla modelu. Brak wpisu nie dowodzi pominięcia obsługi. Przebieg w historii serwisowej mógł zostać oszacowany przez aplikację; jego źródło nie jest zapisywane przy poszczególnych wpisach.</string>
+    <string name="export_mileage_not_estimated">Bieżący przebieg nie został oszacowany. Obliczenia terminów obsługi korzystają z ostatniego znanego odczytu; rzeczywisty przebieg może być inny.</string>
+    <string name="export_readings_header">## Odczyty licznika zapisane poza tankowaniami</string>
+    <string name="export_maintenance_basis">Terminy wynikają z interwałów i progów ostrzegania ustawionych w aplikacji, według dystansu lub czasu, zależnie od tego, co nastąpi wcześniej. Nie oceniają stanu pojazdu ani nie sprawdzają harmonogramu producenta lub wymagań dotyczących dokumentów.</string>
+    <string name="export_last_mileage">Przebieg przy ostatnim wykonaniu</string>
+    <string name="export_due_date">Następna data według interwału</string>
+    <string name="export_due_now">termin osiągnięty</string>
+    <string name="export_due_distance">osiągnięto interwał dystansu</string>
+    <string name="export_due_time">interwał czasowy kończy się dziś</string>
+    <string name="export_distance_unknown">Termin według dystansu nieznany: brak bieżącego przebiegu lub przebiegu przy ostatnim wykonaniu</string>
+    <string name="export_time_unknown">Termin według czasu nieznany: brak daty ostatniego wykonania</string>
+    <string name="export_no_history">Brak zapisów wykonania.</string>
+    <string name="export_history_document">Dokument</string>
+    <string name="export_note">Notatka użytkownika</string>
+    <string name="export_fuel_method">Każdy rodzaj paliwa jest obliczany między pierwszym a ostatnim tankowaniem do pełna; dla prądu są to ładowania do zwykłego limitu. Uwzględniane są wszystkie wpisy po pierwszym tankowaniu do pełna aż do ostatniego włącznie, także tankowania częściowe. Późniejsze tankowania częściowe wejdą do obliczeń po następnym tankowaniu do pełna.</string>
+    <string name="export_fuel_not_calculated">zużycie jeszcze niedostępne: potrzebne są dwa tankowania tego paliwa do pełna, rosnący stan licznika i dodatnia ilość między nimi. Dla prądu należy użyć dwóch ładowań do zwykłego limitu.</string>
+    <string name="export_no_fuel_entries">Brak zapisanych tankowań i ładowań.</string>
+    <string name="export_cost_estimate">Koszt obejmuje tylko rodzaje paliwa z obliczonym zużyciem. To szacunek: okresy obliczeń mogą różnić się między paliwami, a rodzaje bez obliczeń są pomijane.</string>
+    <string name="export_fuel_entries_omitted">Tankowania pominięte w krótkim eksporcie: %1$d. Są dostępne w pełnym eksporcie.</string>
+</resources>

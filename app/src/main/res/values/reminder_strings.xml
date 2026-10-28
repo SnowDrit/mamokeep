@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminders_title">Reminders</string>
+    <string name="reminders_intro">The default schedule for all cars, parts, servicing and documents. You can choose a different schedule for an individual item.</string>
+    <string name="reminders_enabled">Send reminders</string>
+    <string name="reminders_disabled_hint">Reminders are off for this schedule. Your service intervals and history stay available.</string>
+    <string name="reminders_time">Notification time</string>
+    <string name="reminders_time_select">Choose a time</string>
+    <string name="reminders_time_dialog">Notification time (24-hour)</string>
+    <string name="reminders_hours">Hours</string>
+    <string name="reminders_minutes">Minutes</string>
+    <string name="reminders_time_hint">Local time on your phone. Android may deliver a reminder later to save battery.</string>
+    <string name="reminders_weekdays">Days of the week</string>
+    <string name="reminders_every_day">Every day</string>
+    <string name="reminders_six_days">6 days</string>
+    <string name="reminders_workdays">Weekdays</string>
+    <string name="reminders_weekdays_hint">Choose any days. “6 days” selects Monday to Saturday; you can change the selection.</string>
+    <string name="reminders_weekdays_error">Select at least one day.</string>
+    <string name="reminders_basic_hint">By default, reminders start at the yellow level and repeat on the selected days until you record the work as done.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">%1$d day a week</item>
+        <item quantity="other">%1$d days a week</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>Mon</item><item>Tue</item><item>Wed</item><item>Thu</item><item>Fri</item><item>Sat</item><item>Sun</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>Monday</item><item>Tuesday</item><item>Wednesday</item><item>Thursday</item><item>Friday</item><item>Saturday</item><item>Sunday</item>
+    </string-array>
+    <string name="reminders_advanced_show">Advanced settings</string>
+    <string name="reminders_advanced_hide">Hide advanced settings</string>
+    <string name="reminders_advanced_enabled">Use custom thresholds and repeats</string>
+    <string name="reminders_advanced_hint">The yellow level comes from the item’s “Set the yellow level” settings; red means it is due. These settings change when reminders start, not the colours on the service card.</string>
+    <string name="reminders_advance_hint">0 means at the level itself. With both distance and days set, the earlier one triggers a reminder. Distance uses estimated mileage; new odometer readings refine the estimate.</string>
+    <string name="reminders_yellow">Yellow level · due soon</string>
+    <string name="reminders_red">Red level · time to service</string>
+    <string name="reminders_advance_distance">Notify before this level, %1$s</string>
+    <string name="reminders_advance_days">Notify before this level, days</string>
+    <string name="reminders_repeat_days">Repeat no more often than every … days</string>
+    <string name="reminders_max_occurrences">Maximum reminders at each stage</string>
+    <string name="reminders_repeat_hint">Repeats arrive only on the selected weekdays, at most once a day per item. Reaching yellow or red starts a new stage with a fresh count.</string>
+    <string name="reminders_limit_hint">0 means no limit. The count starts over when you record the service as done.</string>
+    <string name="reminders_number_error">Enter a whole number from %1$s to %2$s.</string>
+    <string name="reminders_save_error">Could not save the reminders. Please try again.</string>
+    <string name="reminders_permission_hint">Android has blocked notifications. The schedule can be saved, but reminders will only arrive after notifications are allowed.</string>
+    <string name="reminders_permission_settings">Open notification settings</string>
+</resources>

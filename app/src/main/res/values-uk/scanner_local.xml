@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Джерело: файли застосунку</string>
+    <string name="scanner_local_not_installed">Щоб розпізнавати фото на пристрої, увімкніть пакет із застосунку.</string>
+    <string name="scanner_local_install">Увімкнути пакет</string>
+    <string name="scanner_local_install_title">Увімкнути пакет для сканера?</string>
+    <string name="scanner_local_install_message">Файли вже входять до застосунку. Завантаження не потрібне. Фотографії залишаться на пристрої.</string>
+    <string name="scanner_local_queued">Очікуємо на підготовку пакета. Можна закрити цей екран.</string>
+    <string name="scanner_local_verifying">Готуємо та перевіряємо файли…</string>
+    <string name="scanner_local_cancelling">Скасовуємо підготовку…</string>
+    <string name="scanner_local_cancel_install">Скасувати підготовку</string>
+    <string name="scanner_local_error_source">Пакет недоступний у цій версії застосунку. Виберіть іншу версію.</string>
+    <string name="scanner_local_error_integrity">Файли не пройшли перевірку. Видаліть пакети з картки сканера, а потім увімкніть пакет знову.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">来源：应用内文件</string>
+    <string name="scanner_local_not_installed">如需在设备上识别照片中的文字，请启用应用内的资源包。</string>
+    <string name="scanner_local_install">启用资源包</string>
+    <string name="scanner_local_install_title">启用扫描资源包？</string>
+    <string name="scanner_local_install_message">文件已包含在应用中，无需下载。照片会保留在设备上。</string>
+    <string name="scanner_local_queued">正在等待准备资源包，可以关闭此页面。</string>
+    <string name="scanner_local_verifying">正在准备并校验文件…</string>
+    <string name="scanner_local_cancelling">正在取消准备…</string>
+    <string name="scanner_local_cancel_install">取消准备</string>
+    <string name="scanner_local_error_source">此应用版本中无法使用该资源包。请选择其他版本。</string>
+    <string name="scanner_local_error_integrity">文件未通过校验。请在扫描卡片中删除资源包，然后重新启用。</string>
+</resources>

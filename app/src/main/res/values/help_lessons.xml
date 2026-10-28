@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">On-screen lessons</string>
+    <string name="help_lessons_hint">Choose a topic. Lessons show the controls without saving changes or sending anything.</string>
+    <string name="help_lesson_start">Step-by-step guide</string>
+    <string name="help_lesson_close">End guide</string>
+    <string name="help_lesson_reminders_title">Flexible reminders</string>
+    <string name="help_lesson_export_title">AI export</string>
+    <string name="help_lesson_regional_title">Language, country and currency</string>
+    <string name="help_lesson_steps">%1$d steps</string>
+    <string name="help_lesson_reminder_time_title">A convenient time</string>
+    <string name="help_lesson_reminder_time_summary">Choose the local time for reminders here. Android may deliver them later. This guide leaves the schedule unchanged.</string>
+    <string name="help_lesson_reminder_days_title">Only on chosen days</string>
+    <string name="help_lesson_reminder_days_summary">Choose a preset or individual weekdays. This schedule also applies to repeats. At least one day is required.</string>
+    <string name="help_lesson_reminder_advanced_title">Advanced rules</string>
+    <string name="help_lesson_reminder_advanced_summary">This section is open for the guide. Its switch is unchanged: thresholds and repeats take effect only after enabling and saving.</string>
+    <string name="help_lesson_reminder_thresholds_title">Warn in advance</string>
+    <string name="help_lesson_reminder_thresholds_summary">Set the distance and days before the yellow level here. The red level has the same fields below. Zero means notifying when that level is reached. Card colours stay unchanged.</string>
+    <string name="help_lesson_reminder_repeats_title">Repeats and limits</string>
+    <string name="help_lesson_reminder_repeats_summary">The interval is in days; the notification count limits repeats at one level. Zero means unlimited. The red level has separate settings.</string>
+    <string name="help_lesson_reminder_save_title">Apply when ready</string>
+    <string name="help_lesson_reminder_save_summary">This guide has saved nothing. After finishing, edit the fields and tap Save. A service item or document can have its own schedule in its editor.</string>
+    <string name="help_lesson_export_content_title">Choose what to include</string>
+    <string name="help_lesson_export_content_summary">Use the summary for a general question. Full history adds service and refuelling records. This guide leaves the current selection unchanged.</string>
+    <string name="help_lesson_export_question_title">Add a question</string>
+    <string name="help_lesson_export_question_summary">The question appears at the start of the text alongside the car data. It can be left blank. No typing is required during this guide.</string>
+    <string name="help_lesson_export_privacy_title">Check personal details</string>
+    <string name="help_lesson_export_privacy_summary">This switch hides the VIN and car name. Free-text notes may still contain personal details, so review the text before sharing.</string>
+    <string name="help_lesson_export_build_title">Open the preview</string>
+    <string name="help_lesson_export_build_summary">Next prepares the text on this device using the current options. Car records stay unchanged and nothing is sent.</string>
+    <string name="help_lesson_export_review_title">Review before sharing</string>
+    <string name="help_lesson_export_review_summary">This is the exact text that will be copied or saved. After the guide, scroll through and check it. The back arrow returns to the options and question.</string>
+    <string name="help_lesson_export_send_title">Share when ready</string>
+    <string name="help_lesson_export_send_summary">After the guide, copy the text, share it with another app or save a file. Large exports use a file. This guide never presses these buttons.</string>
+    <string name="help_lesson_regional_language_title">Language is independent</string>
+    <string name="help_lesson_regional_language_summary">On Android 13 and later, choose the app language here. Earlier versions use the phone language. This does not change the country, units or currency.</string>
+    <string name="help_lesson_regional_country_title">Country for documents</string>
+    <string name="help_lesson_regional_country_summary">The country determines available documents and the automatic currency. Existing records stay intact. Documents are added only with the separate button.</string>
+    <string name="help_lesson_regional_units_title">Preferred units</string>
+    <string name="help_lesson_regional_units_summary">Units affect distance, fuel and consumption display and input. Saved mileage and service intervals are not reset. The choice is independent of the country.</string>
+    <string name="help_lesson_regional_currency_title">Check the currency mode</string>
+    <string name="help_lesson_regional_currency_summary">This row shows the currency and how it is chosen. Next opens the list to show automatic and manual selection without changing the setting.</string>
+    <string name="help_lesson_currency_auto_title">Automatically by country</string>
+    <string name="help_lesson_currency_auto_summary">This option uses the selected country’s currency and follows country changes. Choose a country first if none is set. The guide does not select this option.</string>
+    <string name="help_lesson_currency_manual_title">Choose a currency manually</string>
+    <string name="help_lesson_currency_manual_summary">Search by currency code or name. A manual choice stays when the country changes. Existing amounts are not converted using exchange rates. After the guide, tap a row to apply a choice.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="settings_search">Szukaj</string>
+    <string name="settings_search_empty">Brak wyników. Warto spróbować innej nazwy lub kodu.</string>
+    <string name="settings_language_system_hint">W tej wersji Androida aplikacja korzysta z języka telefonu.</string>
+    <string name="settings_country_unset">Wybierz kraj</string>
+    <string name="settings_country_hint">Kraj określa automatyczną walutę i dostępne szablony dokumentów. Język i jednostki wybiera się osobno.</string>
+    <string name="settings_country_no_documents">Nie ma jeszcze szablonów dokumentów dla tego kraju. Dokumenty można dodać ręcznie na ekranie samochodu.</string>
+    <string name="settings_currency">Waluta</string>
+    <string name="settings_currency_auto">Automatyczna · %1$s</string>
+    <string name="settings_currency_manual">Wybrana ręcznie · %1$s</string>
+    <string name="settings_currency_by_country">Użyj waluty kraju</string>
+    <string name="settings_currency_choose_country">Należy wybrać kraj, aby ustawić walutę automatycznie.</string>
+    <string name="settings_currency_hint">Dotyczy wszystkich samochodów. Zmiana waluty zmienia tylko oznaczenie: zapisane kwoty nie są przeliczane.</string>
+    <string name="settings_currency_code_symbol">%1$s · %2$s</string>
+    <string name="settings_units_independent">Zmiana kraju lub języka zachowuje te jednostki. Zapisane dystanse i ilości paliwa pozostają bez zmian.</string>
+</resources>

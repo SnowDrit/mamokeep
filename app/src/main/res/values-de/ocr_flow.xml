@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Beleg scannen</string>
+    <string name="ocr_title">Belegscanner</string>
+    <string name="ocr_choose_photo">Foto auswählen</string>
+    <string name="ocr_take_photo">Foto aufnehmen</string>
+    <string name="ocr_photo">Originalfoto des Belegs</string>
+    <string name="ocr_intro">Der Text wird auf diesem Gerät erkannt. Prüfe das Ergebnis vor dem Speichern: Ein Foto fügt niemals automatisch Einträge hinzu oder ändert sie.</string>
+    <string name="ocr_running">Foto wird auf diesem Gerät gelesen…</string>
+    <string name="ocr_source">Originaldokument und Text</string>
+    <string name="ocr_source_text">Belegtext / Notiz</string>
+    <string name="ocr_review_text">Korrigiere Erkennungsfehler und wähle, was du erfassen möchtest. Auf dem nächsten Bildschirm kannst du alle Felder prüfen.</string>
+    <string name="ocr_fuel_action">Tankvorgang prüfen</string>
+    <string name="ocr_work_action">Erledigte Wartung prüfen</string>
+    <string name="ocr_fuel_review">Prüfe Werte und Einheiten in allen Feldern. Währung: %1$s; Entfernung: %2$s. Gib die Kraftstoffkosten selbst ein: Die Belegsumme kann weitere Einkäufe enthalten.</string>
+    <string name="ocr_confirm_date">Das angezeigte Datum ist richtig</string>
+    <string name="ocr_confirm_fields">Ich habe alle Felder, die Währung und die Einheiten geprüft</string>
+    <string name="ocr_choose_fuel_type">Wähle die Kraftstoffart; sie wurde nicht eindeutig erkannt.</string>
+    <string name="ocr_yes">Ja</string>
+    <string name="ocr_no">Nein</string>
+    <string name="ocr_work_explanation">Es wird ein Eintrag für eine erledigte Wartung mit einer Notiz gespeichert. Der Kauf von Teilen bedeutet nicht, dass die Arbeit erledigt wurde. Belegpositionen und Preise bleiben nur in der Notiz, nicht als separate Einträge.</string>
+    <string name="ocr_confirm_work">Ich bestätige, dass die ausgewählte Arbeit erledigt wurde</string>
+    <string name="ocr_no_work_items">Es sind noch keine Wartungsposten vorhanden. Füge auf dem Fahrzeugbildschirm einen hinzu und scanne erneut.</string>
+    <string name="ocr_empty">Kein Text gefunden. Wähle eine andere Datei oder gib den Text selbst ein.</string>
+    <string name="ocr_image_failed">Das Foto konnte nicht gelesen werden. Wähle ein zugängliches Bild mit kleinerer Dateigröße oder geringerer Auflösung.</string>
+    <string name="ocr_camera_failed">Die Kamera konnte nicht geöffnet werden. Wähle stattdessen ein vorhandenes Foto.</string>
+    <string name="ocr_model_failed">Das Scannerpaket ist nicht verfügbar oder inkompatibel. Kehre zu den Scannereinstellungen zurück und prüfe das installierte Paket.</string>
+    <string name="ocr_recognition_failed">Die Erkennung ist fehlgeschlagen. Versuche es erneut oder wähle ein anderes Foto.</string>
+    <string name="ocr_interrupted">Der Scanvorgang wurde unterbrochen. Prüfe das Journal, falls du gerade einen Eintrag gespeichert hast, und wähle die Datei erneut.</string>
+    <string name="ocr_save_failed">Die Änderungen konnten nicht gespeichert werden. Dein Entwurf bleibt auf dem Bildschirm. Versuche es erneut.</string>
+    <string name="ocr_save_interrupted">Das Speichern wurde unterbrochen. Prüfe vor einem erneuten Versuch das Journal: Der Eintrag wurde möglicherweise bereits gespeichert.</string>
+    <string name="ocr_rotate">Foto drehen</string>
+</resources>

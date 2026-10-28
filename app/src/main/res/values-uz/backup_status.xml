@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Zaxira nusxasi holati tekshirilmoqda…</string>
+    <string name="backup_status_waiting">Rejalashtirilgan zaxira nusxasi hali yaratilmagan. Ishga tushirish kutilmoqda.</string>
+    <string name="backup_status_failed">Oxirgi zaxira nusxasini yaratib bo‘lmadi. Jildga kirish huquqini tekshiring yoki uni qayta tanlang.</string>
+    <string name="backup_status_last_success">Oxirgi muvaffaqiyatli nusxa: %1$s</string>
+</resources>

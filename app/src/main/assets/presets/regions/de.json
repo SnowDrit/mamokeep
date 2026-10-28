@@ -1,0 +1,55 @@
+{
+  "code": "de",
+  "lang": "de",
+  "name": "Deutschland",
+  "documents": [
+    {
+      "key": "de_haftpflicht",
+      "titles": {
+        "de": "Kfz-Haftpflichtversicherung",
+        "ru": "ОСАГО (Германия)",
+        "en": "Third-party liability insurance"
+      },
+      "months": 12,
+      "warnDays": 30,
+      "notes": {
+        "de": "Pflichtversicherung.",
+        "ru": "Обязательное страхование.",
+        "en": "Compulsory insurance."
+      },
+      "icon": "shield_car"
+    },
+    {
+      "key": "de_vollkasko",
+      "titles": {
+        "de": "Vollkasko",
+        "ru": "Полное КАСКО (Vollkasko)",
+        "en": "Comprehensive insurance (Vollkasko)"
+      },
+      "months": 12,
+      "warnDays": 30,
+      "notes": {
+        "de": "Freiwillig. Teilkasko analog.",
+        "ru": "Добровольное. Частичное КАСКО (Teilkasko) — так же.",
+        "en": "Optional. Partial cover (Teilkasko) works the same way."
+      },
+      "icon": "shield_car"
+    },
+    {
+      "key": "de_hauptuntersuchung",
+      "titles": {
+        "de": "Hauptuntersuchung (TÜV)",
+        "ru": "Техосмотр (TÜV)",
+        "en": "Roadworthiness test (TÜV)"
+      },
+      "months": 24,
+      "warnDays": 30,
+      "notes": {
+        "de": "Alle zwei Jahre; bei Neuwagen erstmals nach drei Jahren.",
+        "ru": "Раз в два года; для новых машин первый раз через три года.",
+        "en": "Every two years; a brand-new car is first tested after three."
+      },
+      "icon": "clipboard_check_outline"
+    }
+  ]
+}

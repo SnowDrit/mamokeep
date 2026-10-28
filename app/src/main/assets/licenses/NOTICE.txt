@@ -1,0 +1,90 @@
+MamoKeep
+SnowDrit and contributors
+Original program code: GNU General Public License, version 3.0 (LICENSE.txt).
+Original content and translations: Creative Commons Attribution-ShareAlike 4.0
+International (CC-BY-SA-4.0.txt).
+Content scope: assets/presets/regions/*.json, assets/regional/countries.json,
+assets/help/topics.json, assets/help/lessons.json, and human-readable string,
+plurals and string-array resources. Technical configuration and third-party
+model packages retain their own terms. No exclusive rights are claimed over
+individual facts or country/currency codes. User records and photos are excluded.
+https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
+
+Vehicle illustrations
+Generated with an AI assistant for MamoKeep; provenance confirmed by the project
+owner on 2026-10-26. Project-held rights in the artwork and its adaptations are
+granted under Apache License 2.0, to the extent such rights exist.
+Prepared as transparent PNGs from editable source artwork; line colors are
+applied by MamoKeep. Exact generator model and prompts were not retained.
+
+Material Design Icons
+Pictogrammers and contributors. Apache License 2.0 (Apache-2.0.txt).
+https://pictogrammers.com/docs/general/license/
+Vector paths converted to Android vector drawables; theme colors are applied by MamoKeep.
+The launcher uses the car-wrench glyph with project-specific background/colors.
+The original geometric ic_help_outline glyph is project code under GPLv3,
+not an MDI asset. MDI brand/logo-category icons are not used.
+
+AndroidX / Jetpack
+The Android Open Source Project. Apache License 2.0 (Apache-2.0.txt).
+Includes Activity, Annotation, Arch Core, Autofill, Collection, Compose,
+Concurrent Futures, Core, CustomView, DataStore, DocumentFile, Emoji2, ExifInterface,
+Graphics Path, Interpolator, Lifecycle, NavigationEvent, ProfileInstaller,
+Room, SavedState, SQLite, Startup, Tracing, VersionedParcelable, Window
+and WorkManager. Graphics Path and DataStore include native libraries.
+https://android.googlesource.com/platform/frameworks/support/
+
+Kotlin standard library, kotlinx.coroutines, kotlinx.serialization
+JetBrains s.r.o. and contributors. Apache License 2.0 (Apache-2.0.txt).
+https://github.com/JetBrains/kotlin
+https://github.com/Kotlin/kotlinx.coroutines
+https://github.com/Kotlin/kotlinx.serialization
+
+JetBrains Java Annotations
+JetBrains s.r.o. Apache License 2.0 (Apache-2.0.txt).
+https://github.com/JetBrains/java-annotations
+
+Okio
+Copyright 2013 Square, Inc. Apache License 2.0 (Apache-2.0.txt).
+https://github.com/square/okio
+
+Guava ListenableFuture
+Google Inc. and contributors. Apache License 2.0 (Apache-2.0.txt).
+https://github.com/google/guava
+
+JSpecify
+The JSpecify Authors. Apache License 2.0 (Apache-2.0.txt).
+https://github.com/jspecify/jspecify
+
+Protocol Buffers
+Copyright 2008 Google Inc. All rights reserved.
+Redistributed through androidx.datastore:datastore-preferences-external-protobuf.
+BSD license and disclaimer: BSD-3-Clause-Protobuf.txt.
+https://github.com/protocolbuffers/protobuf
+
+Optional OCR model packages
+PP-OCRv5 mobile detection and East Slavic recognition models:
+PaddlePaddle / PaddleOCR, Apache License 2.0.
+Model cards, license, notices, source revisions and checksums accompany that package.
+The original v1 package is downloaded separately after confirmation.
+A fine-tuned V5 package is included in this APK and requires explicit activation.
+It is also distributed as ocr-v5; v1 is retained for comparison and rollback.
+The V5 recognizer is modified by MamoKeep. Its NOTICE, AUDIT and PROVENANCE record
+historical preparation stages and are preserved byte-for-byte. Statements there
+about a private/unpublished candidate describe that stage, before the 2026-10-25
+publication. OCR remains early access; limited comparative testing is not
+independent quality acceptance for arbitrary new receipts.
+https://github.com/SnowDrit/MamoKeep-OCR-/releases/tag/ocr-v5
+https://github.com/SnowDrit/MamoKeep-OCR-/releases/tag/ocr-v1
+
+Offline OCR runtime
+ONNX Runtime 1.31.0, Microsoft Corporation, MIT (ONNXRuntime-MIT.txt).
+Native dependency notices: ONNXRuntime-ThirdPartyNotices.txt.
+OpenCV 4.14.0, Apache-2.0; notices: OpenCV-NOTICE.txt and OpenCV-ThirdPartyNotices.txt.
+OCR preprocessing/postprocessing adapted from PaddleOCR / RapidOCR 3.9.2,
+Apache-2.0. Copyright and adaptation details: OpenCV-NOTICE.txt.
+
+All third-party components retain their respective licenses.
+Copyright licenses do not grant trademark rights or endorsement by MamoKeep.
+Modified versions must not be misrepresented as official releases. This does
+not revoke permissions for the car-wrench glyph or other licensed components.

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_empty">车库中还没有车辆。添加车辆以管理它的记录。</string>
+</resources>

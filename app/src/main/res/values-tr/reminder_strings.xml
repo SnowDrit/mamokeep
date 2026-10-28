@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminders_title">Hatırlatmalar</string>
+    <string name="reminders_intro">Tüm araçlar, parçalar, bakımlar ve belgeler için varsayılan program. Her kalem için ayrı bir program seçilebilir.</string>
+    <string name="reminders_enabled">Hatırlatma gönder</string>
+    <string name="reminders_disabled_hint">Bu program için hatırlatmalar kapalı. Bakım aralıkları ve geçmiş kullanılabilir durumda kalır.</string>
+    <string name="reminders_time">Bildirim saati</string>
+    <string name="reminders_time_select">Saat seç</string>
+    <string name="reminders_time_dialog">Bildirim saati (24 saat)</string>
+    <string name="reminders_hours">Saat</string>
+    <string name="reminders_minutes">Dakika</string>
+    <string name="reminders_time_hint">Telefonun yerel saati kullanılır. Android, pil tasarrufu için hatırlatmayı daha geç iletebilir.</string>
+    <string name="reminders_weekdays">Haftanın günleri</string>
+    <string name="reminders_every_day">Her gün</string>
+    <string name="reminders_six_days">6 gün</string>
+    <string name="reminders_workdays">Hafta içi</string>
+    <string name="reminders_weekdays_hint">İstenen günler seçilebilir. “6 gün”, pazartesiden cumartesiye kadar seçer; seçim değiştirilebilir.</string>
+    <string name="reminders_weekdays_error">En az bir gün seçin.</string>
+    <string name="reminders_basic_hint">Varsayılan olarak hatırlatmalar sarı seviyede başlar ve işlem yapıldı olarak kaydedilene kadar seçilen günlerde tekrar eder.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">Haftada %1$d gün</item>
+        <item quantity="other">Haftada %1$d gün</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+        <item>Paz</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+    </string-array>
+    <string name="reminders_advanced_show">Gelişmiş ayarlar</string>
+    <string name="reminders_advanced_hide">Gelişmiş ayarları gizle</string>
+    <string name="reminders_advanced_enabled">Özel eşikler ve tekrarlar kullan</string>
+    <string name="reminders_advanced_hint">Sarı seviye, kalemin “Sarı seviyeyi ayarla” ayarlarından gelir; kırmızı, bakım zamanının geldiğini belirtir. Bu ayarlar bakım kartının rengini değil, hatırlatmaların ne zaman başlayacağını değiştirir.</string>
+    <string name="reminders_advance_hint">0, seviyeye ulaşıldığında demektir. Mesafe ve gün birlikte ayarlanırsa önce gelen hatırlatmayı başlatır. Mesafe tahmini değere dayanır; yeni sayaç kayıtları tahmini iyileştirir.</string>
+    <string name="reminders_yellow">Sarı seviye · yakında bakım</string>
+    <string name="reminders_red">Kırmızı seviye · bakım zamanı</string>
+    <string name="reminders_advance_distance">Bu seviyeden önce bildir, %1$s</string>
+    <string name="reminders_advance_days">Bu seviyeden önce bildir, gün</string>
+    <string name="reminders_repeat_days">En az … gün arayla tekrarla</string>
+    <string name="reminders_max_occurrences">Her aşamadaki en fazla hatırlatma</string>
+    <string name="reminders_repeat_hint">Tekrarlar yalnızca seçilen günlerde, kalem başına günde en fazla bir kez gelir. Sarı veya kırmızıya ulaşmak, sayacın sıfırlandığı yeni bir aşama başlatır.</string>
+    <string name="reminders_limit_hint">0, sınır yok demektir. Bakım yapıldı olarak kaydedildiğinde sayaç sıfırlanır.</string>
+    <string name="reminders_number_error">%1$s ile %2$s arasında bir tam sayı girin.</string>
+    <string name="reminders_save_error">Hatırlatmalar kaydedilemedi. Tekrar deneyin.</string>
+    <string name="reminders_permission_hint">Android bildirimleri engelliyor. Program kaydedilebilir, ancak hatırlatmalar bildirimlere izin verildikten sonra gelir.</string>
+    <string name="reminders_permission_settings">Bildirim ayarlarını aç</string>
+</resources>

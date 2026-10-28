@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_unsaved_title">Save changes?</string>
+    <string name="garage_unsaved_message">The car profile has unsaved changes.</string>
+    <string name="garage_leave_without_saving">Leave without saving</string>
+    <string name="garage_keep_editing">Keep editing</string>
+    <string name="garage_saving">Saving…</string>
+    <string name="garage_save_failed">Could not save the profile. Changes are still here. Try again.</string>
+</resources>

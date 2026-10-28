@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "descriptors": [
+    "scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5.json"
+  ]
+}

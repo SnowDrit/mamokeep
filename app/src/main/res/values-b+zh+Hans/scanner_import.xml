@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">请选择图片、PDF 或 UTF-8 文本文件。</string>
+    <string name="scanner_import_multiple">每次请只分享一张收据。</string>
+    <string name="scanner_import_too_large">文件过大。文件大小上限为 25 MB，文本上限为 100,000 个字符。</string>
+    <string name="scanner_import_busy">请先完成或关闭当前表单，然后重新分享收据。</string>
+    <string name="ocr_import_failed">无法读取文件。请选择可访问、未损坏且无密码的文件。文本文件必须使用 UTF-8 编码。</string>
+    <string name="ocr_import_pdf_pages">此 PDF 超过 10 页。请选择不超过 10 页的文档。</string>
+    <string name="ocr_import_intro">请选择 PDF、图片或文本格式的收据，或在下方粘贴文本。处理在设备上完成。</string>
+    <string name="ocr_early_access_notice">扫描功能处于抢先体验阶段。我们正在改进文字识别。保存前请核对文字和各项内容。</string>
+    <string name="ocr_import_running">正在读取收据…</string>
+    <string name="ocr_choose_file">选择文件</string>
+    <string name="ocr_import_no_car">要保存记录，请先在车库中添加车辆。</string>
+    <string name="ocr_pdf_retry">识别整个 PDF</string>
+    <string name="ocr_pdf_retry_hint">如果提取的文本缺少信息，可将所有页面作为图片进行识别。此操作需要扫描器数据包。</string>
+</resources>

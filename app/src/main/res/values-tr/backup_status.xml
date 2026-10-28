@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_status_loading">Yedekleme durumu kontrol ediliyor…</string>
+    <string name="backup_status_waiting">Henüz zamanlanmış bir yedek oluşturulmadı. Sonraki çalıştırma bekleniyor.</string>
+    <string name="backup_status_failed">Son yedekleme başarısız oldu. Klasöre erişimi kontrol edin veya klasörü yeniden seçin.</string>
+    <string name="backup_status_last_success">Son başarılı yedekleme: %1$s</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Źródło: pliki aplikacji</string>
+    <string name="scanner_local_not_installed">Aby rozpoznawać tekst ze zdjęć na urządzeniu, włącz pakiet dołączony do aplikacji.</string>
+    <string name="scanner_local_install">Włącz pakiet</string>
+    <string name="scanner_local_install_title">Włączyć pakiet skanera?</string>
+    <string name="scanner_local_install_message">Pliki są już dołączone do aplikacji. Pobieranie nie jest potrzebne. Zdjęcia pozostaną na urządzeniu.</string>
+    <string name="scanner_local_queued">Oczekiwanie na przygotowanie pakietu. Możesz zamknąć ten ekran.</string>
+    <string name="scanner_local_verifying">Przygotowywanie i weryfikacja plików…</string>
+    <string name="scanner_local_cancelling">Anulowanie przygotowania…</string>
+    <string name="scanner_local_cancel_install">Anuluj przygotowanie</string>
+    <string name="scanner_local_error_source">Pakiet jest niedostępny w tej wersji aplikacji. Wybierz inną wersję.</string>
+    <string name="scanner_local_error_integrity">Pliki nie przeszły weryfikacji. Usuń pakiety z karty skanera, a następnie ponownie włącz pakiet.</string>
+</resources>

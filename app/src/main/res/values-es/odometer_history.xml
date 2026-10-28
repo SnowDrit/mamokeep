@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Historial del odómetro</string>
+    <string name="odometer_history_explain">Lecturas introducidas fuera de los repostajes. Toca una lectura para editarla o eliminarla.</string>
+    <string name="odometer_history_empty">Aún no hay lecturas separadas.</string>
+    <string name="odometer_history_edit">Editar lectura</string>
+    <string name="odometer_history_delete_confirm">¿Eliminar la lectura de %1$s del %2$s? El kilometraje estimado y los recordatorios de mantenimiento se recalcularán con las lecturas restantes.</string>
+    <string name="odometer_history_write_failed">No se pudo cambiar la lectura. Vuelve a abrir el historial, revisa el registro e inténtalo de nuevo.</string>
+    <string name="odometer_history_saving">Actualizando lecturas…</string>
+</resources>

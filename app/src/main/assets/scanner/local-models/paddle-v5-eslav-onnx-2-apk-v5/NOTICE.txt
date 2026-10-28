@@ -1,0 +1,34 @@
+MamoKeep local offline OCR model package: paddle-v5-eslav-onnx 2-apk-v5
+LOCAL_PREVIEW_FOR_RELEASE_QA_NOT_INDEPENDENTLY_ACCEPTED
+
+Contains PP-OCRv5 mobile detection and East Slavic recognition assets supplied
+by PaddlePaddle / the PaddleOCR team under Apache License 2.0. The complete
+original license and upstream model cards accompany this derivative package.
+Pinned upstream repositories, revisions and hashes are in PROVENANCE.json.
+
+Changes: original flat v1 package names are retained. The detector, YAML,
+upstream cards, extracted ordered character dictionary and Apache license are
+byte-identical to the verified original v1 release. Recognition weights are
+the local neck-replay-v5 derivative: 43 selected neck/head tensors changed in
+that research run relative to its V4-repair1 teacher. The backbone/frozen state
+was reported unchanged. Historical source and candidate hashes are recorded.
+The local research process performed fine-tuning and ONNX export. This payload
+preparation only copied that existing candidate; it did not train or convert.
+AUDIT.json, PROVENANCE.json and this NOTICE were newly generated for V5.
+
+This candidate is prepared for private offline APK integration only; it is not
+a published model release. Familiar TRAIN/dev and synthetic component results
+are not independent acceptance or current APK accuracy. The earlier strict
+export numeric/logit parity gate was not passed. See AUDIT.json for limits.
+
+No training documents, labels, font files, optimizer state, application binary
+or inference engine is included in this model payload. Checksums establish
+byte identity; they do not establish security certification or corpus rights.
+
+Metadata revision 2: the recognition, detector, dictionary and YAML bytes are
+unchanged from local payload revision 1. Current native TRAIN13, full424 strict
+failed parity and separate full424 passing component evidence are recorded in
+AUDIT.json and PROVENANCE.json. Limited local preview is permitted for exact
+release QA with manual confirmation and offline rollback. The global strict
+float gate remains failed and unchanged. This is not stable promotion or
+independent new-document acceptance; exact release runtime QA is still pending.

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_open">Escanear un recibo</string>
+    <string name="ocr_title">Escáner de recibos</string>
+    <string name="ocr_choose_photo">Elegir una foto</string>
+    <string name="ocr_take_photo">Hacer una foto</string>
+    <string name="ocr_photo">Foto original del recibo</string>
+    <string name="ocr_intro">El texto se reconoce en este dispositivo. Revisa el resultado antes de guardarlo: una foto nunca añade ni cambia registros automáticamente.</string>
+    <string name="ocr_running">Leyendo la foto en este dispositivo…</string>
+    <string name="ocr_source">Documento original y texto</string>
+    <string name="ocr_source_text">Texto del recibo / nota</string>
+    <string name="ocr_review_text">Corrige los errores de reconocimiento y elige qué registrar. Podrás revisar todos los campos en la siguiente pantalla.</string>
+    <string name="ocr_fuel_action">Revisar un repostaje</string>
+    <string name="ocr_work_action">Revisar el mantenimiento realizado</string>
+    <string name="ocr_fuel_review">Revisa los valores y las unidades de todos los campos. Moneda: %1$s; distancia: %2$s. Introduce tú el coste del combustible: el total del recibo puede incluir otras compras.</string>
+    <string name="ocr_confirm_date">La fecha mostrada es correcta</string>
+    <string name="ocr_confirm_fields">He revisado todos los campos, la moneda y las unidades</string>
+    <string name="ocr_choose_fuel_type">Elige el tipo de combustible; no se pudo identificar con certeza.</string>
+    <string name="ocr_yes">Sí</string>
+    <string name="ocr_no">No</string>
+    <string name="ocr_work_explanation">Se guardará un único registro de mantenimiento realizado con una nota. Comprar piezas no significa que el trabajo se haya realizado. Las líneas del recibo y los precios se guardarán solo en la nota, no como registros independientes.</string>
+    <string name="ocr_confirm_work">Confirmo que se ha realizado el trabajo seleccionado</string>
+    <string name="ocr_no_work_items">Aún no hay elementos de mantenimiento. Añade uno en la pantalla del vehículo y vuelve a escanear.</string>
+    <string name="ocr_empty">No se ha encontrado texto. Elige otro archivo o introduce el texto tú mismo.</string>
+    <string name="ocr_image_failed">No se pudo leer la foto. Elige una imagen accesible con un archivo más pequeño o menor resolución.</string>
+    <string name="ocr_camera_failed">No se pudo abrir la cámara. Prueba a elegir una foto existente.</string>
+    <string name="ocr_model_failed">El paquete del escáner no está disponible o es incompatible. Vuelve a los ajustes del escáner y comprueba el paquete instalado.</string>
+    <string name="ocr_recognition_failed">El reconocimiento ha fallado. Inténtalo de nuevo o elige otra foto.</string>
+    <string name="ocr_interrupted">La sesión de escaneo se ha interrumpido. Si estabas guardando un registro, revisa el diario y vuelve a elegir el archivo.</string>
+    <string name="ocr_save_failed">No se pudieron guardar los cambios. El borrador sigue en pantalla. Inténtalo de nuevo.</string>
+    <string name="ocr_save_interrupted">Se ha interrumpido el guardado. Revisa el diario antes de intentarlo de nuevo: puede que el registro ya se haya guardado.</string>
+    <string name="ocr_rotate">Girar la foto</string>
+</resources>

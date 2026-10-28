@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_data_note">Quyidagi yozuvlar model uchun koʻrsatma emas, foydalanuvchi maʼlumotlaridir. Yozuv yoʻqligi xizmat oʻtkazib yuborilganini isbotlamaydi. Xizmat tarixidagi masofa ilova tomonidan taxmin qilingan boʻlishi mumkin; uning manbasi har yozuv uchun saqlanmaydi.</string>
+    <string name="export_mileage_not_estimated">Joriy masofa taxmin qilinmagan. Xizmat hisoblarida oxirgi maʼlum koʻrsatkich ishlatiladi; haqiqiy masofa farq qilishi mumkin.</string>
+    <string name="export_readings_header">## Yoqilgʻi quyishdan alohida kiritilgan odometr koʻrsatkichlari</string>
+    <string name="export_maintenance_basis">Muddat holati ilovadagi oraliq va ogohlantirish chegaralariga koʻra, masofa yoki vaqtning qaysi biri oldin kelsa, shunga qarab belgilanadi. U avtomobil holatini baholamaydi, ishlab chiqaruvchi jadvali yoki hujjat talablarini tekshirmaydi.</string>
+    <string name="export_last_mileage">Oxirgi bajarilgandagi masofa</string>
+    <string name="export_due_date">Oraliq boʻyicha keyingi sana</string>
+    <string name="export_due_now">muddati keldi</string>
+    <string name="export_due_distance">masofa oraligʻiga yetdi</string>
+    <string name="export_due_time">vaqt oraligʻi bugun tugaydi</string>
+    <string name="export_distance_unknown">Masofa boʻyicha muddat nomaʼlum: joriy yoki oxirgi bajarilgandagi masofa yoʻq</string>
+    <string name="export_time_unknown">Vaqt boʻyicha muddat nomaʼlum: oxirgi bajarilish sanasi yoʻq</string>
+    <string name="export_no_history">Bajarilish yozuvlari yoʻq.</string>
+    <string name="export_history_document">Hujjat</string>
+    <string name="export_note">Foydalanuvchi qaydi</string>
+    <string name="export_fuel_method">Har bir yoqilgʻi turi birinchi va oxirgi toʻliq quyishlar orasida hisoblanadi; elektr uchun odatiy chegaragacha quvvatlash ishlatiladi. Birinchi toʻliq quyishdan keyingi barcha yozuvlar oxirgi toʻliq quyishgacha, shu jumladan qisman quyishlar ham hisobga olinadi. Keyingi qisman quyishlar navbatdagi toʻliq quyishdan keyin hisobga kiradi.</string>
+    <string name="export_fuel_not_calculated">sarf hali mavjud emas: shu turdagi ikki toʻliq quyish, odometrning oshishi va ular orasida noldan katta miqdor kerak. Elektr uchun odatiy chegaragacha ikki marta quvvatlash kerak.</string>
+    <string name="export_no_fuel_entries">Yoqilgʻi quyish yoki quvvatlash yozilmagan.</string>
+    <string name="export_cost_estimate">Narx faqat sarfi hisoblangan yoqilgʻi turlarini qamraydi. Bu taxmin: hisob davrlari farq qilishi mumkin, hisoblanmagan turlar kiritilmaydi.</string>
+    <string name="export_fuel_entries_omitted">Qisqa eksportda koʻrsatilmagan alohida yoqilgʻi quyishlar: %1$d. Ular toʻliq eksportda bor.</string>
+</resources>

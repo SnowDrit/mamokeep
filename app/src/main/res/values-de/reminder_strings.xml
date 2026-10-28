@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminders_title">Erinnerungen</string>
+    <string name="reminders_intro">Der Standardzeitplan für alle Autos, Teile, Wartungen und Dokumente. Einzelne Punkte können einen eigenen Zeitplan erhalten.</string>
+    <string name="reminders_enabled">Erinnerungen senden</string>
+    <string name="reminders_disabled_hint">Erinnerungen sind für diesen Zeitplan ausgeschaltet. Wartungsintervalle und Verlauf bleiben verfügbar.</string>
+    <string name="reminders_time">Benachrichtigungszeit</string>
+    <string name="reminders_time_select">Uhrzeit wählen</string>
+    <string name="reminders_time_dialog">Benachrichtigungszeit (24 Stunden)</string>
+    <string name="reminders_hours">Stunden</string>
+    <string name="reminders_minutes">Minuten</string>
+    <string name="reminders_time_hint">Ortszeit des Telefons. Android kann Erinnerungen später zustellen, um den Akku zu schonen.</string>
+    <string name="reminders_weekdays">Wochentage</string>
+    <string name="reminders_every_day">Jeden Tag</string>
+    <string name="reminders_six_days">6 Tage</string>
+    <string name="reminders_workdays">Montag bis Freitag</string>
+    <string name="reminders_weekdays_hint">Beliebige Tage wählen. „6 Tage“ wählt Montag bis Samstag; die Auswahl lässt sich ändern.</string>
+    <string name="reminders_weekdays_error">Mindestens einen Tag wählen.</string>
+    <string name="reminders_basic_hint">Standardmäßig beginnen Erinnerungen bei der gelben Stufe und wiederholen sich an den gewählten Tagen, bis die Arbeit als erledigt erfasst wird.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">%1$d Tag pro Woche</item>
+        <item quantity="other">%1$d Tage pro Woche</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>Mo</item>
+        <item>Di</item>
+        <item>Mi</item>
+        <item>Do</item>
+        <item>Fr</item>
+        <item>Sa</item>
+        <item>So</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+        <item>Sonntag</item>
+    </string-array>
+    <string name="reminders_advanced_show">Erweiterte Einstellungen</string>
+    <string name="reminders_advanced_hide">Erweiterte Einstellungen ausblenden</string>
+    <string name="reminders_advanced_enabled">Eigene Schwellen und Wiederholungen verwenden</string>
+    <string name="reminders_advanced_hint">Die gelbe Stufe stammt aus „Gelbe Stufe einstellen“ am jeweiligen Punkt; Rot bedeutet fällig. Diese Einstellungen ändern den Beginn der Erinnerungen, nicht die Farben der Wartungskarte.</string>
+    <string name="reminders_advance_hint">0 bedeutet direkt beim Erreichen der Stufe. Sind Strecke und Tage eingestellt, löst der frühere Wert die Erinnerung aus. Die Strecke verwendet den geschätzten Kilometerstand; neue Messwerte verbessern die Schätzung.</string>
+    <string name="reminders_yellow">Gelbe Stufe · bald fällig</string>
+    <string name="reminders_red">Rote Stufe · Wartung fällig</string>
+    <string name="reminders_advance_distance">Vor dieser Stufe benachrichtigen, %1$s</string>
+    <string name="reminders_advance_days">Vor dieser Stufe benachrichtigen, Tage</string>
+    <string name="reminders_repeat_days">Höchstens alle … Tage wiederholen</string>
+    <string name="reminders_max_occurrences">Höchstens so viele Erinnerungen je Stufe</string>
+    <string name="reminders_repeat_hint">Wiederholungen kommen nur an den gewählten Wochentagen, höchstens einmal pro Tag und Punkt. Beim Erreichen von Gelb oder Rot beginnt eine neue Stufe mit neuem Zähler.</string>
+    <string name="reminders_limit_hint">0 bedeutet unbegrenzt. Der Zähler beginnt erneut, sobald die Wartung als erledigt erfasst wird.</string>
+    <string name="reminders_number_error">Eine ganze Zahl von %1$s bis %2$s eingeben.</string>
+    <string name="reminders_save_error">Erinnerungen konnten nicht gespeichert werden. Bitte erneut versuchen.</string>
+    <string name="reminders_permission_hint">Android blockiert Benachrichtigungen. Der Zeitplan kann gespeichert werden; Erinnerungen kommen aber erst nach Freigabe der Benachrichtigungen an.</string>
+    <string name="reminders_permission_settings">Benachrichtigungseinstellungen öffnen</string>
+</resources>

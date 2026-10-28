@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_preview">Preview text</string>
+    <string name="export_preview_title">Text for a chat</string>
+    <string name="export_back">Back</string>
+    <string name="export_preparing">Preparing the text…</string>
+    <string name="export_prepare_failed">Couldn’t prepare the text. Please try again.</string>
+    <string name="export_copy_failed">Couldn’t copy the text. Try again or save it as a file.</string>
+    <string name="export_choosing_file">Choosing where to save the file…</string>
+    <string name="export_writing_file">Saving the file…</string>
+    <string name="export_preview_lost">The text was not retained after the app restarted. Preview it again before saving.</string>
+    <string name="export_file_name" translatable="false">mamokeep.md</string>
+    <dimen name="export_dialog_gap">8dp</dimen>
+    <dimen name="export_dialog_min_touch_height">48dp</dimen>
+    <!-- Keep well below Binder/OEM clipboard limits; large snapshots can be saved as files. -->
+    <integer name="export_clipboard_safe_chars">100000</integer>
+</resources>

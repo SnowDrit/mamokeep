@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">Выберыце выяву, PDF або тэкставы файл UTF-8.</string>
+    <string name="scanner_import_multiple">Адпраўляйце па адным чэку за раз.</string>
+    <string name="scanner_import_too_large">Файл занадта вялікі. Максімум 25 МБ і 100 000 сімвалаў тэксту.</string>
+    <string name="scanner_import_busy">Спачатку завяршыце або закрыйце бягучы ўвод, затым адпраўце чэк яшчэ раз.</string>
+    <string name="ocr_import_failed">Не ўдалося прачытаць файл. Выберыце даступны непашкоджаны файл без пароля; тэкставы файл павінен быць у UTF-8.</string>
+    <string name="ocr_import_pdf_pages">У PDF больш за 10 старонак. Выберыце дакумент не даўжэйшы за 10 старонак.</string>
+    <string name="ocr_import_intro">Выберыце PDF, выяву або тэкставы чэк ці ўстаўце тэкст ніжэй. Апрацоўка выконваецца на прыладзе.</string>
+    <string name="ocr_early_access_notice">Сканер у раннім доступе. Мы паляпшаем распазнаванне. Праверце тэкст і палі перад захаваннем.</string>
+    <string name="ocr_import_running">Чытаем чэк…</string>
+    <string name="ocr_choose_file">Выбраць файл</string>
+    <string name="ocr_import_no_car">Каб захаваць запіс, спачатку дадайце аўтамабіль у гараж.</string>
+    <string name="ocr_pdf_retry">Распазнаць увесь PDF</string>
+    <string name="ocr_pdf_retry_hint">Калі ў вынятым тэксце не хапае даных, распазнайце ўсе старонкі як выявы. Для гэтага патрэбны пакет сканера.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="more_reminders_title">リマインダー</string>
+    <string name="more_reminders_summary">時刻、曜日、事前通知</string>
+    <string name="more_data_heading">車両データ</string>
+    <string name="more_export_summary">コピーや保存ができる車両履歴と質問</string>
+    <string name="more_settings_heading">設定</string>
+    <string name="more_project_heading">プロジェクトについて</string>
+    <string name="more_appearance_language">外観と言語</string>
+    <string name="more_weekly_disabled_summary">オフ</string>
+    <string name="more_weekly_enabled_summary">オン · 週 1 回</string>
+    <string name="more_choose_folder">フォルダーを選択</string>
+    <string name="more_change_folder">フォルダーを変更</string>
+    <string name="more_folder_permission_failed">このフォルダーのアクセス権を保存できませんでした。別のフォルダーを選択してください。</string>
+    <string name="more_support_open_failed">リンクを開けませんでした。ブラウザーをインストールまたは有効にしてください。</string>
+    <string name="more_privacy_policy">プライバシーポリシー</string>
+    <string name="more_scanner_summary">端末上で写真を認識します。パッケージは任意です。</string>
+    <string name="more_scanner_failed">パッケージを準備できませんでした。開くと詳細を確認できます。</string>
+    <string name="more_expanded">展開済み</string>
+    <string name="more_collapsed">折りたたみ済み</string>
+</resources>

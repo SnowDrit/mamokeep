@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_import_unsupported">Bir görsel, PDF veya UTF-8 metin dosyası seçin.</string>
+    <string name="scanner_import_multiple">Her seferinde tek bir fiş paylaşın.</string>
+    <string name="scanner_import_too_large">Dosya çok büyük. Sınır 25 MB ve 100.000 metin karakteridir.</string>
+    <string name="scanner_import_busy">Önce mevcut formu tamamlayın veya kapatın, ardından fişi yeniden paylaşın.</string>
+    <string name="ocr_import_failed">Dosya okunamadı. Erişilebilir, bozulmamış ve şifresiz bir dosya seçin. Metin dosyaları UTF-8 biçiminde olmalıdır.</string>
+    <string name="ocr_import_pdf_pages">Bu PDF 10 sayfadan uzun. En fazla 10 sayfalık bir belge seçin.</string>
+    <string name="ocr_import_intro">PDF, görsel veya metin biçiminde bir fiş seçin ya da metni aşağıya yapıştırın. İşlem cihazınızda yapılır.</string>
+    <string name="ocr_early_access_notice">Tarayıcı erken erişim aşamasında. Metin tanımayı geliştiriyoruz. Kaydetmeden önce metni ve alanları kontrol edin.</string>
+    <string name="ocr_import_running">Fiş okunuyor…</string>
+    <string name="ocr_choose_file">Dosya seç</string>
+    <string name="ocr_import_no_car">Kayıt oluşturmak için önce garaja bir araç ekleyin.</string>
+    <string name="ocr_pdf_retry">PDF’nin tamamını tanı</string>
+    <string name="ocr_pdf_retry_hint">Çıkarılan metinde bilgi eksikse tüm sayfaları görsel olarak tanıyın. Bunun için tarayıcı paketi gerekir.</string>
+</resources>

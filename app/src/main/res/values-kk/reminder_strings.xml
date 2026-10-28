@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="reminders_title">Еске салулар</string>
+    <string name="reminders_intro">Барлық көлік, бөлшек, қызмет және құжат үшін әдепкі кесте. Жеке тармаққа басқа кесте таңдауға болады.</string>
+    <string name="reminders_enabled">Еске салуларды жіберу</string>
+    <string name="reminders_disabled_hint">Бұл кесте бойынша еске салулар өшірулі. Қызмет аралықтары мен тарихы қолжетімді болып қалады.</string>
+    <string name="reminders_time">Хабарландыру уақыты</string>
+    <string name="reminders_time_select">Уақытты таңдау</string>
+    <string name="reminders_time_dialog">Хабарландыру уақыты (24 сағат)</string>
+    <string name="reminders_hours">Сағат</string>
+    <string name="reminders_minutes">Минут</string>
+    <string name="reminders_time_hint">Телефондағы жергілікті уақыт. Android қуатты үнемдеу үшін еске салуды кешіктіріп жеткізуі мүмкін.</string>
+    <string name="reminders_weekdays">Апта күндері</string>
+    <string name="reminders_every_day">Күн сайын</string>
+    <string name="reminders_six_days">6 күн</string>
+    <string name="reminders_workdays">Жұмыс күндері</string>
+    <string name="reminders_weekdays_hint">Кез келген күндерді таңдаңыз. «6 күн» дүйсенбі–сенбіні таңдайды; таңдауды өзгертуге болады.</string>
+    <string name="reminders_weekdays_error">Кемінде бір күнді таңдаңыз.</string>
+    <string name="reminders_basic_hint">Әдепкіде еске салулар сары деңгейден басталып, жұмыс орындалды деп жазылғанша таңдалған күндері қайталанады.</string>
+    <plurals name="reminders_days_selected">
+        <item quantity="one">Аптасына %1$d күн</item>
+        <item quantity="other">Аптасына %1$d күн</item>
+    </plurals>
+    <string-array name="reminders_weekdays_short">
+        <item>Дс</item>
+        <item>Сс</item>
+        <item>Ср</item>
+        <item>Бс</item>
+        <item>Жм</item>
+        <item>Сб</item>
+        <item>Жс</item>
+    </string-array>
+    <string-array name="reminders_weekdays_full">
+        <item>Дүйсенбі</item>
+        <item>Сейсенбі</item>
+        <item>Сәрсенбі</item>
+        <item>Бейсенбі</item>
+        <item>Жұма</item>
+        <item>Сенбі</item>
+        <item>Жексенбі</item>
+    </string-array>
+    <string name="reminders_advanced_show">Кеңейтілген баптаулар</string>
+    <string name="reminders_advanced_hide">Кеңейтілген баптауларды жасыру</string>
+    <string name="reminders_advanced_enabled">Жеке шектер мен қайталаулар</string>
+    <string name="reminders_advanced_hint">Сары деңгей тармақтың «Сары деңгейді баптау» баптауында беріледі; қызыл мерзімнің келгенін білдіреді. Бұл баптаулар қызмет карточкасының түстерін емес, еске салудың басталуын өзгертеді.</string>
+    <string name="reminders_advance_hint">0 — деңгейдің өзінде. Қашықтық та, күндер де берілсе, еске салу ертерек жеткенінде іске қосылады. Қашықтық болжанған жүріске негізделеді; жаңа одометр көрсеткіштері болжамды нақтылайды.</string>
+    <string name="reminders_yellow">Сары деңгей · мерзім жақында</string>
+    <string name="reminders_red">Қызыл деңгей · қызмет уақыты</string>
+    <string name="reminders_advance_distance">Деңгейге дейін ескерту, %1$s</string>
+    <string name="reminders_advance_days">Деңгейге дейін ескерту, күн</string>
+    <string name="reminders_repeat_days">… күнде бір реттен жиі қайталамау</string>
+    <string name="reminders_max_occurrences">Әр кезеңдегі еске салулар шегі</string>
+    <string name="reminders_repeat_hint">Қайталаулар тек таңдалған апта күндері, әр тармаққа күніне бір реттен артық емес келеді. Сары не қызыл деңгейге жету жаңа санағы бар жаңа кезеңді бастайды.</string>
+    <string name="reminders_limit_hint">0 — шектеусіз. Қызмет орындалды деп жазылғанда санақ қайта басталады.</string>
+    <string name="reminders_number_error">%1$s пен %2$s аралығындағы бүтін санды енгізіңіз.</string>
+    <string name="reminders_save_error">Еске салуларды сақтау мүмкін болмады. Қайталап көріңіз.</string>
+    <string name="reminders_permission_hint">Android хабарландыруларды бұғаттаған. Кестені сақтауға болады, бірақ еске салулар хабарландыруларға рұқсат берілгеннен кейін ғана келеді.</string>
+    <string name="reminders_permission_settings">Хабарландыру баптауларын ашу</string>
+</resources>

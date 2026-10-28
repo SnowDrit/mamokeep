@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_screen_title">用于 AI 聊天</string>
+    <string name="export_scenario_label">包含内容</string>
+    <string name="export_question_label">问题（可选）</string>
+    <string name="export_question_hint">例如：长途出行前应检查什么？</string>
+    <string name="export_question_supporting">预设问题会保留在文本中，可在此补充问题或行程详情。</string>
+    <string name="export_question_header">## 车主问题</string>
+    <string name="export_privacy_label">分享前</string>
+    <string name="export_setup_hint">为任意 AI 聊天准备问题和车辆数据。文本在本机生成，不会自动发送任何内容。</string>
+    <string name="export_preview_size">%1$s 个字符 · %2$s</string>
+    <string name="export_preview_review">请检查下方文本和备注。复制、分享和保存都将使用这一版本。</string>
+    <string name="export_share">分享</string>
+    <string name="export_share_title">发送到 AI 聊天</string>
+    <string name="export_save_file">保存文件</string>
+    <string name="export_share_failed">无法打开分享菜单，请复制文本或保存为文件。</string>
+    <string name="export_share_too_big">文本过大，无法直接分享。请保存文件后附加到聊天中。</string>
+    <string name="export_large_preview_hint">数据量较大，建议保存为文件后附加到聊天中。</string>
+</resources>

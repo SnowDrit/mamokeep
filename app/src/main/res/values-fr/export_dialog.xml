@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_preview">Aperçu du texte</string>
+    <string name="export_preview_title">Texte pour une discussion</string>
+    <string name="export_back">Retour</string>
+    <string name="export_preparing">Préparation du texte…</string>
+    <string name="export_prepare_failed">Impossible de préparer le texte. Réessayer.</string>
+    <string name="export_copy_failed">Impossible de copier le texte. Réessayer ou l’enregistrer dans un fichier.</string>
+    <string name="export_choosing_file">Choix de l’emplacement du fichier…</string>
+    <string name="export_writing_file">Enregistrement du fichier…</string>
+    <string name="export_preview_lost">Le texte n’a pas été conservé après le redémarrage de l’application. Ouvrir à nouveau l’aperçu avant de l’enregistrer.</string>
+</resources>

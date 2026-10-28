@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_local_source">Manba: ilova fayllari</string>
+    <string name="scanner_local_not_installed">Qurilmada rasmlardagi matnni tanish uchun ilovadagi paketni yoqing.</string>
+    <string name="scanner_local_install">Paketni yoqish</string>
+    <string name="scanner_local_install_title">Skaner uchun paket yoqilsinmi?</string>
+    <string name="scanner_local_install_message">Fayllar allaqachon ilovaga kiritilgan. Yuklab olish shart emas. Rasmlar qurilmada qoladi.</string>
+    <string name="scanner_local_queued">Paket tayyorlanishi kutilmoqda. Bu ekranni yopishingiz mumkin.</string>
+    <string name="scanner_local_verifying">Fayllar tayyorlanmoqda va tekshirilmoqda…</string>
+    <string name="scanner_local_cancelling">Tayyorlash bekor qilinmoqda…</string>
+    <string name="scanner_local_cancel_install">Tayyorlashni bekor qilish</string>
+    <string name="scanner_local_error_source">Paket ilovaning bu versiyasida mavjud emas. Boshqa versiyani tanlang.</string>
+    <string name="scanner_local_error_integrity">Fayllar tekshiruvdan o‘tmadi. Skaner kartasidan paketlarni o‘chirib, paketni qayta yoqing.</string>
+</resources>

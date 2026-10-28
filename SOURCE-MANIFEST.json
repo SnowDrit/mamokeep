@@ -1,0 +1,4505 @@
+{
+  "date": "2026-10-26",
+  "variant": "licenses-and-corresponding-source",
+  "apk": {
+    "path": "app/build/outputs/apk/local/MamoKeep-2026-10-26-licenses-store-signed-universal.apk",
+    "bytes": 317715066,
+    "sha256": "8d7bcdd531848b66e580fb57586e5ea160cc6dfb3b0c10de5cc42b2252737e30"
+  },
+  "source_snapshot_sha256": "a5fe1503560465650aa5042633ee83561f81e8fb831481830ff40bd94b565c62",
+  "scope": "Buildable Android source snapshot; not a bit-for-bit APK or OCR training reproducibility claim.",
+  "licenses": "LICENSE-NOTICE.md and the component-specific LICENSE/NOTICE files define scope.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 457,
+      "sha256": "731e0460837ae13c34fe585a31f51df68220b1e8d22f586ec83d72939601ee13",
+      "executable": false
+    },
+    {
+      "path": "BUILD_FROM_SOURCE.md",
+      "bytes": 7890,
+      "sha256": "f170372346e7343111b9ed53f6b65baf71ba24c1670f80559bccb9484fbcfac8",
+      "executable": false
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "executable": false
+    },
+    {
+      "path": "LICENSE-NOTICE.md",
+      "bytes": 7212,
+      "sha256": "5ad67a2072533583bd4f1a709e734bbb1669984696693025516d0f6c0cadc034",
+      "executable": false
+    },
+    {
+      "path": "README.md",
+      "bytes": 4643,
+      "sha256": "9b3151fd3629253f96b87d03936d30c2f7fe033bfaadc8c8409a1174ead85981",
+      "executable": false
+    },
+    {
+      "path": "SOURCE_ARCHIVE.md",
+      "bytes": 3182,
+      "sha256": "cac1abe2ac55d21308870f3e4277e0931bd18eee4b2f93465b92b9863822c5a2",
+      "executable": false
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "bytes": 7832,
+      "sha256": "a99cc92ebb73735ed6e7b08b4d6f3b4aaf00ea4f1cf920edb6596bde813d5638",
+      "executable": false
+    },
+    {
+      "path": "app/proguard-rules.pro",
+      "bytes": 162,
+      "sha256": "c00361f4f7bb280d59aa194e2c43650d6c6ce71734d335309db22feeab05a4ec",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/1.json",
+      "bytes": 5901,
+      "sha256": "baaa84f88f9e381dfc37a4e502fa26efc9f35f54d3d07f0460ff12fa9fead85c",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/10.json",
+      "bytes": 12123,
+      "sha256": "7557d4675ccb7dca07e4c4672ef3d1cdec9d75c4a4f391f693d8ea54e3240abf",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/2.json",
+      "bytes": 8625,
+      "sha256": "208c4ff803c9f2fdf185fd0588be8ed1ebf509b18f58cda7d1e49dbddf2e7db9",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/3.json",
+      "bytes": 10938,
+      "sha256": "725890a9497d08a8ae03eb43a3d3e1f31a5b018b4a98e9223a0e3d375c7078e0",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/4.json",
+      "bytes": 11112,
+      "sha256": "b38f4ad73bb156968f2650301a71cdbdceb21c23088a41563c892bf4cc95bf76",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/5.json",
+      "bytes": 11257,
+      "sha256": "60db52c8f040e37c26aa6b9398206915d71fecf85b07cfd431f332a9d15a046f",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/6.json",
+      "bytes": 11405,
+      "sha256": "e58d70e8ea012b07ff3ffa4d646939e10a812d3bf6aef3486dabe32974899f38",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/7.json",
+      "bytes": 11580,
+      "sha256": "cdc655b329d0598234cd402807ed3bff941ad82fdd7c9c85de9f99e17a282b51",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/8.json",
+      "bytes": 11974,
+      "sha256": "cf0bdb0990eebca79d82d13fd8ca9a7e9d11987cadfcd7cbbd4c210af4a70289",
+      "executable": false
+    },
+    {
+      "path": "app/schemas/io.github.snowdrit.mamokeep.data.db.MamoKeepDatabase/9.json",
+      "bytes": 12122,
+      "sha256": "034d12cfa6562426c0fb71d73186a336b2a636d2e4165201684f11ab76ac3829",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/LICENSE-2.0.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/NOTICE.txt",
+      "bytes": 813,
+      "sha256": "ea7c5930de0acfb335d0c28076505d23c96a29b43ce2ba9eb064efd2b629d8c0",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/PROVENANCE.json",
+      "bytes": 4914,
+      "sha256": "f90d14d2d1dbe19a84b3600bd9ab1501e0bb72c0bd7ebf893559a166579a7a08",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/det-README.md",
+      "bytes": 1828,
+      "sha256": "951c155673ac6c15feb85857c9024a62266e5956d15319ce578a8f508f399d66",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/det.onnx",
+      "bytes": 4826518,
+      "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/det.yml",
+      "bytes": 903,
+      "sha256": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/rec-README.md",
+      "bytes": 28,
+      "sha256": "98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/rec-characters.txt",
+      "bytes": 1663,
+      "sha256": "3e95f1581557162870cacdba5af91a4c6be2890710d395b0c3c7578e7ee5e6eb",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/rec.onnx",
+      "bytes": 7887627,
+      "sha256": "b3018ef2b09a0250b6e0c8e871c927098363e5fd4df890cc68e8358eb0aaf1bd",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/assets/ocr-v1/rec.yml",
+      "bytes": 4538,
+      "sha256": "025039bac23eb4a308efcefa4d58eab3af440767815c6ba6938468bf6353ee5a",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/EditorStateTest.kt",
+      "bytes": 2924,
+      "sha256": "8f886cb1b5558dd65e13dfa96503fe2be32817e1cb21e914f0967ed7dee2e72b",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/DocumentTextIOTest.kt",
+      "bytes": 6237,
+      "sha256": "56f53d64606bc5bbdc7b645bdd6fdbab75f8036d7e7c20e2fdbca615abc4f76e",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/GarageInitializationTest.kt",
+      "bytes": 6996,
+      "sha256": "2245696b1a18c83f5a2656b5a1aca3dcacfcc6e5ede0b6b0d6c8cf0a8a2b3e59",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/SettingsStoreTest.kt",
+      "bytes": 2544,
+      "sha256": "d472ba190501fdcb052240aba7b6f6530ee111bb4fd6c3d17e0208218b67cebf",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/db/GarageDurabilityTest.kt",
+      "bytes": 4080,
+      "sha256": "41809e88e006e9bf7e34385be4071761dd15763b92531e3d60d8bc2560a51b9e",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/db/MigrationTest.kt",
+      "bytes": 11699,
+      "sha256": "69347d517ccfb697da0351a1b2469804de5629cbc089f26ea863512c433c7585",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/repo/BackupCurrencyRestoreTest.kt",
+      "bytes": 8719,
+      "sha256": "a5cf5b070e2b5e20888df2ecf02aa113cc6761048517dcb9b8cea4a6b801b6a1",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/repo/BackupReminderRestoreTest.kt",
+      "bytes": 6496,
+      "sha256": "d63d0e9bc02a9ae888cae84ba56865099f2dacee3887f2f078be7c4abe6a7ce7",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/repo/ExportSnapshotTest.kt",
+      "bytes": 4644,
+      "sha256": "f001b95aca9b50d7538380c8080afbccd88b36624b2990d5de45504175cc5b83",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/repo/OdometerHistoryTest.kt",
+      "bytes": 6086,
+      "sha256": "864e5d52ea96077daa51fac00c99c5d7a9676b0ecf9349357e48231b944143c8",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/repo/OverviewObservationTest.kt",
+      "bytes": 3337,
+      "sha256": "b7ac9c356c5ae32924725306ab34a09672af04dd48a28c69b727161396a21197",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/repo/RecordMoveTest.kt",
+      "bytes": 9318,
+      "sha256": "94c6cf9920818e991ef1f989be5a1213be355f0eece65aa7a082bca2c78f010a",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/repo/RepositoryAtomicityTest.kt",
+      "bytes": 6913,
+      "sha256": "902083d6936fec51da3e4f64035f4be945457d14becc91ca14241af5e1da4a06",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/repo/ScannedWorkPersistenceTest.kt",
+      "bytes": 2819,
+      "sha256": "43d71c32b8b230e9494a33d7c9321ad4e17feddb3b54ef8aacacef0d6ad7f79e",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/ApkModelAssetsInstrumentedTest.kt",
+      "bytes": 5170,
+      "sha256": "50614065b2902c6a9b64858a762cb477345382a820ba7c631982807486f8b4fd",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/ModelCatalogDeviceTest.kt",
+      "bytes": 6042,
+      "sha256": "7d5e98cc4dcffc6e24d6a2f85ce0359ca4f89f7b9041daa24854ebe3acbf30b4",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/ModelStorageTest.kt",
+      "bytes": 3315,
+      "sha256": "650e82dbeb921740a03f4a2e76a525648c158d8158cbe53150adee6726162e68",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrDetectorEvidenceInstrumentedTest.kt",
+      "bytes": 2731,
+      "sha256": "3c198f48eb3df8e83038a31bde938bbbe45d3d4201edc7b81e7c4e7eae17a45d",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrDevBaselineTest.kt",
+      "bytes": 28036,
+      "sha256": "0550e50f52223bbb6e97f0dd0acef6b7034eae1f61fa3ec14d28a9c798f401e8",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrEngineTest.kt",
+      "bytes": 6641,
+      "sha256": "6b25b2a180831948cb72bc745a50e2473254cdcea2739b85a483bf1d948646a3",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrGridInstrumentedTest.kt",
+      "bytes": 7620,
+      "sha256": "5a8fed2c3086d59ff08a48e4ac842c60ecfa3e1e44c1b8fed9d80176e127f80b",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrManualCropRecognitionTest.kt",
+      "bytes": 21436,
+      "sha256": "6f30be13fac43f1e10e73772f95636d73defc9470776ed0f58c6f71fdb8c968a",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrOriginalDevEngine.kt",
+      "bytes": 17008,
+      "sha256": "d971a0560d08b07c388d7d0d18e1ab8ecf0560fcb8de056b32af70dc3eb7895f",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrRawGridDevCaptureTest.kt",
+      "bytes": 19588,
+      "sha256": "096cf1cc60b723097f1a883031e9641174ff678a351a393e01fe60885890ff9b",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrRawGridSnapshotCaptureTest.kt",
+      "bytes": 16580,
+      "sha256": "69c90d01d5f725934884a378adf149655e73778b62a647c4c40c5e382c325c8b",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/OcrRecognitionBatchContextTest.kt",
+      "bytes": 14724,
+      "sha256": "e1928cfac60dd3de7b36fe6fe0efc363a91dc7888ba1d871199f1e6c165afd6c",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/ScannerDocumentTest.kt",
+      "bytes": 6344,
+      "sha256": "d7ea6172e24a72149d2e2734a2672057c3a41d29327a0d1a67a684285ef57538",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/ScannerImageTest.kt",
+      "bytes": 2271,
+      "sha256": "5419b175a504ac0b47c907e356b51f10425658fd0f956a54407626e87e35724b",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/stage2dev/OcrStage2Rows.kt",
+      "bytes": 13578,
+      "sha256": "27972fd3aab6ae071d0fa0e2bd1abe43f195b7ef94f16dd0293e6adc7bb765f9",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/data/scanner/stage2dev/ReceiptDraft.kt",
+      "bytes": 7950,
+      "sha256": "9b3a91ef563a0c8c892788fac7f0c273b6f6fd35f67ca17062b622bed2da87b1",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/notifications/BackupFileReplacementTest.kt",
+      "bytes": 3057,
+      "sha256": "7777169e84d291c1c409a234a30b2b2a4a900e2906162924a948b8b3ef998fd2",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/notifications/ReminderDeliveryTest.kt",
+      "bytes": 9843,
+      "sha256": "af854b08806433a8591dbb6303fb6ed2b7b2ab4857e6ffb1ebd67821177b63f2",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/ui/BackupDialogViewModelTest.kt",
+      "bytes": 8679,
+      "sha256": "9ea3aa2396ab3298e6604717e7bcd0922704c6adbce11ab6a651c93a6ef7330f",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/ui/EditorOperationViewModelTest.kt",
+      "bytes": 3251,
+      "sha256": "87729286b182fa31158748ff8566d73fd521f3e69ba45eb5c1f057cd63f9ce1c",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/ui/OdometerHistoryViewModelTest.kt",
+      "bytes": 3488,
+      "sha256": "be64630b018ecdcfe108833e19b728ec9f3b573494b741cb4d294dbfd0dabbc6",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/ui/help/LessonRequestLifecycleTest.kt",
+      "bytes": 5113,
+      "sha256": "eedf72578efd2e4ab1a615e14bb18935879e425c1efa6f5efd77aca7984b9def",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/ui/scanner/ExternalScannerInboxTest.kt",
+      "bytes": 3637,
+      "sha256": "4067a7cbf17c1aab1244e20dcc0bdd43cd84f928b321e2d6eaf123bbe0c64642",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/ui/scanner/ExternalScannerIntentTest.kt",
+      "bytes": 4202,
+      "sha256": "34808913d3b4990dbd37ebc56662e907a75b621641325405482f8d316a6831c8",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/ui/scanner/ExternalScannerManifestTest.kt",
+      "bytes": 1819,
+      "sha256": "49da8122315f7377ed1d328e7cf385c0aee8e3ca180851d40e6c35616e26c17d",
+      "executable": false
+    },
+    {
+      "path": "app/src/androidTest/java/io/github/snowdrit/mamokeep/ui/scanner/ScannerImportViewModelTest.kt",
+      "bytes": 5753,
+      "sha256": "d7483003dc9ff37d50d794c63aa1b8b5afa4f525cdc027fbfedc29e9f50cdfb1",
+      "executable": false
+    },
+    {
+      "path": "app/src/debug/AndroidManifest.xml",
+      "bytes": 912,
+      "sha256": "49ba276a7d583327cfd7f9776338fdbbd2e0315b32d698bd24e53c55af17d18a",
+      "executable": false
+    },
+    {
+      "path": "app/src/debug/java/io/github/snowdrit/mamokeep/notifications/DebugCheckReceiver.kt",
+      "bytes": 7128,
+      "sha256": "87cf4dc669ebe40ed9685fdc14a6892ce1cab732a167289b1f7e3577f4196413",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "bytes": 2776,
+      "sha256": "941618f3afd12d720a3b39a6c91bfa442d1613df25bf2d8dcaab347c1fd14948",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/aidl/io/github/snowdrit/mamokeep/data/scanner/PdfReaderRemote.aidl",
+      "bytes": 354,
+      "sha256": "baf10db418a79f782164697a929aeefc10569092524384744bf11c5c02786573",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/help/lessons.json",
+      "bytes": 4029,
+      "sha256": "378f07b2c76ab33563492719777c399d49bd19d94b809a0e2e2d03f0fbe8b541",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/help/topics.json",
+      "bytes": 3642,
+      "sha256": "2d6d5dd996845db2b5d3cef9f4baa77c24856a206af678d29cc997a29c48dd01",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/Apache-2.0.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/BSD-3-Clause-Protobuf.txt",
+      "bytes": 1536,
+      "sha256": "1f9b95bc454a28dd7ffe9aab03396bb718e9376049e964565085abdefc6096be",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/CC-BY-SA-4.0.txt",
+      "bytes": 20138,
+      "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/LICENSE.txt",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/NOTICE.txt",
+      "bytes": 4654,
+      "sha256": "f14bff5ed4bcc021c43fcccd7d9d4f04d3a4b7e0c261c515b3c59e9358400848",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/ONNXRuntime-MIT.txt",
+      "bytes": 1071,
+      "sha256": "0f197a604f76167996228accb7e5536be230682350093fa456b62ec651efba0a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/ONNXRuntime-ThirdPartyNotices.txt",
+      "bytes": 338088,
+      "sha256": "143764b952fdb1a7c69ce653bfba74a7744d6a8a573bfb73e235fba356c83de3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/OpenCV-NOTICE.txt",
+      "bytes": 1697,
+      "sha256": "3f0d403c9624a85309c2dbf5d63bbdc9c5d568ce455b7b8e052ce636fc4c46cb",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/licenses/OpenCV-ThirdPartyNotices.txt",
+      "bytes": 199681,
+      "sha256": "d41855ef819bb22f5b5be252b593aca96aec8d22122975135ea5c70e32f194f9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/presets/regions/de.json",
+      "bytes": 1632,
+      "sha256": "d9b5a6f678481dc107f1f787d2f8a474d11b13cbf4c58d36c1edcbaab66bfec4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/presets/regions/ru.json",
+      "bytes": 1761,
+      "sha256": "feea0a837db7a6dc75047fc3d78e2940d4968ed60cd59ad4571dc8debd471fdb",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/regional/countries.json",
+      "bytes": 4773,
+      "sha256": "d69f6f0f7660da2c223a4eb5a4fd9f011029770c9635d1948f3b9a0ba0325458",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/catalog-policy.json",
+      "bytes": 1225,
+      "sha256": "9f84a7cbd92ea5288e5cd613c8235b48495dbe7748fa549b1a1717e96c81f31b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/catalog-seed.json",
+      "bytes": 4764,
+      "sha256": "80c3897f7e05ded20dfe4f5702e663ea63c9474e8c5a28dabdaea3af81d77825",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/download-policy.json",
+      "bytes": 293,
+      "sha256": "5f3c26747fb2a4ce476a2c2a09ceb3ec711671a957a0dfe2a585f1ef99e5e066",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/index.json",
+      "bytes": 111,
+      "sha256": "34962aaa9983d9e30b7bee2fce929603ed63361db937848da2f303af8dacc1ab",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5.json",
+      "bytes": 5390,
+      "sha256": "c35f5ecfbf5f584d248eefddc6704e747619462f79b9d65c06b2484c4198d95e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/AUDIT.json",
+      "bytes": 39276,
+      "sha256": "dd48bc840b9039ce2fd74f5685ae8214c7af4e17336fa649f890a7f053cf4482",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/LICENSE-2.0.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/NOTICE.txt",
+      "bytes": 2215,
+      "sha256": "bd427102f2bd556a92707475dbcefb62bdeb573e1f13321a26f08b2790845398",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/PROVENANCE.json",
+      "bytes": 36383,
+      "sha256": "248d89531de101ae475e82a170ca2e1dc975909b41ff95322da0a5b597dbfae4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/det-README.md",
+      "bytes": 1828,
+      "sha256": "951c155673ac6c15feb85857c9024a62266e5956d15319ce578a8f508f399d66",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/det.onnx",
+      "bytes": 4826518,
+      "sha256": "a431985659dc921974177a95adcfbb90fd9e51989a5e04d70d0b75f597b6e61d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/det.yml",
+      "bytes": 903,
+      "sha256": "98069072e1b6b37d727fd9d9f11725faa46d6ea0de012f2ed26caea011c37699",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/rec-README.md",
+      "bytes": 28,
+      "sha256": "98b45ea81164d1e1a1dd82255207053b15cd6c69d922a1c5cf3387ce604d4b74",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/rec-characters.txt",
+      "bytes": 1663,
+      "sha256": "3e95f1581557162870cacdba5af91a4c6be2890710d395b0c3c7578e7ee5e6eb",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/rec.onnx",
+      "bytes": 7887627,
+      "sha256": "e12a3ed88873c9c75e7d12209a72ab9d031845450d8dea4e2593609909b6edbe",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/local-models/paddle-v5-eslav-onnx-2-apk-v5/rec.yml",
+      "bytes": 4538,
+      "sha256": "025039bac23eb4a308efcefa4d58eab3af440767815c6ba6938468bf6353ee5a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/assets/scanner/model-package.json",
+      "bytes": 1794,
+      "sha256": "54ed3363c5623098eb17dd9cfe2a3532c8792c7f0fff1872f77e9bed99018d34",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/AppContainer.kt",
+      "bytes": 4814,
+      "sha256": "4e6d48234b9bf9dd4a1e18270fe16770cf940e7fd40fd555a7a43208f60f6053",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/MainActivity.kt",
+      "bytes": 50337,
+      "sha256": "aa739f9f4e94d253f3ca011d3a8c783d6c916edbeeaba7811f580de8133883e8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/MamoKeepApp.kt",
+      "bytes": 2743,
+      "sha256": "f531efdf2c3939cb9916ffc2713f3654dae9b44aa9c17537c80ee1815298bc0c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/BackupStatusStore.kt",
+      "bytes": 2422,
+      "sha256": "a0e4e5f150a9e4a0c0acfde3be255a0a1243e1e465235cc55f5d82781b8f46b6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/DocumentTextIO.kt",
+      "bytes": 862,
+      "sha256": "2fe1ec2f8ae3cae761ad497aa6cf4b632120438df0e9c128fa7e74f603bcf49d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/RegionPresetSource.kt",
+      "bytes": 1126,
+      "sha256": "8829db2aa09e45c736f1ba53c05e824eec5b52a1f8940016317f654e4129fc3d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/ReminderSettingsStore.kt",
+      "bytes": 5813,
+      "sha256": "aab15f033ceefdbf904c8d8135720f8713f24f6d43c8c34eb6b64abca3edf032",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/SettingsStore.kt",
+      "bytes": 7731,
+      "sha256": "4d3b6cb5798102de87c14988e5e5338d6fb22022829dfad68d025dec07312add",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/db/Converters.kt",
+      "bytes": 917,
+      "sha256": "c6c758f2bb36b5d52c4cd0a4034aab6873406759cadd95684da3e8277b82fc2d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/db/Entities.kt",
+      "bytes": 7088,
+      "sha256": "a70d66ff4a2e3c0078c066646548bb2247387858f4ad6344559093097bb85587",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/db/GarageDao.kt",
+      "bytes": 6936,
+      "sha256": "7c47ce9ebaa34a57acbb8ca63f2fe0456a514df97b96d5fda73daec3a69b14b6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/db/MamoKeepDatabase.kt",
+      "bytes": 7502,
+      "sha256": "eaf6ec5e734a2446044a9887e066d72ccb5a43873439d163b95027fe1ea3b747",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/repo/GarageRepository.kt",
+      "bytes": 43143,
+      "sha256": "13c6cee15b0507eca3f9b8c22c7c704932b8376cf7eba7b01ab7d8c2d381c623",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/repo/Seed.kt",
+      "bytes": 4391,
+      "sha256": "85fb9d24231cf7468d9186d845899504f9cd2e8fd220b3347e3307493bcf9f9b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ApkModelRegistry.kt",
+      "bytes": 3833,
+      "sha256": "1a68855bd2cda367b88a9ba1efbf357fe34ae8b399b0614b2b86ec658815bcdf",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/HttpsModelTransport.kt",
+      "bytes": 3269,
+      "sha256": "45c441fd57f3fb6987a47e056d3ec87d6e81895659bbfb48d9a4a17a40c115ca",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ModelCatalog.kt",
+      "bytes": 7896,
+      "sha256": "084ab7df3aaadb7ca12ae25e9d9c1d12b72e7e43b5d5d1e76aa7ade73646b3a8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ModelCatalogRepository.kt",
+      "bytes": 9303,
+      "sha256": "12e0db0ffe901ce23a2c06ab104d1c19de94abe1bd5f98b2d389ae8dddb75020",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ModelInstaller.kt",
+      "bytes": 8454,
+      "sha256": "33aa5f4f529f8307ad930813f0ef1aee612d72015b1226ac29e95397f1376a8f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ModelPackage.kt",
+      "bytes": 3596,
+      "sha256": "3f10f609730e2505e7fbb9a7ef158bcc4e6c8052c7466cd09d1ca8802b6020d2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/OcrDetectorEvidence.kt",
+      "bytes": 4539,
+      "sha256": "6440d8d9e4e56d1d17b7390ef92275fd1c18c3d3adbde0c28e1c3b7cfb6966e7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/OcrDocument.kt",
+      "bytes": 1181,
+      "sha256": "1373192a7a6cef6751a937cbc4df7f61fc694ca9c272d6b92ef57a2f237f93dc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/OcrEngine.kt",
+      "bytes": 21880,
+      "sha256": "5db96e152024085606aa2f6b26bb4069b9361b05c8d12eef1a52610677bb07eb",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/OcrGrid.kt",
+      "bytes": 18898,
+      "sha256": "cc2fa2b0caf587ea6020b4e41f7c7192eb4386b930dda9d91cfd8b02bb2ad0db",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/OcrText.kt",
+      "bytes": 15521,
+      "sha256": "4e25a5609a4c9b95cf2301525322b965a04299f3367186f7c5b481d7da3134f7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/PdfReaderClient.kt",
+      "bytes": 6258,
+      "sha256": "ecfad610ea46ff31028fe3d1f2058a8827490686924098ea4181cf06fbc71fa1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/PdfReaderService.kt",
+      "bytes": 4947,
+      "sha256": "8e8f44fa9bef281d110c891bb386a6e6b4b803d27fb7598a5dd0c0fa48b87e87",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ScannerDocument.kt",
+      "bytes": 4109,
+      "sha256": "d435b39ef65da3da2bb8cff1273f76e2b6e9ab9eb63903f944a5b73e62127e95",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ScannerFiles.kt",
+      "bytes": 1136,
+      "sha256": "daa9378c0e1433d8b816a23e440fa57d490b72db34a9fa747f16046b8fa54e19",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ScannerImage.kt",
+      "bytes": 2926,
+      "sha256": "e3385efa840f65d3fb953b4a67a4f32784205196f6d48638ca328420f3cca87f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ScannerModelManager.kt",
+      "bytes": 16256,
+      "sha256": "88bf993a71ef6dc66e02d6da1c462dce57d242c253f52dd29c17012f8df60559",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/ScannerModelWorker.kt",
+      "bytes": 1421,
+      "sha256": "99f91c9e4b3398520d1359f9163e6d9a22cfbf37b53d8c69044ef97b207c50f0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/data/scanner/VersionedModelStore.kt",
+      "bytes": 9112,
+      "sha256": "699fb51e2ec104a9274f780778d169cfdbf87c708e47b126c147b6449f807532",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/Car.kt",
+      "bytes": 1161,
+      "sha256": "9fd4a6931d911aa4078bb9f788ecdb77d92f5c0a12b85146dc2bad648e9bafb0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/CarProfileDraft.kt",
+      "bytes": 1650,
+      "sha256": "94a3470f9deda610eda7aae9dea7eb1b3c0fb771e765b312ff07e9b24b17fc74",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/Display.kt",
+      "bytes": 3845,
+      "sha256": "c3dc5427c8ee5ee56246218dfff4bfe673df2630b53718cfa63e8af3109017be",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/Fuel.kt",
+      "bytes": 10409,
+      "sha256": "92a5173def0250083b816dce12097dc08bd4e9ebaa99e4db553ad67bc6c6974d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/ItemTitles.kt",
+      "bytes": 1129,
+      "sha256": "4d9ada8cbebf90592c13acd1be5b5e7fef4b18ccc6e2736165a1a70d4fae8fea",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/Journal.kt",
+      "bytes": 2863,
+      "sha256": "daa9226f25b27e0d2b7ad9e6081f965ccaa52c315d4a7fbcfc48da6ab132ed1f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/Maintenance.kt",
+      "bytes": 6714,
+      "sha256": "9143a683b396f0629ad0c2dd21f1daad0403eeab9ad2bc0bd3f48235aae472da",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/MaintenanceDefaults.kt",
+      "bytes": 4604,
+      "sha256": "69f40dcc3180ac7f73851dd4548489b347575bc2aaf7637eae1dfd04a0b4f161",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/Mileage.kt",
+      "bytes": 9882,
+      "sha256": "1b3c44cc6e7f7862fce3775ea61b01155346ab087f27d97ae4b45ac4ed0c8b0a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/RegionPreset.kt",
+      "bytes": 3946,
+      "sha256": "07b20e66bb428cf326ce0db9f61cc69568c5f0bf35fc9b9f34066f97fbbd9890",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/RegionalPreferences.kt",
+      "bytes": 1093,
+      "sha256": "9be44214f138dd37f25e8338ef76d78bb68a2bfd29d6f8c087e1101941b673ef",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/Reminders.kt",
+      "bytes": 6673,
+      "sha256": "15f971c12a0fcb8c77bf25e4aa4b497f687ab061c6fb1cc18a4402542f2fe989",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/RgbColor.kt",
+      "bytes": 4275,
+      "sha256": "1930bcebe436050bac44f68723f0d723f5e6f664ff8f7d4046f2049becb04291",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/Units.kt",
+      "bytes": 6754,
+      "sha256": "5766638bc939b38584199caaa851b16efbc6ffa3aaa21b2c57561ba92cfc586b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/export/Backup.kt",
+      "bytes": 7459,
+      "sha256": "0110a444f5d56a890a3f5b1420e9372962e0caa7996f638468c92e7a6b8d3a15",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/export/ExportPreset.kt",
+      "bytes": 1422,
+      "sha256": "d3286901d48a2fb9fa5c5cfc8424e76e041424a59a7781d21872a6e6be0f05ae",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/export/ExportTexts.kt",
+      "bytes": 3593,
+      "sha256": "9ee53fa076a872eaacb156be300ac38c7c9bc9b909813144dad7cf3760ad86a4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/export/MarkdownExporter.kt",
+      "bytes": 14630,
+      "sha256": "86094851f18048ec3491e85e39dd0e0698459845a936cb019bfb3ab63811c429",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/export/Snapshot.kt",
+      "bytes": 1748,
+      "sha256": "acabb306ed009520fe5b4bd3bc9291046bdcc63adaaeba3f7d453fd2a75468f4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/domain/scanner/ReceiptDraft.kt",
+      "bytes": 9224,
+      "sha256": "66f776ca50cd725b74dbc58b4e740648dd1878eb85fcb77e7a1bf3752bbd57cb",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/notifications/BackupWorker.kt",
+      "bytes": 4096,
+      "sha256": "c9c0d5f77e3cbad892842db2a7119a23c08e84891abcdfc246b7f00de23bda9f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/notifications/Notifications.kt",
+      "bytes": 2619,
+      "sha256": "e1b7134c783e05c42cd078daf41157b430057aaa84a16374a7e4b2aaa103dd15",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/notifications/ReminderActions.kt",
+      "bytes": 1960,
+      "sha256": "a07ca67797358e41b28436c70e810c9e5b9c3273d1ffad8d4c6844e024dab44e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/notifications/ReminderScheduler.kt",
+      "bytes": 1283,
+      "sha256": "e0aeb87bc69789f88580fd87fa7ceb86de80ac2aa3ddf0469f82668848b135ba",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/notifications/ReminderTexts.kt",
+      "bytes": 5491,
+      "sha256": "f89d95b76907fc3b9b7ced201e43192ff1e786da14ff2587971ee3e5f8937857",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/notifications/ReminderWorker.kt",
+      "bytes": 9754,
+      "sha256": "cf4c9b14b5cf1240c82d537f056624509671c4618da6e29ab78f4015b1cfc0c8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/notifications/WorkerLog.kt",
+      "bytes": 1575,
+      "sha256": "845f20c9dbd5503122a24e6ff76623fca16dd1b0e1675cd89f6fd13c76a50bd5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/text/Format.kt",
+      "bytes": 9415,
+      "sha256": "9ee4856a33d5cd19dfc1f75163304e6b00dd97e917e1f4dfbaf1c14089308977",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/BackupDialog.kt",
+      "bytes": 9725,
+      "sha256": "d07c4ca06a2892d04f5d1cb037b35d5ff9295fcb30f89c621a9714430708288a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/BackupDialogViewModel.kt",
+      "bytes": 6528,
+      "sha256": "ab9fc64ce201b36998add9c6a67d0dc06ab616a6d23425b2d391737af9b6de6d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/BackupStatusText.kt",
+      "bytes": 2731,
+      "sha256": "2f938561c86741d2279adc848094a3990f11906daf460ef54c3b471738265d3c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/CarHero.kt",
+      "bytes": 3092,
+      "sha256": "67dca51df0b72d0b745bd77b6de3d7261b9fd7121d8ad586ef5776ab4499ab75",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/CarProfilePainter.kt",
+      "bytes": 2878,
+      "sha256": "450d0f379dbdaa20e553eee5a3cbf5b9867745ab05aca9150976a160e2b814e7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/CarTitle.kt",
+      "bytes": 2927,
+      "sha256": "10a4b15e955a730e5d8ca83514c06fc0da094ef86f9f044b6d34dff55668340b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/DateField.kt",
+      "bytes": 6027,
+      "sha256": "f5b566219d5e928c8ce72fef335a7e4b10084b864fa1122fd4072c46d67670d7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/DialogHeight.kt",
+      "bytes": 1829,
+      "sha256": "3f9e19718fc2f1af23782d6777b33bf09e876f1c20c3347e58051d008e7f98ab",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/EditorScaffold.kt",
+      "bytes": 4704,
+      "sha256": "b5768512722de5a8cd4cc397f1b3e7ceea9e10dea3b4e95bd05765462e446170",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/EmptyGarage.kt",
+      "bytes": 1901,
+      "sha256": "b42a1d7cf00ce8bb4a46fed45b845329fead1805379020a6badcb9013b3571fc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/ExportDialog.kt",
+      "bytes": 23110,
+      "sha256": "1d8d3d0f2afc36b1dbfe09863c9308992d1e386c7a3d83827ed9149b27eae20d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/ExportDialogViewModel.kt",
+      "bytes": 6524,
+      "sha256": "e9f4746be9e49934589dcdedb2e5679ac6729be8f283515a84e3fd66f0c76cef",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/FuelEditor.kt",
+      "bytes": 29671,
+      "sha256": "87f589116144e277db2c984d2147721874cc09682755da551080a7ca89d39da2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/GarageScreen.kt",
+      "bytes": 18803,
+      "sha256": "83779cbb15ca1e0adada4fdac60fbde1c4dfbdeb2e5de0d43386bbd3044c98e1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/GroupedDigits.kt",
+      "bytes": 2227,
+      "sha256": "6e750894c3301c3ff662c429bfb1990807cec79ba2b3d6cde604246e88c4bfd9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/HomeScreen.kt",
+      "bytes": 33538,
+      "sha256": "a7da81457182eaa4b222d7d06add511154907334c725be64d34168de98b5c4c5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/HomeViewModel.kt",
+      "bytes": 11624,
+      "sha256": "bab48d7bcfb39e82e1deaa02951069efc87fa70aae09e037ddc42f3cffb94ad8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/ItemEditor.kt",
+      "bytes": 16614,
+      "sha256": "938aab552f486ed81c0abf0c8329adce2ca46da38ae421a54cc3e55d766cc00d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/ItemIcons.kt",
+      "bytes": 11125,
+      "sha256": "30186d196285165282cf871c2ad0ff74a5c39c8a8b8be41e784cca5c7a642937",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/JournalScreen.kt",
+      "bytes": 14811,
+      "sha256": "a91a5fa9c5beccf997c34d48011a4f76427bc9582b78e3173a0e3dfd8738aff5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/LanguagePicker.kt",
+      "bytes": 2846,
+      "sha256": "9b20707764843f8dfd9b510c997660bb495b3a28b4a79041c4a0aeb4434a1927",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/LineColorPicker.kt",
+      "bytes": 18877,
+      "sha256": "e9472ea2d13d169daf37f33bbf7dd4014d0cead96d99d819ebc68b4cf0a8f628",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/MoreScreen.kt",
+      "bytes": 25151,
+      "sha256": "ef5e2b63459448367c7f1b85d0f705021ee3b9944e8d24506c5d4e7645cc8733",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/OdometerHistoryDialog.kt",
+      "bytes": 6976,
+      "sha256": "8ff91dfdd89cfbfcf6e32fa4a1036d2f91646d3df130a717545ecaaee20e92e5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/OdometerHistoryViewModel.kt",
+      "bytes": 3288,
+      "sha256": "ba76473086e5ce6d3f23cf73a9314f34b378bad8fba2f51063dde35eb16fde7a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/RecordEditor.kt",
+      "bytes": 18399,
+      "sha256": "6167642f65aaac4f2672837ed78be47fee0925253a58a8cf6085789ad341ad00",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/RegionalPickers.kt",
+      "bytes": 4242,
+      "sha256": "e6f98357422723f05e9fc13c97f8c5cda5c174be3b0b66fe90963414a1f26a0c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/ReminderSettingsScreen.kt",
+      "bytes": 25971,
+      "sha256": "2ef9d2629c9aeb17436b8af1c37e4fe80614bf205f593b88fb560ab30816e4a8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/SettingsSelectionDialog.kt",
+      "bytes": 6940,
+      "sha256": "0d83a19b018e6513f706d839ee36b58e6dfbc09c192132ea2299e212f203b53e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/SilhouetteTint.kt",
+      "bytes": 373,
+      "sha256": "2ae40563ec87b28e55de652207279aeab6d14750865806d026444a9c9322c548",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/SoftFling.kt",
+      "bytes": 2468,
+      "sha256": "a50bf0158d20ca03efddc31dc60215193022cb3923d8e31bb0da84eaccb3d939",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/Texts.kt",
+      "bytes": 12869,
+      "sha256": "a1f43e1b82686268cca35ba00fd565d5fdec8b8ac634f707f949f68e288e439a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/help/FeatureLessons.kt",
+      "bytes": 7401,
+      "sha256": "8df4814de206c22bb3371b19a9efe8c033c8d846af5ff8c672c56aa7da8fd7ca",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/help/HelpCatalog.kt",
+      "bytes": 2681,
+      "sha256": "39658b7a773a9fe4daac7603b9ff4952dd2b20313b44a3f0be7e44403bae3906",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/help/HelpScreen.kt",
+      "bytes": 5424,
+      "sha256": "002932bab8bbb1ac321ef7e5f427c12348f79dc7e30885158911adaaaae38d07",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/help/TourOverlay.kt",
+      "bytes": 12657,
+      "sha256": "c8967960691cd6831543d4345195f62e4e6ae0000db3a27a5151304e851b6795",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/scanner/EditorOperationViewModel.kt",
+      "bytes": 1831,
+      "sha256": "2e8991217dd9a28cd57092e087125b65669875608e79436cdfcec8591cc771e1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/scanner/ExternalScannerInbox.kt",
+      "bytes": 2379,
+      "sha256": "4d30abf173f211af5ed82846725088c75ca3cc4261e03c96f2f4fa2c1833c9a3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/scanner/ExternalScannerInput.kt",
+      "bytes": 3565,
+      "sha256": "f5fb15dde19813c639fb7ae5cd16468cd2ce99902a882333a5081e5dcabf04dc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/scanner/ScannerFlow.kt",
+      "bytes": 15264,
+      "sha256": "9df9a9aa1a34fd8049faf2d8f4bc73c2a2b26fc918ba06acc8c1d164cb9ae26e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/scanner/ScannerModelCard.kt",
+      "bytes": 24253,
+      "sha256": "31c3e96dedcbad278bf5ab1f993478cd7dcef8e34c00614fe016063d450e471a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/scanner/ScannerReviewComponents.kt",
+      "bytes": 2455,
+      "sha256": "06bd6a30bf8449257981a94f6bedb307ffcb8ef55f35369a8f4dbcf54d4550bd",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/scanner/ScannerViewModel.kt",
+      "bytes": 11061,
+      "sha256": "c52e0eeefe3c018b5e97b83ae23f44da85ab0c3a81fe025a03a751b40cae18c6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/java/io/github/snowdrit/mamokeep/ui/theme/Theme.kt",
+      "bytes": 4081,
+      "sha256": "47e58eb137b78b397e25cf6183442914cd0c0a25bdb66e8124bce1489b4e943b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_atv_detailed_profile.png",
+      "bytes": 318237,
+      "sha256": "556a4fa8feae0a99d27ca7559e6e1230ea291b332dc99f74ea9eb5e4ffad750b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_atv_detailed_three_quarter.png",
+      "bytes": 432891,
+      "sha256": "4b2a8204bdccc4309ca5f903c861f7ace8b7c0cf574990ae39994f84ae5115d7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_bus_detailed_profile.png",
+      "bytes": 176685,
+      "sha256": "9f1749ae785564377a570d0f00ea8c0e24efeae0978aa2bd5ce977f05e58a103",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_bus_detailed_three_quarter.png",
+      "bytes": 365506,
+      "sha256": "803a016a61169e80e342933d2e9bfa1b1a4c752453d39bd270366cdfef652d6f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_caravan_detailed_profile.png",
+      "bytes": 152741,
+      "sha256": "66829af70301b380d62eb603c86a5e1fdf6d2d67c99a6c0af9a9af28b79c7796",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_caravan_detailed_three_quarter.png",
+      "bytes": 308889,
+      "sha256": "7831b000a346b8b082d0ba6b87583743ea77532f26f51f726be6b19589ac6dbf",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_convertible_detailed_profile.png",
+      "bytes": 210474,
+      "sha256": "bd914139cb01fa7900d1f8a77944c9976b8963a3eb279529a05700738077b155",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_convertible_detailed_three_quarter.png",
+      "bytes": 296724,
+      "sha256": "deac0face9c4626df834df19dfe5bfa74b199e8aef60194910a4d3f5a07453d9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_coupe_detailed_profile.png",
+      "bytes": 203037,
+      "sha256": "b3dbe06235326e5e92d705cdb492f01a649d3a51cb5f4b35a816cfacc9601efa",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_coupe_detailed_three_quarter.png",
+      "bytes": 309844,
+      "sha256": "8b025f2f622d2c94896afd9557937b5791189223c2cf6da341b3663ecac1532a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_crossover_detailed_profile.png",
+      "bytes": 66698,
+      "sha256": "f8acd069a86f95580aaee1041dc9746c3ed1eb49f57518daf067e35a1bf1a5ed",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_crossover_detailed_profile_left.png",
+      "bytes": 70121,
+      "sha256": "dbd86c3cf90dbe86b331bebf9e5547807d520d053f37f37a13b7dbb1216ff285",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_crossover_detailed_three_quarter.png",
+      "bytes": 86427,
+      "sha256": "33b670c073e413c1f5f16c4cc940b2cf5a83fb501fdce81b6bdfe1fc1bcee8a7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_crossover_detailed_three_quarter_grille.png",
+      "bytes": 86013,
+      "sha256": "37fdfc2bcb05709c968ecf840bdc13e3d25edbdf5fd7b89b6559bf9c11a888af",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_dump_truck_detailed_profile.png",
+      "bytes": 266117,
+      "sha256": "dd0c9fbc56b2796dc4257a0eedf550f07dd5dde23c3dd114899ec11d15c7689b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_dump_truck_detailed_three_quarter.png",
+      "bytes": 433029,
+      "sha256": "13c86f7fa77f2db2c4acc43835fcc419c297706712ba8e96d16ca5bd8f421655",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_estate_detailed_profile.png",
+      "bytes": 204332,
+      "sha256": "f7880d1466feba9f22ae3be3ed31a27955b359f86c8794323b6ff9298a3e14d8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_estate_detailed_three_quarter.png",
+      "bytes": 316024,
+      "sha256": "b5ab4626f2231beff65951a0c01c5f2992fb8e91d3b0c2ebc4ba02f22d4b4ad3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_hatchback_detailed_profile.png",
+      "bytes": 159394,
+      "sha256": "b1b261a3c176ce4d2c51960c84809f995c9b337eb03a90d209902738d6b01b09",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_hatchback_detailed_three_quarter.png",
+      "bytes": 453852,
+      "sha256": "e1146546a800f9d04c67edba43bd7d17801740e66a99ad26ff93dd15adbfed92",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_liftback_detailed_profile.png",
+      "bytes": 198838,
+      "sha256": "0d6c9f9fefb5b4ea80f72b769974cc8a8d391f39083d23aac1104d1cc2eff32c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_liftback_detailed_three_quarter.png",
+      "bytes": 377134,
+      "sha256": "bc90e33a4863545a8d00825db4ab54aa9f1baad900db834e1435584f306d1d4a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_minibus_detailed_profile.png",
+      "bytes": 292187,
+      "sha256": "2672a378e4f7bab9bc967f9f5d8c93c0c3f522aa7059cb38292ba28e2d465824",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_minibus_detailed_three_quarter.png",
+      "bytes": 381979,
+      "sha256": "fc7fe1852d9195ec5532054ef8144634438cee16e5c3144cd8aed9d9ffdfb8f1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_minivan_detailed_profile.png",
+      "bytes": 211251,
+      "sha256": "3e80a7b5615e376c2282470b4536dc58a2d14b84377d1419c0e2c3784a2964c2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_minivan_detailed_three_quarter.png",
+      "bytes": 374431,
+      "sha256": "96d87bf7153f84dcd5ea6b18afed4cd83cbe9492faddd3d14c9f845c6d64fa19",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_moped_detailed_profile.png",
+      "bytes": 282649,
+      "sha256": "3f6959077ead8f7f02e2c009870a204b1cf50d705a8884c9a25a6267553e9f52",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_moped_detailed_three_quarter.png",
+      "bytes": 349101,
+      "sha256": "ed62c25523f95e9414aaa88f88c66e509891ed488ba996b99d07d7c59a2d2f8a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_motorbike_detailed_profile.png",
+      "bytes": 334052,
+      "sha256": "c4a81cfb5d4791d36bc96e5528891938c192b2c45a095188533e76aafb2ee8dd",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_motorbike_detailed_three_quarter.png",
+      "bytes": 335894,
+      "sha256": "d9103375bcb6c3f015d26cea2662498a052cef1eabfcc82f7538b9384a84ac7e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_pickup_detailed_profile.png",
+      "bytes": 194798,
+      "sha256": "e3ff0586121a972a12a2553d866fe559a664a356c40a6cf33f05328a1b355b30",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_pickup_detailed_three_quarter.png",
+      "bytes": 378736,
+      "sha256": "75efd63499981f8bc3df5da129f30dbd3f27043e7f4cba1f95803614e41cf982",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_rv_detailed_profile.png",
+      "bytes": 200361,
+      "sha256": "aaa84aa857e880025c8d1f52579a5c8a9e923fc2c69cba24448478c8a510215b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_rv_detailed_three_quarter.png",
+      "bytes": 347910,
+      "sha256": "e940ffd4762b918a9b87f4d9d6214d33eccd5f9d81def39157965646a3517c04",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_sedan_detailed_profile.png",
+      "bytes": 180326,
+      "sha256": "b93fce215494632494e3f2657f3d936889838d657c9bbf26a05b01df37b1c517",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_sedan_detailed_three_quarter.png",
+      "bytes": 376447,
+      "sha256": "f8b9defa66cce5aa527b9861bfa59542d2e71cc7a7c8dbba9f3958c9da0deb42",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_snowmobile_detailed_profile.png",
+      "bytes": 211931,
+      "sha256": "580e6f77b3a19ec082663a29d841fdcbc2a939efcc67a06636900095e55aa803",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_snowmobile_detailed_three_quarter.png",
+      "bytes": 300464,
+      "sha256": "43759228d213aac314ead0724b7d054718e29e06ecfabe8a8a0794b97e8a95f9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_suv_detailed_profile.png",
+      "bytes": 250073,
+      "sha256": "47d44dfc3e4361f9c23e53f6d5da2212b80aa3560fed5fc630a3358af1c02ac5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_suv_detailed_three_quarter.png",
+      "bytes": 394689,
+      "sha256": "d5ebf30e3fa7f0a10b6a4d7e3ded485f39fdf6c86b395cee63d51e7c140885ba",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_tanker_detailed_profile.png",
+      "bytes": 185289,
+      "sha256": "79df72f0d46ea01f3dab7508ef9c6b70eec90e04c3c32ec722daaf9f84870f5c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_tanker_detailed_three_quarter.png",
+      "bytes": 421175,
+      "sha256": "a3085a6ff67292a9349deb51e5c61dd6ae4bba6583580fca7d2f08de6f0b5f49",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_tow_truck_detailed_profile.png",
+      "bytes": 141967,
+      "sha256": "61742df88ba7d012efd30ac8893d71ce3e1de50faf97cec8d4aec7c6dd1b25d0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_tow_truck_detailed_three_quarter.png",
+      "bytes": 286957,
+      "sha256": "79efbb5d67dca7624048d4c38835337bd85dd7bb0aefae26d309c1019b7da9a1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_tractor_detailed_profile.png",
+      "bytes": 355837,
+      "sha256": "d64bded9a57a40ea2e0338c881edf9b49e0445fa0f65efb5296d0125a2f3c3da",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_tractor_detailed_three_quarter.png",
+      "bytes": 456745,
+      "sha256": "e50901a0a97b6e3331170c03282f8fda05f7f320772922f194603bba79325aa5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_tractor_unit_detailed_profile.png",
+      "bytes": 240541,
+      "sha256": "a633302e5526f5a18dcab0d6e6065a7b9c4535a567d6bc0132e0a217c5654f0e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_tractor_unit_detailed_three_quarter.png",
+      "bytes": 331346,
+      "sha256": "99f1ef6345fb0b788940e9cedfa2d97f4d74a97ea2fba899e5989cff7a5af26d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_truck_detailed_profile.png",
+      "bytes": 168620,
+      "sha256": "0746d39f9d120a7aceec7231df74a4d757947f75f98337dd009239c07fa7cbfc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_truck_detailed_three_quarter.png",
+      "bytes": 314316,
+      "sha256": "bb64472c39df10d3be833391c717b5b1f32f4fb7cc9295b8f9b430caf8b3c786",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_van_detailed_profile.png",
+      "bytes": 284671,
+      "sha256": "abd411f3fe35d153cd9aeaff358dd9175736b322711ce52e14b9067db022040f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable-nodpi/car_van_detailed_three_quarter.png",
+      "bytes": 406256,
+      "sha256": "d9ddbbeda3a97008bb0c8c5f5d7bb31971f48f42776a52c7165352bf4f3519e8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_air_conditioner.xml",
+      "bytes": 950,
+      "sha256": "aeafdeb701b8acf9b30d9b8045c4cd1af8569a681b4b4ceb54a62908457c1bc9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_air_filter.xml",
+      "bytes": 1422,
+      "sha256": "36969136fd0e8a4319369b5a7a2116f5ec3a81f47c93ecd6e9c511d355de4579",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_arrow_left.xml",
+      "bytes": 488,
+      "sha256": "b165ca088a2818c9b75afbc8263b11adc288cf30d73e38015d8ea97c1658d4c8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_atv.xml",
+      "bytes": 680,
+      "sha256": "857db3b3866f036e9eb3be9aa3882086fde730afdd9aa9f3557485152a641864",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_bus.xml",
+      "bytes": 739,
+      "sha256": "80c007a01e6a54ca2310c088ef27fb82706cfabe25600aa54019fd2cf6c021cd",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_bus_side.xml",
+      "bytes": 747,
+      "sha256": "aa16417c019c61a18f147ae3b69ef77aa77fffca05c608ca311ed89c96ee6af2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_camera_outline.xml",
+      "bytes": 647,
+      "sha256": "1ad782da93e7596a8228154a8f139aedbe35a7429a4434f60a94b8b8eaa89054",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car.xml",
+      "bytes": 728,
+      "sha256": "025f1f76b88cf62c45aacbecefb073c925702838092be5fe28d72b3955e0241e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_battery.xml",
+      "bytes": 486,
+      "sha256": "c5e82f0a8ad2862ba4e5e71e68dbd917a348f506af292b8d1db2634810c045d9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_brake_alert.xml",
+      "bytes": 774,
+      "sha256": "f49842d530e128845239e48f92019b56c61a337df0cf727ce5ac492228421d1b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_brake_fluid_level.xml",
+      "bytes": 995,
+      "sha256": "05cea565cb53069de2a9ed869bedf9e4900ddcab4c3d620c7a34156bf7c55e3a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_convertible.xml",
+      "bytes": 724,
+      "sha256": "918995a2620dcb784719579f1f1689d04920c3b4cd043c7927adc89adf737986",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_coolant_level.xml",
+      "bytes": 658,
+      "sha256": "f5a03ae777062eb06a467ec676d3d8db677ba257790c772722bc804d1b35c2ef",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_estate.xml",
+      "bytes": 732,
+      "sha256": "31fd3a7c7af76309d1684443ab02a92479c0010ea32d96bb0287e81bc689bd75",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_hatchback.xml",
+      "bytes": 719,
+      "sha256": "e6148f0876ba150e9d8ce0eb4c8c2b436a2a851beea7f0fd9f92994a93d7589a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_key.xml",
+      "bytes": 805,
+      "sha256": "652a130025371a17081cb776a253b6ed368430df6af0ec378029858e7ebbf0af",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_lifted_pickup.xml",
+      "bytes": 1498,
+      "sha256": "f5a7791bd1494a3bfddfd969fe827bd5e3305de78af851b4b2fb5f2834cda246",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_light_high.xml",
+      "bytes": 660,
+      "sha256": "62263cac3d9c7e87c4cfcdf06790a1715d71b10f493616b5915f77e04a123fd2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_multiple.xml",
+      "bytes": 893,
+      "sha256": "dd1cf85f698ffa10ce157fbcd9c027606c4b5879fbaacb17243093ba8c7f44dc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_pickup.xml",
+      "bytes": 702,
+      "sha256": "fd96c1bda2dcd8916e5abe4a778ef1776a79f1cdcba0f64490f4835f18a952b2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_shift_pattern.xml",
+      "bytes": 510,
+      "sha256": "c2af78b0ac4f7ec1b75bd608ea56c99aac61a1c107156b6dbbfbf7af43b8a995",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_side.xml",
+      "bytes": 744,
+      "sha256": "ba3e0a46aa03745fbc77d2b3108ab89ad3a6bebedadbc17628a74b24cf710912",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_sports.xml",
+      "bytes": 746,
+      "sha256": "15eb387010477641aec851ce1f0a1095081632d9329f4e839ce5cd87cdc86d42",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_tire_alert.xml",
+      "bytes": 648,
+      "sha256": "edf39e4bc5775908ca857149411cab69655b8ec354616c1a5998c12abfe8670e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_turbocharger.xml",
+      "bytes": 1061,
+      "sha256": "a2a1987e274ea3e20f5b00b41bb9b69c9f9d31e3b1d00003c5ae9ea65755762a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_car_wrench.xml",
+      "bytes": 901,
+      "sha256": "17ed90573b65abea2bb6a83d8d4c0e999b31f168cf1d9af6d2017ce00af00ea2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_caravan.xml",
+      "bytes": 564,
+      "sha256": "44d02ea0dab36cccedd01f75d38c505f42557e5f33f927a23d6f502fa68277d5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_clipboard_check_outline.xml",
+      "bytes": 639,
+      "sha256": "603205f56c9de16fc9e3014a8f7f0b4522a39f3a786579e23911a0eced2d058e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_cog.xml",
+      "bytes": 1051,
+      "sha256": "8d589885e689e6dd37d9c90ef04317de9290a3029903871a846a3f6e29531b75",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_dump_truck.xml",
+      "bytes": 714,
+      "sha256": "49e5a307fb6805c38dec0326d187bb9ec5e951e5744db6e98f923694ebc965fe",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_engine.xml",
+      "bytes": 466,
+      "sha256": "45e260c9f60fe646b3e5efef8d878cfdc333496da27d754bf0f7dc6d6d06ff68",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_file_document_outline.xml",
+      "bytes": 505,
+      "sha256": "dc25c3f95953dc55d2a66b6b8dd686d929f6fa9ea99755835741b8835474a681",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_filter_variant.xml",
+      "bytes": 437,
+      "sha256": "420a9eaa40652adade4a4118aa6082d44e0a9573e386d9c3c8f1254031bd2882",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_flash.xml",
+      "bytes": 413,
+      "sha256": "5dcfd287375044d31f970cf1a8b3e502e3e56e90736bfd5a429c76c490483c38",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_gas_station.xml",
+      "bytes": 756,
+      "sha256": "38938a5a482bfe57e51889c03bfd9ec9861239e24003b8fcfdc2a6ba815f4c76",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_help_outline.xml",
+      "bytes": 659,
+      "sha256": "fc3727de066588996a6c6a3953d35ee8981419ce9316b18cccd8262a1c9948c0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_image_outline.xml",
+      "bytes": 524,
+      "sha256": "02aadd93e968e9e4e66d6d6d1507617c57ccecde81e8bc0641415463d68548e0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_foreground.xml",
+      "bytes": 2042,
+      "sha256": "422d29281797f7f0037291ec937a6717df72d6aa83496bb5abd1cb5ca197041e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_moped.xml",
+      "bytes": 664,
+      "sha256": "c6a7df1508e9796511f392235a9e41bf81f232df8f18a100b08ee7f176b493d5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_more_chevron_right.xml",
+      "bytes": 411,
+      "sha256": "7c314854b2b4ba39d591473cb18d40e99f5071e5c0ece0e2e9dafb0cb4994dbb",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_motorbike.xml",
+      "bytes": 720,
+      "sha256": "11346f84b5f3b7f4dac6dbf9dea87be4ca9e0b94c275548c2a56944329eab0fa",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_oil.xml",
+      "bytes": 840,
+      "sha256": "0bb14051423fe6b7fb4528c4f1e9dc6c3302b51d00d777de19f378badcd42bae",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_rv_truck.xml",
+      "bytes": 627,
+      "sha256": "ec82b19dd4b613255d649695d69c9d7b117f2aab7034125e8cd0d4652849d24b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_shield_car.xml",
+      "bytes": 724,
+      "sha256": "3c7170b4fb216d742f815d677644b1e35cd78e37831691a372dcde680f1ba224",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_snowflake.xml",
+      "bytes": 903,
+      "sha256": "54efaa3fa8120e1c592c5008c5a7bdeabc5a5e4847cbd05a9eac321f38136307",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_snowmobile.xml",
+      "bytes": 754,
+      "sha256": "d8cf86d68dca8e8f31f92bbc73a85031d19be069efb91da54e47d24361d8871d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_tanker_truck.xml",
+      "bytes": 742,
+      "sha256": "c10e7826fdc22f3e6af0881e8a02577832f1b6ab81f88ec27b24e275c954d22e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_tow_truck.xml",
+      "bytes": 966,
+      "sha256": "9738d3d3e5546d398a58884a0a7be6ca3a67e42d8943b5d716b4d718560796f6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_tractor.xml",
+      "bytes": 826,
+      "sha256": "9c05319ca8bb54c6bd5f94fb0ac9de697adc4a1554a978ca9cf8eace8a12300d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_truck.xml",
+      "bytes": 696,
+      "sha256": "ca8ef845e08dfa5d92354ab2a1d8e30d0528449416ac5c1407febbac05c1281e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_truck_flatbed.xml",
+      "bytes": 936,
+      "sha256": "445cfcb45dc43ef3000f10692d0d6cf8a70389bbf232783d9aedf72e778f9297",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_truck_trailer.xml",
+      "bytes": 535,
+      "sha256": "3793ffe81303104d144ae02bd70e116347a0489002e14acc25ff6b9f10efe2f4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_van_passenger.xml",
+      "bytes": 777,
+      "sha256": "9e76b12b344b411984742d858490bf2d10cfbc9b7fb69ce910f9da5833abcca5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_van_utility.xml",
+      "bytes": 713,
+      "sha256": "bd51ff49600b872dd0cbd499277caed7625e9da331cff4dbb5cee85e10460947",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_water.xml",
+      "bytes": 455,
+      "sha256": "b0a7767fdee1562b8f1d51c72ec67e9b73a57dd6e982acb3921d80e419b7c535",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_wrench.xml",
+      "bytes": 558,
+      "sha256": "711172aaec757293ce72a295f5a0cbca3fec50c8052cb3cbf014b0e5dbae1e8a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+      "bytes": 468,
+      "sha256": "cf1f0891bd8a269a8a5c4b0616b37f8cd4e234539a5db54d5c072253e8fd7a56",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+      "bytes": 468,
+      "sha256": "cf1f0891bd8a269a8a5c4b0616b37f8cd4e234539a5db54d5c072253e8fd7a56",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/raw/help_keep.xml",
+      "bytes": 89,
+      "sha256": "da985cc2555331a12e09fb67e5248d492443d44d2f9a18bb75720de20210545b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/backup_status.xml",
+      "bytes": 456,
+      "sha256": "bd6d731ea32cad67d0c870cabb2f4ae9f7b8a83b6aa36e51089a5d8b392e29e4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/empty_garage.xml",
+      "bytes": 169,
+      "sha256": "7276b890b154c0689809aa0ca32c1a8f995e24bbfd0e35eefcbbfd9f47a8ef64",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/export_content.xml",
+      "bytes": 2515,
+      "sha256": "7bf30c8de4887c0f8a8cbb90381722aac97c8ded03dce422cf6e5d8e20c8acbe",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/export_dialog.xml",
+      "bytes": 753,
+      "sha256": "a61e4a70092dd552ad4081644b2ae55ba75a13f863c38868f7a66b2852723f8c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/export_upgrade.xml",
+      "bytes": 1497,
+      "sha256": "dbdcdb46c3b32e399bf6406413959431263c3155b2f253666048aa43ba03c0da",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/garage_editing.xml",
+      "bytes": 519,
+      "sha256": "05f1e458eccb5bfe4bf571745551e1276c4f8b5cb021cb2ee04853932cc23210",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/help.xml",
+      "bytes": 10798,
+      "sha256": "f8c3f12d5b44bebb66a67a5aa753668571af68f2d320791a0689ba41171b0208",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/help_lessons.xml",
+      "bytes": 5730,
+      "sha256": "f0687a20e8113d7d0b90913db7c4c38334ec5b3d7f90005ac31a4c0bc9d38a93",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/line_color_picker.xml",
+      "bytes": 2389,
+      "sha256": "b9dad23d7c6d9c9fd30756100859ab8ff513e84795dbbe01779064422cf273ce",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/more_upgrade.xml",
+      "bytes": 1415,
+      "sha256": "6b90a20d7e881f708174f66ae52e16c10fcf50325a8c83e8953cff8c826bdb86",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/ocr_flow.xml",
+      "bytes": 2866,
+      "sha256": "c367018d4a5d0a93c483760127fbea3e1cb39b1f07414a1b4c91ce6950eea27c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/odometer_history.xml",
+      "bytes": 782,
+      "sha256": "9add83d72e85b2fe9ebf717414855f0be4d527142cdae904f1fdb488b4e108c4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/regional_settings.xml",
+      "bytes": 1380,
+      "sha256": "826c1f2f9c5b3b71899ceab4f2abf99b65348ca24c9986285650ea45bc5748d9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/reminder_integration.xml",
+      "bytes": 1297,
+      "sha256": "beb7d7cde3912b932eec2d5f81df13d8b0d1125514e7324147ab9cf7d7564e17",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/reminder_strings.xml",
+      "bytes": 3910,
+      "sha256": "d1c849532fa36aad3edf4f61b176d6ee4146e306e95eac99142859ce613edad3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/scanner.xml",
+      "bytes": 5665,
+      "sha256": "df46b12e332c68c9602080974fbac07f8a8b15cfa8339c3a52df755eab129084",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/scanner_import.xml",
+      "bytes": 1537,
+      "sha256": "9110857440eb61585ace2c97e57adc2b8361e752339213d28d04f71e0fdaec2a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/scanner_local.xml",
+      "bytes": 1154,
+      "sha256": "17cc757d40921e25964255593ba6c79efcfe6960d9da525d7e4495e23ceb9da6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-b+zh+Hans/strings.xml",
+      "bytes": 25414,
+      "sha256": "330419d85010b3a672ddd76e431f6067ad6ed2a324a1c46bfa6d598c5c0e27d3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/backup_status.xml",
+      "bytes": 620,
+      "sha256": "5d88f854aff06c283cc565221f66ec3fce37180648939e6c738ab8ccd9485e07",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/empty_garage.xml",
+      "bytes": 221,
+      "sha256": "8a845f5c53ae511b72466907d2f3c6014c52f321c02cf4a21fece349c530c2fe",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/export_content.xml",
+      "bytes": 4167,
+      "sha256": "6ddcc98b4e63145f109181c7edbb5fa316bb78a925e376cc41a63536ee86397e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/export_dialog.xml",
+      "bytes": 1066,
+      "sha256": "93dc62dbd840e90098d9b13e898cf3c2046f328a58c7451003dd59cf3f5d289e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/export_upgrade.xml",
+      "bytes": 2189,
+      "sha256": "82cc243a1161b032a8033c0b4ac0a915c174397dd808bdf68be6a53558fe8de3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/garage_editing.xml",
+      "bytes": 693,
+      "sha256": "52366a209e8ce9507647acc9efe6e72acbbf3c86fe5942869247d1b9f74ce90c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/help.xml",
+      "bytes": 18565,
+      "sha256": "cc387c630090a80fc9e3b028a72db3de60d87e02695aa0a7835b14c18d75a8ca",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/help_lessons.xml",
+      "bytes": 8484,
+      "sha256": "74b5d8dac57dc11c3d79182dcbb68a3dd7f80431350064479d607b91394e74f5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/line_color_picker.xml",
+      "bytes": 2761,
+      "sha256": "b9026d1ce8da4d221040ec1da0dfcb43ff8716b7c5fbc1d4d1d7b6213104ac7e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/more_upgrade.xml",
+      "bytes": 1848,
+      "sha256": "8530330b6da8f0fada9f7174e6caaf4f0f2dc004bfd1003bbab0a1945c452ce3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/ocr_flow.xml",
+      "bytes": 4344,
+      "sha256": "84b77057929d3790c84aa66b251bf43f4873722e574101e321dc522a8debd65b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/odometer_history.xml",
+      "bytes": 1158,
+      "sha256": "f7d392fa897b64420c78db44080199299ecca064501beb4e6b8403443e6787e4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/regional_settings.xml",
+      "bytes": 2028,
+      "sha256": "1a6b6b1bc6172b7020a179f93f55618dcb2f5cb52f15fc8109bddbd28926b80a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/reminder_integration.xml",
+      "bytes": 2038,
+      "sha256": "0be030a7eba25eaefa75054448a91a2603b062571257d80f8194d1e78958e61d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/reminder_strings.xml",
+      "bytes": 5934,
+      "sha256": "aeb90d57ca7d89a34b320d3d95c996b829defd28854200aa4922e32e92fcd6d7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/scanner.xml",
+      "bytes": 8385,
+      "sha256": "2ad11bef7996c9220092d109c8a797d22072f2919afe3e28f03dcfa2ba0c022a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/scanner_import.xml",
+      "bytes": 2113,
+      "sha256": "266c1eeb7c5c872bbafdfdd70a4a12f23f5cb1ba725ffed6c032d4d8f820fdd1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/scanner_local.xml",
+      "bytes": 1587,
+      "sha256": "3ad1cb5433478317921da7e85539d658129786a78ed01cf8286b822e36d2a97e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-be/strings.xml",
+      "bytes": 34441,
+      "sha256": "059a56239e5f0fc2bbde68fbaa1e02e10186d3c8ccef47256a5db1e8734efeff",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/backup_status.xml",
+      "bytes": 517,
+      "sha256": "87777cc2de813a01e67f5c10a5cfa10096317af29fcfad4acf5732d490864552",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/empty_garage.xml",
+      "bytes": 200,
+      "sha256": "d730bb91c0e44af927e220277653ebb201e5e59ccee916dbf3f1fb2b71463194",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/export_content.xml",
+      "bytes": 2996,
+      "sha256": "5c63dbc691847a791891adc36b2040f3f2f64bf31dc7df3ed573a51efbb4fe58",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/export_dialog.xml",
+      "bytes": 851,
+      "sha256": "887c7f14c977be9a864eca99dfb50df4aa1a812f45ef3af5bd7f675d4cb5ba27",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/export_upgrade.xml",
+      "bytes": 1667,
+      "sha256": "40079a88b307bff4f03580cf90d4b687cca2fc1c34630501871768798bea49e4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/garage_editing.xml",
+      "bytes": 593,
+      "sha256": "cf5df38941e05c33a301aec80e1148b71d40c22ad14f6dd87be1622dd2661142",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/help.xml",
+      "bytes": 13255,
+      "sha256": "c00d231c5a033e2d7c48b912a44880df13c5797d66b78fe3efbd5130b1893d6a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/help_lessons.xml",
+      "bytes": 6536,
+      "sha256": "7c7283dc428a0855cf63d7e478a46c75c11e1be2e4ff99fc468618fb997ba587",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/line_color_picker.xml",
+      "bytes": 2450,
+      "sha256": "d5bcca8c8c75f5066f73bfdebed957e89c850566136e13a7ef71af28cd0ffc36",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/more_upgrade.xml",
+      "bytes": 1513,
+      "sha256": "92205104da248461244fa7022de7f9fad4a0c7f6c954daa19ed27fe357637a49",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/ocr_flow.xml",
+      "bytes": 3457,
+      "sha256": "6596d9c88ba01b412fd4a146db0e0200307b0a3d308aade10c50d4a7d0921dcd",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/odometer_history.xml",
+      "bytes": 919,
+      "sha256": "b2983e9279b1742a52ba75847319a61eb5eec8510f2ed0a2d01bae2b52809d0a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/regional_settings.xml",
+      "bytes": 1595,
+      "sha256": "0237a9301cf95cf9bd0a63fd1f9e34df6685e728a3be023e0d3cace137cfdcee",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/reminder_integration.xml",
+      "bytes": 1537,
+      "sha256": "7c58f48a545d99558a0fc166e9b4f7bc1ac45b84a566f4b03bb47a7d343cc1e7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/reminder_strings.xml",
+      "bytes": 4501,
+      "sha256": "ec4443a2b2a3d5f1d97b3874abef4c9a9a5f7df8f494ae99b754ae06fab9a3bd",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/scanner.xml",
+      "bytes": 6594,
+      "sha256": "5ed410969cf45ec64dbcf32bc0aba205838a086e92e42ef2d1c67993c4ef83c3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/scanner_import.xml",
+      "bytes": 1677,
+      "sha256": "513f0b405a06cbcdec0064d88b2b9b88c04769057087ac38f5f94645aaa08e5b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/scanner_local.xml",
+      "bytes": 1313,
+      "sha256": "b2d9de037dd1bb20d807726852b96b752db3f7fd5b5ab839a89e1fd5eea78640",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-de/strings.xml",
+      "bytes": 27722,
+      "sha256": "839bf5aa3e2a11568e9842b6cf236dcb030df2f71218bc2b980b868226f54b78",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/backup_status.xml",
+      "bytes": 512,
+      "sha256": "aa97ae5a4c03645e6fdf646f92fac1c15eb7491ba4069695059c88f0ea9df944",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/empty_garage.xml",
+      "bytes": 177,
+      "sha256": "bac896cfc4104800c211ec144b32bb467b568ff792d2bccb5b9b77f1432b944d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/export_content.xml",
+      "bytes": 3037,
+      "sha256": "afb0825c546e81e46abd03a97e7472a3d4990b1ed88c0cb82e6c27623fc6a95b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/export_dialog.xml",
+      "bytes": 849,
+      "sha256": "e149e57bb435e22c57795f87e206dc78afaa2e0b9ca3f3782a0e0f75a4eea442",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/export_upgrade.xml",
+      "bytes": 1679,
+      "sha256": "32021de7a0eab76e78a420cd7c5d060efa65f365f3d6f55a3765437e8c84acf9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/garage_editing.xml",
+      "bytes": 554,
+      "sha256": "008928a0a79dee043fb711de9f72d5c1d1023140de47616ee52d7a00c3aa55c4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/help.xml",
+      "bytes": 12837,
+      "sha256": "b265a86c05bb90c82a00bd7a5befda81c4714cf5dbbd6b3abda021b13eeb417c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/help_lessons.xml",
+      "bytes": 6364,
+      "sha256": "37584789ee786afb9ab123ef5bc315d97eca2f6222c263274a6e80af0efd7290",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/line_color_picker.xml",
+      "bytes": 2417,
+      "sha256": "031dffb256367d054ddc4302161873c5004fe623d10aa7ff14cf90265093b737",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/more_upgrade.xml",
+      "bytes": 1514,
+      "sha256": "cfbeb8d3411329d335429e96e56adb2643891d895f3f9680f7b4aad72f084240",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/ocr_flow.xml",
+      "bytes": 3375,
+      "sha256": "1c07e9b78e433efc6e34b578c3f1df5a8b9fd6a7edd7ca2ba2521fcbe0dfe701",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/odometer_history.xml",
+      "bytes": 875,
+      "sha256": "e5460e6bac4bac6b7d14907629ed3de88d1a6a28b441d8d14402f4ab62c073fe",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/regional_settings.xml",
+      "bytes": 1596,
+      "sha256": "2a6f789979b7cd70c490bdcff5f7d367e9da4de7ed3b1eb1851dbd7e2404053e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/reminder_integration.xml",
+      "bytes": 1538,
+      "sha256": "a5cdca99d7b5010948d7877e8f94de36b1ef0f7b2385d5b68d9bfdb10e029d83",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/reminder_strings.xml",
+      "bytes": 4496,
+      "sha256": "a0b3588489086bbabd451d55ba349a5156418b45092c6d7bbab865fe202a1141",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/scanner.xml",
+      "bytes": 6608,
+      "sha256": "ccb5c533b1b7f132a959dcb6922864e526351e148459c70c4627b91bb5c03a3f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/scanner_import.xml",
+      "bytes": 1671,
+      "sha256": "0562482d550cc607072119cbd2a662b9d29129f662be50ba88bc1f50b38f0144",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/scanner_local.xml",
+      "bytes": 1339,
+      "sha256": "8c6c49c36210aed0b32561fff0245c62851c9a4d68506bd0d6ae7ebcd8ea0e56",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-es/strings.xml",
+      "bytes": 27688,
+      "sha256": "6adcebf4e8ef871325fd3481e20fe8b6bc74c046677f808caf88d150146697e0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/backup_status.xml",
+      "bytes": 530,
+      "sha256": "07c867febb49c53af6209a3132d7fa75e41842e5424a3da18ae9724b0aca4c39",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/empty_garage.xml",
+      "bytes": 172,
+      "sha256": "00b3ffa04fccd6d948fc472e95f562c22b5a5a9cba0f3ea1b50e763b568c8348",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/export_content.xml",
+      "bytes": 3154,
+      "sha256": "4065bf13b252265eaa943b5fe88a0c8484fb19c88cd91f2812832c93262d7d78",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/export_dialog.xml",
+      "bytes": 883,
+      "sha256": "d05a48fe73211d975539c2dcb95fb531bf58ac24f34b952c5449c7d9a6f376cd",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/export_upgrade.xml",
+      "bytes": 1798,
+      "sha256": "b2b73d626ae736889525998b5efbde311544dcb2edcb50a23fc44635a7847710",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/garage_editing.xml",
+      "bytes": 620,
+      "sha256": "d111a5ea9f6b9206aa4f7072b14ea6a0110717d19f5893b2e4f71b4ea5781ad6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/help.xml",
+      "bytes": 13779,
+      "sha256": "0730bbfaff9e10ecc4c9d0342f53ed47d197346244f54bc661d8ccf666535d60",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/help_lessons.xml",
+      "bytes": 6637,
+      "sha256": "aed64849c1fc52f1efd815967213f023160430edf9dabc70e1cbee73d4e47e77",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/line_color_picker.xml",
+      "bytes": 2464,
+      "sha256": "83fec6e05ae005d53cb46002f3948121cd4a3fb7768ef7d058e7031c0db5b2d1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/more_upgrade.xml",
+      "bytes": 1563,
+      "sha256": "51d5446a538730fbb428c6090a419aa8483866bff8c22c78460a630a403b4895",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/ocr_flow.xml",
+      "bytes": 3576,
+      "sha256": "220cbefed94e59a66fd1b05138c1b2226a38392e30d6da52cf4c47db5f6c09eb",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/odometer_history.xml",
+      "bytes": 883,
+      "sha256": "1a019c1dad3d84cea0ed868d25e7f6fd7748c34dc8fe35d09981eac4dc01a544",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/regional_settings.xml",
+      "bytes": 1642,
+      "sha256": "7eb716c64ece1f913ff41f118fef38a6b3381ca9f03e296655a4ffa94a016e39",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/reminder_integration.xml",
+      "bytes": 1586,
+      "sha256": "90aef76f94ab5cfb26844cd99627a90bbfbcb49e73be5bb883b2ee038cd6ca21",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/reminder_strings.xml",
+      "bytes": 4599,
+      "sha256": "6b3e5c4bff4643c639a4c5cac9da7ddf39538007c5a8bce163115bba988de178",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/scanner.xml",
+      "bytes": 6898,
+      "sha256": "08ca8cbf33dba3015df7791757690f40a56ea24a7e6c59472b797f3a1f79f454",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/scanner_import.xml",
+      "bytes": 1727,
+      "sha256": "c87de1d6c4f532148a540ac6d6e833781b7ee715fc6a3b21001f0013430fe850",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/scanner_local.xml",
+      "bytes": 1396,
+      "sha256": "c528a955a6f9457cda76eb755399ee34afa876ebf340e8d1c1bac0103d8f6614",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-fr/strings.xml",
+      "bytes": 28575,
+      "sha256": "58e8eaea0e149c54d8c544fd25e5866fda9e4652cf84bc79a1b5883d4560ea61",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/backup_status.xml",
+      "bytes": 618,
+      "sha256": "1e065b6f27c1f67384829a73cf97337d103debcc19b187f06adca541e9f56532",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/empty_garage.xml",
+      "bytes": 196,
+      "sha256": "13cb1f847f8edc6c86014b07a957475242cde1c031d009d8613b5b81e622faf5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/export_content.xml",
+      "bytes": 3066,
+      "sha256": "21cc4b4a2a97c94cc8c8f17ed43a9811bc3f01a8a4be8315b82a50cbe2267f01",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/export_dialog.xml",
+      "bytes": 963,
+      "sha256": "0eb11c7cfe840603a3840ea3bdec7c3ba37fa5c3d2d12120536e6fdc5f00c5b2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/export_upgrade.xml",
+      "bytes": 1852,
+      "sha256": "e14474e239e0f7d02a3e7a5ee524da8fe9501ee8b93d48fbe65fcd1e59a61278",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/garage_editing.xml",
+      "bytes": 633,
+      "sha256": "b77337a26d25311478c19062ca33044fe52f01bab14551990bd010b8feb53cba",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/help.xml",
+      "bytes": 14055,
+      "sha256": "7fca249b3b9e4adacb81251e8aef5f68c6b490992841984f71b4e71e65063faf",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/help_lessons.xml",
+      "bytes": 6961,
+      "sha256": "d61c9bba361fce68389c14c3bf788aeb284b02bb9f3b74631f63ecdfb88d4559",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/line_color_picker.xml",
+      "bytes": 2517,
+      "sha256": "5aa1eae6a4f38dc2775f26dcb36ea6d94f1e5e59d718fad684b9f12232d74fbf",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/more_upgrade.xml",
+      "bytes": 1679,
+      "sha256": "bb3b8ebeb2b8f1bce68751b455823ab950d36dbc13ed5d6cd852e78169921003",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/ocr_flow.xml",
+      "bytes": 3824,
+      "sha256": "8f9c077bca79f212d2635c2615e5e0922469ef3ef994b8665b8da211a8a9524e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/odometer_history.xml",
+      "bytes": 943,
+      "sha256": "d5b0dbd71adfc28706e0f40aa6d47f150bcae638779b8473538574c8b18bc488",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/regional_settings.xml",
+      "bytes": 1680,
+      "sha256": "46e7284d1e7a019f980ccf064841e06a83297a2b7242502c3bc33579a1bf838f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/reminder_integration.xml",
+      "bytes": 1597,
+      "sha256": "4a981f98053bbc60d6288ae445f22761aeb790b07efc1d132d743d607daf8270",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/reminder_strings.xml",
+      "bytes": 4592,
+      "sha256": "9f4b53ae7950b7543473e6e7f19136c4ac261af581f61841fa721c577743b0e1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/scanner.xml",
+      "bytes": 7583,
+      "sha256": "01b1b0608b805bb51195e89b943ee207734389686eb7966980bdb633f3cafaf8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/scanner_import.xml",
+      "bytes": 2011,
+      "sha256": "ebd8e733f6ef3958b845aec14a0332d76403a436c66bc9652edff0f69879bf9a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/scanner_local.xml",
+      "bytes": 1511,
+      "sha256": "87c2c9b67cde97605db01a7adf1fd9336b6a21682fcee8bed754ec7f3f1230a9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ja/strings.xml",
+      "bytes": 29624,
+      "sha256": "2d77a56a34c92615bd3aed35301b239ddf0f2936286647858b7eac85fe4caad2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/backup_status.xml",
+      "bytes": 697,
+      "sha256": "56311a680acb4f8504e00de9275c1610b4d08c34800cce23ab7a860603dbfbcc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/empty_garage.xml",
+      "bytes": 224,
+      "sha256": "f1517d82a5cd823af2668793d7f718910384f46365eeee3486584c35ea7f714d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/export_content.xml",
+      "bytes": 4013,
+      "sha256": "20ed6c1b75b978bcf0881140b60d4c40635cee772c1f72b46c9ed16dd0621038",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/export_dialog.xml",
+      "bytes": 1088,
+      "sha256": "f63867b66999e091699c9823ca3ebe72b36824932e873ced2caf3e0366eb5e72",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/export_upgrade.xml",
+      "bytes": 2089,
+      "sha256": "fbcf491f38964d387951407d1ad2bfef6de08e979eb9e0ef473f433cdcac16ba",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/garage_editing.xml",
+      "bytes": 711,
+      "sha256": "e04247c57f7ecd764f00a83332a3ef411fd3340a20dbe23183787b5e5687edd2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/help.xml",
+      "bytes": 18860,
+      "sha256": "11f0eb5e950ed1ebf41040f16cbcb74e267fe27b405385e6a6ed4fa12dd0ab21",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/help_lessons.xml",
+      "bytes": 8706,
+      "sha256": "fed58b43cc2737df14b7288602655d57f5799d5deec3daa287bfb1e3ac80a0f4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/line_color_picker.xml",
+      "bytes": 2814,
+      "sha256": "9a7d62205bf6a6b34f991b6bd6ce3047b7e6eeb3e80fc4ffb9630fc44db2b2d1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/more_upgrade.xml",
+      "bytes": 1887,
+      "sha256": "e6318dfe51d9800f222913e557f5cd0c71b2805e74b78206b5836be292fa49d9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/ocr_flow.xml",
+      "bytes": 4603,
+      "sha256": "80070026a292dfb4dd540958751794fbf7772dcf0b8338a6cb3778d1ec0e6564",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/odometer_history.xml",
+      "bytes": 1195,
+      "sha256": "c872ea4bf838d6992201cb727ea05da51717cbc9f63ca97d97d8964e6858586e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/regional_settings.xml",
+      "bytes": 1986,
+      "sha256": "0eacb33fd99b2d08ae3c5a48ebde50c3d8ea44f1dd178b02c0c23b46d94ab829",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/reminder_integration.xml",
+      "bytes": 2098,
+      "sha256": "1c4e214476dc97e85cd549d84975374f43cf86a3f51fb71d846e6a032338466f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/reminder_strings.xml",
+      "bytes": 5825,
+      "sha256": "f92a0425e8722d8e2a1eceaac5dd28dc94df190dbb3068616b4c2492b2310c68",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/scanner.xml",
+      "bytes": 8237,
+      "sha256": "cba06721e1c96daac132e3102774fceed259dd187b0cb432a0e5f311d2639c3e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/scanner_import.xml",
+      "bytes": 2220,
+      "sha256": "7fc518615cb73cca72fcca98ad887c7c0d40c2ff746f48425d32c8223c32e89c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/scanner_local.xml",
+      "bytes": 1641,
+      "sha256": "503de01ceb64ef1c1e100c27dda7649a662ad43ef0602cc2245585fb88f2b8b8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-kk/strings.xml",
+      "bytes": 34539,
+      "sha256": "c553b27d02829798e39f1eae721bd48428da55d97f074252dfa7dfda01a6b9a7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/backup_status.xml",
+      "bytes": 544,
+      "sha256": "841dd01fb60b36e250094d9fcf51da12cf82dfeafc64220462f901abd42cd637",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/empty_garage.xml",
+      "bytes": 193,
+      "sha256": "21e423b8aaf55e20c73d987fb8260a17b521c7b239dc59a5ec7723b46c16aa63",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/export_content.xml",
+      "bytes": 3181,
+      "sha256": "77ccb84369494ceb81bceda5c4e5515ca9bdf36b7839031664453943b6369796",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/export_dialog.xml",
+      "bytes": 898,
+      "sha256": "c820bbd3d9b0e1006341d24b35b70fd795c97a2e9e1420344934880f2a188afb",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/export_upgrade.xml",
+      "bytes": 1751,
+      "sha256": "4e19cb8ff416a809e641cd3c57915b84b0cd3237122ffb7dd675b7c16581273c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/garage_editing.xml",
+      "bytes": 626,
+      "sha256": "4149639786fff55ec954ebcae29a7aeb1c27e224278b12a97d3d8ce44808692a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/help.xml",
+      "bytes": 13847,
+      "sha256": "12a83ae2461f44017ba79455c348f5a782cd5acf3fdb82aca4bab38b81012015",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/help_lessons.xml",
+      "bytes": 6850,
+      "sha256": "faf8e1c535e07f25297b416e191b3f11b62bb208c321decedf4fbde56328fbe7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/line_color_picker.xml",
+      "bytes": 2509,
+      "sha256": "2e8ee29c36a70d677c8fb7d405dd935c9684917f4acccd823dccff4f11ca166b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/more_upgrade.xml",
+      "bytes": 1539,
+      "sha256": "bcc0e5cafdc6062ff8db8729e496fef3104b4e99c97cba03c0fece71926ae827",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/ocr_flow.xml",
+      "bytes": 3579,
+      "sha256": "ee7614c0aa38279b263aa2379ca95f2da521ef47e075ba5a5af1a20521880f28",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/odometer_history.xml",
+      "bytes": 907,
+      "sha256": "7fcbc72cb83b0892927017d610b1c18d4fbca6ede5c655fe9ec4cedde785986b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/regional_settings.xml",
+      "bytes": 1617,
+      "sha256": "fbe19b74d17367827c93225841644cbeae4303ea6dd7eae33adef5629d3df343",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/reminder_integration.xml",
+      "bytes": 1583,
+      "sha256": "316e967d50847ce0b8f007b5697b03a23b105e340a48727c2ab051071e4a82a3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/reminder_strings.xml",
+      "bytes": 4542,
+      "sha256": "28257ffa10ac2dbdda2e2cbb8fec5b17a2db6969ccf0ba5ffed1da5615822358",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/scanner.xml",
+      "bytes": 6922,
+      "sha256": "63f232b1b864972c953cc8a79a42f535c094629054c4e09fc3461a7bcc9f74fc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/scanner_import.xml",
+      "bytes": 1832,
+      "sha256": "39666e14d5e8898032e1b02cf669b4c8879e70f3b19ad7c01ca7215f57ea17e3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/scanner_local.xml",
+      "bytes": 1357,
+      "sha256": "cf373e933badc8626652d133f245bed4717da7d323d76bebef946bd5d576de76",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ko/strings.xml",
+      "bytes": 28417,
+      "sha256": "dee3b4a25badcfe5aba58c3280531094f055aa29124776bd147ad17f14ed82b1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/backup_status.xml",
+      "bytes": 481,
+      "sha256": "5a3a88073d5b4aca53d967db4d06e475b03662ab74d467cdd6a54cae82bc6ff9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/empty_garage.xml",
+      "bytes": 191,
+      "sha256": "96d3feffce3fd23eaab2573621a10af4f677563d4dcd7958b92b42e6e0694902",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/export_content.xml",
+      "bytes": 2936,
+      "sha256": "27f963cf2a9cafd44748cfacd00401c1835baab12c36c9e67c33278f2e75fb5d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/export_dialog.xml",
+      "bytes": 851,
+      "sha256": "50c2f1684efc8e3111667f4d0739daaa025ece6ee1484f77cf7a2bf983a86408",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/export_upgrade.xml",
+      "bytes": 1694,
+      "sha256": "ef4b7fbf5eb4439611a8422f86693d44a135efcb562817966e5d478da8d2ef5e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/garage_editing.xml",
+      "bytes": 550,
+      "sha256": "545a0a9be1f024ef7cc5d21a0afb7f5192e287480c9c5a29cee0818497b3fb69",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/help.xml",
+      "bytes": 12559,
+      "sha256": "46c91a87b89eef3f0837cfb84d404ad70e696c789496120202e01cd8ed421249",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/help_lessons.xml",
+      "bytes": 6241,
+      "sha256": "d69034a38dba0a0d0db8364dbfa23765aa41c400882e1e08847c76ce44558a23",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/line_color_picker.xml",
+      "bytes": 2491,
+      "sha256": "ff9a7833a9d570996116a45ed6c7cbe8152a4a589553dc04b9e638ff6c5d4a07",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/more_upgrade.xml",
+      "bytes": 1550,
+      "sha256": "666abe81791409845e6b09f80d813829ccd47bee0965c3261fef14d1ce64ec5e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/ocr_flow.xml",
+      "bytes": 3272,
+      "sha256": "572224177a70fc4a6ec9a903c7f6460c7a60e92ea73034a55df622ee1e16ea97",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/odometer_history.xml",
+      "bytes": 856,
+      "sha256": "d696cdfbe33b1072d1907c62b26b5082cdfd19c0bc6eb5348090824815b5bc94",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/regional_settings.xml",
+      "bytes": 1518,
+      "sha256": "9daf5b52c462103341d54f954525fb9b4a458e748c1ba5e382856cf62eeff5b0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/reminder_integration.xml",
+      "bytes": 1510,
+      "sha256": "a6adcdb1e68e11e4d8c49332b6e2782edf45ba2b7aa0c27331cb552830b05d09",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/reminder_strings.xml",
+      "bytes": 4622,
+      "sha256": "0ff7db9cef7dc198ab68def4f3fbac66d008ba38a6840adefc9a74a7551a2dd6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/scanner.xml",
+      "bytes": 6365,
+      "sha256": "204213fe847647a21529302b754ccf282c559c977d3377896a80545cdc99d3a4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/scanner_import.xml",
+      "bytes": 1599,
+      "sha256": "60692b380f3c8c68de2df17c875c418fb79871312409e7af464735fb0d8da1c1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/scanner_local.xml",
+      "bytes": 1256,
+      "sha256": "e58cf71d0e22a90c615b9c47156e652848eefdadc9db598f54c1ecc66d549a64",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-pl/strings.xml",
+      "bytes": 27101,
+      "sha256": "e3bc712b565e85baa57f25d2cf2e4e7c967b594cc95a2c43f236c7c7565b57c7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/backup_status.xml",
+      "bytes": 624,
+      "sha256": "4e63c442d920c2802357c6140144b3e262fff446e44073105afb654095897cc3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/empty_garage.xml",
+      "bytes": 221,
+      "sha256": "4076e24f9b4967590d040e69fa6f04eac5f7c5d3f27f348333f495de19762a5d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/export_content.xml",
+      "bytes": 4177,
+      "sha256": "958635f55a45ce3d66b3c8273d97f1cd058c1f9a637f9bce0999162ea7a37580",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/export_dialog.xml",
+      "bytes": 1085,
+      "sha256": "5761ea3b77d34707a538a7d105a1cad4ab338ef11da7b41f4aef80112aa19efd",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/export_upgrade.xml",
+      "bytes": 2272,
+      "sha256": "97e5aff8e24dfdd78d8e26a2b93d68f9174b3785b16e1ee8ca1c2c7bd1e8848b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/garage_editing.xml",
+      "bytes": 742,
+      "sha256": "44d593de84afd32900df0585c6a66606b1942302357b4c6c8b03afbed83cb8de",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/help.xml",
+      "bytes": 19027,
+      "sha256": "084835a972215498e4d70078c920ed36fea29dc032e84e1229c8c1eff63ed310",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/help_lessons.xml",
+      "bytes": 8585,
+      "sha256": "28de70af3912ea96c275292e01b07944fc85f775f8a92edaf15338c56849bbe1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/line_color_picker.xml",
+      "bytes": 2153,
+      "sha256": "02d0af91ef06de064164d5014bb9c8dd04809702949b86123024e9226a1d7ad0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/more_upgrade.xml",
+      "bytes": 1899,
+      "sha256": "b6a1148bb905cdfe84b97f30de528a5b362bf3159e061978ed75c71b74b2dab0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/ocr_flow.xml",
+      "bytes": 4458,
+      "sha256": "f0de44051a6e5c9b58fbf7f3d76ee9552446811d71e7691e848c006f61415be9",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/odometer_history.xml",
+      "bytes": 1159,
+      "sha256": "6d7df8aa176de9ee65ef66a09d736cbfd690999913828e2464c7fa4f8aaf52c8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/regional_settings.xml",
+      "bytes": 2033,
+      "sha256": "8657725e9b6013be4cd21453ace4164a6c6fbe7e7e213e92a5edbdc61139ce03",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/reminder_integration.xml",
+      "bytes": 2061,
+      "sha256": "44b158fe53b0a1530ec0349f3534fbdcec7bca11abdc2f105eee0805ec22624b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/reminder_strings.xml",
+      "bytes": 5771,
+      "sha256": "52363686e654a799376e7f810fb895e73a0248c026f6f7cfb30c40bd94460e0b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/scanner.xml",
+      "bytes": 8282,
+      "sha256": "3d5de4eaa3fd0a4cd4e349ec74a8f82077570d2fe7a7f348373a8c030959076e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/scanner_import.xml",
+      "bytes": 2173,
+      "sha256": "4fcac21b29ed25e8826abc5db6facdf43ed53a94e0f8008ffc23389a146cfde3",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/scanner_local.xml",
+      "bytes": 1618,
+      "sha256": "c53a49920a2bcf0d308a4017cfdfe020141d49d18676211f753cb66d91ae741d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-ru/strings.xml",
+      "bytes": 34745,
+      "sha256": "ab714b9bfc57990c766e7a6da91554c0bd5ea0600b598d4ba5df0b435d175739",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/backup_status.xml",
+      "bytes": 515,
+      "sha256": "c0024ce6ef05e0641c4433062795e1828c72136f2e092c985d1759e95152162b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/empty_garage.xml",
+      "bytes": 178,
+      "sha256": "0e8c1b4c6a357d59b41083f3c02a5e8f4eb09d160b040173a9429879de115106",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/export_content.xml",
+      "bytes": 2780,
+      "sha256": "cb1a7b5543b0466c988e262ae54b44ef06ac53c65eb90d9128975521d0ea4f07",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/export_dialog.xml",
+      "bytes": 812,
+      "sha256": "2cdce2b88bdcdd7d70f1555425a919a0cc3805ed7d564c68064d41c33bef2478",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/export_upgrade.xml",
+      "bytes": 1669,
+      "sha256": "3ade0e88ab8876915612295dedfe65590577e98774e8814c570e96b884740127",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/garage_editing.xml",
+      "bytes": 561,
+      "sha256": "f22fccc4f52f22a3472d296d0a836bc6e927a8285fb7f3079c55c28413d91d5c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/help.xml",
+      "bytes": 12362,
+      "sha256": "756738989234ce8cf027839150f4d2284316d4776f0f6a5e84f05afc9424fa34",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/help_lessons.xml",
+      "bytes": 6352,
+      "sha256": "bf43a6e9093dfebe603f6fcd60e9154f60ceaa251d247169e4daf75545d46a4d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/line_color_picker.xml",
+      "bytes": 2444,
+      "sha256": "40dc02251ee87c4d2dbc3339b5f1ee84264454308091a55b8d36993f34c94c9a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/more_upgrade.xml",
+      "bytes": 1481,
+      "sha256": "06b693dfa56db3addac554e9303fd13ae972e0c875f3f59a876d9001228f8a2d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/ocr_flow.xml",
+      "bytes": 3278,
+      "sha256": "5e07cecc0c19b0651a1cd83e623aeb245fc5a2e59de87de7f457e06b409002f8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/odometer_history.xml",
+      "bytes": 847,
+      "sha256": "50d9fb4ab66f8396a0023f5d46f9b1af9a11375464c25ac7104b64d47963193a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/regional_settings.xml",
+      "bytes": 1507,
+      "sha256": "787834056504a23a09818a492d48af4dbf1657fa48cf8ff126ba41e93cb5967b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/reminder_integration.xml",
+      "bytes": 1475,
+      "sha256": "3b5e8c4bec387b3beed9c9b560da3725d0dd75f8063fe46854d8835d53923b51",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/reminder_strings.xml",
+      "bytes": 4381,
+      "sha256": "2b46f64c2eae5820bf565b8effd239d92dc08b2eea1aec973414ff4c9461b41d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/scanner.xml",
+      "bytes": 6263,
+      "sha256": "79d086a9dcec09e387f568a486bf13268f15e2641756fac49693d6f24e3dba9f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/scanner_import.xml",
+      "bytes": 1591,
+      "sha256": "9ecf79e90ee8d1822252eb47908c931586e2732d7a50c9458b6acff1c901046a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/scanner_local.xml",
+      "bytes": 1278,
+      "sha256": "6665d6734720c742eabaa5226eac6bf593bd07f134663a9ba193321a51906bd1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-tr/strings.xml",
+      "bytes": 26561,
+      "sha256": "2151f6e8d67d49ff85cf044809d76f6a8781dc6e4f28170c8a3157aee0913922",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/backup_status.xml",
+      "bytes": 610,
+      "sha256": "86fa3354e5fbaade4082dec411a169c441c64d1bd4ec80bbcaa226867ff38052",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/empty_garage.xml",
+      "bytes": 219,
+      "sha256": "f73b989cf4a377aa2a247eb71c83ca7a388b6b5cb8f8924d711b457f7e6a6609",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/export_content.xml",
+      "bytes": 4181,
+      "sha256": "d2ee3111c0aeff4dc48d4d5e20454c09195aa34a1426c465f3064780584a2e5f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/export_dialog.xml",
+      "bytes": 1056,
+      "sha256": "b8157d9eb6935a79459c227207734bc834e374fcffc22d69ccddff6089c2528a",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/export_upgrade.xml",
+      "bytes": 2236,
+      "sha256": "83b01dadc877f30d284066fc1c26fb74945b096874c45b664547ee179e5822d5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/garage_editing.xml",
+      "bytes": 683,
+      "sha256": "7d978689b91f2d6060031c1e2fce2fe6a71fa77b6fff3a9dac29a8f3b01c23d0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/help.xml",
+      "bytes": 18851,
+      "sha256": "8ae34930ab908455f9bead0ea9d9ca6776ab8aee2e33e713598741975a7f2471",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/help_lessons.xml",
+      "bytes": 8574,
+      "sha256": "5173439573366d4dc5989cd0799a2244e6b02ec8a357969431cf5e7e032e2f62",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/line_color_picker.xml",
+      "bytes": 2815,
+      "sha256": "b60bb9cef515448133cc9154e6fd9229eafc4411ae8310f1b007afb75316dbf8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/more_upgrade.xml",
+      "bytes": 1871,
+      "sha256": "00ab6481adf60b412c61128390806b0b4722a1899a2252dc629f44106ef062fc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/ocr_flow.xml",
+      "bytes": 4442,
+      "sha256": "771cf36fe6526cd10032eff518e2e664f3294af2044a4227a2bbf3d5d4ad72c0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/odometer_history.xml",
+      "bytes": 1158,
+      "sha256": "0f6071c1e73dbdc50896dbc960d80a778b0b677282427216ac435bfe559bbae4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/regional_settings.xml",
+      "bytes": 2007,
+      "sha256": "2d474aab7492262dc20a3161b4f6823e32e76eea49853b0b81e794e284f2ba3b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/reminder_integration.xml",
+      "bytes": 2103,
+      "sha256": "bf1175b26c6112f0ab3847339f245e915fd42c81903a71dee0164740687e4dda",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/reminder_strings.xml",
+      "bytes": 5949,
+      "sha256": "55cbd7a090090a1bd706ab44a82ea4f31431ab5be2a6526e305fcbd039f1470b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/scanner.xml",
+      "bytes": 8477,
+      "sha256": "720c808b44c3911f8e9bba9ec0d6cca5ce122f3e772f7c903b2cfe91bb478881",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/scanner_import.xml",
+      "bytes": 2157,
+      "sha256": "3254fcfbbfbda4c3a9c0f7b580cda14ca1305daf9ec292dee8ab0af9ac6e4929",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/scanner_local.xml",
+      "bytes": 1614,
+      "sha256": "6de830f534ec40406a6d4a6b72d3bb3be9d34f8fadb74ec444f23a6ae0728751",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uk/strings.xml",
+      "bytes": 34488,
+      "sha256": "a6593a014273ce3176ff97c10e042558fb960853a26d68981e3ef09286037be1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/backup_status.xml",
+      "bytes": 523,
+      "sha256": "0763f0f0bc7d72a93dae3a845fa1ae686e12758fa40ef0da54660daf69b2e8a2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/empty_garage.xml",
+      "bytes": 184,
+      "sha256": "559c05b3d13a0566254a29e2e636a3f55f7f0add7d0fff32ef6c26ccce61564c",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/export_content.xml",
+      "bytes": 2819,
+      "sha256": "d6237dd6058f0c70b059420e1c8139b391edf84916ff4124408014595fd8c853",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/export_dialog.xml",
+      "bytes": 800,
+      "sha256": "a2fcc13971c001b3cc18d068e2a21a5b72ca2178648dbff124f0a061abcc1366",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/export_upgrade.xml",
+      "bytes": 1594,
+      "sha256": "59ef938f60db7633f5a5224e5560158870db2629057fd0e9def494d8e86d8c01",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/garage_editing.xml",
+      "bytes": 581,
+      "sha256": "431fe0d1e73700958d7bf6265dfbb66645e3b038a5b0853872910460a8491046",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/help.xml",
+      "bytes": 12553,
+      "sha256": "69cd22b7f3af25e73de7c13ffa9ac7b0917be6a2b0b0d5bfd1263fc73f9a16b5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/help_lessons.xml",
+      "bytes": 6301,
+      "sha256": "67e5404c0e14c1fb071b5a7416e7caf6a537faa0d68a34db630dd0f046b25c23",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/line_color_picker.xml",
+      "bytes": 2461,
+      "sha256": "9fa6aa547755dfad8c24491e6c15e4c8579aa9f3d801e715b04c8ba0ea87b4c5",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/more_upgrade.xml",
+      "bytes": 1473,
+      "sha256": "50edf6a170d7d62bc4580b3d90ac81835beac031c3a016a2e6ee4abb3d20fe03",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/ocr_flow.xml",
+      "bytes": 3203,
+      "sha256": "0535e0d38d53da37b078429293a02d5a5cde12792d1edac8ac7a2b83d9d561fc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/odometer_history.xml",
+      "bytes": 931,
+      "sha256": "b3853684017519800d9a2c45616ddab0129de61f560a97f4f3c6036fd7e0315d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/regional_settings.xml",
+      "bytes": 1563,
+      "sha256": "4dd582760bc77b7fa5443ed7718e1258c971322ffbfaa9ae6e0b36ec038e4dd0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/reminder_integration.xml",
+      "bytes": 1489,
+      "sha256": "0977a2b94ed745734cb94b48fed00e628b8e36499bc8635b1971914bc197cf1e",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/reminder_strings.xml",
+      "bytes": 4316,
+      "sha256": "8112fb440b9b353784019e4f9271b930a4e26bddcce2851b5448a2d9013cf7cc",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/scanner.xml",
+      "bytes": 6178,
+      "sha256": "0a9032fbded3b0595d83ab7090d68a7f86b105a41011c7862228e07c033af466",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/scanner_import.xml",
+      "bytes": 1587,
+      "sha256": "3519b2f6d1f388fd6581e8cb242115296a54af66fe14aa69040e022e84997c78",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/scanner_local.xml",
+      "bytes": 1212,
+      "sha256": "726bd588a2fd0df0a1e0f9cbd35cf4ada229f97a282273d80d8fef64f74917d6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values-uz/strings.xml",
+      "bytes": 27186,
+      "sha256": "16545d43c7fc108c0e19352a523d92b4aef0c5416d213dcd21be7125725a99c0",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/backup_status.xml",
+      "bytes": 464,
+      "sha256": "9ffb7104597a519fffee6a7773341dc3b3dddbc54c5876e8a76e46af18bd2313",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/car_hero_style.xml",
+      "bytes": 493,
+      "sha256": "f477f816def8618379159db7d6e8f3b2d0347872c13b4afc9633991632d28394",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/car_profile_style.xml",
+      "bytes": 225,
+      "sha256": "6179984241486403d94cdb8439c0a3831e23984f63c7c8710384326a07a6ab29",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/car_title_style.xml",
+      "bytes": 552,
+      "sha256": "ebf84db27c8c28af3874b16192752a3f1363603980ec71c800f581a041c8e00f",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "bytes": 642,
+      "sha256": "fd6c337fbff60c4131071afb613f8e762c449373990303941f4a80baaa903096",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/currency_symbol.xml",
+      "bytes": 138,
+      "sha256": "f49e80c291c432fe84d78e92c23574250f44bde603ee35f1f050bcfca572ce91",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/empty_garage.xml",
+      "bytes": 163,
+      "sha256": "41b3b8b91dc9ef16c040a4b52460315c6a3dca51fa55339402d7f50d94784f85",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/export_content.xml",
+      "bytes": 2708,
+      "sha256": "a20682492f8d73fd9e3f5492360a93c0780a7592319a206ef46bfd4b744ce329",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/export_dialog.xml",
+      "bytes": 1131,
+      "sha256": "f6d9d156366e1d1e2dcdfbdaee75da25bcf8c8d34a29222d0a995cbc93f809a4",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/export_upgrade.xml",
+      "bytes": 1794,
+      "sha256": "8148540ad8cffc58f08b354e58d5597ef9063ca27d5cf23785b44dc739bbb767",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/garage_editing.xml",
+      "bytes": 515,
+      "sha256": "0ef8c25527f59ebafbb4151df0c3172d25fc23cf6081e2ee95d4f7d66681580d",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/help.xml",
+      "bytes": 11527,
+      "sha256": "651ca4f2c19c9b2395306c663e9e810c1ecaed0c6bb1985b15f45113a5527192",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/help_lessons.xml",
+      "bytes": 5827,
+      "sha256": "34fdfc393d5de48647e64be1a11dca1b593d281031ce91deab7ea2f96d1b3526",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/help_style.xml",
+      "bytes": 1018,
+      "sha256": "409c89ede27893914c49b825ba3ce84b347d70a8a5466baa6faa9bcb03f3a422",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/line_color_picker.xml",
+      "bytes": 4160,
+      "sha256": "e60c78aa1762ac73c231b33474f3e9525059e5edfa3b7434f054bfec72a310f7",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/more_dimens.xml",
+      "bytes": 608,
+      "sha256": "ed7ff1f3f04d53854a434a12afafa0dfd40c5f05699601a9a1057fed9ffe5cf2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/more_upgrade.xml",
+      "bytes": 1433,
+      "sha256": "1808b5690f7e9cde949a38039e3eb9697b882fd0a113f8b165e5600d004d8310",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/ocr_flow.xml",
+      "bytes": 3088,
+      "sha256": "222076f9e855c3fa23f8930282c80a6db97a10feca4aefef4f3937f3e1fc2efe",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/odometer_history.xml",
+      "bytes": 973,
+      "sha256": "3f5510996cd7833fc2825dfdac7aac5f2489785f49dc8d26ec6d2d773beab313",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/project_links.xml",
+      "bytes": 283,
+      "sha256": "7194e09ad4f10bd2b78b88a2c40b9824e0cabe2b4f92af8d82837fad2cba9357",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/regional_settings.xml",
+      "bytes": 1471,
+      "sha256": "d8dc317ee030fe0af8b2c1661037319944647a7c5f90659c6d55c848cf6dc1fe",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/reminder_integration.xml",
+      "bytes": 1395,
+      "sha256": "c38b5420ba414312180f7b4db7efe8ff3dd33b3a5d3fdebbd5a0cdddd170fd8b",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/reminder_strings.xml",
+      "bytes": 4062,
+      "sha256": "300ced1198cbfec4e49a0c720998356e20c5e1c939043de496b4a5fdaee78198",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/reminder_style.xml",
+      "bytes": 435,
+      "sha256": "5aed6a179561c78c5343ba9e3975c48f848a6d244deeab4e0d0f7fc71695d834",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/scanner.xml",
+      "bytes": 6082,
+      "sha256": "f3967bb711773a5abde14a77c401e4301af90eb35f44370d031be2d778308df2",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/scanner_import.xml",
+      "bytes": 1517,
+      "sha256": "c926046c5e6867fe21d2366c9b2688a1a23d12a4fc82b4958ffc2b21e6b49209",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/scanner_local.xml",
+      "bytes": 1216,
+      "sha256": "e91d80454c8d85658c4e608377bf4e3bc84bf26ac2f7ff90af7b6e2646c08a36",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/scanner_style.xml",
+      "bytes": 431,
+      "sha256": "1c81e1de03f6f57fc0bcf833b7d64ae64641abcad1f05bccec0f30b995ce6189",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "bytes": 25881,
+      "sha256": "55cd4c4d721dbb0b7d9fe78bc3cd46c41fc4f908812043df160b7497e237bfb1",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/values/themes.xml",
+      "bytes": 150,
+      "sha256": "44f097144638ffbd1d0a54f6b4f04210cd39c12ceb8562efad8b2b411b912cd8",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/xml-v31/data_extraction_rules.xml",
+      "bytes": 1128,
+      "sha256": "93f67770b5bcf55547c4292ade99ffb8d6bb8fa39e3e26c6dbb810b2ee115df6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/xml/locales_config.xml",
+      "bytes": 763,
+      "sha256": "cf0ef029ff460477a168c7b81f9f890165f35aba72abb3b2645bf66360afe9a6",
+      "executable": false
+    },
+    {
+      "path": "app/src/main/res/xml/scanner_image_paths.xml",
+      "bytes": 113,
+      "sha256": "45f7336bccf92e61f5ec201287eda6b7852f45ba0b1e44473d961734d1eb21d6",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/BackupStatusStoreTest.kt",
+      "bytes": 5513,
+      "sha256": "14005fe6faded94ef80e7a0c7cbdc063783b7cf3835d58be1f670ba3fb14ec90",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/scanner/ApkModelRegistryTest.kt",
+      "bytes": 6180,
+      "sha256": "e91809dbd268be312fd28a183ef8e9d99fd17c1973c214c4014d48ebd9d73636",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/scanner/ApkModelStoreTest.kt",
+      "bytes": 10834,
+      "sha256": "9d1b15c9ffe9fb738f1614aae2568b83b1de8b3645089579e57d0f4de697ff17",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/scanner/ApkModelTestFixture.kt",
+      "bytes": 1786,
+      "sha256": "e504a9a046b99ec7bab0d0d922a2ee269974c55a4e475dc1c007be04262e7cb3",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/scanner/CatalogTestFixture.kt",
+      "bytes": 3984,
+      "sha256": "37ba2dac97f26755abe84aea85878c60006af21a5c5559fc8a2cdea2ed71c91c",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/scanner/ModelCatalogTest.kt",
+      "bytes": 9746,
+      "sha256": "d513e328e1c7f42103d3290543050f1a06920e02cd30c58129465d12b6060208",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/scanner/ModelInstallerTest.kt",
+      "bytes": 9425,
+      "sha256": "d6b38f8908fd26edae015c9f7c0f8801deeed62ae05a806e111023f0fab69831",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/scanner/OcrTextTest.kt",
+      "bytes": 18615,
+      "sha256": "ef9afed546b26efae72a0e1f8587871d698c9c6ac4e242a044d697ffe089dda9",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/data/scanner/VersionedModelStoreTest.kt",
+      "bytes": 15290,
+      "sha256": "21d574d1d43f4be7929e5a99037141e133b95fdc45454392bea1e421ec272792",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/CarProfileDraftTest.kt",
+      "bytes": 6676,
+      "sha256": "0a54fa66341ab0fef8b5a2c9c4529309a0dd3fed8ef8020e74f9e7b1f43e8df8",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/FuelCalculatorTest.kt",
+      "bytes": 7013,
+      "sha256": "fe13b9f6ecbcae0b28036b775969d1f5ca6837ed4c377133e39baa569f24e2fe",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/MaintenanceCalculatorTest.kt",
+      "bytes": 4058,
+      "sha256": "2469c9a446215b06e3a87300a5361337c62d03c28b2759b60949ca58ebc2d398",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/MileageAtDateTest.kt",
+      "bytes": 4802,
+      "sha256": "8f6a271316d34c4a050d65cb4cff4461558e3c9a45e4c2c9e23e13b44a4dda10",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/MileageEstimatorTest.kt",
+      "bytes": 3113,
+      "sha256": "b3ff2b60ea811ae012c804bc5f9414cbc0f0bd22bf49e4b626900d586f334d79",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/OdometerBoundsTest.kt",
+      "bytes": 3355,
+      "sha256": "f672b72b3cac3d2e4fd4c984244161db3be056a1717d432c55a93365aa718b1d",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/OdometerReadingMergeTest.kt",
+      "bytes": 2330,
+      "sha256": "82b6066667618f08fe0486fe2f07f1a68cadcbce118c9470fc73e883054fc764",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/RegionPresetTest.kt",
+      "bytes": 3293,
+      "sha256": "9655d9682fc18e316689ed8a388d5dcdd558b9fe9f9cf51db79a30452945e784",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/RegionalPreferencesTest.kt",
+      "bytes": 2177,
+      "sha256": "7c0bcba36e89e269089057a212f6f7d115a62b5f5e7c6c1a8b7cbafd3209809d",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/ReminderPolicyTest.kt",
+      "bytes": 11613,
+      "sha256": "871ef69689509d0b7ba69b201734c044f7f5a386f1a991766650d26a7dda8129",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/RgbColorTest.kt",
+      "bytes": 5490,
+      "sha256": "825a945321951f262cb9a5f08f44f1adbfc75ef02c24e6770a33bd67c07419a2",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/UnitSystemTest.kt",
+      "bytes": 4582,
+      "sha256": "f6a4aa6e550b73c95f71ce916f11864715f39dabeaa20cf0c9c99fc2e9b0ed09",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/export/BackupCodecTest.kt",
+      "bytes": 12025,
+      "sha256": "dd796fbc40ff6328443433e198773d750480be338dea97400e5e958df767fe81",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/export/MarkdownExporterTest.kt",
+      "bytes": 26888,
+      "sha256": "0d210442cec08a8aa66329a492a82c1397e6b72aa9a2dfece0430365aa27c8c4",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/domain/scanner/ReceiptDraftTest.kt",
+      "bytes": 15732,
+      "sha256": "57fc8e4184fa119b584c687c39ca3e7e7850efdb29887815318c2b296795d33a",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/support/TestTexts.kt",
+      "bytes": 9815,
+      "sha256": "243bbbf25852938c7f14548bd28d34c472c7c6ede89c090445eee638347fb50b",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/text/ColorFormatTest.kt",
+      "bytes": 875,
+      "sha256": "8c65497c78bdd2162bb707af7466ad582c4f4d4f3a2a71d2d1586f33a28341a7",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/text/FormatTest.kt",
+      "bytes": 5303,
+      "sha256": "e75252301888e0761fb2d9611fbceef1a2130337b65ca910152f344d504450a9",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/ui/BodyTypesTest.kt",
+      "bytes": 4168,
+      "sha256": "7cbacbad7228d332a792b8158e1ac4844ca980f8040260a2aebecac7e6225d4c",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/ui/FuelAmountInputTest.kt",
+      "bytes": 1953,
+      "sha256": "db12b945fc83c2dd8ea58c72f77dbc2f0e8b51871fc95a3ebc27d54d1b10606b",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/ui/LocaleResourcesTest.kt",
+      "bytes": 4294,
+      "sha256": "a36a6ef3d49c1786b5176aa46b0b608f09b5414b65d4df8f99d9be26e772ed2c",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/ui/RecordOdometerInputTest.kt",
+      "bytes": 1308,
+      "sha256": "403a848621cbd4846147915d59bc1293b8b16383ddef8b964590cd8550b596d0",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/ui/ReminderRuleDraftTest.kt",
+      "bytes": 4695,
+      "sha256": "4af15b69db148b61a3e23644dd7833c6d09918989915d8b52869dbc8ec9aa639",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/ui/ScannedOdometerInputTest.kt",
+      "bytes": 1339,
+      "sha256": "0e91380c2017b05b690a238786b59491c9efeaea4c0714cc9df4f7c1d1e8846f",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/ui/help/FeatureLessonsTest.kt",
+      "bytes": 8419,
+      "sha256": "ad86a69da6de5174c75b32925d0279de2384350ee239642877ab4abc1d928e7b",
+      "executable": false
+    },
+    {
+      "path": "app/src/test/java/io/github/snowdrit/mamokeep/ui/help/HelpContentTest.kt",
+      "bytes": 6056,
+      "sha256": "43ef1ac9da6158654f11d64edcf39aa68e9850cd863871bb739b5fffb567c2f0",
+      "executable": false
+    },
+    {
+      "path": "build.gradle.kts",
+      "bytes": 715,
+      "sha256": "3cb0c4d580f3ba4c0e39484ca75376eb009afb6c9264d53d6029facd49d14e87",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/PROVENANCE.md",
+      "bytes": 2600,
+      "sha256": "9e85f875368c03a8cd12c133ff45f71d2b674512840ac6d373d5a04f0e0996e8",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/STYLE.md",
+      "bytes": 4667,
+      "sha256": "9a8f949f032e3dcefa4ef1143508927d4369803add87367d43ef711f172d38b1",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/atv-profile.svg",
+      "bytes": 317464,
+      "sha256": "546ec01f96221f137d9f343ef788bea3857ab6f2144d8ef8161bae3dff842e99",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/atv-three-quarter.svg",
+      "bytes": 318793,
+      "sha256": "7eda55fc84003c62aafd2176130b46960c23287a40208fd0946dd36f5286b74e",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/bus-profile.svg",
+      "bytes": 199271,
+      "sha256": "537e121a441865b2cf96fa6848c07a0d46df4c15bac2f597df5e4a40b22e4e40",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/bus-three-quarter.svg",
+      "bytes": 323450,
+      "sha256": "a81c8528d97749ae1bae92047dd88721cd44f28f35718f9adff222068e8de63e",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/caravan-profile.svg",
+      "bytes": 157588,
+      "sha256": "7f7db8a89617b99520a1e65e12dbc6ef2b241d519821b3357f23285947144869",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/caravan-three-quarter.svg",
+      "bytes": 251985,
+      "sha256": "6cd1027dce2c1371fed430abdb6e371f77294865308cec04a4430fee1003af39",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/convertible-profile.svg",
+      "bytes": 179032,
+      "sha256": "1ea4bc2387cc42641fc8ac013a96c086d0d4c91589a5adb67d1091a504258ab3",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/convertible-three-quarter.svg",
+      "bytes": 243719,
+      "sha256": "6a31b3ba517781096afca0aaa8007754625992e8e71b5ccbb6120fa279f48dae",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/coupe-profile.svg",
+      "bytes": 129995,
+      "sha256": "b868323011c01aadb8fbf0bad4246c80144ae13c34fb1120d7a8d49617b2672f",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/coupe-three-quarter.svg",
+      "bytes": 245230,
+      "sha256": "2169fec56edcab5a70171f084a5f16195e446500babb999d3e619ebac4bdaf9b",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/crossover-concept.png",
+      "bytes": 626683,
+      "sha256": "cd42061199c102d2cb64ef9ffa355802ea8fba935f661b8511ed7cdc8be0219d",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/crossover-three-quarter-grille-concept.png",
+      "bytes": 1271883,
+      "sha256": "7f406fb938f919164326c452c72660f6327148e6fa38669ff210931b3ab29980",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/crossover-three-quarter-grille.svg",
+      "bytes": 180951,
+      "sha256": "89706c51fbf1cfb4da085a0bde971983fa63ceebd7b4dae5d57dbd69e3dae44c",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/crossover.svg",
+      "bytes": 134223,
+      "sha256": "2afa6fbf1f7799ebb020ccd5da5432e6697eed7376a5acef2614f3bc1d6b5828",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/dump_truck-profile.svg",
+      "bytes": 314130,
+      "sha256": "867de1faa160ae71c9283a59d3f425104908abb1cc6a1290437be50fdd34dbd3",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/dump_truck-three-quarter.svg",
+      "bytes": 423963,
+      "sha256": "0071c67fb635ef09fe7576571bb79bf313bb35a4fb8d775d07f685228d8196a1",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/estate-profile.svg",
+      "bytes": 152285,
+      "sha256": "9c8499be2a0ec01bef584c0667f9802d70c8a0c9b7dd38f4ffb991b1b78167e3",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/estate-three-quarter.svg",
+      "bytes": 257353,
+      "sha256": "d52c303649bbaa1e906e09cca91714c6408d5d9bdef189619ce97374146f1e94",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/hatchback-profile.svg",
+      "bytes": 130340,
+      "sha256": "93b19d5dc563aefb0e27ef63a5a54d170a98932f4b0a2c8719b101e5ed285e2d",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/hatchback-three-quarter.svg",
+      "bytes": 273539,
+      "sha256": "6229f860f535bf150a03dd139658a1d687a44a1f5b71bdf1c8ba4c02753f21d7",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/liftback-profile.svg",
+      "bytes": 118898,
+      "sha256": "bd70b056ab7de3cca9dc6af1d966e68e3ac1fa166e5afdc9b074d244f42fa85b",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/liftback-three-quarter.svg",
+      "bytes": 215962,
+      "sha256": "42cecc9134720caca975d1a342aede10164ab557a3efa4bff80ce1216fbef90a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/minibus-profile.svg",
+      "bytes": 275767,
+      "sha256": "e2581b9837731c0693858fb1055859e9b273d4b73c3553d40a94b7fdd0302245",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/minibus-three-quarter.svg",
+      "bytes": 369313,
+      "sha256": "aef327c4742801e3e63ea33b65d69c1cc0c7cc507b259282491ed468ff6f6bb3",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/minivan-profile.svg",
+      "bytes": 199972,
+      "sha256": "9effdc9ba74b33cd565c988f700474bf1ff18be1f0ac485a35fec4a81e912be4",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/minivan-three-quarter.svg",
+      "bytes": 295054,
+      "sha256": "7bebe5d17486b50e9c812fbb1c2bfa8584b6f7f97ce2050899e254f48265701d",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/moped-profile.svg",
+      "bytes": 237448,
+      "sha256": "b0567dce40d808ed23a4d73f714a24d4c5631ddadcbb00a1cf90509974e5f600",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/moped-three-quarter.svg",
+      "bytes": 237316,
+      "sha256": "3be241d29708e4052aaaa8f3c41272c3555d44f12a344cacf51febf3cd5ed95d",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/motorbike-profile.svg",
+      "bytes": 319420,
+      "sha256": "2f9c8a0efec27734c3dc89a65c495b93cf160182dacbf7d7ee9eb89068a464de",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/motorbike-three-quarter.svg",
+      "bytes": 258167,
+      "sha256": "8778882e5fc567b625c54d9cc19c91672026acf634aa59da294fb5325662c171",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/pickup-profile.svg",
+      "bytes": 148991,
+      "sha256": "26fd6dbc894599efee2138d05c7742333b1b22cc9fafce226f9e930d41a14528",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/pickup-three-quarter.svg",
+      "bytes": 366488,
+      "sha256": "839a146eceb989d10f45696b695dc5f5e39f82339d392336a20ff0a88922036e",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/process_vehicle_art.py",
+      "bytes": 4286,
+      "sha256": "73f5f0fcf279fcc7018b494de56b9579b66b5abf7e1683dfd21a06a42faacf9d",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/rv-profile.svg",
+      "bytes": 253991,
+      "sha256": "0a5072a20c0afde48856ea32e89a32ba62a53f248fe16a4cf10c2230492347db",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/rv-three-quarter.svg",
+      "bytes": 345884,
+      "sha256": "441e13f53fe3ab58f0606940281aa8200140b786ddc2d0caabf779f3bbbb7556",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sedan-profile.svg",
+      "bytes": 144913,
+      "sha256": "dc9dab91e6e5c0cc20cc2550f0b5e51d68c09f5b4b6b2c545f4bb23b521216b9",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sedan-three-quarter.svg",
+      "bytes": 265924,
+      "sha256": "a055a54551b2718b7509620919768f042e83592e461061699d132ced378fb07f",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/snowmobile-profile.svg",
+      "bytes": 223326,
+      "sha256": "d5d08d7bbfcffcde8103bcd512d6b63bc031c5b5bcbb75c47c2fb3eecca4cc32",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/snowmobile-three-quarter.svg",
+      "bytes": 274372,
+      "sha256": "45714aed901fbec3d1b7c8cddd535dd23e5298f0e7ec6f08856e336b97cf167e",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/atv-profile-source.png",
+      "bytes": 2422957,
+      "sha256": "e003c338a2264565b86a2dd08dc0bbe626ab07246acaabd43185757d97169118",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/atv-three-quarter-source.png",
+      "bytes": 2703241,
+      "sha256": "768fca1a79ab811ae8a9c6ba40d40cc89917def5090c0b511c16fbfbde001652",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/bus-profile-source.png",
+      "bytes": 1009414,
+      "sha256": "c6e599eec0328d63d3d7806488fc7085fb0da7d2254be7cb3a91fd5d83154d2f",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/bus-three-quarter-source.png",
+      "bytes": 2024127,
+      "sha256": "d45f7e744cfd642a266c900323dcacb23bea510f1bd29c25f9fd57e13ef1ef76",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/caravan-profile-source.png",
+      "bytes": 900473,
+      "sha256": "b49c6c006f8b7eef2b3ea5ca6dc94b5cdd50245c7f11c3ba476e09de7a84deb4",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/caravan-three-quarter-source.png",
+      "bytes": 1744198,
+      "sha256": "11c6bcdd16796b75698093b9bf2a508c2cafdf04d108fcd02d84f91c4edea6e6",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/convertible-profile-source.png",
+      "bytes": 919020,
+      "sha256": "6f34c382ab06fbfcd1045608cddc3d43f9b6fc4c88c64df6664d73d33dd6af64",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/convertible-three-quarter-source.png",
+      "bytes": 1745794,
+      "sha256": "13ea2717d5e987393cebef078292d4277cc63b200c6207616c38f181ebcfbbff",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/coupe-profile-source.png",
+      "bytes": 956431,
+      "sha256": "aba28b6dad2fb5dd9ff6fc26e2506bcf912bddc5c1d02eb69dded745804d84f6",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/coupe-three-quarter-source.png",
+      "bytes": 1673902,
+      "sha256": "87e3b0c5fa8819e7fe28b75b0586a1c163f22ca65ae4a11c0f70147424125419",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/dump_truck-profile-source.png",
+      "bytes": 1676625,
+      "sha256": "b43e021a2475f63fcc9b13143c2ebc5f90560e9d2515593fa13724ffd3f84f0a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/dump_truck-three-quarter-source.png",
+      "bytes": 2320345,
+      "sha256": "ce48e217b50aad6b4fabddc1b781c77fb4731d023b5d5e30494dc2f219a1ed98",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/estate-profile-source.png",
+      "bytes": 1547913,
+      "sha256": "c10c86efa44c5d53e0bc30f963d518157be329ccdc448679640d81431a28a7fa",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/estate-three-quarter-source.png",
+      "bytes": 1679270,
+      "sha256": "82730f9fa6314e5c9933e7331bf61487efb22b509af67b9593285d7cdfcb47e4",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/hatchback-profile-source.png",
+      "bytes": 1500062,
+      "sha256": "e60f6001a5b82adc33839a8e1bb857fbcfed9ae7a34c4ffa0867f59a4fb63eed",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/hatchback-three-quarter-source.png",
+      "bytes": 1069060,
+      "sha256": "83e1c34f3dc74ed9b7e28342732d95ab4592eadb1da218d1c347daba70916e26",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/liftback-profile-source.png",
+      "bytes": 1557953,
+      "sha256": "bbd60c267efe95ba9762b522ef5c5bccf906d82169fa76c4a683f03694d37e8b",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/liftback-three-quarter-source.png",
+      "bytes": 1230196,
+      "sha256": "d0b0352b56e62e2c231d7ae73a2f0b59f2b7f3c62ac33f90cb65f09e4f16768f",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/minibus-profile-source.png",
+      "bytes": 591621,
+      "sha256": "de68d33aa90cf2fdf6a224370b126e1ba0e964af604d2a7a3684bb0b3436849e",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/minibus-three-quarter-source.png",
+      "bytes": 1930239,
+      "sha256": "17bd6c49228b39c08909c8c9f9c7bedde754b5c81b1b262d44edcfd863d1db0d",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/minivan-profile-source.png",
+      "bytes": 1488002,
+      "sha256": "6a97e2b7450ae16deeb6b591553daea2cbcfadf469da96a77b1f8e44aaab7dd2",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/minivan-three-quarter-source.png",
+      "bytes": 1863853,
+      "sha256": "99e7f5d35d06be141ca6d564b6c70efc286a4d81cfd9c386adc1680fba05cf1d",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/moped-profile-source.png",
+      "bytes": 1957694,
+      "sha256": "b8a68a84adc8349600eeb47103f10653d62c518ac233da9ee95e6f64f3d39b9a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/moped-three-quarter-source.png",
+      "bytes": 2046668,
+      "sha256": "51b7cf62341dd7d7f366964f82438ca7c62cb6d32b4fac95d86a1352d4ca5d58",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/motorbike-profile-source.png",
+      "bytes": 2273466,
+      "sha256": "c8f8c8073ebbe04fe6862c51ee1a45e15d63750d58426849f3a8161fcb07b71b",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/motorbike-three-quarter-source.png",
+      "bytes": 2475977,
+      "sha256": "24a43deb3d4132f04be53ddff017f0d4a8b0c12e65d79e181d8e0b6408b213c3",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/pickup-profile-source.png",
+      "bytes": 1490722,
+      "sha256": "5167e74728f7f5fd6da8cac489f3aa25e0e0db1e95edff8e692c4765926504bb",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/pickup-three-quarter-source.png",
+      "bytes": 1920944,
+      "sha256": "db58af7163f0e199ddcc2c68c964827bc7c90ecccb4eaccb18f38ffa774db47a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/rv-profile-source.png",
+      "bytes": 1121133,
+      "sha256": "488e9dedd502c74cf1e33e6cab565434e37dbf46e1dc0b5fe50c6740c6e5a94d",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/rv-three-quarter-source.png",
+      "bytes": 1721078,
+      "sha256": "444846e30567127065ca52db4c03096e86bb9fd09c08a767ea87c3ade07676c6",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/sedan-profile-source.png",
+      "bytes": 956471,
+      "sha256": "8330c1a22583ed110191456b8eb027dded8e20055eada1392de0a73229d190ab",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/sedan-three-quarter-source.png",
+      "bytes": 1077823,
+      "sha256": "019b520de8dade4ff48e1e9486373f8caae99146449c59041d3178ab56e24c67",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/snowmobile-profile-source.png",
+      "bytes": 1900290,
+      "sha256": "7fc9d9f0608d0b818ec0b877aaff001248e7dac63be7883e043bbf84d88da75a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/snowmobile-three-quarter-source.png",
+      "bytes": 2141160,
+      "sha256": "0643abf629968b3d86f0bfffa2b556ec9ecadb4cabfd3c8df0aaed39f7779c9c",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/suv-profile-source.png",
+      "bytes": 755597,
+      "sha256": "d31bcf2c12d2df87ca700fb9a10b744e2ab82e514b6d080c5d7eaa56f66c7744",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/suv-three-quarter-source.png",
+      "bytes": 2070905,
+      "sha256": "4b0f9021e038117ed9cc33013f41e2855476860eb269a53c682c6ccb9c6f8634",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/tanker-profile-source.png",
+      "bytes": 1570660,
+      "sha256": "b1eabefc1f52c61cb7e8f8d06ee10497818e756854653473173ba5aa4927df30",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/tanker-three-quarter-source.png",
+      "bytes": 2258267,
+      "sha256": "c5cf7b74975f033875e57f0c2070b3c6bc9d536be79290c0a9a21e042d8122d4",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/tow_truck-profile-source.png",
+      "bytes": 712096,
+      "sha256": "13258973459d217e48a9f94e727e99eacc34d8e78a208d3b7195e0b84c6bc953",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/tow_truck-three-quarter-source.png",
+      "bytes": 1828132,
+      "sha256": "72923a86ab0880916ba6e015a61417e7b341992b21c7e8e75fec1cfcec8ba71a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/tractor-profile-source.png",
+      "bytes": 2185501,
+      "sha256": "ddad011c1f55a626321acb034fa04e1c7420066cdfa4c6ba711d0e5964200bae",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/tractor-three-quarter-source.png",
+      "bytes": 2504229,
+      "sha256": "05612558bb313c5fc384583c6c2be741a06564f9c3a428790803c8e8c457903a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/tractor_unit-profile-source.png",
+      "bytes": 1090492,
+      "sha256": "b49e9e47931c93632f6e1851ad2fdc9bb6bec782d53d405095c5a67cd319bc5a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/tractor_unit-three-quarter-source.png",
+      "bytes": 1932010,
+      "sha256": "39549d28a44781c42896987262f94f57828886f49143e87b8b2c15a5f67add28",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/truck-profile-source.png",
+      "bytes": 852760,
+      "sha256": "e1edd279a3e215c02873c361f2275f63f10d73b06c6c5ba537228bb1c314619a",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/truck-three-quarter-source.png",
+      "bytes": 1917162,
+      "sha256": "f1f8feb69800a4697cbf9b62f866d44099c3fa9301673ca60e46791f9e8ec647",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/van-profile-source.png",
+      "bytes": 474558,
+      "sha256": "42ee3fd42700097a941b1bb08d58bc6c2a68e3171943ae87dee2c99d35374128",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/sources/van-three-quarter-source.png",
+      "bytes": 1943821,
+      "sha256": "489f11737962febf22111676a15d4fff35ed74d3598170872d3a5b61dba31bb1",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/suv-profile.svg",
+      "bytes": 216446,
+      "sha256": "9a7fcbc92ecf72115d024e4f23710d95ea34c287119e36fa5ad131c18292755b",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/suv-three-quarter.svg",
+      "bytes": 328491,
+      "sha256": "87971e8b308dd1b3d419d47d3d103666e4ce7f8d0e5757d3e21ae3423e6a1072",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/tanker-profile.svg",
+      "bytes": 216874,
+      "sha256": "3acbb02b0dca206931b09b262a729a5b4192802b462880182e91b81118ea48aa",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/tanker-three-quarter.svg",
+      "bytes": 386562,
+      "sha256": "a6e6e1c0e86ae2bf65a244d5900c44b8868e0726e2c828e650cb5102884131d2",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/tow_truck-profile.svg",
+      "bytes": 145651,
+      "sha256": "984fb5b67913034e8afc2397841571e35d85616dceaecb9305b588ef99af03c0",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/tow_truck-three-quarter.svg",
+      "bytes": 229519,
+      "sha256": "7ce43121ed61422866345c998db88646ba78a87216e3485cdb4bb5cb630f6390",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/tractor-profile.svg",
+      "bytes": 337754,
+      "sha256": "675f50612235ab0fcbb4b7a9f769e0a243497d66f42b80bca80ca4f471418b33",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/tractor-three-quarter.svg",
+      "bytes": 344256,
+      "sha256": "24fab0e74ce27d1122f28661b97f3dd31de54dce92014d8dbafbaae6218774dc",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/tractor_unit-profile.svg",
+      "bytes": 182790,
+      "sha256": "5ffa9570273ee92a0fa6a9407fbcf7fee05df995b1bb1629f21fa9f29af24f75",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/tractor_unit-three-quarter.svg",
+      "bytes": 317609,
+      "sha256": "f39054a3e9ac4892b1d3e8d3c6e2e494e0fe265a2db113325e288e631d975f98",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/truck-profile.svg",
+      "bytes": 151783,
+      "sha256": "9b8c5b8312e65d916adbb7d9fc2b5cf6bde0e569ff2f4de85bab17054e7acca7",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/truck-three-quarter.svg",
+      "bytes": 314714,
+      "sha256": "f5d595786ee340dc8e25e2efb5bda64cd6bfd9f985248357353be89120390ca7",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/van-profile.svg",
+      "bytes": 221711,
+      "sha256": "19b6c9ebdde6054c7eb8c77641645ee014c4fb9d559b166431dae1628c67af55",
+      "executable": false
+    },
+    {
+      "path": "design/vehicle-silhouettes/van-three-quarter.svg",
+      "bytes": 328471,
+      "sha256": "a0186c8b5b0d187d1380a522c882d44ca3fe89ee2b32fe7eb29883d289412be5",
+      "executable": false
+    },
+    {
+      "path": "gradle.properties",
+      "bytes": 223,
+      "sha256": "77363c12ea3e4a68d8898e1f54705c4949f09e0b5b1d55e390d820a2864bc492",
+      "executable": false
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "bytes": 3921,
+      "sha256": "a362b4f0c303f8180c134fcb5492f59520bdf8ad10ed24556f28783ea7e1f6ea",
+      "executable": false
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "bytes": 47505,
+      "sha256": "7a9ce74cff467ca1bf60a4fcd9f05185acceda4d0f382434d393e17864262c5d",
+      "executable": false
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "bytes": 339,
+      "sha256": "dd7f9ae2b5f8b2282ef84335c9120582cd6e56a0c784ca04a33355295cdefa55",
+      "executable": false
+    },
+    {
+      "path": "gradlew",
+      "bytes": 8678,
+      "sha256": "e01b5c97892572c82405c02b96a3382379100e7d825ce7c48883d95c26928750",
+      "executable": true
+    },
+    {
+      "path": "gradlew.bat",
+      "bytes": 2788,
+      "sha256": "4e193538b4ddccbee0c05d6383731b647945c146d16d8fe243b4ff716867896f",
+      "executable": false
+    },
+    {
+      "path": "settings.gradle.kts",
+      "bytes": 533,
+      "sha256": "a47c1c7504462419ef6b51a2b741300b066ca3820bea786c5f0df65a2d02d921",
+      "executable": false
+    },
+    {
+      "path": "tools/configure_release_signing.py",
+      "bytes": 3099,
+      "sha256": "045c9154c576db5baf8dd73cee04c25cebd1e2dc0d5694a5cfe9b5d1064df19c",
+      "executable": false
+    },
+    {
+      "path": "tools/document_scanner/THIRD_PARTY.md",
+      "bytes": 5617,
+      "sha256": "f251e7beb381817e7bba5f8fd350295d712727a4b0fd374c04f47f933fa1e054",
+      "executable": false
+    },
+    {
+      "path": "tools/document_scanner/licenses/LICENSE-2.0.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "executable": false
+    }
+  ],
+  "apk_main_assets_byte_equal": 31,
+  "private_training_data_excluded": true,
+  "independent_archive_build": "Recorded separately after packaging; packaging does not run Gradle."
+}

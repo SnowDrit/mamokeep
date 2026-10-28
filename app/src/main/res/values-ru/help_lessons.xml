@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help_lessons_title">Уроки на экране</string>
+    <string name="help_lessons_hint">Выберите тему. Обучение покажет нужные элементы, ничего не сохраняя и не отправляя.</string>
+    <string name="help_lesson_start">Пошаговое обучение</string>
+    <string name="help_lesson_close">Закончить</string>
+    <string name="help_lesson_reminders_title">Гибкие напоминания</string>
+    <string name="help_lesson_export_title">AI-выгрузка</string>
+    <string name="help_lesson_regional_title">Язык, страна и валюта</string>
+    <string name="help_lesson_steps">%1$d шагов</string>
+    <string name="help_lesson_reminder_time_title">Удобное время</string>
+    <string name="help_lesson_reminder_time_summary">Здесь выбирается местное время напоминаний. Android может доставить их позже. Пока идёт обучение, расписание не меняется.</string>
+    <string name="help_lesson_reminder_days_title">Только в нужные дни</string>
+    <string name="help_lesson_reminder_days_summary">Можно выбрать готовый набор или отдельные дни недели. Это расписание действует и для повторов. Нужен хотя бы один день.</string>
+    <string name="help_lesson_reminder_advanced_title">Расширенные правила</string>
+    <string name="help_lesson_reminder_advanced_summary">Раздел раскрыт для знакомства. Переключатель не изменён: пороги и повторы начнут действовать только после включения и сохранения.</string>
+    <string name="help_lesson_reminder_thresholds_title">Предупреждать заранее</string>
+    <string name="help_lesson_reminder_thresholds_summary">Здесь задаётся запас по расстоянию и дням до жёлтого уровня. Ниже есть такие же поля для красного. Ноль означает уведомление при достижении уровня. Цвета карточек не меняются.</string>
+    <string name="help_lesson_reminder_repeats_title">Повторы и ограничение</string>
+    <string name="help_lesson_reminder_repeats_summary">Интервал задаётся в днях, число уведомлений ограничивает повторы на одном уровне. Ноль означает без ограничения. Для красного уровня настройки отдельные.</string>
+    <string name="help_lesson_reminder_save_title">Применить, когда всё готово</string>
+    <string name="help_lesson_reminder_save_summary">Обучение ничего не сохранило. После его завершения можно изменить поля и нажать «Сохранить». Для отдельного ТО или документа своё расписание задаётся в его редакторе.</string>
+    <string name="help_lesson_export_content_title">Выбрать состав</string>
+    <string name="help_lesson_export_content_summary">Краткая сводка подходит для общего вопроса. Полная история добавляет записи обслуживания и заправки. Урок не меняет выбранный состав.</string>
+    <string name="help_lesson_export_question_title">Добавить свой вопрос</string>
+    <string name="help_lesson_export_question_summary">Вопрос попадёт в начало текста рядом с данными машины. Поле можно оставить пустым. Вводить что-либо во время урока не требуется.</string>
+    <string name="help_lesson_export_privacy_title">Проверить личные данные</string>
+    <string name="help_lesson_export_privacy_summary">Переключатель скрывает VIN и название машины. Свободные заметки могут содержать личные сведения, поэтому перед передачей нужен просмотр.</string>
+    <string name="help_lesson_export_build_title">Открыть просмотр</string>
+    <string name="help_lesson_export_build_summary">«Дальше» подготовит текст с текущими параметрами только на этом устройстве. Записи машины не изменятся, данные никуда не отправятся.</string>
+    <string name="help_lesson_export_review_title">Прочитать перед передачей</string>
+    <string name="help_lesson_export_review_summary">Это тот текст, который будет скопирован или сохранён. После урока его можно прокрутить и проверить. Стрелка назад вернёт к составу и вопросу.</string>
+    <string name="help_lesson_export_send_title">Передать по своему выбору</string>
+    <string name="help_lesson_export_send_summary">После урока доступны копирование, передача в другое приложение и сохранение файла. Для большого текста остаётся файл. Эти кнопки урок не нажимает.</string>
+    <string name="help_lesson_regional_language_title">Язык отдельно от страны</string>
+    <string name="help_lesson_regional_language_summary">На Android 13 и новее язык приложения выбирается здесь, на более ранних версиях используется язык телефона. Страна, единицы и валюта от этого не меняются.</string>
+    <string name="help_lesson_regional_country_title">Страна для документов</string>
+    <string name="help_lesson_regional_country_summary">Страна определяет доступные документы и валюту в автоматическом режиме. Существующие записи сохраняются. Документы добавляются только отдельной кнопкой.</string>
+    <string name="help_lesson_regional_units_title">Удобные единицы</string>
+    <string name="help_lesson_regional_units_summary">Единицы меняют отображение и ввод расстояния, топлива и расхода. Уже сохранённые пробеги и интервалы ТО не сбрасываются. Выбор не зависит от страны.</string>
+    <string name="help_lesson_regional_currency_title">Проверить режим валюты</string>
+    <string name="help_lesson_regional_currency_summary">Строка показывает текущую валюту и способ выбора. «Дальше» откроет список: можно увидеть автоматический и ручной режим, не меняя настройку.</string>
+    <string name="help_lesson_currency_auto_title">Автоматически по стране</string>
+    <string name="help_lesson_currency_auto_summary">Этот пункт использует валюту выбранной страны и следует за сменой страны. Если страна не выбрана, сначала нужно указать её. Урок этот пункт не выбирает.</string>
+    <string name="help_lesson_currency_manual_title">Указать валюту вручную</string>
+    <string name="help_lesson_currency_manual_summary">Поиск помогает найти код или название валюты. Ручной выбор сохранится при смене страны. Числа в старых записях не пересчитываются по курсу. После урока выбор применяется нажатием на строку.</string>
+</resources>

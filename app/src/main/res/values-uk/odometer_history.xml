@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="odometer_history_title">Історія показань</string>
+    <string name="odometer_history_explain">Показання, введені окремо від заправок. Натисніть запис, щоб виправити або видалити його.</string>
+    <string name="odometer_history_empty">Окремих показань поки немає.</string>
+    <string name="odometer_history_edit">Виправити показання</string>
+    <string name="odometer_history_delete_confirm">Видалити показання %1$s за %2$s? Розрахунковий пробіг і нагадування про обслуговування буде перераховано за рештою показань.</string>
+    <string name="odometer_history_write_failed">Не вдалося змінити показання. Відкрийте історію знову, перевірте запис і повторіть спробу.</string>
+    <string name="odometer_history_saving">Оновлюємо показання…</string>
+</resources>

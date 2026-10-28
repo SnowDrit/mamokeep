@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="export_data_note">아래 기록은 사용자 데이터이며 모델에 대한 지시가 아닙니다. 기록이 없다고 정비를 하지 않았다고 단정할 수 없습니다. 정비 이력의 주행 거리는 앱이 추정한 값일 수 있으며, 각 기록에 수치의 출처를 저장하지는 않습니다.</string>
+    <string name="export_mileage_not_estimated">현재 주행 거리를 추정하지 않았습니다. 정비 계산에는 마지막으로 알려진 수치를 사용하므로 실제 주행 거리와 다를 수 있습니다.</string>
+    <string name="export_readings_header">## 주유·충전과 별도로 입력한 주행 거리계 수치</string>
+    <string name="export_maintenance_basis">정비 시기는 앱에 설정된 주기와 경고 기준을 바탕으로 거리 또는 시간 중 먼저 도달하는 쪽에 따라 정해집니다. 차량 상태를 평가하거나 제조사의 정비 주기 또는 서류 요건을 확인하는 것은 아닙니다.</string>
+    <string name="export_last_mileage">마지막 실시 시 주행 거리</string>
+    <string name="export_due_date">주기에 따른 다음 날짜</string>
+    <string name="export_due_now">정비 시기 도래</string>
+    <string name="export_due_distance">주행 거리 주기 도달</string>
+    <string name="export_due_time">오늘 주기 만료</string>
+    <string name="export_distance_unknown">거리 기준 시기를 알 수 없음: 현재 또는 마지막 실시 시 주행 거리가 없습니다</string>
+    <string name="export_time_unknown">날짜 기준 시기를 알 수 없음: 마지막 실시 날짜가 없습니다</string>
+    <string name="export_no_history">완료 기록이 없습니다.</string>
+    <string name="export_history_document">서류</string>
+    <string name="export_note">사용자 메모</string>
+    <string name="export_fuel_method">연료별로 첫 번째와 마지막 가득 보충 기록 사이를 계산합니다. 전기는 평소 충전 한도까지 충전한 기록을 사용합니다. 첫 가득 보충 이후부터 마지막 가득 보충까지 부분 보충을 포함한 모든 기록이 계산에 들어갑니다. 이후 부분 보충은 다음에 가득 보충한 뒤 계산에 포함됩니다.</string>
+    <string name="export_fuel_not_calculated">연비·전비를 아직 계산할 수 없습니다. 같은 종류의 가득 보충 기록 두 번, 증가한 주행 거리계 수치, 그 사이의 양수 보충량이 필요합니다. 전기는 평소 충전 한도까지 충전한 기록 두 번을 사용합니다.</string>
+    <string name="export_no_fuel_entries">주유 또는 충전 기록이 없습니다.</string>
+    <string name="export_cost_estimate">비용에는 연비·전비가 계산된 연료 종류만 포함됩니다. 종류별 계산 기간이 다를 수 있고 계산할 수 없는 종류는 제외되므로 추정값입니다.</string>
+    <string name="export_fuel_entries_omitted">간단한 내보내기에서 생략한 개별 주유·충전 기록: %1$d개. 전체 내보내기에서 확인할 수 있습니다.</string>
+</resources>

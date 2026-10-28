@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reminder_threshold_edit">노란 단계 설정</string>
+    <string name="reminder_threshold_hide">노란 단계 설정 숨기기</string>
+    <string name="reminder_threshold_hint">정비까지 남은 거리나 시간이 이 값에 도달하면 항목이 노란색으로 바뀝니다. 정비 시기가 되면 빨간색이 됩니다. 사전 알림은 아래에서 별도로 설정합니다.</string>
+    <string name="reminder_item_heading">알림</string>
+    <string name="reminder_use_common">공통 설정 사용</string>
+    <string name="reminder_common_hint">더보기 → 알림의 시간, 요일, 반복 규칙이 이 항목에 적용됩니다.</string>
+    <string name="reminder_open_settings">알림 설정</string>
+    <string name="reminder_settings_hint">시간, 요일, 사전 알림을 설정합니다. 항목마다 별도 설정을 사용할 수 있습니다.</string>
+    <string name="reminder_save_failed">설정을 저장하지 못했습니다. 변경 내용은 남아 있습니다. 다시 시도하세요.</string>
+    <string name="reminder_full_service_title">종합 정비</string>
+    <string name="reminder_full_service_use">종합 정비 알림 만들기</string>
+    <string name="reminder_full_service_hint">종합 정비에는 별도의 주기가 있습니다. 저장한 뒤 마지막 실시 날짜를 기록하면 다음 정비 시기를 계산할 수 있습니다. 종합 정비를 완료해도 개별 부품이 교환 완료로 표시되지는 않습니다.</string>
+</resources>

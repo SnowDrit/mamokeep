@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="export_screen_title">Pour une discussion avec une IA</string>
+    <string name="export_scenario_label">Contenu à inclure</string>
+    <string name="export_question_label">Question (facultative)</string>
+    <string name="export_question_hint">Par exemple : que vérifier avant un long trajet ?</string>
+    <string name="export_question_supporting">La question prédéfinie reste dans le texte. Ajouter ici des précisions sur le problème ou le trajet.</string>
+    <string name="export_question_header">## Question du propriétaire</string>
+    <string name="export_privacy_label">Avant de partager</string>
+    <string name="export_setup_hint">Préparer une question et les données du véhicule pour une discussion avec une IA. Le texte est créé sur ce téléphone ; rien n’est envoyé automatiquement.</string>
+    <string name="export_preview_size">%1$s caractères · %2$s</string>
+    <string name="export_preview_review">Vérifier le texte et les notes ci-dessous. La copie, le partage et l’enregistrement utilisent exactement cette version.</string>
+    <string name="export_share">Partager</string>
+    <string name="export_share_title">Envoyer à une discussion avec une IA</string>
+    <string name="export_save_file">Enregistrer le fichier</string>
+    <string name="export_share_failed">Impossible d’ouvrir le menu de partage. Copier le texte ou l’enregistrer dans un fichier.</string>
+    <string name="export_share_too_big">Ce texte est trop volumineux pour être partagé directement. Enregistrer le fichier et le joindre à une discussion.</string>
+    <string name="export_large_preview_hint">Pour ce volume de données, enregistrer le fichier et le joindre à une discussion.</string>
+</resources>

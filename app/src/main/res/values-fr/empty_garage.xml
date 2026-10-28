@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="garage_empty">Le garage est vide. Ajoutez une voiture pour tenir son historique.</string>
+</resources>

@@ -1,53 +1,55 @@
+<a href="README.ru.md"><kbd>Русская версия →</kbd></a>
+
 # MamoKeep
 
-Android-приложение для учёта обслуживания автомобиля: пробег, заправки, расходы,
-работы и сроки документов. Без регистрации, рекламы и платных функций.
+An Android app for tracking vehicle maintenance: mileage, fuel fill-ups, expenses,
+work performed, and document deadlines. No registration, ads, or paid features.
 
-**Проект готовится к первому публичному выпуску.** OCR доступен как ранняя версия:
-результат распознавания нужно проверить перед сохранением.
+**A release candidate has been published on [GitHub](https://github.com/SnowDrit/mamokeep/releases/tag/v0.1.0-rc.20261028). Store publication is being prepared.**
+OCR is available as an early version: review recognition results before saving.
 
-## Возможности
+## Features
 
-- Несколько автомобилей, журнал обслуживания и заправок, напоминания по сроку и пробегу.
-- Локальное хранение; резервная копия и восстановление через выбранный файл.
-- Выгрузка данных о машине для передачи в выбранное приложение, в том числе нейросеть.
-  Приложение само не отправляет выгрузку в AI-сервис. Перед передачей следует проверить
-  свободные заметки: скрытие VIN и названия машины не удаляет их содержимое.
-- Импорт изображения, PDF или текста чека через приложение, Android «Поделиться» и
-  «Открыть с помощью». Обработка выполняется на устройстве; результат переносится
-  в проверяемый черновик, сохранение и суммы подтверждает человек.
-- Встроенная модель OCR V5 с явным включением; исходная v1 сохранена для отката.
-  Ограниченное сравнение не гарантирует точность на каждом новом чеке.
-- Пошаговое обучение, справка и выбор языка приложения.
+- Multiple vehicles, maintenance and fuel logs, reminders by date and mileage.
+- Local storage; backup and restore through a file you choose.
+- Export vehicle data to an app of your choice, including an AI service.
+  The app does not send exports to an AI service on its own. Review free-form notes
+  before sharing: hiding the VIN and vehicle name does not remove their contents.
+- Import a receipt image, PDF, or text through the app, Android “Share,” or
+  “Open with.” Processing takes place on the device; the result becomes a draft
+  for review, and a person confirms the amounts and saves it.
+- Built-in OCR V5 model that must be explicitly enabled; the original v1 is retained
+  for rollback. A limited comparison does not guarantee accuracy on every new receipt.
+- Step-by-step onboarding, help, and app language selection.
 
-Собственного сервера и аккаунтов нет. Необязательные каталог и пакеты OCR загружаются
-с GitHub. Копии и выгрузки можно передать выбранному файловому провайдеру, в том числе
-облачному; внешние ссылки открываются в браузере.
-[Политика конфиденциальности](https://snowdrit.github.io/privacy-policies/mamokeep/).
-Boosty — добровольная поддержка разработки, которая не открывает функции приложения.
+There is no dedicated server or user accounts. The optional OCR catalog and packages
+are downloaded from GitHub. Backups and exports can be sent to a file provider of
+your choice, including a cloud provider; external links open in a browser.
+[Privacy policy](https://snowdrit.github.io/privacy-policies/mamokeep/#en).
+Boosty offers a way to support development voluntarily; it does not unlock app features.
 
-## Сборка и устройство проекта
+## Building and project structure
 
-Kotlin, Jetpack Compose, Room, WorkManager; OCR — ONNX Runtime CPU и OpenCV.
-Минимальная версия — Android 8.0 / API 26. Зависимости от Google Mobile Services нет.
+Kotlin, Jetpack Compose, Room, WorkManager; OCR uses ONNX Runtime CPU and OpenCV.
+Requires Android 8.0 / API 26 or later. No dependency on Google Mobile Services.
 
-[Инструкция сборки](BUILD_FROM_SOURCE.md) описывает окружение, тесты, debug и
-оптимизированный release с собственным ключом. Публичные исходники не содержат
-ключа разработчика, локальных настроек и учебных фотографий.
+The [build guide](BUILD_FROM_SOURCE.md) covers the environment, tests, debug builds,
+and optimized release builds with your own signing key. The public source does not
+include the developer’s key, local settings, or training photos.
 
-- `app/src/main/` — приложение и готовые ресурсы.
-- `app/src/test/`, `app/src/androidTest/` — локальные и Android-тесты.
-- `app/schemas/` — история схем Room.
-- `design/vehicle-silhouettes/` — редактируемые рисунки и обработчик.
-- `gradle/libs.versions.toml` — версии зависимостей.
+- `app/src/main/` — application and ready-to-use resources.
+- `app/src/test/`, `app/src/androidTest/` — local and Android tests.
+- `app/schemas/` — Room schema history.
+- `design/vehicle-silhouettes/` — editable artwork and its processor.
+- `gradle/libs.versions.toml` — dependency versions.
 
-## Лицензии и участие
+## Licenses and contributing
 
-Код — [GNU GPLv3](LICENSE), собственные пресеты, справка и переводы — CC BY-SA 4.0.
-Сторонние библиотеки, значки и модели сохраняют свои лицензии.
-[Точные границы, атрибуция и полные тексты](LICENSE-NOTICE.md).
+Code is licensed under [GNU GPLv3](LICENSE); original presets, help, and translations
+are licensed under CC BY-SA 4.0. Third-party libraries, icons, and models retain
+their own licenses. See the [exact scope, attribution, and full license texts](LICENSE-NOTICE.md).
 
-Для дополнения региональных правил используйте `app/src/main/assets/presets/regions/`
-и указывайте источники сроков. Переводы находятся в `app/src/main/res/values*/`, справка —
-в `app/src/main/assets/help/`. Не включайте в предложения изменений личные данные,
-ключи или фотографии чужих чеков.
+To add regional rules, use `app/src/main/assets/presets/regions/` and cite sources for
+the deadlines. Translations are in `app/src/main/res/values*/`, and help is in
+`app/src/main/assets/help/`. Do not include personal data, keys, or photos of other
+people’s receipts in proposed changes.
